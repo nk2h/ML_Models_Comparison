@@ -1,0 +1,2501 @@
+Country,Age,Gender,Device,Start_Month,Subscription_Type
+Canada,35,Female,Tablet,5,Premium
+Mexico,32,Male,Smartphone,5,Standard
+United Kingdom,49,Female,Smart TV,5,Standard
+Mexico,34,Male,Smartphone,8,Standard
+Mexico,33,Male,Tablet,9,Standard
+Brazil,46,Male,Tablet,9,Standard
+France,35,Male,Tablet,1,Premium
+France,33,Female,Smart TV,1,Premium
+Canada,33,Female,Laptop,1,Basic
+United Kingdom,49,Male,Smart TV,1,Basic
+United Kingdom,40,Male,Smart TV,1,Standard
+Canada,30,Female,Laptop,1,Basic
+United Kingdom,36,Male,Smart TV,1,Standard
+Italy,44,Female,Laptop,1,Basic
+United States,30,Female,Laptop,1,Premium
+Canada,50,Male,Laptop,1,Premium
+Italy,36,Female,Tablet,1,Basic
+Spain,28,Male,Smart TV,1,Premium
+United States,38,Male,Tablet,1,Basic
+Italy,28,Male,Smart TV,1,Basic
+Spain,35,Female,Tablet,1,Premium
+Mexico,40,Female,Tablet,1,Standard
+Germany,49,Male,Smartphone,1,Basic
+United Kingdom,29,Male,Laptop,1,Standard
+Australia,47,Male,Tablet,1,Basic
+Canada,51,Female,Laptop,1,Standard
+Australia,30,Female,Smartphone,1,Basic
+Mexico,32,Male,Smartphone,1,Standard
+Canada,31,Male,Tablet,1,Basic
+Spain,45,Male,Laptop,1,Premium
+Australia,27,Male,Smartphone,1,Basic
+Australia,27,Female,Tablet,1,Premium
+Australia,28,Male,Smartphone,1,Premium
+Mexico,40,Female,Smartphone,1,Standard
+Spain,44,Male,Laptop,1,Premium
+Italy,29,Female,Tablet,1,Basic
+Mexico,51,Female,Tablet,1,Standard
+United States,30,Female,Tablet,1,Premium
+Mexico,49,Male,Laptop,1,Standard
+United States,38,Male,Tablet,1,Standard
+Spain,48,Male,Smart TV,1,Premium
+Spain,33,Female,Smartphone,1,Premium
+Canada,27,Female,Smart TV,1,Premium
+Germany,42,Female,Laptop,1,Basic
+Germany,28,Female,Tablet,1,Basic
+France,28,Female,Laptop,1,Premium
+Mexico,31,Female,Tablet,1,Standard
+Canada,48,Male,Laptop,1,Premium
+Spain,31,Male,Tablet,1,Standard
+Australia,37,Male,Laptop,1,Premium
+Spain,48,Male,Tablet,1,Basic
+Brazil,41,Female,Smartphone,1,Basic
+United States,48,Male,Smart TV,1,Standard
+Australia,27,Female,Smartphone,1,Premium
+United States,44,Male,Smartphone,1,Basic
+Brazil,46,Female,Laptop,1,Basic
+France,48,Female,Tablet,1,Basic
+United States,27,Female,Smart TV,1,Standard
+Italy,38,Female,Laptop,1,Basic
+Spain,50,Male,Smart TV,1,Standard
+United Kingdom,37,Male,Smart TV,1,Standard
+United States,31,Male,Tablet,1,Premium
+United Kingdom,47,Female,Smart TV,1,Standard
+United States,30,Male,Laptop,1,Standard
+Mexico,37,Female,Laptop,1,Standard
+United States,40,Male,Tablet,1,Standard
+United Kingdom,38,Female,Laptop,1,Standard
+Spain,36,Female,Laptop,1,Basic
+United States,36,Male,Tablet,1,Standard
+France,33,Female,Smart TV,1,Premium
+Spain,41,Male,Tablet,1,Standard
+Brazil,35,Female,Smartphone,1,Basic
+United States,48,Male,Laptop,1,Premium
+Spain,40,Male,Laptop,1,Premium
+United States,45,Male,Smart TV,1,Basic
+Italy,45,Male,Laptop,1,Basic
+Australia,29,Male,Smart TV,1,Basic
+Mexico,32,Female,Laptop,1,Standard
+France,33,Female,Tablet,1,Premium
+France,39,Male,Tablet,1,Basic
+Canada,34,Female,Tablet,1,Basic
+Italy,43,Female,Smartphone,2,Basic
+Canada,37,Male,Laptop,2,Basic
+Australia,30,Female,Tablet,2,Basic
+Brazil,43,Female,Tablet,2,Basic
+Spain,48,Male,Tablet,2,Premium
+Spain,45,Female,Smartphone,2,Standard
+United Kingdom,42,Female,Laptop,2,Standard
+Spain,28,Female,Tablet,2,Basic
+United States,39,Female,Tablet,2,Premium
+Spain,40,Male,Smart TV,2,Premium
+Australia,46,Female,Tablet,2,Basic
+Germany,43,Male,Laptop,2,Standard
+France,33,Female,Laptop,2,Premium
+United States,41,Female,Laptop,2,Basic
+Canada,44,Female,Laptop,2,Premium
+Italy,37,Male,Smartphone,2,Basic
+Mexico,29,Male,Laptop,2,Standard
+Canada,51,Male,Tablet,2,Standard
+United Kingdom,34,Male,Smart TV,2,Standard
+Spain,45,Female,Tablet,2,Basic
+United Kingdom,28,Female,Laptop,2,Standard
+Italy,30,Female,Laptop,2,Basic
+Spain,45,Male,Smart TV,2,Basic
+United States,29,Female,Laptop,2,Premium
+Spain,50,Male,Laptop,2,Premium
+Australia,32,Female,Smart TV,2,Standard
+United States,49,Female,Tablet,2,Standard
+Brazil,31,Female,Smartphone,2,Basic
+United States,50,Male,Smartphone,2,Standard
+United States,34,Male,Smartphone,2,Premium
+United States,37,Female,Smartphone,2,Basic
+Spain,47,Male,Smart TV,2,Premium
+Germany,50,Female,Smartphone,2,Basic
+Mexico,39,Female,Laptop,2,Standard
+France,35,Male,Laptop,2,Premium
+Italy,37,Male,Smart TV,2,Basic
+France,28,Male,Tablet,2,Premium
+France,38,Female,Laptop,2,Premium
+Canada,42,Male,Smartphone,2,Standard
+Canada,33,Female,Smartphone,2,Premium
+Italy,30,Female,Smartphone,2,Basic
+Spain,35,Male,Smartphone,2,Premium
+Germany,32,Female,Smartphone,2,Basic
+Canada,28,Male,Smart TV,2,Premium
+Mexico,30,Male,Smartphone,2,Standard
+United Kingdom,34,Male,Laptop,2,Standard
+Canada,31,Male,Tablet,2,Basic
+Spain,43,Male,Smartphone,2,Basic
+Germany,33,Male,Laptop,2,Basic
+Italy,45,Female,Smart TV,2,Basic
+Australia,41,Male,Smartphone,2,Basic
+Spain,48,Male,Laptop,2,Basic
+Germany,36,Female,Smart TV,2,Basic
+United States,50,Male,Smart TV,2,Basic
+Spain,48,Female,Smart TV,2,Premium
+Australia,30,Female,Tablet,2,Standard
+United States,37,Male,Smart TV,2,Standard
+Spain,30,Female,Tablet,2,Standard
+Canada,38,Male,Smart TV,2,Standard
+United States,47,Female,Smartphone,2,Premium
+United States,33,Female,Smart TV,2,Premium
+Brazil,40,Male,Smartphone,2,Basic
+Spain,28,Male,Smartphone,2,Premium
+Italy,44,Female,Smartphone,2,Basic
+United States,34,Female,Smart TV,2,Premium
+Italy,28,Male,Laptop,2,Basic
+Mexico,39,Male,Laptop,2,Standard
+Brazil,44,Female,Laptop,2,Basic
+Germany,33,Male,Laptop,2,Basic
+United Kingdom,35,Female,Laptop,2,Standard
+Australia,48,Female,Smart TV,2,Premium
+United States,42,Female,Laptop,2,Standard
+Brazil,27,Male,Laptop,2,Basic
+Mexico,47,Male,Smartphone,2,Standard
+United Kingdom,49,Male,Smart TV,2,Standard
+Spain,31,Female,Tablet,2,Basic
+France,41,Male,Tablet,2,Premium
+United States,32,Female,Smartphone,2,Standard
+Spain,43,Male,Laptop,2,Premium
+Germany,44,Female,Tablet,2,Standard
+Canada,30,Male,Laptop,2,Standard
+Italy,50,Female,Laptop,2,Basic
+Spain,28,Female,Tablet,2,Standard
+United States,30,Female,Smart TV,2,Basic
+Australia,31,Male,Tablet,3,Standard
+Canada,51,Male,Smart TV,3,Basic
+France,38,Female,Smartphone,3,Premium
+United Kingdom,40,Male,Smartphone,3,Standard
+Canada,28,Male,Smart TV,3,Basic
+United Kingdom,40,Male,Tablet,3,Standard
+Australia,45,Male,Laptop,3,Basic
+Spain,38,Male,Laptop,3,Standard
+Italy,43,Female,Laptop,3,Standard
+Italy,31,Female,Tablet,3,Basic
+Germany,40,Male,Smartphone,3,Standard
+Canada,50,Female,Smartphone,3,Standard
+United States,49,Male,Smart TV,3,Standard
+Germany,38,Male,Laptop,3,Basic
+Brazil,45,Female,Smartphone,3,Basic
+Canada,45,Male,Tablet,3,Basic
+United States,29,Male,Tablet,3,Premium
+United States,30,Female,Tablet,3,Basic
+Germany,32,Male,Smart TV,3,Standard
+Brazil,45,Male,Tablet,3,Premium
+Spain,27,Male,Tablet,3,Standard
+United States,42,Female,Smart TV,3,Standard
+United Kingdom,34,Male,Smart TV,3,Standard
+Germany,42,Male,Laptop,3,Basic
+France,38,Female,Laptop,3,Premium
+Canada,37,Male,Smartphone,3,Basic
+United States,32,Male,Smart TV,3,Basic
+Canada,34,Female,Smart TV,3,Basic
+Australia,41,Male,Laptop,3,Premium
+United States,39,Male,Smartphone,3,Basic
+Germany,47,Male,Smartphone,3,Basic
+Canada,50,Male,Smart TV,3,Premium
+Mexico,27,Male,Smartphone,3,Standard
+Germany,28,Male,Laptop,3,Basic
+Italy,29,Male,Smart TV,3,Basic
+Canada,38,Female,Laptop,3,Standard
+Canada,28,Female,Smartphone,3,Basic
+United States,48,Female,Tablet,3,Premium
+Canada,47,Male,Laptop,3,Basic
+United States,41,Female,Laptop,3,Premium
+United Kingdom,42,Male,Smartphone,3,Standard
+Australia,33,Female,Tablet,3,Standard
+Spain,32,Male,Laptop,3,Standard
+United States,44,Female,Tablet,3,Basic
+Spain,50,Male,Laptop,3,Standard
+United States,30,Male,Smart TV,3,Standard
+Mexico,47,Female,Smart TV,3,Standard
+Australia,28,Male,Laptop,3,Premium
+United States,30,Male,Smartphone,3,Standard
+Canada,27,Female,Laptop,3,Basic
+United States,39,Male,Tablet,3,Premium
+United States,27,Male,Smart TV,3,Premium
+Germany,45,Male,Laptop,3,Basic
+Italy,29,Male,Laptop,3,Basic
+Italy,42,Female,Laptop,3,Basic
+Canada,49,Male,Smartphone,3,Standard
+Spain,49,Female,Laptop,3,Basic
+Italy,33,Male,Laptop,3,Basic
+United States,43,Male,Laptop,3,Premium
+Italy,34,Male,Smartphone,3,Basic
+Brazil,29,Male,Smartphone,3,Basic
+Germany,39,Male,Laptop,3,Basic
+United Kingdom,30,Male,Smart TV,3,Standard
+Brazil,43,Female,Tablet,3,Basic
+Spain,40,Male,Laptop,3,Premium
+France,29,Female,Smartphone,3,Premium
+Mexico,41,Male,Tablet,3,Standard
+United Kingdom,33,Male,Tablet,3,Standard
+Canada,46,Female,Smart TV,3,Standard
+Canada,48,Female,Smartphone,3,Premium
+Mexico,45,Female,Laptop,3,Standard
+United Kingdom,40,Female,Smart TV,3,Standard
+Spain,42,Male,Smart TV,3,Basic
+United States,49,Female,Laptop,3,Basic
+United States,41,Female,Laptop,3,Premium
+United States,39,Male,Tablet,3,Standard
+Mexico,29,Male,Laptop,3,Standard
+Spain,49,Male,Smartphone,3,Basic
+United Kingdom,41,Female,Tablet,3,Standard
+Brazil,43,Male,Laptop,3,Basic
+United States,30,Male,Tablet,3,Premium
+Spain,44,Male,Smart TV,3,Standard
+United Kingdom,27,Female,Smart TV,3,Standard
+Australia,36,Female,Smartphone,3,Premium
+Australia,46,Female,Tablet,3,Basic
+United States,33,Male,Smart TV,3,Premium
+Brazil,38,Male,Smartphone,3,Basic
+Germany,35,Male,Laptop,3,Basic
+Italy,30,Male,Tablet,3,Basic
+Spain,27,Female,Smart TV,3,Premium
+Spain,43,Female,Laptop,3,Standard
+Spain,30,Female,Tablet,3,Premium
+France,29,Female,Smartphone,4,Basic
+Germany,46,Female,Laptop,4,Basic
+United Kingdom,36,Male,Laptop,4,Standard
+Canada,44,Male,Smartphone,4,Basic
+France,41,Male,Tablet,4,Premium
+Germany,44,Male,Tablet,4,Basic
+United States,38,Male,Smartphone,4,Basic
+United States,49,Female,Smart TV,4,Premium
+United States,27,Female,Smart TV,4,Premium
+Australia,35,Female,Laptop,4,Premium
+United States,47,Male,Tablet,4,Standard
+Germany,33,Male,Smartphone,4,Basic
+Mexico,39,Female,Smartphone,4,Standard
+Italy,50,Female,Tablet,4,Basic
+Australia,28,Male,Laptop,4,Premium
+Australia,41,Male,Laptop,4,Premium
+Brazil,31,Female,Tablet,4,Basic
+Australia,39,Female,Smartphone,4,Premium
+Spain,28,Male,Laptop,4,Standard
+United Kingdom,49,Female,Smart TV,4,Standard
+Spain,32,Female,Laptop,4,Basic
+United States,39,Male,Laptop,4,Standard
+France,27,Male,Smart TV,4,Premium
+United States,36,Male,Smartphone,4,Basic
+Spain,46,Female,Smartphone,4,Premium
+Germany,41,Female,Laptop,4,Standard
+France,48,Female,Smart TV,4,Premium
+Canada,51,Female,Smartphone,4,Premium
+United States,29,Female,Tablet,4,Basic
+Germany,38,Male,Laptop,4,Basic
+Germany,46,Female,Tablet,4,Basic
+Mexico,48,Female,Smartphone,4,Standard
+Spain,33,Female,Smart TV,4,Basic
+Italy,47,Male,Smart TV,4,Basic
+Spain,38,Female,Smartphone,4,Premium
+Italy,37,Female,Laptop,4,Basic
+United States,36,Male,Smart TV,4,Premium
+Australia,37,Female,Smart TV,4,Basic
+United States,47,Male,Laptop,4,Basic
+United States,40,Female,Smartphone,4,Premium
+Spain,51,Female,Tablet,4,Standard
+France,29,Male,Smartphone,4,Basic
+Italy,51,Male,Smartphone,4,Basic
+Australia,51,Female,Smartphone,4,Premium
+United Kingdom,42,Male,Smartphone,4,Standard
+United States,29,Female,Smartphone,4,Basic
+Italy,50,Female,Smart TV,4,Basic
+France,29,Male,Tablet,4,Basic
+France,45,Female,Smart TV,4,Premium
+Germany,38,Male,Tablet,4,Basic
+United States,31,Female,Laptop,4,Basic
+Germany,32,Male,Laptop,4,Basic
+Spain,27,Male,Tablet,4,Premium
+United States,28,Male,Laptop,4,Basic
+Mexico,39,Female,Smartphone,4,Standard
+United States,27,Male,Tablet,4,Basic
+Canada,27,Male,Laptop,4,Premium
+Spain,30,Female,Smart TV,4,Premium
+Canada,30,Female,Tablet,4,Basic
+United States,50,Female,Tablet,4,Basic
+United States,35,Female,Smartphone,4,Basic
+Australia,35,Male,Laptop,4,Basic
+Canada,40,Female,Laptop,4,Basic
+Mexico,39,Male,Smart TV,4,Standard
+Spain,29,Male,Smartphone,4,Standard
+United States,42,Male,Laptop,4,Basic
+Germany,36,Male,Smartphone,4,Basic
+Mexico,41,Male,Smart TV,4,Standard
+United States,30,Female,Smart TV,4,Basic
+Spain,30,Male,Laptop,4,Standard
+Canada,45,Male,Smartphone,4,Basic
+Mexico,39,Male,Tablet,4,Standard
+Spain,39,Male,Tablet,4,Premium
+Italy,49,Female,Smart TV,4,Basic
+Canada,50,Male,Tablet,4,Basic
+Australia,51,Female,Laptop,4,Standard
+France,39,Male,Laptop,4,Premium
+United States,41,Female,Tablet,4,Standard
+Spain,28,Female,Smartphone,4,Basic
+Canada,44,Female,Laptop,4,Basic
+Spain,49,Female,Smartphone,4,Basic
+France,44,Female,Tablet,4,Premium
+United States,40,Male,Tablet,4,Basic
+United States,51,Female,Smart TV,4,Premium
+Italy,36,Female,Smartphone,4,Basic
+Germany,31,Female,Laptop,4,Standard
+Australia,33,Female,Smartphone,4,Premium
+United States,47,Female,Laptop,4,Standard
+Spain,40,Male,Laptop,4,Standard
+Mexico,36,Female,Tablet,4,Standard
+Australia,30,Male,Smart TV,4,Premium
+Spain,31,Female,Tablet,4,Basic
+United States,29,Female,Tablet,4,Premium
+United States,28,Male,Smart TV,4,Premium
+Canada,39,Male,Smart TV,5,Basic
+United Kingdom,35,Male,Smartphone,5,Standard
+Brazil,29,Female,Tablet,5,Basic
+Germany,50,Female,Laptop,5,Basic
+United Kingdom,29,Male,Laptop,5,Standard
+Germany,35,Female,Laptop,5,Basic
+Germany,45,Female,Laptop,5,Basic
+Germany,34,Male,Laptop,5,Standard
+Canada,39,Female,Smart TV,5,Standard
+France,46,Female,Smart TV,5,Basic
+Brazil,30,Male,Smartphone,5,Premium
+United Kingdom,29,Female,Tablet,5,Standard
+United States,28,Female,Tablet,5,Premium
+Spain,49,Male,Laptop,5,Standard
+Spain,31,Female,Laptop,5,Standard
+United Kingdom,42,Male,Laptop,5,Standard
+Spain,32,Female,Tablet,5,Basic
+Spain,46,Male,Laptop,5,Premium
+Spain,43,Male,Smartphone,5,Standard
+United States,42,Male,Laptop,5,Premium
+Mexico,35,Female,Smartphone,5,Standard
+United Kingdom,50,Male,Laptop,5,Standard
+Spain,28,Male,Smartphone,5,Standard
+Germany,32,Female,Smart TV,5,Basic
+Italy,27,Female,Smart TV,5,Basic
+United Kingdom,42,Female,Smartphone,5,Standard
+Brazil,35,Male,Tablet,5,Basic
+United States,41,Female,Smart TV,5,Premium
+Germany,49,Female,Smart TV,5,Standard
+Australia,49,Female,Tablet,5,Premium
+Australia,29,Female,Laptop,5,Premium
+Spain,33,Female,Laptop,5,Premium
+Spain,39,Male,Tablet,5,Basic
+United States,51,Female,Smartphone,5,Standard
+Canada,38,Female,Smartphone,5,Standard
+Brazil,45,Female,Smartphone,5,Basic
+Italy,41,Female,Smartphone,5,Basic
+Germany,36,Male,Laptop,5,Standard
+Canada,37,Male,Smart TV,5,Standard
+United States,36,Male,Tablet,5,Basic
+Germany,41,Female,Tablet,5,Basic
+Canada,44,Female,Smartphone,5,Standard
+Canada,32,Female,Smart TV,5,Basic
+Brazil,49,Male,Tablet,5,Basic
+Canada,28,Female,Laptop,5,Premium
+Spain,49,Female,Laptop,5,Premium
+Italy,27,Male,Smartphone,5,Basic
+Germany,29,Female,Laptop,5,Basic
+United States,41,Female,Smartphone,5,Basic
+Germany,37,Female,Tablet,5,Basic
+Brazil,39,Female,Smart TV,5,Basic
+Spain,30,Female,Laptop,5,Premium
+Mexico,30,Male,Smart TV,5,Standard
+France,35,Male,Laptop,5,Premium
+United States,48,Female,Laptop,5,Premium
+Brazil,30,Male,Smart TV,5,Basic
+Brazil,37,Male,Smartphone,5,Basic
+France,39,Female,Laptop,5,Basic
+Canada,32,Male,Smart TV,5,Basic
+Spain,48,Male,Smartphone,5,Premium
+Germany,50,Female,Tablet,5,Basic
+Spain,42,Female,Smartphone,5,Premium
+Spain,30,Female,Smartphone,5,Basic
+Brazil,47,Female,Smartphone,5,Premium
+Australia,43,Male,Laptop,5,Premium
+Spain,38,Male,Smart TV,5,Standard
+Australia,32,Male,Tablet,5,Premium
+Canada,37,Female,Smart TV,5,Standard
+United States,28,Female,Smart TV,5,Basic
+Mexico,42,Male,Tablet,5,Standard
+United States,51,Male,Smartphone,5,Basic
+Canada,27,Male,Smartphone,5,Basic
+Italy,40,Female,Smartphone,5,Basic
+Australia,38,Male,Tablet,5,Premium
+United States,47,Female,Smart TV,5,Standard
+Spain,30,Male,Tablet,5,Premium
+United Kingdom,27,Male,Smart TV,5,Standard
+Germany,38,Male,Smartphone,5,Basic
+Brazil,45,Female,Smart TV,5,Basic
+Canada,38,Male,Tablet,5,Premium
+United States,42,Female,Laptop,5,Basic
+United States,27,Female,Smart TV,5,Premium
+Canada,41,Female,Tablet,5,Basic
+Mexico,35,Male,Laptop,5,Standard
+United Kingdom,46,Male,Laptop,5,Standard
+France,43,Male,Laptop,5,Premium
+Brazil,48,Female,Smartphone,5,Basic
+Brazil,29,Male,Laptop,5,Basic
+Canada,42,Male,Smartphone,5,Standard
+United States,48,Female,Smartphone,5,Basic
+Mexico,45,Female,Smart TV,5,Standard
+Spain,31,Male,Smart TV,5,Premium
+Canada,40,Male,Smart TV,5,Premium
+Spain,47,Female,Smart TV,5,Standard
+United Kingdom,35,Female,Tablet,5,Standard
+Canada,42,Female,Smartphone,5,Premium
+Spain,42,Female,Smartphone,5,Standard
+Australia,31,Male,Tablet,6,Premium
+United States,41,Male,Smartphone,6,Standard
+Canada,38,Female,Smart TV,6,Premium
+Mexico,46,Female,Tablet,6,Standard
+France,45,Male,Tablet,6,Premium
+Brazil,32,Female,Smartphone,6,Basic
+Italy,40,Female,Smart TV,6,Basic
+Mexico,50,Male,Tablet,6,Standard
+Australia,44,Male,Smart TV,6,Premium
+Australia,46,Male,Smart TV,6,Premium
+Italy,44,Male,Smart TV,6,Basic
+Spain,48,Female,Smartphone,6,Premium
+Brazil,34,Female,Tablet,6,Basic
+France,29,Female,Smartphone,6,Basic
+Canada,39,Female,Laptop,6,Basic
+Mexico,48,Female,Smart TV,6,Standard
+Canada,36,Female,Tablet,6,Premium
+Canada,44,Female,Smart TV,6,Basic
+Spain,28,Female,Tablet,6,Premium
+France,40,Male,Smartphone,6,Premium
+Germany,34,Female,Laptop,6,Basic
+United Kingdom,46,Male,Smart TV,6,Standard
+Germany,49,Female,Tablet,6,Basic
+Italy,49,Male,Laptop,6,Basic
+Spain,34,Female,Smart TV,6,Basic
+Canada,43,Male,Smartphone,6,Premium
+France,51,Female,Laptop,6,Premium
+Spain,34,Female,Smartphone,6,Standard
+United States,43,Male,Smart TV,6,Basic
+United States,38,Female,Laptop,6,Premium
+United States,39,Male,Smart TV,6,Premium
+Spain,31,Female,Laptop,6,Basic
+Spain,49,Male,Tablet,6,Premium
+Spain,27,Female,Smart TV,6,Premium
+Spain,31,Female,Tablet,6,Basic
+Canada,47,Female,Tablet,6,Premium
+Spain,31,Male,Laptop,6,Standard
+Italy,46,Female,Tablet,6,Basic
+Australia,41,Female,Laptop,6,Standard
+United Kingdom,30,Female,Tablet,6,Standard
+Spain,37,Female,Laptop,6,Standard
+Canada,31,Female,Tablet,6,Basic
+United States,29,Female,Tablet,6,Basic
+Mexico,28,Female,Smart TV,6,Standard
+Spain,27,Male,Smartphone,6,Premium
+Spain,49,Male,Smart TV,6,Premium
+Spain,37,Female,Laptop,6,Premium
+Italy,31,Male,Tablet,6,Basic
+Spain,40,Female,Tablet,6,Premium
+United States,50,Male,Smart TV,6,Premium
+Australia,35,Male,Smartphone,6,Standard
+Spain,37,Male,Smart TV,6,Basic
+Italy,40,Male,Tablet,6,Basic
+Spain,32,Female,Smart TV,6,Premium
+Spain,41,Female,Laptop,6,Premium
+France,37,Male,Smartphone,6,Premium
+United States,47,Male,Smartphone,6,Basic
+Italy,32,Female,Smart TV,6,Basic
+Italy,39,Male,Smartphone,6,Basic
+Australia,49,Male,Smart TV,6,Premium
+Mexico,48,Male,Smartphone,6,Standard
+United States,47,Male,Laptop,6,Premium
+France,38,Male,Tablet,6,Basic
+Germany,43,Female,Tablet,6,Basic
+Germany,32,Female,Smart TV,6,Basic
+Spain,43,Male,Smart TV,6,Basic
+Canada,46,Female,Smart TV,6,Premium
+Australia,35,Female,Laptop,6,Basic
+France,42,Male,Smartphone,6,Premium
+Brazil,37,Female,Laptop,6,Basic
+France,32,Female,Smart TV,6,Premium
+Spain,32,Male,Smart TV,6,Premium
+United States,27,Male,Laptop,6,Basic
+Spain,44,Female,Laptop,6,Premium
+Germany,49,Male,Smart TV,6,Basic
+France,41,Female,Smart TV,6,Premium
+United States,41,Male,Laptop,6,Basic
+Italy,31,Female,Smart TV,6,Basic
+Brazil,47,Female,Tablet,6,Basic
+Canada,48,Female,Laptop,6,Basic
+Brazil,51,Male,Smart TV,6,Basic
+United Kingdom,46,Female,Smartphone,6,Standard
+United Kingdom,39,Male,Tablet,6,Standard
+Spain,51,Male,Laptop,6,Standard
+France,41,Male,Smart TV,6,Basic
+Brazil,27,Male,Smart TV,6,Premium
+Spain,44,Female,Smart TV,6,Premium
+Germany,31,Female,Tablet,6,Basic
+Canada,29,Female,Smart TV,6,Standard
+Spain,51,Male,Smart TV,6,Standard
+Italy,35,Male,Tablet,6,Basic
+Australia,36,Female,Tablet,6,Premium
+Mexico,36,Female,Smartphone,6,Standard
+United States,41,Female,Tablet,6,Standard
+United States,45,Female,Smartphone,6,Basic
+Mexico,32,Female,Tablet,6,Standard
+Canada,41,Female,Smart TV,6,Premium
+Spain,28,Female,Smartphone,6,Premium
+Germany,30,Male,Laptop,6,Basic
+Canada,28,Male,Tablet,6,Standard
+United States,48,Female,Smartphone,6,Standard
+United Kingdom,36,Female,Smart TV,7,Standard
+Mexico,31,Female,Tablet,7,Standard
+Brazil,29,Female,Smart TV,7,Basic
+France,36,Male,Tablet,7,Premium
+Brazil,29,Male,Smartphone,7,Basic
+United Kingdom,37,Male,Tablet,7,Standard
+United States,29,Female,Smartphone,7,Basic
+Canada,51,Male,Smart TV,7,Standard
+France,33,Male,Laptop,7,Premium
+United Kingdom,41,Male,Smartphone,7,Standard
+United States,42,Female,Laptop,7,Premium
+Spain,33,Male,Smartphone,7,Standard
+Canada,37,Male,Tablet,7,Basic
+United Kingdom,50,Female,Smart TV,7,Basic
+Brazil,46,Female,Tablet,7,Premium
+Brazil,27,Male,Smart TV,7,Basic
+Spain,35,Male,Tablet,7,Standard
+Spain,50,Female,Laptop,7,Standard
+Italy,44,Female,Laptop,7,Basic
+Canada,43,Female,Smartphone,7,Standard
+United States,43,Female,Tablet,7,Basic
+Canada,47,Male,Smartphone,7,Standard
+Spain,48,Male,Tablet,7,Premium
+United Kingdom,43,Male,Smart TV,7,Standard
+Australia,36,Male,Smart TV,7,Premium
+United States,40,Female,Laptop,7,Basic
+United States,46,Female,Tablet,7,Basic
+Brazil,28,Male,Laptop,7,Basic
+United States,32,Male,Smart TV,7,Basic
+Spain,32,Male,Smartphone,7,Standard
+Spain,43,Female,Smart TV,7,Basic
+United States,44,Female,Smart TV,7,Standard
+United States,36,Male,Smart TV,7,Basic
+Mexico,33,Male,Smartphone,7,Standard
+Australia,42,Female,Smartphone,7,Standard
+Spain,37,Female,Laptop,7,Premium
+United States,37,Female,Tablet,7,Standard
+Brazil,39,Male,Smart TV,7,Basic
+Mexico,31,Male,Smartphone,7,Standard
+Italy,44,Male,Smartphone,7,Basic
+United States,44,Male,Tablet,7,Premium
+United Kingdom,34,Female,Smartphone,7,Standard
+Australia,27,Female,Smart TV,7,Standard
+Spain,31,Male,Smart TV,7,Basic
+United States,39,Female,Smartphone,7,Standard
+Italy,47,Male,Laptop,7,Basic
+Spain,28,Female,Smart TV,7,Premium
+Mexico,37,Male,Tablet,7,Standard
+United States,37,Male,Smart TV,7,Premium
+United States,28,Female,Smartphone,7,Premium
+Canada,32,Female,Smartphone,7,Standard
+Brazil,39,Male,Laptop,7,Basic
+United Kingdom,38,Male,Smartphone,7,Standard
+Germany,49,Male,Smartphone,7,Standard
+Spain,48,Male,Laptop,7,Standard
+Brazil,45,Female,Laptop,7,Premium
+Canada,39,Female,Laptop,7,Basic
+France,32,Female,Smart TV,7,Premium
+Spain,48,Male,Laptop,7,Basic
+Brazil,29,Female,Laptop,7,Basic
+United States,30,Female,Smart TV,7,Premium
+Spain,31,Female,Laptop,7,Premium
+United States,34,Female,Smart TV,7,Premium
+Australia,33,Male,Smartphone,7,Basic
+Spain,44,Female,Laptop,7,Basic
+Brazil,38,Female,Tablet,7,Basic
+United States,49,Female,Smartphone,7,Premium
+Spain,48,Female,Smart TV,7,Standard
+Australia,36,Female,Smart TV,7,Premium
+Australia,49,Male,Smart TV,7,Premium
+Spain,34,Male,Tablet,7,Basic
+France,44,Female,Smart TV,7,Premium
+Canada,43,Male,Tablet,7,Standard
+Spain,37,Female,Smartphone,7,Standard
+Spain,37,Male,Smart TV,7,Premium
+Germany,27,Female,Smartphone,7,Basic
+Canada,39,Female,Smartphone,7,Standard
+United States,38,Male,Tablet,7,Premium
+Canada,30,Male,Smart TV,7,Basic
+Spain,31,Male,Smartphone,7,Premium
+United Kingdom,37,Female,Smartphone,7,Standard
+Spain,32,Female,Smart TV,7,Standard
+United Kingdom,44,Female,Tablet,7,Standard
+France,46,Male,Tablet,7,Basic
+United States,35,Female,Smart TV,7,Basic
+Mexico,48,Female,Laptop,7,Standard
+Italy,35,Female,Laptop,7,Basic
+United Kingdom,34,Male,Laptop,7,Standard
+Australia,30,Male,Smart TV,7,Premium
+United States,51,Female,Tablet,7,Standard
+Canada,35,Male,Laptop,7,Standard
+France,39,Female,Smartphone,8,Basic
+Australia,38,Male,Laptop,8,Premium
+United States,38,Male,Smart TV,8,Basic
+United States,51,Male,Tablet,8,Basic
+United States,46,Male,Laptop,8,Premium
+Brazil,29,Female,Smart TV,8,Standard
+United States,29,Female,Tablet,8,Premium
+United States,43,Male,Tablet,8,Premium
+Spain,51,Female,Laptop,8,Premium
+Germany,49,Female,Laptop,8,Basic
+Spain,46,Female,Smartphone,8,Basic
+Germany,36,Female,Smartphone,8,Basic
+Italy,39,Male,Smartphone,8,Basic
+Canada,33,Female,Smartphone,8,Standard
+United States,27,Male,Tablet,8,Premium
+Spain,46,Male,Smart TV,8,Premium
+Germany,48,Female,Smart TV,8,Basic
+Spain,49,Male,Tablet,8,Premium
+Brazil,32,Female,Smart TV,8,Basic
+Canada,39,Male,Smart TV,8,Basic
+Italy,28,Female,Smartphone,8,Basic
+United Kingdom,49,Female,Smart TV,8,Standard
+Brazil,44,Female,Laptop,8,Basic
+Mexico,32,Male,Laptop,8,Standard
+Italy,44,Female,Smartphone,8,Basic
+United States,48,Male,Laptop,8,Standard
+Mexico,33,Female,Tablet,8,Standard
+Spain,36,Female,Tablet,8,Premium
+Spain,37,Male,Smartphone,8,Standard
+United States,45,Male,Laptop,8,Premium
+France,51,Female,Smart TV,8,Premium
+Mexico,33,Female,Smart TV,8,Standard
+Mexico,38,Female,Laptop,8,Standard
+Spain,36,Female,Smart TV,8,Premium
+United States,46,Female,Smart TV,8,Basic
+Canada,30,Male,Tablet,8,Standard
+United States,40,Female,Smart TV,8,Premium
+United States,29,Male,Smart TV,8,Basic
+Canada,41,Male,Tablet,8,Premium
+Mexico,29,Male,Smart TV,8,Standard
+Spain,45,Male,Smartphone,8,Standard
+United Kingdom,51,Male,Tablet,8,Standard
+Spain,42,Female,Tablet,8,Basic
+Canada,43,Male,Smartphone,8,Basic
+France,35,Female,Smartphone,8,Premium
+United States,42,Female,Laptop,8,Basic
+Italy,45,Male,Tablet,8,Basic
+Canada,34,Male,Tablet,8,Standard
+Canada,36,Male,Smartphone,8,Basic
+Italy,43,Male,Tablet,8,Basic
+Brazil,49,Female,Laptop,8,Basic
+Canada,36,Male,Smart TV,8,Basic
+Spain,45,Male,Tablet,8,Basic
+Canada,47,Female,Laptop,8,Basic
+United States,28,Male,Tablet,8,Standard
+Australia,34,Male,Smartphone,8,Basic
+Brazil,47,Female,Smartphone,8,Basic
+Mexico,33,Female,Laptop,8,Standard
+United States,50,Female,Laptop,8,Premium
+Italy,27,Female,Smart TV,8,Basic
+Italy,27,Male,Laptop,8,Basic
+Spain,43,Female,Laptop,8,Premium
+Australia,43,Male,Laptop,8,Basic
+Germany,51,Male,Laptop,8,Standard
+United States,50,Female,Smartphone,8,Basic
+Brazil,42,Female,Tablet,8,Premium
+United States,37,Female,Smart TV,8,Basic
+Germany,30,Male,Tablet,8,Basic
+Canada,36,Male,Smartphone,8,Standard
+Canada,31,Male,Laptop,8,Basic
+France,45,Female,Smart TV,9,Premium
+Spain,33,Male,Smartphone,9,Basic
+Canada,47,Female,Tablet,9,Basic
+United Kingdom,37,Male,Smartphone,9,Standard
+Spain,47,Male,Smart TV,9,Premium
+Germany,38,Male,Smartphone,9,Basic
+Germany,47,Male,Smart TV,9,Basic
+Australia,49,Female,Tablet,9,Premium
+Canada,48,Female,Tablet,9,Standard
+United States,44,Male,Tablet,9,Basic
+Canada,35,Male,Laptop,9,Standard
+Canada,31,Male,Smart TV,9,Basic
+Italy,43,Female,Smart TV,9,Basic
+Canada,28,Male,Smartphone,9,Premium
+Canada,41,Male,Tablet,9,Basic
+United Kingdom,32,Male,Smart TV,9,Standard
+Australia,36,Female,Laptop,9,Premium
+Italy,31,Male,Smart TV,9,Basic
+Spain,41,Female,Smart TV,9,Premium
+Spain,30,Female,Smartphone,9,Basic
+France,35,Male,Smartphone,9,Premium
+Italy,28,Male,Laptop,9,Basic
+Australia,51,Male,Smartphone,9,Premium
+France,34,Female,Smart TV,9,Premium
+Spain,31,Male,Smartphone,9,Standard
+Canada,41,Female,Laptop,9,Basic
+United States,46,Female,Tablet,9,Basic
+Germany,30,Female,Laptop,9,Basic
+Canada,37,Female,Smart TV,9,Standard
+Italy,46,Male,Smart TV,9,Basic
+Australia,51,Female,Smartphone,9,Basic
+Canada,32,Female,Tablet,9,Standard
+United States,39,Male,Smart TV,9,Standard
+Australia,38,Male,Laptop,9,Premium
+France,35,Female,Laptop,9,Premium
+United States,38,Male,Laptop,9,Standard
+Germany,31,Female,Smart TV,9,Standard
+United States,34,Female,Smart TV,9,Basic
+Mexico,41,Female,Tablet,9,Standard
+Spain,48,Female,Laptop,9,Basic
+United States,44,Male,Laptop,9,Premium
+Spain,32,Male,Smart TV,9,Premium
+France,48,Female,Laptop,9,Premium
+Brazil,29,Male,Smart TV,9,Basic
+United States,43,Male,Smart TV,9,Premium
+United Kingdom,42,Male,Smartphone,9,Standard
+Italy,29,Male,Smart TV,9,Basic
+Spain,28,Female,Smart TV,9,Premium
+Australia,41,Male,Smartphone,9,Premium
+United States,35,Male,Smart TV,9,Standard
+Brazil,47,Female,Smart TV,9,Basic
+United States,35,Female,Tablet,9,Standard
+Spain,44,Male,Tablet,9,Basic
+Brazil,41,Female,Smartphone,9,Basic
+United States,35,Female,Laptop,9,Premium
+Germany,42,Female,Tablet,9,Standard
+Canada,33,Female,Tablet,9,Standard
+Mexico,47,Male,Smartphone,9,Standard
+United Kingdom,37,Male,Tablet,9,Standard
+United Kingdom,34,Female,Smartphone,9,Standard
+United States,43,Male,Laptop,9,Standard
+Brazil,44,Male,Smartphone,9,Basic
+United States,47,Male,Laptop,9,Premium
+Italy,34,Female,Tablet,9,Basic
+Spain,27,Female,Smart TV,9,Premium
+Germany,35,Male,Smartphone,9,Standard
+United States,30,Female,Tablet,9,Basic
+Spain,34,Female,Laptop,9,Premium
+Spain,48,Male,Tablet,9,Basic
+United States,37,Female,Tablet,9,Standard
+France,34,Female,Smartphone,9,Premium
+Brazil,35,Female,Smartphone,9,Basic
+Canada,44,Male,Tablet,9,Standard
+United States,47,Male,Laptop,9,Basic
+Canada,39,Female,Smart TV,9,Premium
+Mexico,28,Female,Tablet,9,Standard
+Spain,45,Female,Tablet,9,Standard
+United States,49,Female,Smart TV,9,Basic
+Canada,30,Male,Tablet,9,Basic
+Spain,29,Female,Tablet,9,Premium
+United States,38,Female,Tablet,9,Basic
+United Kingdom,39,Female,Laptop,9,Standard
+Canada,28,Male,Smart TV,10,Basic
+France,30,Female,Smartphone,10,Premium
+Canada,45,Male,Smartphone,10,Premium
+Italy,46,Female,Tablet,10,Basic
+Australia,37,Female,Laptop,10,Premium
+Spain,51,Male,Smartphone,10,Basic
+United States,31,Female,Laptop,10,Standard
+France,36,Male,Laptop,10,Premium
+Australia,51,Female,Laptop,10,Standard
+Brazil,49,Female,Laptop,10,Basic
+Brazil,48,Female,Tablet,10,Premium
+United States,39,Male,Smart TV,10,Premium
+Spain,30,Male,Smartphone,10,Premium
+Spain,32,Male,Smart TV,10,Premium
+Brazil,47,Male,Smart TV,10,Basic
+Mexico,47,Female,Smart TV,10,Standard
+United States,41,Male,Tablet,10,Standard
+United Kingdom,47,Female,Laptop,10,Standard
+Brazil,49,Female,Laptop,10,Basic
+Brazil,49,Male,Laptop,10,Basic
+Canada,36,Female,Smartphone,10,Basic
+United Kingdom,34,Female,Smartphone,10,Standard
+Spain,41,Male,Laptop,10,Standard
+United States,35,Male,Laptop,10,Standard
+Canada,31,Male,Tablet,10,Premium
+Germany,46,Male,Laptop,10,Basic
+Spain,35,Male,Laptop,10,Premium
+United States,49,Female,Laptop,10,Basic
+Brazil,32,Male,Smartphone,10,Basic
+Mexico,31,Female,Smartphone,10,Standard
+United Kingdom,28,Female,Tablet,10,Standard
+Canada,31,Male,Tablet,10,Premium
+United Kingdom,38,Female,Tablet,10,Standard
+Australia,30,Female,Smartphone,10,Premium
+Mexico,40,Female,Laptop,10,Standard
+Brazil,28,Male,Tablet,10,Premium
+Canada,37,Female,Laptop,10,Basic
+Spain,35,Female,Tablet,10,Basic
+France,51,Male,Smart TV,10,Premium
+Canada,50,Male,Smartphone,10,Premium
+Spain,45,Female,Laptop,10,Standard
+United Kingdom,45,Female,Smart TV,10,Standard
+Germany,50,Female,Tablet,10,Basic
+Italy,47,Male,Tablet,10,Basic
+United Kingdom,32,Male,Laptop,10,Standard
+Spain,42,Female,Smart TV,10,Standard
+Germany,30,Female,Smart TV,10,Basic
+France,46,Male,Laptop,10,Basic
+Spain,46,Male,Smart TV,10,Premium
+Canada,48,Male,Smartphone,10,Premium
+United States,51,Female,Smartphone,10,Basic
+Mexico,44,Male,Tablet,10,Standard
+United Kingdom,42,Female,Tablet,10,Standard
+Mexico,43,Male,Smart TV,10,Standard
+Spain,28,Male,Smart TV,10,Premium
+United States,32,Female,Tablet,10,Premium
+Spain,43,Male,Laptop,10,Standard
+United States,34,Male,Smart TV,10,Standard
+Mexico,48,Male,Smart TV,10,Standard
+United Kingdom,28,Female,Laptop,10,Standard
+Spain,28,Female,Laptop,10,Premium
+United States,30,Male,Tablet,10,Standard
+Italy,48,Female,Smart TV,10,Basic
+Canada,34,Female,Laptop,10,Premium
+United States,44,Female,Smartphone,10,Premium
+Spain,40,Male,Smart TV,10,Standard
+Italy,31,Female,Smart TV,10,Basic
+Spain,27,Male,Laptop,10,Premium
+United Kingdom,47,Female,Tablet,10,Standard
+Germany,33,Male,Tablet,10,Basic
+France,51,Female,Laptop,10,Basic
+Spain,49,Female,Smart TV,10,Basic
+United States,50,Male,Smart TV,10,Basic
+France,41,Female,Smartphone,10,Premium
+Spain,41,Male,Laptop,10,Premium
+Australia,42,Female,Tablet,11,Basic
+United States,42,Male,Smartphone,11,Premium
+United Kingdom,45,Male,Tablet,11,Standard
+Australia,33,Female,Smartphone,11,Standard
+France,30,Male,Smartphone,11,Premium
+United States,49,Male,Laptop,11,Basic
+Germany,39,Female,Tablet,11,Basic
+Canada,34,Female,Tablet,11,Premium
+Brazil,33,Male,Laptop,11,Basic
+Mexico,50,Male,Smartphone,11,Standard
+United States,31,Male,Smart TV,11,Basic
+United States,31,Female,Smartphone,11,Premium
+France,48,Male,Tablet,11,Basic
+United States,29,Female,Smartphone,11,Basic
+United States,38,Male,Smartphone,11,Standard
+Mexico,40,Male,Laptop,11,Standard
+Germany,38,Female,Tablet,11,Basic
+Brazil,40,Female,Laptop,11,Premium
+Canada,39,Male,Laptop,11,Basic
+United States,34,Female,Tablet,11,Basic
+France,34,Male,Smart TV,11,Premium
+Australia,35,Male,Smart TV,11,Standard
+Germany,35,Female,Smartphone,11,Basic
+Germany,47,Female,Tablet,11,Basic
+Brazil,36,Female,Laptop,11,Basic
+Canada,49,Male,Smartphone,11,Standard
+Brazil,45,Male,Smartphone,11,Basic
+Canada,45,Male,Smart TV,11,Basic
+Brazil,37,Male,Smart TV,11,Basic
+Mexico,35,Male,Laptop,11,Standard
+United Kingdom,46,Male,Smart TV,11,Standard
+Australia,42,Male,Smart TV,11,Premium
+Italy,36,Female,Smart TV,11,Basic
+Canada,48,Male,Smart TV,11,Premium
+Germany,41,Male,Smartphone,11,Basic
+Australia,33,Male,Smartphone,11,Basic
+United States,40,Female,Laptop,11,Premium
+Spain,42,Female,Laptop,11,Premium
+Australia,31,Female,Laptop,11,Premium
+United Kingdom,46,Male,Laptop,11,Standard
+Australia,47,Female,Smart TV,11,Standard
+United States,34,Female,Smart TV,11,Basic
+Brazil,50,Male,Tablet,11,Basic
+Spain,31,Male,Laptop,11,Basic
+Canada,31,Female,Smartphone,11,Basic
+Germany,48,Female,Smartphone,11,Basic
+Brazil,36,Male,Laptop,11,Basic
+United States,45,Male,Tablet,11,Premium
+Spain,33,Male,Smartphone,11,Standard
+Australia,41,Female,Laptop,11,Premium
+Canada,29,Male,Laptop,11,Standard
+United Kingdom,51,Male,Laptop,11,Standard
+United States,44,Female,Smart TV,11,Standard
+Canada,30,Male,Tablet,11,Basic
+United States,38,Male,Smart TV,11,Basic
+Italy,34,Male,Smartphone,11,Basic
+Australia,46,Female,Laptop,11,Premium
+Australia,40,Male,Tablet,11,Premium
+Mexico,34,Female,Smart TV,11,Standard
+Spain,40,Male,Smartphone,11,Premium
+Australia,35,Male,Smartphone,11,Premium
+Brazil,31,Female,Tablet,11,Premium
+United States,34,Male,Smart TV,11,Standard
+Canada,37,Male,Smart TV,11,Premium
+United States,38,Male,Smart TV,11,Basic
+Brazil,39,Female,Smartphone,11,Basic
+Spain,36,Female,Smart TV,11,Standard
+Italy,33,Female,Smartphone,11,Basic
+Spain,46,Male,Tablet,11,Basic
+United States,39,Male,Smartphone,11,Premium
+Mexico,29,Male,Tablet,11,Standard
+France,29,Male,Smartphone,12,Premium
+France,37,Female,Smart TV,12,Premium
+Germany,47,Female,Tablet,12,Basic
+Australia,39,Female,Laptop,12,Premium
+Spain,31,Male,Smart TV,12,Standard
+United States,28,Female,Laptop,12,Basic
+Spain,38,Male,Smartphone,12,Standard
+Canada,46,Female,Smart TV,12,Basic
+Mexico,35,Male,Laptop,12,Standard
+Brazil,42,Male,Laptop,12,Basic
+United States,28,Female,Smartphone,12,Standard
+Canada,46,Male,Tablet,12,Premium
+United Kingdom,39,Male,Smartphone,12,Standard
+Mexico,39,Male,Tablet,12,Standard
+Spain,51,Male,Smart TV,12,Standard
+Mexico,40,Male,Smart TV,12,Standard
+Spain,48,Male,Laptop,12,Standard
+France,36,Male,Smart TV,12,Basic
+France,50,Male,Laptop,12,Premium
+Italy,31,Female,Laptop,12,Basic
+Germany,36,Female,Tablet,12,Basic
+Germany,39,Male,Tablet,12,Basic
+Canada,48,Female,Laptop,12,Standard
+United States,48,Female,Laptop,12,Premium
+Canada,44,Female,Laptop,12,Basic
+Mexico,50,Female,Tablet,12,Standard
+United States,39,Male,Smartphone,12,Standard
+Canada,34,Female,Smartphone,12,Premium
+Spain,46,Female,Smart TV,12,Standard
+Mexico,48,Male,Tablet,12,Standard
+Spain,47,Male,Smartphone,12,Basic
+Spain,45,Male,Smart TV,12,Standard
+United States,34,Female,Laptop,12,Premium
+Canada,38,Female,Tablet,12,Basic
+Australia,40,Female,Tablet,12,Premium
+Spain,29,Male,Tablet,12,Standard
+United States,37,Female,Laptop,12,Standard
+Germany,42,Male,Tablet,12,Basic
+France,45,Male,Smartphone,12,Premium
+Canada,32,Female,Tablet,12,Basic
+Canada,46,Male,Smartphone,12,Basic
+United States,29,Female,Smart TV,12,Standard
+Spain,31,Male,Laptop,12,Standard
+Canada,48,Female,Tablet,12,Standard
+Brazil,37,Female,Tablet,12,Basic
+United Kingdom,41,Male,Smartphone,12,Standard
+Spain,34,Female,Tablet,12,Standard
+Italy,45,Male,Smart TV,12,Basic
+Germany,39,Female,Smart TV,12,Basic
+France,41,Male,Laptop,12,Premium
+Canada,40,Male,Smart TV,12,Standard
+United States,35,Female,Tablet,12,Premium
+Canada,34,Female,Smartphone,12,Basic
+Canada,39,Male,Smartphone,12,Basic
+Spain,36,Female,Smart TV,12,Premium
+Germany,32,Female,Tablet,12,Basic
+Australia,48,Male,Smart TV,12,Standard
+Australia,39,Male,Tablet,12,Premium
+United States,28,Male,Laptop,12,Standard
+United States,44,Female,Smart TV,12,Basic
+Italy,32,Male,Laptop,12,Basic
+Spain,31,Female,Smart TV,12,Premium
+Canada,34,Male,Laptop,12,Premium
+Mexico,32,Female,Smart TV,12,Standard
+Spain,30,Female,Laptop,12,Basic
+France,51,Female,Laptop,12,Premium
+Spain,30,Female,Tablet,12,Premium
+Canada,31,Male,Smartphone,12,Basic
+Germany,46,Male,Laptop,12,Basic
+Canada,40,Female,Smart TV,12,Premium
+Spain,32,Female,Smartphone,12,Standard
+Canada,32,Female,Laptop,12,Standard
+Spain,50,Female,Laptop,12,Standard
+Germany,43,Female,Laptop,12,Basic
+Canada,30,Female,Smart TV,12,Standard
+Canada,37,Female,Smart TV,12,Basic
+Mexico,30,Male,Tablet,12,Standard
+Spain,35,Female,Tablet,12,Premium
+Canada,48,Male,Tablet,12,Basic
+United Kingdom,30,Female,Smart TV,12,Standard
+Australia,30,Male,Smart TV,12,Premium
+Germany,35,Female,Smart TV,12,Basic
+Mexico,50,Male,Smart TV,12,Standard
+United States,30,Female,Laptop,12,Basic
+Canada,48,Female,Smartphone,12,Basic
+Canada,43,Female,Laptop,12,Basic
+Germany,33,Male,Smartphone,1,Basic
+Mexico,39,Female,Laptop,2,Basic
+Italy,45,Male,Smartphone,2,Basic
+United States,28,Female,Smart TV,3,Premium
+Italy,49,Female,Smartphone,3,Standard
+Mexico,36,Female,Tablet,5,Standard
+Germany,37,Female,Laptop,6,Premium
+Italy,44,Female,Smart TV,7,Premium
+Italy,43,Female,Tablet,7,Basic
+Italy,48,Male,Tablet,7,Basic
+United Kingdom,34,Female,Smartphone,8,Standard
+United States,28,Female,Laptop,8,Premium
+Spain,35,Female,Tablet,8,Standard
+Italy,41,Male,Smartphone,8,Basic
+Germany,38,Female,Smart TV,9,Standard
+United States,26,Female,Laptop,10,Premium
+United States,37,Male,Tablet,11,Premium
+Australia,27,Male,Laptop,11,Standard
+Germany,39,Female,Smart TV,11,Basic
+Italy,32,Male,Laptop,12,Basic
+United Kingdom,41,Female,Laptop,1,Standard
+Spain,29,Female,Tablet,1,Standard
+Australia,32,Male,Smartphone,4,Standard
+Spain,50,Male,Tablet,6,Premium
+Mexico,36,Male,Tablet,6,Standard
+France,31,Male,Smartphone,6,Basic
+Italy,29,Male,Smartphone,6,Basic
+United Kingdom,28,Female,Tablet,6,Standard
+Australia,50,Male,Tablet,6,Premium
+Canada,28,Female,Tablet,7,Basic
+Italy,49,Male,Laptop,7,Basic
+Canada,32,Female,Tablet,7,Basic
+Brazil,32,Male,Tablet,7,Basic
+Mexico,42,Female,Smartphone,7,Standard
+France,31,Male,Smart TV,7,Premium
+United States,35,Female,Laptop,7,Basic
+Australia,30,Female,Tablet,7,Standard
+Spain,36,Female,Tablet,7,Basic
+Australia,36,Male,Smart TV,7,Premium
+Germany,50,Female,Tablet,7,Basic
+United States,31,Female,Smartphone,7,Premium
+Spain,42,Male,Laptop,7,Premium
+United States,35,Female,Laptop,7,Basic
+Spain,44,Male,Smartphone,7,Premium
+United States,51,Male,Tablet,7,Basic
+United States,47,Female,Tablet,7,Premium
+Canada,46,Male,Smartphone,7,Basic
+Brazil,39,Female,Laptop,7,Basic
+Mexico,44,Male,Laptop,7,Standard
+Spain,48,Female,Tablet,7,Standard
+Italy,27,Male,Smartphone,7,Basic
+Spain,27,Male,Laptop,7,Premium
+Germany,38,Female,Smart TV,7,Basic
+Mexico,47,Female,Laptop,8,Standard
+Germany,31,Female,Smart TV,8,Basic
+France,33,Male,Laptop,8,Premium
+Spain,38,Female,Tablet,8,Basic
+United States,31,Male,Smart TV,8,Standard
+Canada,46,Female,Smartphone,8,Standard
+Mexico,29,Female,Tablet,8,Standard
+Mexico,51,Female,Tablet,8,Standard
+United Kingdom,36,Male,Smartphone,8,Standard
+Spain,32,Female,Laptop,8,Basic
+Spain,37,Male,Tablet,8,Premium
+United States,29,Male,Tablet,8,Basic
+United States,40,Male,Tablet,8,Premium
+Spain,43,Female,Tablet,8,Standard
+United States,35,Female,Smartphone,8,Premium
+Spain,28,Male,Smartphone,8,Basic
+Canada,49,Male,Tablet,8,Standard
+Germany,44,Female,Tablet,8,Basic
+United States,35,Female,Smart TV,8,Basic
+France,41,Female,Smart TV,9,Premium
+Italy,44,Female,Smartphone,9,Basic
+France,37,Female,Laptop,9,Premium
+Germany,37,Female,Smartphone,9,Basic
+United States,45,Female,Tablet,9,Standard
+Brazil,31,Female,Tablet,9,Basic
+United States,51,Female,Laptop,9,Basic
+Canada,45,Female,Smart TV,9,Standard
+United States,39,Male,Smart TV,9,Basic
+Italy,28,Female,Smart TV,9,Basic
+United Kingdom,33,Female,Smartphone,9,Standard
+Brazil,50,Female,Smartphone,9,Premium
+United States,42,Male,Smartphone,9,Basic
+Australia,31,Male,Tablet,9,Premium
+Canada,43,Male,Smart TV,9,Basic
+Brazil,30,Female,Laptop,9,Basic
+Italy,45,Female,Tablet,10,Basic
+Germany,36,Male,Laptop,10,Basic
+Spain,27,Female,Smartphone,10,Premium
+Germany,31,Male,Laptop,10,Basic
+United States,47,Female,Smart TV,10,Basic
+Australia,46,Female,Smart TV,10,Standard
+Brazil,43,Female,Smartphone,10,Basic
+Canada,49,Male,Smart TV,10,Premium
+Spain,33,Female,Smartphone,10,Standard
+France,39,Male,Smart TV,10,Basic
+United States,38,Male,Smart TV,10,Basic
+Brazil,44,Male,Smart TV,11,Basic
+Italy,34,Female,Laptop,11,Basic
+France,30,Female,Smartphone,11,Premium
+United States,51,Female,Smart TV,11,Basic
+France,41,Male,Laptop,11,Premium
+Brazil,40,Female,Smart TV,11,Basic
+Germany,40,Female,Laptop,3,Basic
+Italy,49,Female,Smartphone,6,Premium
+United States,28,Male,Smart TV,6,Basic
+Spain,27,Female,Smart TV,6,Standard
+Italy,42,Male,Tablet,6,Basic
+United States,40,Male,Tablet,7,Premium
+United States,43,Female,Laptop,7,Premium
+Brazil,31,Female,Smartphone,7,Basic
+Spain,44,Female,Smartphone,7,Standard
+Australia,48,Female,Smart TV,7,Premium
+Canada,29,Male,Tablet,7,Premium
+United States,50,Male,Smartphone,7,Basic
+United Kingdom,44,Female,Smartphone,7,Standard
+France,43,Female,Laptop,7,Premium
+Italy,37,Female,Smart TV,7,Basic
+United Kingdom,46,Female,Smartphone,7,Standard
+Spain,41,Male,Smart TV,7,Basic
+Canada,37,Male,Smart TV,7,Basic
+United Kingdom,38,Female,Tablet,7,Standard
+Australia,40,Male,Smart TV,7,Premium
+France,46,Female,Tablet,7,Premium
+Canada,47,Female,Tablet,7,Standard
+United States,27,Female,Laptop,7,Basic
+Australia,51,Male,Smartphone,8,Basic
+Spain,50,Female,Smart TV,8,Premium
+Italy,46,Male,Laptop,8,Basic
+Germany,43,Male,Smartphone,8,Basic
+Spain,39,Male,Tablet,8,Premium
+United Kingdom,43,Female,Smartphone,8,Standard
+Canada,38,Male,Tablet,8,Premium
+Australia,27,Female,Smartphone,8,Premium
+United States,38,Male,Smart TV,8,Standard
+Brazil,34,Male,Tablet,8,Basic
+Canada,39,Male,Smartphone,8,Premium
+Spain,33,Male,Smartphone,8,Standard
+Italy,45,Male,Tablet,8,Basic
+France,46,Male,Tablet,8,Basic
+Italy,35,Male,Tablet,8,Basic
+United States,46,Female,Laptop,8,Basic
+Spain,34,Female,Smart TV,8,Premium
+Italy,30,Male,Tablet,8,Basic
+Brazil,45,Female,Laptop,9,Basic
+Canada,44,Male,Tablet,9,Premium
+Spain,28,Female,Tablet,9,Premium
+Germany,39,Male,Laptop,9,Basic
+United Kingdom,34,Male,Laptop,9,Standard
+Italy,31,Male,Smartphone,9,Basic
+Germany,44,Male,Smartphone,9,Basic
+Spain,48,Male,Tablet,9,Premium
+Mexico,39,Female,Tablet,9,Standard
+United States,46,Male,Tablet,9,Standard
+Canada,46,Female,Tablet,9,Premium
+Mexico,37,Male,Tablet,9,Standard
+Spain,38,Male,Laptop,9,Basic
+Canada,40,Male,Laptop,9,Standard
+United Kingdom,46,Male,Smartphone,9,Standard
+France,50,Female,Laptop,10,Premium
+France,38,Male,Smart TV,10,Premium
+Italy,45,Male,Laptop,10,Basic
+Spain,47,Female,Smart TV,10,Premium
+United Kingdom,49,Male,Smartphone,10,Standard
+United States,36,Female,Smartphone,10,Basic
+Brazil,31,Male,Tablet,10,Premium
+Canada,37,Female,Smartphone,10,Basic
+Spain,37,Male,Laptop,10,Basic
+France,37,Female,Smart TV,10,Premium
+Canada,30,Male,Smart TV,10,Basic
+United States,29,Female,Smartphone,10,Premium
+United Kingdom,48,Female,Smart TV,10,Standard
+United States,48,Male,Smartphone,10,Standard
+Mexico,45,Female,Smart TV,10,Standard
+Spain,48,Male,Laptop,10,Premium
+Italy,38,Male,Laptop,10,Basic
+United States,45,Female,Laptop,10,Basic
+Mexico,47,Male,Tablet,10,Standard
+Australia,45,Female,Smartphone,10,Standard
+Spain,51,Female,Tablet,11,Basic
+Australia,41,Female,Smartphone,12,Premium
+United States,28,Male,Smartphone,1,Basic
+Spain,32,Female,Smart TV,2,Premium
+France,36,Male,Tablet,3,Premium
+Canada,40,Male,Smartphone,6,Basic
+Spain,30,Female,Laptop,6,Premium
+Brazil,49,Male,Tablet,6,Basic
+United States,32,Male,Smartphone,6,Basic
+Mexico,51,Female,Tablet,7,Standard
+United States,46,Male,Smart TV,7,Standard
+Germany,46,Female,Tablet,7,Basic
+Mexico,34,Female,Smartphone,7,Standard
+Australia,48,Male,Smartphone,7,Standard
+Brazil,40,Male,Tablet,7,Premium
+Brazil,28,Female,Smart TV,7,Basic
+Spain,43,Male,Tablet,7,Basic
+United States,50,Male,Tablet,7,Basic
+United States,33,Male,Smartphone,7,Basic
+Spain,31,Male,Tablet,7,Basic
+France,36,Male,Laptop,7,Premium
+Italy,47,Female,Tablet,7,Basic
+Australia,47,Female,Smartphone,7,Standard
+United States,44,Female,Tablet,7,Standard
+Brazil,40,Female,Smartphone,7,Basic
+United States,40,Female,Smartphone,7,Premium
+Germany,43,Male,Smart TV,8,Standard
+Spain,31,Male,Tablet,8,Premium
+Spain,39,Female,Smartphone,8,Basic
+United States,31,Male,Smartphone,8,Premium
+United States,30,Male,Smartphone,8,Basic
+Mexico,43,Male,Smart TV,8,Standard
+Spain,45,Female,Tablet,8,Standard
+Mexico,28,Male,Smartphone,8,Standard
+Germany,33,Male,Tablet,8,Basic
+Brazil,30,Male,Smartphone,8,Premium
+United States,43,Female,Smart TV,8,Basic
+France,28,Female,Tablet,8,Premium
+Brazil,36,Female,Smartphone,8,Basic
+United States,41,Male,Smartphone,8,Basic
+France,29,Female,Smart TV,8,Premium
+Mexico,32,Male,Tablet,9,Standard
+Mexico,34,Male,Smartphone,9,Standard
+Spain,37,Male,Smartphone,9,Standard
+Canada,29,Female,Tablet,9,Basic
+United Kingdom,35,Male,Laptop,9,Standard
+Spain,40,Female,Tablet,9,Standard
+Spain,51,Male,Laptop,9,Basic
+France,50,Female,Tablet,9,Premium
+United States,36,Female,Tablet,9,Premium
+United States,39,Male,Tablet,9,Basic
+Australia,41,Female,Laptop,9,Standard
+United States,43,Male,Laptop,9,Basic
+Canada,36,Female,Smart TV,9,Premium
+United States,40,Male,Laptop,9,Basic
+Spain,41,Male,Laptop,9,Basic
+Brazil,44,Female,Smartphone,9,Basic
+Spain,44,Male,Smartphone,9,Standard
+Spain,29,Female,Laptop,10,Standard
+Australia,50,Male,Laptop,10,Premium
+Mexico,33,Male,Tablet,10,Standard
+Australia,32,Female,Laptop,10,Premium
+Mexico,49,Male,Smartphone,10,Standard
+United Kingdom,35,Female,Laptop,10,Standard
+United States,36,Male,Smartphone,10,Premium
+Italy,40,Male,Laptop,10,Basic
+Germany,27,Female,Tablet,10,Basic
+France,31,Male,Smartphone,10,Premium
+Spain,41,Female,Smart TV,10,Standard
+Spain,28,Female,Smartphone,10,Basic
+United Kingdom,50,Male,Laptop,10,Standard
+United States,42,Female,Tablet,10,Basic
+Germany,38,Male,Laptop,10,Basic
+Canada,31,Female,Tablet,10,Standard
+Spain,30,Female,Smart TV,10,Standard
+United States,40,Male,Tablet,11,Premium
+Mexico,27,Male,Tablet,11,Standard
+Spain,27,Female,Laptop,11,Premium
+Italy,47,Female,Laptop,12,Basic
+France,42,Male,Laptop,4,Premium
+United States,31,Female,Smartphone,5,Basic
+Canada,30,Female,Laptop,5,Basic
+United States,33,Male,Smartphone,6,Premium
+Canada,42,Female,Laptop,6,Premium
+United States,37,Male,Smart TV,6,Basic
+Germany,36,Female,Smart TV,6,Basic
+Italy,30,Male,Tablet,6,Basic
+Spain,49,Female,Tablet,6,Basic
+United States,34,Female,Laptop,6,Standard
+Mexico,44,Female,Smart TV,7,Standard
+Mexico,41,Female,Smartphone,7,Standard
+Canada,43,Female,Laptop,7,Basic
+Germany,41,Male,Laptop,7,Basic
+Spain,33,Male,Laptop,7,Premium
+United Kingdom,34,Female,Tablet,7,Standard
+Canada,27,Male,Laptop,7,Premium
+France,39,Female,Smart TV,7,Basic
+Spain,41,Male,Tablet,7,Premium
+United States,42,Female,Tablet,7,Standard
+France,34,Male,Smartphone,7,Premium
+Mexico,31,Female,Tablet,7,Standard
+Spain,36,Female,Tablet,7,Standard
+Australia,36,Male,Tablet,7,Premium
+United States,43,Male,Laptop,7,Standard
+Canada,46,Female,Laptop,7,Standard
+Brazil,32,Male,Smart TV,7,Basic
+United States,41,Female,Laptop,7,Premium
+Spain,46,Female,Laptop,7,Premium
+Spain,34,Female,Tablet,7,Basic
+Germany,40,Female,Smart TV,7,Basic
+Canada,29,Female,Tablet,7,Premium
+Mexico,34,Male,Smart TV,7,Standard
+Spain,49,Female,Smart TV,7,Basic
+United States,48,Female,Smart TV,7,Standard
+Canada,43,Female,Smart TV,7,Basic
+Mexico,28,Female,Laptop,7,Standard
+Spain,50,Male,Smart TV,7,Premium
+Italy,39,Male,Laptop,7,Basic
+Spain,34,Female,Smart TV,7,Premium
+Australia,40,Female,Laptop,8,Standard
+Italy,28,Female,Smart TV,8,Basic
+France,37,Female,Tablet,8,Premium
+Italy,32,Male,Tablet,8,Basic
+Spain,42,Female,Laptop,8,Premium
+United Kingdom,27,Male,Smart TV,8,Standard
+Australia,42,Male,Tablet,8,Standard
+Spain,49,Female,Tablet,8,Premium
+France,32,Female,Smart TV,8,Premium
+United Kingdom,38,Female,Smartphone,8,Standard
+Canada,28,Male,Laptop,8,Standard
+United States,27,Female,Tablet,8,Basic
+Germany,32,Female,Smartphone,8,Basic
+Canada,49,Female,Smartphone,8,Basic
+Spain,29,Female,Smart TV,8,Premium
+Italy,40,Female,Smart TV,8,Basic
+Spain,39,Male,Smartphone,8,Premium
+France,47,Female,Smart TV,8,Premium
+France,43,Male,Tablet,8,Premium
+Mexico,48,Male,Smart TV,8,Standard
+Spain,34,Female,Smartphone,8,Premium
+Mexico,47,Male,Tablet,8,Standard
+Spain,51,Female,Laptop,8,Standard
+Brazil,45,Female,Smartphone,9,Basic
+Spain,42,Female,Smartphone,9,Standard
+Brazil,40,Male,Smartphone,9,Basic
+Brazil,40,Male,Smartphone,9,Basic
+Spain,33,Male,Smart TV,9,Standard
+Australia,30,Male,Tablet,9,Premium
+Italy,34,Male,Tablet,9,Basic
+Australia,35,Female,Smartphone,9,Basic
+Spain,29,Male,Smart TV,9,Standard
+United Kingdom,39,Female,Laptop,9,Standard
+France,37,Female,Smartphone,9,Premium
+United States,41,Female,Laptop,9,Standard
+Mexico,42,Female,Tablet,9,Standard
+United States,51,Male,Tablet,9,Standard
+Canada,39,Female,Smartphone,9,Standard
+Spain,44,Female,Smart TV,9,Premium
+Mexico,34,Female,Smart TV,10,Standard
+Brazil,43,Male,Smartphone,10,Basic
+United States,33,Male,Tablet,10,Premium
+Canada,35,Female,Tablet,10,Standard
+Canada,39,Male,Smart TV,10,Standard
+United States,34,Male,Tablet,10,Standard
+Brazil,46,Male,Smart TV,10,Basic
+United States,39,Female,Smart TV,10,Basic
+United States,42,Male,Laptop,10,Basic
+Spain,51,Male,Smart TV,10,Premium
+Spain,42,Female,Smartphone,10,Basic
+Australia,48,Male,Tablet,10,Premium
+Canada,37,Female,Laptop,10,Standard
+Spain,50,Male,Smartphone,10,Premium
+France,47,Male,Smart TV,10,Premium
+United States,45,Male,Smartphone,10,Basic
+Spain,32,Male,Smart TV,10,Premium
+Spain,30,Male,Tablet,10,Premium
+France,35,Female,Laptop,10,Basic
+Germany,31,Female,Smartphone,10,Basic
+Spain,46,Female,Smartphone,11,Premium
+United Kingdom,27,Female,Laptop,11,Standard
+United States,38,Male,Tablet,11,Standard
+Germany,50,Male,Laptop,5,Premium
+Italy,42,Male,Smartphone,5,Basic
+Brazil,46,Male,Laptop,6,Basic
+Germany,44,Female,Laptop,6,Basic
+Canada,32,Female,Tablet,6,Basic
+Canada,38,Male,Smartphone,6,Premium
+Brazil,36,Male,Smart TV,6,Premium
+Canada,38,Male,Smartphone,6,Standard
+Mexico,48,Male,Smartphone,7,Standard
+Italy,27,Female,Smartphone,7,Basic
+United States,47,Female,Laptop,7,Premium
+United Kingdom,38,Female,Tablet,7,Standard
+Canada,36,Male,Smart TV,7,Premium
+Canada,30,Female,Smartphone,7,Standard
+Canada,49,Female,Tablet,7,Basic
+Spain,38,Male,Smartphone,7,Basic
+Brazil,35,Male,Smart TV,7,Basic
+United Kingdom,27,Male,Laptop,7,Standard
+United States,37,Male,Laptop,7,Basic
+Spain,37,Female,Tablet,7,Standard
+United Kingdom,46,Female,Smart TV,7,Standard
+Canada,43,Male,Tablet,7,Premium
+United States,44,Male,Tablet,7,Basic
+United States,35,Male,Tablet,7,Basic
+Germany,30,Male,Smart TV,7,Basic
+Brazil,35,Male,Smartphone,7,Basic
+United Kingdom,42,Female,Smartphone,7,Standard
+Canada,39,Male,Smart TV,7,Basic
+Mexico,48,Male,Smartphone,7,Standard
+Spain,42,Female,Laptop,7,Premium
+Australia,28,Male,Laptop,7,Standard
+Canada,39,Female,Smart TV,7,Basic
+Spain,29,Female,Tablet,7,Premium
+Brazil,29,Male,Smart TV,7,Basic
+Spain,40,Male,Smart TV,7,Basic
+Australia,48,Female,Smartphone,7,Basic
+Germany,35,Male,Smart TV,7,Standard
+Australia,33,Male,Smart TV,8,Premium
+France,44,Male,Tablet,8,Premium
+Italy,29,Male,Smart TV,8,Basic
+United States,33,Male,Laptop,8,Basic
+Spain,33,Male,Smart TV,8,Standard
+United Kingdom,43,Male,Smart TV,8,Standard
+United States,31,Female,Tablet,8,Basic
+Spain,33,Female,Smart TV,8,Basic
+Spain,37,Male,Smartphone,8,Basic
+Canada,51,Male,Tablet,9,Basic
+Spain,46,Male,Smart TV,9,Premium
+United States,29,Male,Smartphone,9,Basic
+United Kingdom,36,Male,Smartphone,9,Standard
+Canada,28,Female,Smartphone,9,Basic
+Spain,32,Male,Smart TV,9,Premium
+United Kingdom,35,Male,Smartphone,9,Standard
+United States,48,Female,Laptop,9,Standard
+Spain,31,Female,Laptop,9,Premium
+United Kingdom,35,Male,Tablet,9,Standard
+Canada,40,Female,Tablet,9,Standard
+Spain,27,Female,Smart TV,9,Standard
+Italy,35,Male,Smartphone,9,Basic
+Spain,36,Female,Smart TV,9,Premium
+Australia,39,Female,Smart TV,9,Premium
+Germany,42,Female,Laptop,9,Basic
+Australia,40,Female,Tablet,9,Premium
+Mexico,32,Male,Laptop,9,Standard
+Canada,51,Male,Tablet,9,Basic
+Mexico,41,Male,Laptop,9,Standard
+Spain,48,Female,Tablet,9,Standard
+United States,46,Female,Tablet,10,Premium
+France,41,Male,Smart TV,10,Premium
+Germany,39,Female,Smart TV,10,Basic
+Mexico,38,Female,Smartphone,10,Standard
+Spain,39,Female,Tablet,10,Standard
+Australia,32,Male,Laptop,10,Premium
+Canada,40,Female,Smartphone,10,Basic
+Spain,35,Female,Smart TV,10,Premium
+Italy,32,Female,Smart TV,10,Basic
+United States,33,Male,Smartphone,10,Premium
+Italy,36,Female,Smart TV,10,Basic
+France,44,Male,Laptop,10,Premium
+Brazil,42,Female,Smart TV,10,Premium
+Canada,47,Male,Tablet,10,Basic
+Germany,30,Male,Laptop,10,Basic
+United States,46,Male,Smartphone,10,Basic
+Spain,46,Female,Smart TV,11,Premium
+Mexico,45,Male,Smartphone,11,Standard
+Mexico,41,Female,Smartphone,11,Standard
+Australia,31,Female,Laptop,11,Standard
+Canada,37,Female,Laptop,11,Premium
+France,29,Female,Smart TV,3,Premium
+France,49,Female,Tablet,3,Premium
+United Kingdom,44,Female,Tablet,6,Standard
+United States,33,Female,Smart TV,6,Basic
+United States,29,Female,Smart TV,6,Basic
+Italy,38,Male,Smartphone,6,Basic
+United Kingdom,51,Female,Laptop,6,Standard
+Spain,47,Female,Smart TV,6,Premium
+Canada,42,Female,Tablet,6,Standard
+Germany,34,Male,Tablet,6,Basic
+Spain,39,Female,Smartphone,6,Premium
+Brazil,48,Male,Laptop,6,Basic
+Mexico,51,Female,Laptop,6,Standard
+Germany,47,Female,Smart TV,7,Basic
+United States,31,Female,Laptop,7,Basic
+France,45,Female,Laptop,7,Basic
+Spain,50,Female,Smart TV,7,Premium
+Spain,29,Male,Tablet,7,Premium
+United States,33,Female,Laptop,7,Standard
+Canada,28,Male,Tablet,7,Premium
+Brazil,28,Male,Tablet,7,Basic
+Mexico,45,Female,Smartphone,7,Standard
+France,41,Female,Tablet,7,Premium
+France,31,Male,Smart TV,7,Premium
+United States,42,Female,Smartphone,7,Basic
+Spain,39,Female,Smartphone,7,Standard
+United Kingdom,30,Female,Laptop,7,Standard
+United Kingdom,29,Female,Smartphone,7,Standard
+France,41,Female,Smartphone,7,Premium
+France,31,Female,Laptop,8,Premium
+United States,37,Male,Tablet,8,Basic
+France,37,Male,Smart TV,8,Basic
+Germany,47,Male,Laptop,8,Basic
+Spain,44,Female,Laptop,8,Premium
+Germany,29,Female,Smartphone,8,Basic
+Mexico,48,Male,Smart TV,8,Standard
+United Kingdom,50,Male,Smartphone,8,Standard
+Brazil,48,Male,Smart TV,8,Basic
+United States,30,Male,Smart TV,8,Premium
+United States,31,Female,Laptop,8,Premium
+Brazil,47,Female,Smart TV,9,Basic
+Italy,37,Female,Tablet,9,Basic
+Australia,28,Female,Tablet,9,Premium
+United Kingdom,35,Female,Smartphone,9,Standard
+Australia,28,Male,Smart TV,9,Basic
+Mexico,29,Male,Tablet,9,Standard
+Germany,37,Female,Laptop,9,Standard
+Italy,29,Male,Smart TV,9,Basic
+Canada,32,Female,Laptop,9,Premium
+Mexico,32,Male,Tablet,9,Standard
+Spain,49,Male,Smart TV,9,Basic
+Mexico,43,Male,Smartphone,10,Standard
+Italy,30,Female,Smart TV,10,Basic
+Mexico,49,Female,Laptop,10,Standard
+Brazil,39,Male,Smartphone,10,Basic
+Italy,36,Female,Smart TV,10,Basic
+Mexico,37,Female,Smart TV,10,Standard
+Canada,39,Female,Tablet,10,Basic
+Spain,51,Male,Tablet,10,Basic
+Mexico,30,Female,Tablet,10,Standard
+Spain,31,Male,Smart TV,10,Premium
+Germany,32,Male,Laptop,10,Basic
+United States,37,Female,Tablet,10,Basic
+United Kingdom,29,Female,Tablet,10,Standard
+Spain,33,Female,Laptop,10,Basic
+United Kingdom,34,Female,Laptop,10,Standard
+Brazil,29,Male,Smart TV,10,Basic
+United States,33,Male,Smart TV,10,Premium
+Italy,42,Male,Laptop,10,Basic
+France,46,Male,Tablet,10,Premium
+Mexico,49,Male,Tablet,11,Standard
+Australia,48,Male,Smartphone,11,Premium
+Germany,28,Male,Tablet,11,Basic
+Spain,51,Male,Laptop,11,Standard
+Spain,28,Female,Laptop,11,Premium
+Mexico,37,Female,Smart TV,11,Standard
+Australia,44,Male,Smartphone,3,Premium
+Canada,31,Male,Laptop,4,Premium
+France,45,Female,Smart TV,5,Premium
+Australia,35,Female,Smartphone,5,Standard
+United Kingdom,40,Female,Tablet,6,Standard
+Spain,35,Female,Smart TV,6,Premium
+Canada,27,Female,Tablet,6,Premium
+United States,30,Male,Tablet,6,Premium
+Canada,47,Male,Tablet,6,Basic
+Australia,40,Male,Tablet,6,Premium
+United States,43,Male,Smart TV,6,Standard
+Brazil,39,Female,Tablet,7,Premium
+Spain,46,Female,Tablet,7,Standard
+Italy,37,Male,Laptop,7,Basic
+Mexico,45,Male,Smart TV,7,Standard
+United States,41,Female,Smart TV,7,Standard
+Italy,42,Male,Smart TV,7,Basic
+Canada,51,Male,Laptop,7,Basic
+United Kingdom,29,Female,Tablet,7,Standard
+Spain,39,Female,Laptop,7,Basic
+Italy,31,Female,Smartphone,7,Basic
+Italy,47,Male,Smartphone,7,Basic
+Australia,43,Female,Smart TV,7,Premium
+France,44,Male,Tablet,7,Premium
+United States,30,Male,Laptop,7,Standard
+Brazil,29,Female,Laptop,7,Basic
+France,47,Male,Smartphone,8,Premium
+Australia,37,Male,Laptop,8,Standard
+France,32,Female,Smartphone,8,Premium
+Canada,35,Male,Tablet,8,Standard
+Brazil,28,Female,Tablet,8,Basic
+Spain,37,Male,Laptop,9,Basic
+United Kingdom,44,Female,Tablet,9,Standard
+United States,39,Male,Smartphone,9,Premium
+Spain,39,Female,Smartphone,9,Premium
+United States,27,Male,Laptop,9,Premium
+Mexico,41,Male,Smartphone,9,Standard
+United Kingdom,37,Female,Laptop,9,Standard
+Spain,29,Male,Tablet,9,Standard
+United Kingdom,50,Male,Tablet,9,Standard
+United States,49,Male,Tablet,9,Basic
+United Kingdom,50,Male,Laptop,9,Standard
+Mexico,47,Female,Smartphone,10,Basic
+Mexico,49,Female,Laptop,10,Standard
+France,41,Female,Smartphone,10,Premium
+Spain,51,Female,Tablet,10,Standard
+Italy,49,Male,Smartphone,10,Basic
+Australia,44,Female,Smart TV,10,Basic
+Germany,46,Female,Tablet,10,Basic
+Canada,40,Male,Smart TV,10,Premium
+France,51,Female,Smartphone,10,Premium
+Spain,49,Male,Laptop,10,Premium
+Spain,48,Female,Tablet,10,Premium
+United States,29,Male,Tablet,10,Basic
+United States,37,Female,Tablet,10,Premium
+Mexico,41,Female,Smartphone,10,Standard
+Canada,41,Male,Smartphone,10,Basic
+Spain,49,Male,Smart TV,10,Premium
+Canada,46,Female,Smart TV,11,Basic
+Canada,27,Male,Laptop,11,Basic
+Spain,36,Female,Laptop,12,Premium
+United States,31,Female,Laptop,1,Premium
+Spain,49,Male,Tablet,1,Premium
+Germany,47,Male,Smart TV,4,Basic
+Germany,39,Female,Smart TV,4,Basic
+Australia,48,Female,Smart TV,5,Premium
+Germany,46,Female,Smart TV,5,Basic
+Australia,29,Male,Tablet,6,Standard
+France,39,Female,Smartphone,6,Basic
+France,49,Male,Laptop,6,Basic
+Italy,31,Male,Tablet,6,Basic
+United States,36,Female,Laptop,6,Basic
+Spain,40,Female,Smartphone,6,Premium
+United States,46,Female,Smartphone,6,Premium
+United Kingdom,36,Male,Smartphone,6,Standard
+Italy,43,Female,Smart TV,6,Basic
+United States,50,Female,Smart TV,7,Premium
+Germany,33,Male,Smart TV,7,Basic
+United States,30,Female,Laptop,7,Basic
+France,48,Female,Laptop,7,Basic
+Spain,49,Female,Tablet,7,Basic
+United States,45,Female,Tablet,7,Basic
+United States,36,Male,Smartphone,7,Premium
+Spain,43,Female,Smartphone,7,Premium
+Canada,41,Female,Laptop,7,Standard
+Mexico,33,Male,Smart TV,7,Standard
+United States,41,Male,Laptop,8,Premium
+Spain,31,Male,Smart TV,8,Premium
+Spain,38,Female,Smartphone,8,Premium
+Brazil,34,Male,Smartphone,8,Premium
+United States,47,Female,Smartphone,8,Basic
+United States,49,Female,Smartphone,8,Basic
+United States,42,Male,Smartphone,8,Basic
+Italy,43,Male,Smartphone,8,Basic
+Canada,39,Male,Smartphone,8,Standard
+Australia,38,Female,Laptop,8,Basic
+France,36,Male,Tablet,8,Premium
+Canada,41,Female,Smart TV,8,Basic
+Canada,41,Male,Smartphone,8,Premium
+Spain,44,Female,Smartphone,9,Standard
+Canada,38,Male,Laptop,9,Basic
+United States,33,Male,Tablet,9,Basic
+United States,35,Male,Tablet,9,Standard
+Mexico,44,Male,Laptop,9,Standard
+France,31,Male,Smartphone,9,Premium
+Italy,31,Female,Tablet,9,Basic
+Spain,37,Male,Smartphone,10,Standard
+United Kingdom,46,Female,Smartphone,10,Basic
+Spain,39,Male,Smartphone,10,Basic
+Mexico,51,Male,Smart TV,10,Standard
+United States,29,Male,Tablet,10,Basic
+Germany,41,Male,Laptop,10,Standard
+Canada,42,Male,Laptop,10,Basic
+Brazil,32,Female,Tablet,10,Basic
+Italy,48,Female,Smart TV,10,Basic
+Australia,37,Female,Laptop,10,Basic
+Australia,29,Male,Laptop,10,Premium
+United States,27,Male,Smart TV,10,Standard
+Spain,28,Female,Laptop,10,Standard
+Spain,50,Female,Tablet,10,Basic
+United States,50,Female,Tablet,10,Basic
+Spain,34,Female,Smart TV,11,Standard
+Spain,41,Male,Smartphone,11,Premium
+Germany,41,Female,Laptop,11,Basic
+United States,50,Female,Laptop,11,Basic
+United Kingdom,41,Female,Laptop,1,Standard
+Australia,28,Male,Laptop,4,Basic
+United Kingdom,45,Female,Tablet,5,Standard
+Spain,27,Male,Smartphone,6,Standard
+Brazil,42,Female,Laptop,6,Basic
+Germany,38,Male,Tablet,6,Basic
+Canada,41,Male,Smart TV,6,Basic
+Spain,41,Male,Smartphone,6,Premium
+Spain,51,Male,Smart TV,6,Basic
+Mexico,38,Male,Laptop,7,Standard
+Canada,42,Male,Smartphone,7,Basic
+Spain,33,Female,Tablet,7,Premium
+United States,45,Female,Smart TV,7,Premium
+Italy,39,Male,Smartphone,7,Basic
+United States,39,Male,Tablet,7,Basic
+Spain,36,Male,Smart TV,7,Premium
+Germany,42,Male,Smartphone,8,Basic
+Australia,47,Female,Laptop,8,Premium
+Canada,32,Female,Laptop,8,Basic
+United States,39,Male,Tablet,8,Basic
+Brazil,47,Female,Laptop,8,Basic
+Canada,40,Female,Tablet,8,Premium
+Brazil,42,Male,Laptop,8,Premium
+Spain,40,Female,Laptop,8,Standard
+Brazil,49,Female,Smartphone,8,Basic
+United States,43,Male,Smartphone,8,Basic
+France,45,Male,Laptop,9,Premium
+Mexico,28,Male,Laptop,9,Standard
+Brazil,29,Male,Smartphone,9,Basic
+Brazil,31,Male,Smart TV,9,Basic
+France,31,Male,Smartphone,9,Premium
+Italy,28,Male,Laptop,9,Basic
+Spain,41,Female,Smartphone,9,Basic
+France,30,Female,Tablet,9,Premium
+Germany,40,Female,Laptop,9,Basic
+Mexico,47,Female,Smart TV,10,Standard
+Canada,32,Female,Laptop,10,Standard
+United States,35,Male,Smartphone,10,Basic
+Australia,40,Male,Smartphone,10,Premium
+United States,44,Male,Laptop,10,Premium
+Spain,35,Male,Laptop,10,Premium
+United States,36,Male,Smart TV,10,Premium
+Mexico,34,Female,Tablet,10,Standard
+United Kingdom,45,Female,Smartphone,10,Standard
+United Kingdom,51,Male,Tablet,10,Standard
+Spain,39,Female,Laptop,10,Basic
+Brazil,28,Female,Laptop,10,Basic
+Canada,35,Male,Smart TV,10,Basic
+United States,28,Female,Smartphone,10,Basic
+Germany,33,Female,Laptop,10,Standard
+Canada,35,Female,Smartphone,10,Standard
+Spain,28,Male,Smart TV,10,Standard
+Mexico,49,Female,Smartphone,10,Standard
+Brazil,27,Male,Tablet,10,Basic
+Italy,43,Female,Tablet,11,Basic
+Spain,38,Male,Smartphone,11,Basic
+France,37,Male,Smart TV,11,Premium
+Brazil,49,Female,Tablet,11,Basic
+United States,33,Male,Tablet,11,Premium
+Spain,51,Female,Smart TV,12,Standard
+Italy,35,Male,Laptop,1,Basic
+Germany,47,Female,Laptop,4,Basic
+Australia,32,Male,Tablet,5,Standard
+Germany,44,Male,Smartphone,5,Premium
+United States,33,Female,Smartphone,6,Premium
+Brazil,47,Female,Laptop,6,Basic
+Italy,49,Female,Smart TV,6,Basic
+United States,48,Female,Smart TV,6,Basic
+Spain,46,Male,Smartphone,6,Premium
+Spain,33,Female,Smartphone,6,Basic
+Canada,47,Female,Smartphone,6,Standard
+Australia,28,Male,Smartphone,6,Premium
+Mexico,42,Female,Smart TV,6,Standard
+Canada,43,Male,Laptop,6,Basic
+France,33,Male,Smart TV,6,Premium
+Australia,45,Female,Tablet,6,Standard
+United States,47,Female,Smart TV,6,Standard
+Brazil,42,Female,Smartphone,6,Basic
+Canada,34,Male,Smartphone,7,Basic
+Spain,35,Female,Smart TV,7,Premium
+Canada,31,Male,Tablet,7,Basic
+Canada,38,Female,Laptop,7,Basic
+Australia,46,Female,Smartphone,7,Premium
+Spain,47,Male,Laptop,7,Standard
+United States,35,Female,Laptop,7,Premium
+United States,35,Female,Smartphone,7,Standard
+Canada,37,Female,Tablet,7,Premium
+Mexico,38,Male,Laptop,7,Standard
+Spain,43,Male,Smart TV,7,Standard
+Spain,41,Male,Laptop,7,Premium
+Germany,49,Male,Laptop,7,Basic
+Australia,46,Male,Smart TV,7,Basic
+Germany,37,Male,Smart TV,7,Standard
+Spain,32,Female,Smartphone,8,Premium
+France,27,Female,Smartphone,8,Premium
+France,48,Female,Smart TV,8,Premium
+Spain,43,Male,Tablet,8,Standard
+Mexico,29,Male,Laptop,8,Standard
+United States,44,Female,Smart TV,8,Standard
+Mexico,48,Male,Tablet,8,Standard
+Canada,29,Male,Tablet,9,Standard
+Canada,46,Male,Smartphone,9,Premium
+Canada,46,Female,Smart TV,9,Basic
+Canada,39,Female,Smart TV,9,Basic
+Canada,43,Female,Smartphone,9,Standard
+Spain,41,Male,Smartphone,9,Premium
+Italy,46,Female,Smartphone,10,Basic
+France,47,Male,Laptop,10,Premium
+Spain,30,Female,Smart TV,10,Standard
+Spain,30,Female,Smartphone,10,Basic
+France,27,Male,Smart TV,10,Premium
+Spain,30,Male,Smartphone,10,Premium
+Italy,41,Female,Tablet,10,Basic
+Spain,29,Female,Smart TV,10,Premium
+Germany,44,Female,Smart TV,10,Basic
+Canada,47,Male,Tablet,10,Premium
+Spain,40,Male,Smart TV,10,Standard
+United Kingdom,37,Male,Smart TV,10,Standard
+Italy,32,Female,Smartphone,10,Basic
+United States,51,Male,Smart TV,10,Standard
+Italy,49,Female,Laptop,11,Basic
+Italy,46,Female,Smart TV,11,Basic
+Italy,38,Male,Laptop,11,Basic
+Spain,43,Male,Smartphone,11,Premium
+France,34,Male,Smartphone,2,Premium
+United Kingdom,41,Female,Smart TV,2,Standard
+Canada,45,Male,Tablet,3,Premium
+Australia,39,Female,Tablet,4,Standard
+Brazil,27,Female,Smartphone,5,Basic
+United States,42,Male,Laptop,6,Premium
+Spain,31,Male,Smart TV,6,Premium
+France,45,Female,Smart TV,6,Premium
+United Kingdom,42,Female,Smart TV,6,Standard
+Italy,28,Male,Smartphone,6,Basic
+Canada,39,Male,Smart TV,6,Premium
+Mexico,41,Female,Smartphone,6,Standard
+United States,51,Male,Smart TV,6,Premium
+Canada,40,Male,Smart TV,6,Basic
+Italy,42,Female,Tablet,6,Basic
+United Kingdom,28,Male,Smartphone,7,Standard
+Spain,42,Male,Tablet,7,Standard
+France,48,Male,Laptop,7,Premium
+Canada,29,Male,Smartphone,7,Basic
+Italy,44,Male,Laptop,7,Basic
+Spain,49,Male,Smartphone,7,Standard
+Brazil,40,Male,Smartphone,7,Premium
+United States,34,Male,Laptop,7,Standard
+Brazil,30,Female,Smartphone,7,Basic
+Germany,27,Male,Smart TV,7,Basic
+United States,50,Male,Smart TV,7,Basic
+United States,51,Male,Smartphone,7,Premium
+Italy,43,Female,Laptop,7,Basic
+Germany,39,Female,Smartphone,8,Basic
+Germany,32,Female,Tablet,8,Basic
+Spain,44,Female,Smartphone,8,Premium
+Italy,41,Male,Laptop,8,Basic
+United States,29,Female,Laptop,8,Basic
+Germany,49,Male,Smart TV,8,Basic
+Canada,29,Male,Tablet,8,Basic
+Spain,42,Male,Laptop,8,Basic
+United Kingdom,28,Male,Tablet,8,Standard
+United States,30,Male,Laptop,9,Premium
+Brazil,39,Male,Smartphone,9,Basic
+United States,42,Female,Smart TV,9,Standard
+Spain,30,Male,Tablet,9,Basic
+United States,47,Male,Smart TV,9,Basic
+Spain,28,Male,Tablet,9,Premium
+France,40,Male,Tablet,9,Basic
+United States,37,Male,Tablet,9,Basic
+Spain,48,Female,Smart TV,9,Basic
+United States,37,Female,Tablet,9,Standard
+Germany,45,Female,Smartphone,9,Basic
+Brazil,50,Female,Smart TV,9,Basic
+Canada,40,Female,Smartphone,9,Premium
+United States,49,Female,Smart TV,9,Standard
+United States,45,Male,Tablet,10,Basic
+Brazil,32,Male,Laptop,10,Basic
+Brazil,47,Male,Smart TV,10,Basic
+Spain,37,Female,Smart TV,10,Standard
+United States,27,Male,Smart TV,10,Premium
+United Kingdom,42,Female,Tablet,10,Standard
+Spain,31,Male,Laptop,10,Basic
+United States,29,Female,Laptop,10,Standard
+United States,33,Female,Laptop,10,Premium
+Italy,47,Male,Smartphone,10,Basic
+United States,36,Male,Laptop,10,Premium
+Canada,51,Male,Smart TV,10,Premium
+United States,45,Female,Smart TV,10,Basic
+Spain,32,Male,Smart TV,10,Premium
+Spain,33,Male,Smart TV,10,Standard
+Australia,37,Male,Smart TV,10,Premium
+United States,48,Male,Laptop,10,Standard
+Mexico,33,Male,Smartphone,10,Standard
+United Kingdom,34,Female,Laptop,10,Standard
+United States,40,Female,Smartphone,10,Standard
+Brazil,48,Female,Laptop,10,Basic
+United States,43,Female,Tablet,10,Premium
+France,33,Female,Tablet,10,Premium
+United States,41,Female,Laptop,10,Premium
+Italy,43,Male,Tablet,10,Basic
+Mexico,34,Male,Smart TV,10,Standard
+Australia,40,Female,Smartphone,10,Premium
+Australia,35,Male,Tablet,10,Premium
+Brazil,36,Male,Smartphone,11,Basic
+Canada,33,Female,Tablet,11,Premium
+Spain,36,Female,Laptop,12,Premium
+Spain,38,Male,Smart TV,12,Basic
+Brazil,30,Female,Laptop,1,Basic
+Spain,40,Male,Smartphone,3,Standard
+Mexico,27,Female,Smart TV,5,Standard
+Germany,47,Male,Smart TV,5,Basic
+Canada,48,Female,Smart TV,6,Basic
+United Kingdom,47,Male,Smart TV,6,Standard
+Germany,41,Male,Tablet,6,Basic
+Germany,40,Male,Laptop,6,Basic
+France,45,Male,Tablet,6,Premium
+Australia,50,Male,Tablet,6,Standard
+United States,42,Female,Smart TV,6,Premium
+Australia,27,Female,Tablet,6,Standard
+Canada,46,Female,Tablet,6,Premium
+Germany,36,Male,Smartphone,6,Basic
+Australia,49,Male,Smartphone,6,Premium
+France,51,Male,Tablet,6,Premium
+United States,37,Male,Laptop,6,Basic
+Spain,34,Female,Laptop,6,Premium
+Australia,47,Female,Laptop,6,Basic
+Germany,48,Female,Smart TV,6,Standard
+United States,49,Male,Laptop,6,Basic
+United Kingdom,43,Female,Smart TV,7,Standard
+Mexico,27,Male,Tablet,7,Basic
+Brazil,28,Female,Smartphone,7,Premium
+Canada,36,Male,Laptop,7,Basic
+Italy,30,Male,Tablet,7,Basic
+Spain,51,Male,Smartphone,7,Premium
+Germany,37,Male,Smartphone,7,Basic
+Canada,38,Female,Laptop,7,Standard
+United States,32,Female,Laptop,7,Basic
+United States,43,Male,Smart TV,7,Basic
+France,34,Female,Laptop,7,Premium
+Brazil,27,Male,Smart TV,7,Basic
+Canada,39,Female,Tablet,7,Basic
+United States,44,Female,Laptop,8,Premium
+United Kingdom,41,Female,Smartphone,8,Standard
+Brazil,50,Male,Laptop,8,Basic
+United States,50,Female,Tablet,8,Basic
+Spain,33,Male,Tablet,8,Premium
+Australia,40,Female,Smartphone,8,Standard
+France,34,Male,Smartphone,9,Premium
+United States,34,Male,Tablet,9,Standard
+United States,45,Male,Smart TV,9,Premium
+United States,34,Male,Smartphone,9,Basic
+United Kingdom,30,Female,Smartphone,9,Standard
+United States,36,Female,Smartphone,9,Standard
+Australia,40,Female,Smartphone,9,Standard
+Mexico,28,Male,Smartphone,10,Standard
+Mexico,35,Male,Smart TV,10,Standard
+Canada,49,Female,Tablet,10,Basic
+France,46,Female,Smartphone,10,Premium
+Spain,32,Male,Smart TV,10,Premium
+United States,46,Male,Smartphone,10,Basic
+United States,29,Female,Tablet,10,Basic
+Italy,34,Female,Tablet,10,Basic
+Germany,36,Male,Tablet,10,Basic
+Canada,42,Female,Tablet,10,Standard
+Germany,28,Female,Smartphone,10,Basic
+Spain,29,Female,Tablet,10,Basic
+United States,34,Female,Smartphone,10,Basic
+United States,41,Male,Tablet,10,Standard
+Mexico,43,Male,Tablet,10,Standard
+United States,47,Female,Smartphone,10,Standard
+Canada,36,Male,Laptop,10,Premium
+Australia,29,Male,Smartphone,5,Standard
+United Kingdom,49,Female,Smartphone,5,Standard
+Germany,49,Male,Tablet,5,Standard
+United Kingdom,33,Male,Laptop,5,Standard
+United States,30,Male,Laptop,6,Premium
+Australia,50,Female,Smartphone,6,Premium
+Canada,41,Male,Smart TV,6,Basic
+United Kingdom,39,Male,Smart TV,6,Standard
+United States,31,Male,Smart TV,6,Basic
+Mexico,35,Female,Smart TV,6,Standard
+Spain,41,Male,Laptop,6,Standard
+Germany,40,Female,Smart TV,6,Basic
+Spain,48,Female,Smartphone,6,Standard
+United Kingdom,38,Male,Laptop,6,Standard
+Spain,47,Female,Laptop,6,Premium
+Spain,40,Female,Laptop,6,Basic
+France,51,Female,Tablet,6,Premium
+Canada,50,Male,Smartphone,6,Standard
+United States,33,Male,Smart TV,6,Premium
+United Kingdom,46,Male,Smartphone,7,Standard
+United Kingdom,43,Male,Tablet,7,Standard
+United Kingdom,35,Male,Smartphone,7,Standard
+Spain,48,Female,Laptop,7,Premium
+Mexico,31,Female,Tablet,7,Standard
+United States,29,Male,Laptop,7,Premium
+Canada,35,Female,Tablet,7,Basic
+Australia,39,Male,Smart TV,7,Premium
+France,47,Male,Smartphone,7,Premium
+United States,47,Female,Tablet,7,Premium
+United States,40,Female,Smartphone,7,Basic
+Canada,35,Male,Smart TV,7,Premium
+Spain,28,Female,Smart TV,7,Premium
+Brazil,44,Female,Tablet,8,Basic
+United Kingdom,28,Male,Smart TV,8,Standard
+Australia,40,Male,Smartphone,8,Standard
+United States,29,Male,Smartphone,8,Premium
+Italy,28,Female,Laptop,8,Basic
+Spain,41,Female,Laptop,8,Premium
+Mexico,42,Male,Laptop,8,Standard
+Italy,51,Female,Tablet,8,Basic
+Australia,45,Male,Smart TV,8,Premium
+Germany,37,Male,Smartphone,8,Standard
+Australia,50,Male,Smartphone,8,Premium
+United States,49,Male,Smart TV,8,Standard
+United States,45,Female,Smartphone,8,Basic
+Canada,36,Male,Smartphone,9,Basic
+Mexico,42,Male,Laptop,9,Standard
+United States,41,Female,Laptop,9,Standard
+Canada,41,Female,Tablet,9,Basic
+Mexico,51,Female,Smart TV,9,Standard
+United States,50,Female,Laptop,9,Basic
+Spain,39,Male,Laptop,9,Premium
+United States,40,Female,Tablet,9,Basic
+Spain,46,Female,Smartphone,10,Premium
+Italy,38,Female,Smart TV,10,Basic
+Brazil,32,Male,Smart TV,10,Basic
+United States,27,Female,Laptop,10,Basic
+United States,49,Male,Laptop,10,Basic
+Spain,46,Male,Tablet,10,Premium
+France,39,Female,Laptop,10,Basic
+Canada,35,Male,Smart TV,10,Basic
+Spain,47,Female,Laptop,10,Premium
+Germany,40,Female,Smartphone,10,Basic
+Australia,47,Male,Tablet,10,Standard
+Canada,36,Male,Laptop,10,Basic
+Brazil,46,Male,Smartphone,10,Basic
+Spain,45,Female,Smart TV,10,Premium
+France,31,Male,Tablet,10,Basic
+United States,35,Female,Smart TV,10,Basic
+Italy,51,Female,Laptop,10,Basic
+Spain,33,Male,Smart TV,10,Standard
+Canada,47,Male,Smartphone,10,Standard
+United Kingdom,41,Male,Smart TV,10,Standard
+Italy,48,Male,Smartphone,11,Basic
+United States,36,Female,Laptop,11,Premium
+Brazil,45,Female,Smartphone,12,Premium
+United Kingdom,47,Male,Smartphone,12,Standard
+United States,27,Male,Smartphone,1,Basic
+Italy,37,Female,Laptop,1,Basic
+Australia,29,Male,Tablet,4,Standard
+Australia,28,Female,Laptop,4,Standard
+Australia,28,Male,Smartphone,4,Premium
+United Kingdom,36,Female,Tablet,5,Standard
+Australia,44,Female,Laptop,5,Standard
+Canada,50,Female,Smartphone,6,Basic
+Canada,31,Female,Tablet,6,Basic
+Spain,34,Female,Tablet,6,Premium
+Mexico,44,Female,Smartphone,6,Standard
+Italy,36,Male,Smartphone,6,Basic
+Italy,28,Male,Smart TV,6,Basic
+Brazil,38,Female,Laptop,6,Basic
+United States,48,Female,Smart TV,6,Basic
+United States,36,Male,Smart TV,6,Premium
+Germany,39,Male,Laptop,6,Basic
+Mexico,51,Male,Laptop,6,Standard
+Spain,40,Male,Tablet,6,Premium
+Spain,29,Female,Smartphone,6,Basic
+Canada,29,Male,Smartphone,6,Basic
+United Kingdom,35,Female,Tablet,6,Standard
+Spain,46,Female,Laptop,6,Premium
+Spain,51,Female,Tablet,6,Premium
+Spain,51,Male,Tablet,6,Basic
+United States,50,Female,Smartphone,6,Standard
+France,51,Female,Laptop,6,Premium
+United Kingdom,38,Female,Tablet,6,Standard
+United States,27,Male,Laptop,6,Standard
+Brazil,28,Female,Smartphone,6,Basic
+United States,42,Female,Laptop,6,Standard
+Brazil,29,Male,Smart TV,6,Basic
+United States,50,Male,Smart TV,6,Basic
+Italy,51,Female,Smart TV,6,Basic
+France,32,Male,Laptop,7,Premium
+Mexico,45,Female,Tablet,7,Standard
+France,44,Female,Smart TV,7,Premium
+Brazil,41,Male,Smartphone,7,Basic
+United States,42,Male,Tablet,7,Basic
+Spain,38,Male,Smartphone,7,Basic
+Canada,35,Male,Smartphone,7,Standard
+Australia,42,Female,Smartphone,7,Premium
+Mexico,35,Male,Smartphone,7,Standard
+United Kingdom,51,Male,Smartphone,7,Standard
+United Kingdom,45,Male,Laptop,7,Standard
+United Kingdom,44,Male,Smartphone,7,Standard
+Spain,37,Female,Laptop,7,Premium
+Spain,49,Male,Smart TV,7,Basic
+Canada,45,Female,Tablet,7,Standard
+Brazil,33,Male,Smartphone,7,Basic
+Germany,50,Female,Smartphone,8,Basic
+Brazil,37,Female,Tablet,8,Basic
+Canada,30,Female,Tablet,8,Premium
+Italy,50,Male,Smart TV,8,Basic
+Spain,42,Female,Smartphone,8,Basic
+Canada,50,Female,Tablet,8,Standard
+Canada,28,Female,Smart TV,8,Premium
+Italy,36,Male,Laptop,9,Basic
+Canada,34,Female,Smart TV,9,Standard
+Canada,46,Male,Tablet,9,Premium
+Brazil,44,Female,Tablet,9,Basic
+Canada,46,Male,Smart TV,9,Basic
+Canada,50,Male,Smartphone,9,Premium
+United States,33,Female,Laptop,9,Basic
+Spain,49,Male,Tablet,10,Premium
+Spain,36,Female,Smartphone,10,Premium
+Spain,49,Female,Tablet,10,Premium
+United States,43,Male,Laptop,10,Premium
+France,50,Female,Smartphone,10,Premium
+Brazil,33,Female,Tablet,10,Premium
+France,31,Female,Laptop,10,Basic
+Spain,31,Female,Laptop,10,Premium
+Italy,51,Female,Smart TV,10,Basic
+Mexico,33,Male,Laptop,10,Standard
+United Kingdom,47,Male,Laptop,10,Standard
+Canada,28,Female,Tablet,10,Premium
+United States,41,Male,Tablet,10,Basic
+Mexico,40,Female,Laptop,10,Standard
+Spain,40,Female,Smartphone,10,Basic
+Italy,29,Male,Tablet,11,Basic
+United States,47,Male,Smartphone,11,Basic
+United States,30,Female,Smart TV,2,Premium
+Canada,39,Female,Smartphone,4,Basic
+Canada,50,Male,Laptop,5,Premium
+United Kingdom,36,Female,Laptop,5,Standard
+France,50,Female,Laptop,5,Premium
+Italy,41,Male,Tablet,5,Basic
+Italy,38,Male,Smartphone,6,Standard
+Canada,50,Male,Laptop,6,Basic
+Germany,28,Male,Smart TV,6,Basic
+France,49,Female,Laptop,6,Premium
+Mexico,42,Female,Smart TV,6,Standard
+United States,49,Female,Smartphone,6,Basic
+United States,39,Female,Laptop,6,Basic
+Spain,44,Male,Tablet,6,Premium
+Canada,50,Male,Tablet,6,Basic
+United States,42,Female,Smart TV,6,Standard
+France,40,Female,Smartphone,6,Premium
+Brazil,32,Male,Smart TV,6,Basic
+United States,51,Male,Smartphone,6,Basic
+Canada,36,Female,Tablet,6,Basic
+Canada,35,Male,Smart TV,6,Standard
+Mexico,31,Female,Laptop,6,Standard
+Canada,33,Male,Smart TV,6,Standard
+United States,47,Female,Smart TV,6,Basic
+Mexico,43,Female,Laptop,6,Standard
+Canada,28,Female,Smart TV,6,Premium
+Spain,40,Female,Smart TV,6,Standard
+Spain,30,Female,Smart TV,6,Premium
+Australia,30,Male,Tablet,6,Premium
+Australia,37,Male,Smartphone,7,Standard
+United Kingdom,46,Female,Smartphone,7,Standard
+Mexico,37,Male,Smartphone,7,Standard
+United Kingdom,51,Male,Laptop,7,Standard
+Mexico,43,Female,Smartphone,7,Standard
+Spain,32,Female,Smartphone,7,Basic
+Spain,40,Female,Tablet,7,Basic
+France,47,Female,Smartphone,7,Premium
+Spain,31,Male,Tablet,7,Premium
+Italy,30,Female,Smart TV,7,Basic
+United States,47,Female,Smartphone,7,Standard
+Spain,47,Female,Tablet,7,Basic
+Spain,44,Female,Tablet,7,Premium
+Brazil,37,Male,Laptop,8,Premium
+Canada,30,Male,Smart TV,8,Basic
+United Kingdom,39,Male,Smart TV,8,Standard
+Spain,37,Male,Smart TV,8,Premium
+France,35,Female,Smartphone,8,Premium
+Germany,39,Female,Smartphone,8,Basic
+France,34,Female,Laptop,8,Basic
+Canada,49,Male,Laptop,8,Basic
+France,31,Male,Laptop,8,Premium
+Spain,36,Male,Laptop,8,Premium
+United States,27,Male,Smartphone,8,Premium
+Mexico,40,Female,Smart TV,8,Standard
+United Kingdom,42,Male,Tablet,8,Standard
+United States,45,Male,Tablet,8,Standard
+Mexico,33,Male,Tablet,9,Standard
+United Kingdom,28,Female,Laptop,9,Standard
+Mexico,47,Male,Tablet,9,Standard
+Brazil,30,Male,Laptop,9,Standard
+Brazil,45,Male,Tablet,9,Basic
+France,35,Male,Smartphone,9,Basic
+Mexico,34,Female,Laptop,9,Standard
+United States,36,Female,Laptop,9,Basic
+Mexico,37,Female,Tablet,9,Standard
+Australia,31,Male,Smart TV,9,Standard
+United Kingdom,35,Male,Laptop,9,Standard
+United States,31,Male,Laptop,9,Premium
+Spain,37,Male,Tablet,9,Standard
+United States,48,Male,Laptop,9,Standard
+Mexico,44,Male,Laptop,9,Standard
+Spain,46,Male,Smartphone,9,Standard
+Brazil,31,Male,Smartphone,9,Premium
+France,48,Female,Smartphone,9,Premium
+Italy,39,Male,Smartphone,10,Premium
+Mexico,31,Male,Smart TV,10,Basic
+Australia,47,Female,Laptop,10,Standard
+Germany,41,Male,Laptop,10,Basic
+France,49,Female,Laptop,10,Premium
+Spain,36,Female,Tablet,10,Premium
+Italy,40,Female,Laptop,10,Basic
+Australia,29,Female,Smart TV,10,Premium
+United States,46,Male,Smart TV,10,Basic
+United States,48,Female,Smart TV,10,Basic
+Italy,47,Male,Laptop,10,Basic
+Australia,41,Male,Smart TV,10,Premium
+Germany,37,Male,Laptop,10,Basic
+Germany,43,Female,Laptop,10,Basic
+Canada,46,Female,Tablet,10,Premium
+Spain,28,Male,Smartphone,10,Standard
+Australia,49,Male,Laptop,10,Standard
+Canada,37,Female,Tablet,10,Premium
+Mexico,28,Male,Smartphone,10,Standard
+United Kingdom,31,Male,Smart TV,10,Standard
+Spain,45,Male,Smart TV,10,Standard
+Brazil,48,Female,Smartphone,10,Premium
+Brazil,27,Male,Laptop,10,Basic
+United States,38,Male,Smart TV,10,Basic
+United States,36,Female,Smartphone,10,Basic
+Spain,51,Female,Smart TV,10,Premium
+Mexico,39,Female,Smartphone,11,Standard
+Australia,40,Female,Smartphone,11,Premium
+Germany,43,Female,Laptop,1,Basic
+Germany,34,Male,Laptop,2,Basic
+United Kingdom,42,Male,Smart TV,2,Standard
+Germany,47,Female,Smart TV,4,Standard
+Germany,28,Female,Laptop,5,Basic
+Australia,51,Female,Tablet,5,Standard
+France,46,Female,Smartphone,6,Basic
+Mexico,32,Male,Smart TV,6,Standard
+Canada,46,Male,Tablet,6,Basic
+Spain,30,Male,Smart TV,6,Basic
+United States,33,Male,Smartphone,6,Standard
+France,43,Female,Laptop,6,Premium
+Canada,35,Female,Smartphone,6,Premium
+United States,32,Female,Laptop,6,Basic
+Brazil,27,Male,Tablet,6,Basic
+Mexico,28,Female,Laptop,6,Standard
+Australia,48,Female,Laptop,6,Premium
+Canada,41,Male,Laptop,6,Premium
+United Kingdom,45,Female,Smartphone,6,Standard
+Spain,50,Male,Smart TV,6,Standard
+Germany,32,Male,Tablet,6,Basic
+France,38,Male,Smart TV,6,Basic
+United States,44,Female,Tablet,6,Basic
+Australia,34,Male,Smart TV,7,Standard
+France,28,Female,Tablet,7,Premium
+United States,47,Female,Laptop,7,Premium
+Germany,47,Male,Laptop,7,Basic
+Australia,27,Female,Tablet,7,Basic
+Brazil,51,Female,Laptop,7,Basic
+Mexico,40,Female,Tablet,7,Standard
+Canada,39,Female,Smartphone,7,Basic
+Canada,43,Female,Smartphone,7,Standard
+Italy,30,Male,Smartphone,7,Basic
+Spain,46,Male,Tablet,7,Basic
+Canada,31,Female,Smart TV,7,Standard
+France,35,Male,Laptop,7,Premium
+United States,42,Male,Laptop,7,Basic
+United States,48,Female,Tablet,8,Premium
+Spain,43,Female,Smart TV,8,Premium
+United States,48,Female,Smart TV,8,Basic
+United States,51,Male,Tablet,8,Premium
+France,28,Male,Laptop,8,Premium
+Canada,27,Male,Tablet,8,Premium
+Spain,27,Male,Smart TV,8,Premium
+Spain,42,Female,Smart TV,8,Standard
+Canada,35,Male,Smartphone,9,Premium
+Mexico,41,Female,Smartphone,9,Standard
+Germany,35,Female,Smart TV,9,Standard
+Australia,31,Male,Smartphone,9,Premium
+Australia,38,Female,Laptop,9,Premium
+Mexico,29,Male,Smartphone,9,Standard
+Spain,43,Female,Tablet,9,Basic
+Brazil,45,Female,Smartphone,9,Basic
+Australia,51,Female,Smartphone,9,Premium
+United States,48,Male,Smartphone,9,Premium
+Italy,39,Female,Smart TV,9,Basic
+Italy,42,Female,Tablet,9,Basic
+Canada,36,Female,Laptop,9,Premium
+United Kingdom,39,Female,Laptop,9,Standard
+Canada,36,Male,Smart TV,10,Basic
+Spain,33,Female,Smart TV,10,Premium
+United Kingdom,50,Female,Smartphone,10,Standard
+Brazil,36,Male,Smart TV,10,Basic
+United States,43,Female,Laptop,10,Basic
+Canada,31,Male,Smartphone,10,Basic
+Italy,35,Female,Laptop,10,Basic
+Spain,36,Female,Smart TV,10,Basic
+Italy,42,Female,Tablet,10,Basic
+France,45,Male,Tablet,10,Premium
+United States,30,Female,Smart TV,10,Basic
+United States,28,Male,Tablet,10,Standard
+France,28,Male,Tablet,10,Premium
+Canada,44,Male,Tablet,10,Premium
+Brazil,45,Male,Smart TV,12,Premium
+Spain,27,Female,Smart TV,12,Premium
+Canada,31,Male,Tablet,3,Basic
+Germany,40,Female,Laptop,3,Basic
+United States,35,Female,Tablet,4,Premium
+Germany,32,Male,Tablet,5,Basic
+Brazil,40,Male,Smart TV,6,Standard
+Spain,41,Female,Tablet,6,Premium
+Spain,31,Female,Tablet,6,Basic
+Mexico,42,Female,Laptop,6,Standard
+Brazil,50,Female,Tablet,6,Basic
+United States,43,Female,Tablet,6,Premium
+Spain,30,Male,Smartphone,6,Standard
+Italy,33,Female,Smartphone,6,Basic
+Canada,29,Male,Smartphone,6,Basic
+United Kingdom,32,Female,Laptop,6,Standard
+United States,38,Male,Smartphone,6,Premium
+Italy,39,Female,Tablet,6,Basic
+Italy,40,Female,Smartphone,6,Basic
+Spain,51,Female,Smartphone,6,Basic
+France,45,Male,Laptop,6,Premium
+Spain,49,Female,Tablet,6,Premium
+Spain,47,Male,Smartphone,6,Premium
+United Kingdom,41,Male,Smartphone,6,Standard
+Brazil,38,Male,Tablet,6,Premium
+United States,30,Male,Tablet,6,Standard
+Canada,46,Male,Laptop,6,Premium
+United States,34,Male,Tablet,6,Basic
+Italy,47,Male,Laptop,7,Basic
+United States,28,Female,Smartphone,7,Standard
+United Kingdom,30,Male,Smartphone,7,Standard
+Spain,38,Male,Tablet,7,Basic
+Brazil,43,Female,Laptop,7,Basic
+Brazil,51,Female,Smart TV,7,Basic
+Spain,35,Male,Tablet,7,Premium
+Canada,35,Male,Smart TV,7,Basic
+Italy,27,Female,Smartphone,7,Basic
+United States,47,Male,Laptop,7,Premium
+United States,42,Female,Tablet,7,Standard
+Spain,33,Female,Smartphone,7,Premium
+United Kingdom,41,Female,Tablet,7,Standard
+Canada,50,Female,Smart TV,7,Standard
+Brazil,47,Female,Smart TV,8,Basic
+Canada,37,Male,Tablet,8,Basic
+Canada,48,Female,Tablet,8,Basic
+Australia,37,Male,Smartphone,8,Premium
+Spain,35,Male,Smartphone,8,Basic
+Australia,44,Male,Smart TV,8,Premium
+Brazil,37,Female,Tablet,8,Basic
+United States,37,Male,Smart TV,8,Premium
+Spain,42,Male,Smart TV,8,Basic
+Brazil,27,Male,Smartphone,8,Basic
+Germany,51,Male,Smart TV,8,Basic
+United States,39,Female,Smart TV,8,Basic
+Spain,39,Male,Smart TV,8,Standard
+Canada,30,Male,Smart TV,8,Standard
+Spain,31,Female,Smartphone,8,Standard
+United States,29,Male,Laptop,9,Basic
+Canada,43,Female,Smart TV,9,Basic
+Spain,51,Female,Smart TV,9,Standard
+Spain,31,Male,Tablet,9,Premium
+United States,37,Male,Tablet,9,Standard
+Brazil,27,Male,Laptop,9,Basic
+Germany,47,Male,Tablet,9,Standard
+France,30,Male,Smartphone,9,Premium
+Germany,31,Female,Laptop,9,Basic
+United States,50,Female,Laptop,9,Basic
+Canada,27,Female,Tablet,9,Basic
+United States,43,Male,Smartphone,10,Premium
+Brazil,33,Female,Tablet,10,Basic
+Spain,42,Female,Tablet,10,Standard
+Germany,33,Male,Smart TV,10,Standard
+Spain,41,Male,Tablet,10,Basic
+Canada,32,Female,Smartphone,10,Premium
+France,43,Male,Smart TV,10,Premium
+Australia,42,Male,Smart TV,10,Premium
+Canada,39,Female,Smart TV,10,Basic
+Spain,51,Female,Tablet,10,Premium
+Spain,41,Male,Laptop,10,Premium
+Germany,36,Male,Tablet,10,Basic
+Brazil,47,Female,Tablet,10,Premium
+Canada,27,Male,Smartphone,10,Basic
+Italy,47,Female,Smartphone,10,Basic
+France,51,Female,Laptop,12,Basic
+France,29,Male,Smartphone,1,Premium
+Canada,38,Female,Smartphone,5,Basic
+France,34,Male,Tablet,5,Premium
+Australia,41,Female,Tablet,5,Premium
+United Kingdom,45,Female,Tablet,5,Standard
+Australia,29,Male,Smartphone,6,Standard
+Australia,43,Female,Laptop,6,Standard
+United Kingdom,46,Male,Smartphone,6,Standard
+Italy,30,Female,Smart TV,6,Premium
+Spain,51,Female,Smartphone,6,Basic
+France,49,Male,Smartphone,6,Premium
+United Kingdom,40,Male,Smart TV,6,Standard
+United States,40,Male,Tablet,6,Standard
+France,28,Male,Smartphone,6,Premium
+United States,43,Male,Laptop,6,Premium
+Australia,32,Female,Laptop,6,Premium
+Germany,49,Female,Laptop,6,Basic
+Spain,33,Female,Tablet,6,Basic
+United States,33,Male,Smartphone,6,Standard
+Canada,47,Female,Smartphone,6,Standard
+United States,50,Female,Smart TV,6,Basic
+France,32,Female,Laptop,6,Premium
+Brazil,30,Female,Smart TV,6,Basic
+Spain,51,Female,Smartphone,6,Premium
+Spain,28,Male,Smart TV,6,Premium
+Germany,28,Female,Smartphone,6,Standard
+United States,30,Male,Laptop,6,Basic
+United States,30,Male,Smartphone,6,Premium
+Spain,32,Male,Smart TV,6,Standard
+Italy,30,Male,Laptop,6,Basic
+Spain,28,Female,Tablet,6,Standard
+Mexico,44,Female,Laptop,6,Standard
+United States,39,Male,Tablet,6,Basic
+United Kingdom,41,Female,Smartphone,6,Standard
+Spain,47,Female,Tablet,6,Standard
+Italy,31,Male,Smart TV,6,Basic
+Germany,30,Male,Smart TV,7,Basic
+Australia,38,Male,Smartphone,7,Standard
+United States,42,Female,Smart TV,7,Standard
+United Kingdom,38,Male,Tablet,7,Standard
+Spain,41,Male,Laptop,7,Standard
+United States,30,Male,Smart TV,7,Basic
+United States,35,Male,Laptop,7,Premium
+Canada,39,Male,Smartphone,7,Basic
+Spain,42,Male,Smart TV,7,Premium
+United States,40,Male,Laptop,7,Basic
+Germany,38,Male,Laptop,7,Standard
+Brazil,38,Female,Smart TV,7,Basic
+Mexico,34,Female,Laptop,7,Standard
+Canada,28,Male,Smartphone,8,Standard
+United States,29,Female,Smart TV,8,Standard
+United States,37,Female,Smartphone,8,Basic
+Mexico,33,Female,Smart TV,8,Standard
+United Kingdom,31,Female,Tablet,8,Standard
+Germany,43,Male,Tablet,8,Standard
+Germany,34,Female,Smart TV,8,Basic
+Spain,35,Female,Smart TV,8,Premium
+Brazil,40,Male,Laptop,8,Premium
+Brazil,51,Female,Smartphone,9,Premium
+United States,47,Male,Tablet,9,Basic
+Germany,39,Male,Smartphone,9,Basic
+Spain,29,Female,Laptop,9,Premium
+Australia,27,Female,Tablet,9,Premium
+United Kingdom,27,Male,Tablet,9,Standard
+France,43,Male,Smartphone,9,Premium
+Canada,49,Female,Tablet,9,Standard
+Brazil,30,Male,Smartphone,9,Premium
+Mexico,37,Male,Tablet,9,Standard
+Australia,32,Female,Smartphone,9,Premium
+Mexico,48,Male,Tablet,9,Standard
+United Kingdom,31,Female,Smartphone,9,Standard
+Brazil,40,Female,Tablet,10,Basic
+Italy,51,Male,Laptop,10,Basic
+Canada,33,Male,Smart TV,10,Basic
+Spain,27,Male,Smartphone,10,Premium
+Italy,36,Male,Laptop,10,Basic
+Spain,27,Female,Laptop,10,Standard
+France,51,Female,Laptop,10,Premium
+Canada,29,Male,Tablet,10,Premium
+Canada,32,Female,Tablet,10,Premium
+Spain,42,Male,Laptop,10,Standard
+United States,33,Female,Smart TV,10,Premium
+Canada,30,Female,Laptop,10,Standard
+Canada,46,Female,Laptop,10,Standard
+Spain,33,Male,Tablet,10,Premium
+Spain,41,Male,Smartphone,10,Premium
+Spain,42,Female,Laptop,10,Basic
+Spain,50,Female,Smart TV,10,Basic
+France,28,Male,Smart TV,10,Premium
+United States,30,Female,Laptop,10,Premium
+Spain,34,Male,Laptop,10,Premium
+United Kingdom,48,Female,Laptop,11,Standard
+United States,47,Male,Laptop,5,Premium
+United Kingdom,40,Male,Smartphone,5,Standard
+Germany,31,Female,Smart TV,5,Basic
+United Kingdom,42,Female,Smart TV,7,Standard
+Spain,42,Female,Smart TV,7,Premium
+United States,33,Female,Laptop,7,Premium
+Australia,47,Female,Smartphone,7,Premium
+France,51,Female,Smart TV,7,Premium
+Canada,49,Female,Tablet,7,Basic
+United States,42,Female,Smartphone,7,Basic
+United States,46,Male,Tablet,7,Basic
+Australia,41,Male,Laptop,7,Premium
+Australia,34,Female,Smartphone,7,Basic
+France,48,Male,Tablet,7,Premium
+United Kingdom,44,Female,Tablet,7,Standard
+United Kingdom,30,Female,Tablet,8,Standard
+France,37,Male,Tablet,8,Premium
+Brazil,36,Male,Tablet,8,Basic
+United States,48,Female,Smart TV,8,Basic
+United States,50,Male,Tablet,8,Standard
+Canada,36,Female,Smart TV,8,Basic
+United States,27,Female,Smartphone,8,Basic
+Brazil,36,Male,Laptop,8,Basic
+United Kingdom,35,Male,Tablet,8,Standard
+France,28,Male,Tablet,8,Basic
+Spain,39,Female,Tablet,10,Premium
+Spain,27,Male,Laptop,10,Standard
+Mexico,34,Female,Smart TV,10,Standard
+United Kingdom,40,Female,Smartphone,10,Standard
+Spain,45,Male,Tablet,10,Premium
+Australia,29,Male,Tablet,10,Basic
+United Kingdom,38,Male,Tablet,10,Standard
+Brazil,31,Female,Tablet,10,Basic
+Canada,45,Female,Smart TV,10,Basic
+Spain,45,Female,Tablet,10,Premium
+United States,43,Female,Smartphone,10,Basic
+Spain,35,Male,Smartphone,10,Premium
+Italy,46,Male,Laptop,10,Basic
+Germany,50,Male,Laptop,10,Basic
+Germany,36,Female,Tablet,10,Basic
+United States,48,Male,Smartphone,10,Basic
+United Kingdom,46,Female,Smartphone,10,Standard
+Italy,41,Female,Laptop,10,Basic
+United States,45,Male,Smartphone,10,Basic
+Spain,48,Female,Tablet,10,Premium

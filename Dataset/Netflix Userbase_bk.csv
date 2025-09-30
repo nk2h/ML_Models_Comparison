@@ -1,0 +1,2501 @@
+Days_Since_Joined_Date,Country,Age,Gender,Device,Subscription_Type
+1538,Canada,35,Female,Tablet,Premium
+1536,Mexico,32,Male,Smartphone,Standard
+1535,United Kingdom,49,Female,Smart TV,Standard
+1445,Mexico,34,Male,Smartphone,Standard
+1413,Mexico,33,Male,Tablet,Standard
+1412,Brazil,46,Male,Tablet,Standard
+1299,France,35,Male,Tablet,Premium
+1299,France,33,Female,Smart TV,Premium
+1296,Canada,33,Female,Laptop,Basic
+1296,United Kingdom,49,Male,Smart TV,Basic
+1296,United Kingdom,40,Male,Smart TV,Standard
+1295,Canada,30,Female,Laptop,Basic
+1295,United Kingdom,36,Male,Smart TV,Standard
+1295,Italy,44,Female,Laptop,Basic
+1295,United States,30,Female,Laptop,Premium
+1295,Canada,50,Male,Laptop,Premium
+1295,Italy,36,Female,Tablet,Basic
+1295,Spain,28,Male,Smart TV,Premium
+1295,United States,38,Male,Tablet,Basic
+1295,Italy,28,Male,Smart TV,Basic
+1295,Spain,35,Female,Tablet,Premium
+1295,Mexico,40,Female,Tablet,Standard
+1295,Germany,49,Male,Smartphone,Basic
+1295,United Kingdom,29,Male,Laptop,Standard
+1295,Australia,47,Male,Tablet,Basic
+1295,Canada,51,Female,Laptop,Standard
+1295,Australia,30,Female,Smartphone,Basic
+1295,Mexico,32,Male,Smartphone,Standard
+1295,Canada,31,Male,Tablet,Basic
+1295,Spain,45,Male,Laptop,Premium
+1294,Australia,27,Male,Smartphone,Basic
+1294,Australia,27,Female,Tablet,Premium
+1294,Australia,28,Male,Smartphone,Premium
+1294,Mexico,40,Female,Smartphone,Standard
+1294,Spain,44,Male,Laptop,Premium
+1294,Italy,29,Female,Tablet,Basic
+1294,Mexico,51,Female,Tablet,Standard
+1294,United States,30,Female,Tablet,Premium
+1294,Mexico,49,Male,Laptop,Standard
+1294,United States,38,Male,Tablet,Standard
+1294,Spain,48,Male,Smart TV,Premium
+1294,Spain,33,Female,Smartphone,Premium
+1294,Canada,27,Female,Smart TV,Premium
+1293,Germany,42,Female,Laptop,Basic
+1293,Germany,28,Female,Tablet,Basic
+1293,France,28,Female,Laptop,Premium
+1293,Mexico,31,Female,Tablet,Standard
+1293,Canada,48,Male,Laptop,Premium
+1293,Spain,31,Male,Tablet,Standard
+1293,Australia,37,Male,Laptop,Premium
+1293,Spain,48,Male,Tablet,Basic
+1293,Brazil,41,Female,Smartphone,Basic
+1293,United States,48,Male,Smart TV,Standard
+1293,Australia,27,Female,Smartphone,Premium
+1293,United States,44,Male,Smartphone,Basic
+1292,Brazil,46,Female,Laptop,Basic
+1292,France,48,Female,Tablet,Basic
+1292,United States,27,Female,Smart TV,Standard
+1292,Italy,38,Female,Laptop,Basic
+1292,Spain,50,Male,Smart TV,Standard
+1292,United Kingdom,37,Male,Smart TV,Standard
+1292,United States,31,Male,Tablet,Premium
+1291,United Kingdom,47,Female,Smart TV,Standard
+1291,United States,30,Male,Laptop,Standard
+1291,Mexico,37,Female,Laptop,Standard
+1291,United States,40,Male,Tablet,Standard
+1291,United Kingdom,38,Female,Laptop,Standard
+1291,Spain,36,Female,Laptop,Basic
+1291,United States,36,Male,Tablet,Standard
+1291,France,33,Female,Smart TV,Premium
+1291,Spain,41,Male,Tablet,Standard
+1291,Brazil,35,Female,Smartphone,Basic
+1291,United States,48,Male,Laptop,Premium
+1291,Spain,40,Male,Laptop,Premium
+1291,United States,45,Male,Smart TV,Basic
+1291,Italy,45,Male,Laptop,Basic
+1291,Australia,29,Male,Smart TV,Basic
+1291,Mexico,32,Female,Laptop,Standard
+1291,France,33,Female,Tablet,Premium
+1291,France,39,Male,Tablet,Basic
+1291,Canada,34,Female,Tablet,Basic
+1266,Italy,43,Female,Smartphone,Basic
+1265,Canada,37,Male,Laptop,Basic
+1264,Australia,30,Female,Tablet,Basic
+1264,Brazil,43,Female,Tablet,Basic
+1264,Spain,48,Male,Tablet,Premium
+1264,Spain,45,Female,Smartphone,Standard
+1264,United Kingdom,42,Female,Laptop,Standard
+1264,Spain,28,Female,Tablet,Basic
+1264,United States,39,Female,Tablet,Premium
+1264,Spain,40,Male,Smart TV,Premium
+1264,Australia,46,Female,Tablet,Basic
+1264,Germany,43,Male,Laptop,Standard
+1264,France,33,Female,Laptop,Premium
+1264,United States,41,Female,Laptop,Basic
+1264,Canada,44,Female,Laptop,Premium
+1264,Italy,37,Male,Smartphone,Basic
+1264,Mexico,29,Male,Laptop,Standard
+1264,Canada,51,Male,Tablet,Standard
+1264,United Kingdom,34,Male,Smart TV,Standard
+1264,Spain,45,Female,Tablet,Basic
+1263,United Kingdom,28,Female,Laptop,Standard
+1263,Italy,30,Female,Laptop,Basic
+1263,Spain,45,Male,Smart TV,Basic
+1263,United States,29,Female,Laptop,Premium
+1263,Spain,50,Male,Laptop,Premium
+1263,Australia,32,Female,Smart TV,Standard
+1263,United States,49,Female,Tablet,Standard
+1263,Brazil,31,Female,Smartphone,Basic
+1263,United States,50,Male,Smartphone,Standard
+1263,United States,34,Male,Smartphone,Premium
+1263,United States,37,Female,Smartphone,Basic
+1262,Spain,47,Male,Smart TV,Premium
+1262,Germany,50,Female,Smartphone,Basic
+1262,Mexico,39,Female,Laptop,Standard
+1262,France,35,Male,Laptop,Premium
+1262,Italy,37,Male,Smart TV,Basic
+1262,France,28,Male,Tablet,Premium
+1262,France,38,Female,Laptop,Premium
+1262,Canada,42,Male,Smartphone,Standard
+1262,Canada,33,Female,Smartphone,Premium
+1262,Italy,30,Female,Smartphone,Basic
+1262,Spain,35,Male,Smartphone,Premium
+1262,Germany,32,Female,Smartphone,Basic
+1262,Canada,28,Male,Smart TV,Premium
+1262,Mexico,30,Male,Smartphone,Standard
+1262,United Kingdom,34,Male,Laptop,Standard
+1262,Canada,31,Male,Tablet,Basic
+1262,Spain,43,Male,Smartphone,Basic
+1262,Germany,33,Male,Laptop,Basic
+1262,Italy,45,Female,Smart TV,Basic
+1262,Australia,41,Male,Smartphone,Basic
+1261,Spain,48,Male,Laptop,Basic
+1261,Germany,36,Female,Smart TV,Basic
+1261,United States,50,Male,Smart TV,Basic
+1261,Spain,48,Female,Smart TV,Premium
+1261,Australia,30,Female,Tablet,Standard
+1261,United States,37,Male,Smart TV,Standard
+1261,Spain,30,Female,Tablet,Standard
+1261,Canada,38,Male,Smart TV,Standard
+1261,United States,47,Female,Smartphone,Premium
+1260,United States,33,Female,Smart TV,Premium
+1260,Brazil,40,Male,Smartphone,Basic
+1260,Spain,28,Male,Smartphone,Premium
+1260,Italy,44,Female,Smartphone,Basic
+1260,United States,34,Female,Smart TV,Premium
+1260,Italy,28,Male,Laptop,Basic
+1260,Mexico,39,Male,Laptop,Standard
+1260,Brazil,44,Female,Laptop,Basic
+1260,Germany,33,Male,Laptop,Basic
+1260,United Kingdom,35,Female,Laptop,Standard
+1260,Australia,48,Female,Smart TV,Premium
+1260,United States,42,Female,Laptop,Standard
+1260,Brazil,27,Male,Laptop,Basic
+1260,Mexico,47,Male,Smartphone,Standard
+1260,United Kingdom,49,Male,Smart TV,Standard
+1260,Spain,31,Female,Tablet,Basic
+1260,France,41,Male,Tablet,Premium
+1260,United States,32,Female,Smartphone,Standard
+1260,Spain,43,Male,Laptop,Premium
+1260,Germany,44,Female,Tablet,Standard
+1260,Canada,30,Male,Laptop,Standard
+1260,Italy,50,Female,Laptop,Basic
+1260,Spain,28,Female,Tablet,Standard
+1260,United States,30,Female,Smart TV,Basic
+1239,Australia,31,Male,Tablet,Standard
+1238,Canada,51,Male,Smart TV,Basic
+1238,France,38,Female,Smartphone,Premium
+1237,United Kingdom,40,Male,Smartphone,Standard
+1237,Canada,28,Male,Smart TV,Basic
+1237,United Kingdom,40,Male,Tablet,Standard
+1237,Australia,45,Male,Laptop,Basic
+1237,Spain,38,Male,Laptop,Standard
+1236,Italy,43,Female,Laptop,Standard
+1236,Italy,31,Female,Tablet,Basic
+1236,Germany,40,Male,Smartphone,Standard
+1236,Canada,50,Female,Smartphone,Standard
+1236,United States,49,Male,Smart TV,Standard
+1236,Germany,38,Male,Laptop,Basic
+1236,Brazil,45,Female,Smartphone,Basic
+1236,Canada,45,Male,Tablet,Basic
+1236,United States,29,Male,Tablet,Premium
+1236,United States,30,Female,Tablet,Basic
+1236,Germany,32,Male,Smart TV,Standard
+1236,Brazil,45,Male,Tablet,Premium
+1236,Spain,27,Male,Tablet,Standard
+1236,United States,42,Female,Smart TV,Standard
+1236,United Kingdom,34,Male,Smart TV,Standard
+1236,Germany,42,Male,Laptop,Basic
+1236,France,38,Female,Laptop,Premium
+1235,Canada,37,Male,Smartphone,Basic
+1235,United States,32,Male,Smart TV,Basic
+1235,Canada,34,Female,Smart TV,Basic
+1235,Australia,41,Male,Laptop,Premium
+1235,United States,39,Male,Smartphone,Basic
+1235,Germany,47,Male,Smartphone,Basic
+1235,Canada,50,Male,Smart TV,Premium
+1235,Mexico,27,Male,Smartphone,Standard
+1235,Germany,28,Male,Laptop,Basic
+1235,Italy,29,Male,Smart TV,Basic
+1235,Canada,38,Female,Laptop,Standard
+1235,Canada,28,Female,Smartphone,Basic
+1234,United States,48,Female,Tablet,Premium
+1234,Canada,47,Male,Laptop,Basic
+1234,United States,41,Female,Laptop,Premium
+1234,United Kingdom,42,Male,Smartphone,Standard
+1234,Australia,33,Female,Tablet,Standard
+1234,Spain,32,Male,Laptop,Standard
+1234,United States,44,Female,Tablet,Basic
+1234,Spain,50,Male,Laptop,Standard
+1234,United States,30,Male,Smart TV,Standard
+1234,Mexico,47,Female,Smart TV,Standard
+1234,Australia,28,Male,Laptop,Premium
+1234,United States,30,Male,Smartphone,Standard
+1234,Canada,27,Female,Laptop,Basic
+1233,United States,39,Male,Tablet,Premium
+1233,United States,27,Male,Smart TV,Premium
+1233,Germany,45,Male,Laptop,Basic
+1233,Italy,29,Male,Laptop,Basic
+1233,Italy,42,Female,Laptop,Basic
+1233,Canada,49,Male,Smartphone,Standard
+1233,Spain,49,Female,Laptop,Basic
+1233,Italy,33,Male,Laptop,Basic
+1233,United States,43,Male,Laptop,Premium
+1233,Italy,34,Male,Smartphone,Basic
+1233,Brazil,29,Male,Smartphone,Basic
+1233,Germany,39,Male,Laptop,Basic
+1233,United Kingdom,30,Male,Smart TV,Standard
+1233,Brazil,43,Female,Tablet,Basic
+1233,Spain,40,Male,Laptop,Premium
+1233,France,29,Female,Smartphone,Premium
+1232,Mexico,41,Male,Tablet,Standard
+1232,United Kingdom,33,Male,Tablet,Standard
+1232,Canada,46,Female,Smart TV,Standard
+1232,Canada,48,Female,Smartphone,Premium
+1232,Mexico,45,Female,Laptop,Standard
+1232,United Kingdom,40,Female,Smart TV,Standard
+1232,Spain,42,Male,Smart TV,Basic
+1232,United States,49,Female,Laptop,Basic
+1232,United States,41,Female,Laptop,Premium
+1232,United States,39,Male,Tablet,Standard
+1232,Mexico,29,Male,Laptop,Standard
+1232,Spain,49,Male,Smartphone,Basic
+1232,United Kingdom,41,Female,Tablet,Standard
+1232,Brazil,43,Male,Laptop,Basic
+1232,United States,30,Male,Tablet,Premium
+1232,Spain,44,Male,Smart TV,Standard
+1232,United Kingdom,27,Female,Smart TV,Standard
+1232,Australia,36,Female,Smartphone,Premium
+1232,Australia,46,Female,Tablet,Basic
+1232,United States,33,Male,Smart TV,Premium
+1232,Brazil,38,Male,Smartphone,Basic
+1232,Germany,35,Male,Laptop,Basic
+1232,Italy,30,Male,Tablet,Basic
+1231,Spain,27,Female,Smart TV,Premium
+1231,Spain,43,Female,Laptop,Standard
+1231,Spain,30,Female,Tablet,Premium
+1209,France,29,Female,Smartphone,Basic
+1209,Germany,46,Female,Laptop,Basic
+1208,United Kingdom,36,Male,Laptop,Standard
+1206,Canada,44,Male,Smartphone,Basic
+1206,France,41,Male,Tablet,Premium
+1206,Germany,44,Male,Tablet,Basic
+1206,United States,38,Male,Smartphone,Basic
+1205,United States,49,Female,Smart TV,Premium
+1205,United States,27,Female,Smart TV,Premium
+1205,Australia,35,Female,Laptop,Premium
+1205,United States,47,Male,Tablet,Standard
+1205,Germany,33,Male,Smartphone,Basic
+1205,Mexico,39,Female,Smartphone,Standard
+1205,Italy,50,Female,Tablet,Basic
+1205,Australia,28,Male,Laptop,Premium
+1205,Australia,41,Male,Laptop,Premium
+1205,Brazil,31,Female,Tablet,Basic
+1204,Australia,39,Female,Smartphone,Premium
+1204,Spain,28,Male,Laptop,Standard
+1204,United Kingdom,49,Female,Smart TV,Standard
+1204,Spain,32,Female,Laptop,Basic
+1204,United States,39,Male,Laptop,Standard
+1204,France,27,Male,Smart TV,Premium
+1204,United States,36,Male,Smartphone,Basic
+1204,Spain,46,Female,Smartphone,Premium
+1204,Germany,41,Female,Laptop,Standard
+1204,France,48,Female,Smart TV,Premium
+1204,Canada,51,Female,Smartphone,Premium
+1204,United States,29,Female,Tablet,Basic
+1204,Germany,38,Male,Laptop,Basic
+1204,Germany,46,Female,Tablet,Basic
+1204,Mexico,48,Female,Smartphone,Standard
+1204,Spain,33,Female,Smart TV,Basic
+1203,Italy,47,Male,Smart TV,Basic
+1203,Spain,38,Female,Smartphone,Premium
+1203,Italy,37,Female,Laptop,Basic
+1203,United States,36,Male,Smart TV,Premium
+1203,Australia,37,Female,Smart TV,Basic
+1203,United States,47,Male,Laptop,Basic
+1203,United States,40,Female,Smartphone,Premium
+1203,Spain,51,Female,Tablet,Standard
+1203,France,29,Male,Smartphone,Basic
+1203,Italy,51,Male,Smartphone,Basic
+1203,Australia,51,Female,Smartphone,Premium
+1203,United Kingdom,42,Male,Smartphone,Standard
+1203,United States,29,Female,Smartphone,Basic
+1203,Italy,50,Female,Smart TV,Basic
+1203,France,29,Male,Tablet,Basic
+1203,France,45,Female,Smart TV,Premium
+1202,Germany,38,Male,Tablet,Basic
+1202,United States,31,Female,Laptop,Basic
+1202,Germany,32,Male,Laptop,Basic
+1202,Spain,27,Male,Tablet,Premium
+1202,United States,28,Male,Laptop,Basic
+1202,Mexico,39,Female,Smartphone,Standard
+1202,United States,27,Male,Tablet,Basic
+1202,Canada,27,Male,Laptop,Premium
+1202,Spain,30,Female,Smart TV,Premium
+1202,Canada,30,Female,Tablet,Basic
+1202,United States,50,Female,Tablet,Basic
+1202,United States,35,Female,Smartphone,Basic
+1202,Australia,35,Male,Laptop,Basic
+1202,Canada,40,Female,Laptop,Basic
+1201,Mexico,39,Male,Smart TV,Standard
+1201,Spain,29,Male,Smartphone,Standard
+1201,United States,42,Male,Laptop,Basic
+1201,Germany,36,Male,Smartphone,Basic
+1201,Mexico,41,Male,Smart TV,Standard
+1201,United States,30,Female,Smart TV,Basic
+1201,Spain,30,Male,Laptop,Standard
+1201,Canada,45,Male,Smartphone,Basic
+1201,Mexico,39,Male,Tablet,Standard
+1201,Spain,39,Male,Tablet,Premium
+1201,Italy,49,Female,Smart TV,Basic
+1201,Canada,50,Male,Tablet,Basic
+1201,Australia,51,Female,Laptop,Standard
+1201,France,39,Male,Laptop,Premium
+1201,United States,41,Female,Tablet,Standard
+1201,Spain,28,Female,Smartphone,Basic
+1201,Canada,44,Female,Laptop,Basic
+1201,Spain,49,Female,Smartphone,Basic
+1201,France,44,Female,Tablet,Premium
+1201,United States,40,Male,Tablet,Basic
+1201,United States,51,Female,Smart TV,Premium
+1201,Italy,36,Female,Smartphone,Basic
+1201,Germany,31,Female,Laptop,Standard
+1201,Australia,33,Female,Smartphone,Premium
+1201,United States,47,Female,Laptop,Standard
+1201,Spain,40,Male,Laptop,Standard
+1201,Mexico,36,Female,Tablet,Standard
+1201,Australia,30,Male,Smart TV,Premium
+1201,Spain,31,Female,Tablet,Basic
+1200,United States,29,Female,Tablet,Premium
+1200,United States,28,Male,Smart TV,Premium
+1181,Canada,39,Male,Smart TV,Basic
+1180,United Kingdom,35,Male,Smartphone,Standard
+1179,Brazil,29,Female,Tablet,Basic
+1178,Germany,50,Female,Laptop,Basic
+1178,United Kingdom,29,Male,Laptop,Standard
+1177,Germany,35,Female,Laptop,Basic
+1176,Germany,45,Female,Laptop,Basic
+1176,Germany,34,Male,Laptop,Standard
+1176,Canada,39,Female,Smart TV,Standard
+1176,France,46,Female,Smart TV,Basic
+1176,Brazil,30,Male,Smartphone,Premium
+1175,United Kingdom,29,Female,Tablet,Standard
+1175,United States,28,Female,Tablet,Premium
+1175,Spain,49,Male,Laptop,Standard
+1175,Spain,31,Female,Laptop,Standard
+1175,United Kingdom,42,Male,Laptop,Standard
+1175,Spain,32,Female,Tablet,Basic
+1175,Spain,46,Male,Laptop,Premium
+1175,Spain,43,Male,Smartphone,Standard
+1175,United States,42,Male,Laptop,Premium
+1175,Mexico,35,Female,Smartphone,Standard
+1174,United Kingdom,50,Male,Laptop,Standard
+1174,Spain,28,Male,Smartphone,Standard
+1174,Germany,32,Female,Smart TV,Basic
+1174,Italy,27,Female,Smart TV,Basic
+1174,United Kingdom,42,Female,Smartphone,Standard
+1174,Brazil,35,Male,Tablet,Basic
+1174,United States,41,Female,Smart TV,Premium
+1174,Germany,49,Female,Smart TV,Standard
+1174,Australia,49,Female,Tablet,Premium
+1174,Australia,29,Female,Laptop,Premium
+1174,Spain,33,Female,Laptop,Premium
+1173,Spain,39,Male,Tablet,Basic
+1173,United States,51,Female,Smartphone,Standard
+1173,Canada,38,Female,Smartphone,Standard
+1173,Brazil,45,Female,Smartphone,Basic
+1173,Italy,41,Female,Smartphone,Basic
+1173,Germany,36,Male,Laptop,Standard
+1173,Canada,37,Male,Smart TV,Standard
+1173,United States,36,Male,Tablet,Basic
+1173,Germany,41,Female,Tablet,Basic
+1173,Canada,44,Female,Smartphone,Standard
+1173,Canada,32,Female,Smart TV,Basic
+1173,Brazil,49,Male,Tablet,Basic
+1173,Canada,28,Female,Laptop,Premium
+1173,Spain,49,Female,Laptop,Premium
+1173,Italy,27,Male,Smartphone,Basic
+1173,Germany,29,Female,Laptop,Basic
+1173,United States,41,Female,Smartphone,Basic
+1173,Germany,37,Female,Tablet,Basic
+1172,Brazil,39,Female,Smart TV,Basic
+1172,Spain,30,Female,Laptop,Premium
+1172,Mexico,30,Male,Smart TV,Standard
+1172,France,35,Male,Laptop,Premium
+1172,United States,48,Female,Laptop,Premium
+1172,Brazil,30,Male,Smart TV,Basic
+1172,Brazil,37,Male,Smartphone,Basic
+1172,France,39,Female,Laptop,Basic
+1172,Canada,32,Male,Smart TV,Basic
+1172,Spain,48,Male,Smartphone,Premium
+1172,Germany,50,Female,Tablet,Basic
+1172,Spain,42,Female,Smartphone,Premium
+1172,Spain,30,Female,Smartphone,Basic
+1172,Brazil,47,Female,Smartphone,Premium
+1171,Australia,43,Male,Laptop,Premium
+1171,Spain,38,Male,Smart TV,Standard
+1171,Australia,32,Male,Tablet,Premium
+1171,Canada,37,Female,Smart TV,Standard
+1171,United States,28,Female,Smart TV,Basic
+1171,Mexico,42,Male,Tablet,Standard
+1171,United States,51,Male,Smartphone,Basic
+1171,Canada,27,Male,Smartphone,Basic
+1171,Italy,40,Female,Smartphone,Basic
+1171,Australia,38,Male,Tablet,Premium
+1171,United States,47,Female,Smart TV,Standard
+1171,Spain,30,Male,Tablet,Premium
+1171,United Kingdom,27,Male,Smart TV,Standard
+1171,Germany,38,Male,Smartphone,Basic
+1171,Brazil,45,Female,Smart TV,Basic
+1171,Canada,38,Male,Tablet,Premium
+1171,United States,42,Female,Laptop,Basic
+1171,United States,27,Female,Smart TV,Premium
+1171,Canada,41,Female,Tablet,Basic
+1171,Mexico,35,Male,Laptop,Standard
+1171,United Kingdom,46,Male,Laptop,Standard
+1171,France,43,Male,Laptop,Premium
+1171,Brazil,48,Female,Smartphone,Basic
+1171,Brazil,29,Male,Laptop,Basic
+1171,Canada,42,Male,Smartphone,Standard
+1171,United States,48,Female,Smartphone,Basic
+1171,Mexico,45,Female,Smart TV,Standard
+1171,Spain,31,Male,Smart TV,Premium
+1171,Canada,40,Male,Smart TV,Premium
+1171,Spain,47,Female,Smart TV,Standard
+1171,United Kingdom,35,Female,Tablet,Standard
+1171,Canada,42,Female,Smartphone,Premium
+1171,Spain,42,Female,Smartphone,Standard
+1145,Australia,31,Male,Tablet,Premium
+1145,United States,41,Male,Smartphone,Standard
+1145,Canada,38,Female,Smart TV,Premium
+1145,Mexico,46,Female,Tablet,Standard
+1144,France,45,Male,Tablet,Premium
+1144,Brazil,32,Female,Smartphone,Basic
+1144,Italy,40,Female,Smart TV,Basic
+1144,Mexico,50,Male,Tablet,Standard
+1144,Australia,44,Male,Smart TV,Premium
+1144,Australia,46,Male,Smart TV,Premium
+1144,Italy,44,Male,Smart TV,Basic
+1144,Spain,48,Female,Smartphone,Premium
+1144,Brazil,34,Female,Tablet,Basic
+1144,France,29,Female,Smartphone,Basic
+1144,Canada,39,Female,Laptop,Basic
+1144,Mexico,48,Female,Smart TV,Standard
+1144,Canada,36,Female,Tablet,Premium
+1144,Canada,44,Female,Smart TV,Basic
+1144,Spain,28,Female,Tablet,Premium
+1143,France,40,Male,Smartphone,Premium
+1143,Germany,34,Female,Laptop,Basic
+1143,United Kingdom,46,Male,Smart TV,Standard
+1143,Germany,49,Female,Tablet,Basic
+1143,Italy,49,Male,Laptop,Basic
+1143,Spain,34,Female,Smart TV,Basic
+1143,Canada,43,Male,Smartphone,Premium
+1143,France,51,Female,Laptop,Premium
+1143,Spain,34,Female,Smartphone,Standard
+1143,United States,43,Male,Smart TV,Basic
+1143,United States,38,Female,Laptop,Premium
+1143,United States,39,Male,Smart TV,Premium
+1143,Spain,31,Female,Laptop,Basic
+1143,Spain,49,Male,Tablet,Premium
+1143,Spain,27,Female,Smart TV,Premium
+1143,Spain,31,Female,Tablet,Basic
+1143,Canada,47,Female,Tablet,Premium
+1143,Spain,31,Male,Laptop,Standard
+1143,Italy,46,Female,Tablet,Basic
+1143,Australia,41,Female,Laptop,Standard
+1143,United Kingdom,30,Female,Tablet,Standard
+1143,Spain,37,Female,Laptop,Standard
+1142,Canada,31,Female,Tablet,Basic
+1142,United States,29,Female,Tablet,Basic
+1142,Mexico,28,Female,Smart TV,Standard
+1142,Spain,27,Male,Smartphone,Premium
+1142,Spain,49,Male,Smart TV,Premium
+1142,Spain,37,Female,Laptop,Premium
+1142,Italy,31,Male,Tablet,Basic
+1142,Spain,40,Female,Tablet,Premium
+1142,United States,50,Male,Smart TV,Premium
+1142,Australia,35,Male,Smartphone,Standard
+1142,Spain,37,Male,Smart TV,Basic
+1142,Italy,40,Male,Tablet,Basic
+1142,Spain,32,Female,Smart TV,Premium
+1142,Spain,41,Female,Laptop,Premium
+1142,France,37,Male,Smartphone,Premium
+1142,United States,47,Male,Smartphone,Basic
+1142,Italy,32,Female,Smart TV,Basic
+1142,Italy,39,Male,Smartphone,Basic
+1142,Australia,49,Male,Smart TV,Premium
+1141,Mexico,48,Male,Smartphone,Standard
+1141,United States,47,Male,Laptop,Premium
+1141,France,38,Male,Tablet,Basic
+1141,Germany,43,Female,Tablet,Basic
+1141,Germany,32,Female,Smart TV,Basic
+1141,Spain,43,Male,Smart TV,Basic
+1141,Canada,46,Female,Smart TV,Premium
+1141,Australia,35,Female,Laptop,Basic
+1141,France,42,Male,Smartphone,Premium
+1141,Brazil,37,Female,Laptop,Basic
+1141,France,32,Female,Smart TV,Premium
+1141,Spain,32,Male,Smart TV,Premium
+1141,United States,27,Male,Laptop,Basic
+1141,Spain,44,Female,Laptop,Premium
+1141,Germany,49,Male,Smart TV,Basic
+1141,France,41,Female,Smart TV,Premium
+1141,United States,41,Male,Laptop,Basic
+1141,Italy,31,Female,Smart TV,Basic
+1141,Brazil,47,Female,Tablet,Basic
+1141,Canada,48,Female,Laptop,Basic
+1140,Brazil,51,Male,Smart TV,Basic
+1140,United Kingdom,46,Female,Smartphone,Standard
+1140,United Kingdom,39,Male,Tablet,Standard
+1140,Spain,51,Male,Laptop,Standard
+1140,France,41,Male,Smart TV,Basic
+1140,Brazil,27,Male,Smart TV,Premium
+1140,Spain,44,Female,Smart TV,Premium
+1140,Germany,31,Female,Tablet,Basic
+1140,Canada,29,Female,Smart TV,Standard
+1140,Spain,51,Male,Smart TV,Standard
+1140,Italy,35,Male,Tablet,Basic
+1140,Australia,36,Female,Tablet,Premium
+1140,Mexico,36,Female,Smartphone,Standard
+1140,United States,41,Female,Tablet,Standard
+1140,United States,45,Female,Smartphone,Basic
+1140,Mexico,32,Female,Tablet,Standard
+1140,Canada,41,Female,Smart TV,Premium
+1140,Spain,28,Female,Smartphone,Premium
+1140,Germany,30,Male,Laptop,Basic
+1140,Canada,28,Male,Tablet,Standard
+1140,United States,48,Female,Smartphone,Standard
+1119,United Kingdom,36,Female,Smart TV,Standard
+1118,Mexico,31,Female,Tablet,Standard
+1118,Brazil,29,Female,Smart TV,Basic
+1117,France,36,Male,Tablet,Premium
+1117,Brazil,29,Male,Smartphone,Basic
+1116,United Kingdom,37,Male,Tablet,Standard
+1115,United States,29,Female,Smartphone,Basic
+1115,Canada,51,Male,Smart TV,Standard
+1115,France,33,Male,Laptop,Premium
+1115,United Kingdom,41,Male,Smartphone,Standard
+1115,United States,42,Female,Laptop,Premium
+1115,Spain,33,Male,Smartphone,Standard
+1114,Canada,37,Male,Tablet,Basic
+1114,United Kingdom,50,Female,Smart TV,Basic
+1114,Brazil,46,Female,Tablet,Premium
+1114,Brazil,27,Male,Smart TV,Basic
+1114,Spain,35,Male,Tablet,Standard
+1114,Spain,50,Female,Laptop,Standard
+1114,Italy,44,Female,Laptop,Basic
+1114,Canada,43,Female,Smartphone,Standard
+1114,United States,43,Female,Tablet,Basic
+1114,Canada,47,Male,Smartphone,Standard
+1114,Spain,48,Male,Tablet,Premium
+1114,United Kingdom,43,Male,Smart TV,Standard
+1114,Australia,36,Male,Smart TV,Premium
+1114,United States,40,Female,Laptop,Basic
+1114,United States,46,Female,Tablet,Basic
+1114,Brazil,28,Male,Laptop,Basic
+1114,United States,32,Male,Smart TV,Basic
+1114,Spain,32,Male,Smartphone,Standard
+1114,Spain,43,Female,Smart TV,Basic
+1114,United States,44,Female,Smart TV,Standard
+1114,United States,36,Male,Smart TV,Basic
+1113,Mexico,33,Male,Smartphone,Standard
+1113,Australia,42,Female,Smartphone,Standard
+1113,Spain,37,Female,Laptop,Premium
+1113,United States,37,Female,Tablet,Standard
+1113,Brazil,39,Male,Smart TV,Basic
+1113,Mexico,31,Male,Smartphone,Standard
+1113,Italy,44,Male,Smartphone,Basic
+1113,United States,44,Male,Tablet,Premium
+1113,United Kingdom,34,Female,Smartphone,Standard
+1113,Australia,27,Female,Smart TV,Standard
+1113,Spain,31,Male,Smart TV,Basic
+1113,United States,39,Female,Smartphone,Standard
+1113,Italy,47,Male,Laptop,Basic
+1112,Spain,28,Female,Smart TV,Premium
+1112,Mexico,37,Male,Tablet,Standard
+1112,United States,37,Male,Smart TV,Premium
+1111,United States,28,Female,Smartphone,Premium
+1111,Canada,32,Female,Smartphone,Standard
+1111,Brazil,39,Male,Laptop,Basic
+1111,United Kingdom,38,Male,Smartphone,Standard
+1111,Germany,49,Male,Smartphone,Standard
+1111,Spain,48,Male,Laptop,Standard
+1111,Brazil,45,Female,Laptop,Premium
+1111,Canada,39,Female,Laptop,Basic
+1111,France,32,Female,Smart TV,Premium
+1111,Spain,48,Male,Laptop,Basic
+1111,Brazil,29,Female,Laptop,Basic
+1111,United States,30,Female,Smart TV,Premium
+1111,Spain,31,Female,Laptop,Premium
+1111,United States,34,Female,Smart TV,Premium
+1111,Australia,33,Male,Smartphone,Basic
+1111,Spain,44,Female,Laptop,Basic
+1111,Brazil,38,Female,Tablet,Basic
+1111,United States,49,Female,Smartphone,Premium
+1110,Spain,48,Female,Smart TV,Standard
+1110,Australia,36,Female,Smart TV,Premium
+1110,Australia,49,Male,Smart TV,Premium
+1110,Spain,34,Male,Tablet,Basic
+1110,France,44,Female,Smart TV,Premium
+1110,Canada,43,Male,Tablet,Standard
+1110,Spain,37,Female,Smartphone,Standard
+1110,Spain,37,Male,Smart TV,Premium
+1110,Germany,27,Female,Smartphone,Basic
+1110,Canada,39,Female,Smartphone,Standard
+1110,United States,38,Male,Tablet,Premium
+1110,Canada,30,Male,Smart TV,Basic
+1110,Spain,31,Male,Smartphone,Premium
+1110,United Kingdom,37,Female,Smartphone,Standard
+1110,Spain,32,Female,Smart TV,Standard
+1110,United Kingdom,44,Female,Tablet,Standard
+1110,France,46,Male,Tablet,Basic
+1110,United States,35,Female,Smart TV,Basic
+1110,Mexico,48,Female,Laptop,Standard
+1110,Italy,35,Female,Laptop,Basic
+1110,United Kingdom,34,Male,Laptop,Standard
+1110,Australia,30,Male,Smart TV,Premium
+1110,United States,51,Female,Tablet,Standard
+1109,Canada,35,Male,Laptop,Standard
+1085,France,39,Female,Smartphone,Basic
+1084,Australia,38,Male,Laptop,Premium
+1084,United States,38,Male,Smart TV,Basic
+1084,United States,51,Male,Tablet,Basic
+1083,United States,46,Male,Laptop,Premium
+1083,Brazil,29,Female,Smart TV,Standard
+1083,United States,29,Female,Tablet,Premium
+1083,United States,43,Male,Tablet,Premium
+1083,Spain,51,Female,Laptop,Premium
+1083,Germany,49,Female,Laptop,Basic
+1083,Spain,46,Female,Smartphone,Basic
+1083,Germany,36,Female,Smartphone,Basic
+1083,Italy,39,Male,Smartphone,Basic
+1083,Canada,33,Female,Smartphone,Standard
+1083,United States,27,Male,Tablet,Premium
+1083,Spain,46,Male,Smart TV,Premium
+1082,Germany,48,Female,Smart TV,Basic
+1082,Spain,49,Male,Tablet,Premium
+1082,Brazil,32,Female,Smart TV,Basic
+1082,Canada,39,Male,Smart TV,Basic
+1082,Italy,28,Female,Smartphone,Basic
+1081,United Kingdom,49,Female,Smart TV,Standard
+1081,Brazil,44,Female,Laptop,Basic
+1081,Mexico,32,Male,Laptop,Standard
+1081,Italy,44,Female,Smartphone,Basic
+1081,United States,48,Male,Laptop,Standard
+1081,Mexico,33,Female,Tablet,Standard
+1081,Spain,36,Female,Tablet,Premium
+1081,Spain,37,Male,Smartphone,Standard
+1081,United States,45,Male,Laptop,Premium
+1080,France,51,Female,Smart TV,Premium
+1080,Mexico,33,Female,Smart TV,Standard
+1080,Mexico,38,Female,Laptop,Standard
+1080,Spain,36,Female,Smart TV,Premium
+1080,United States,46,Female,Smart TV,Basic
+1080,Canada,30,Male,Tablet,Standard
+1080,United States,40,Female,Smart TV,Premium
+1080,United States,29,Male,Smart TV,Basic
+1080,Canada,41,Male,Tablet,Premium
+1080,Mexico,29,Male,Smart TV,Standard
+1080,Spain,45,Male,Smartphone,Standard
+1080,United Kingdom,51,Male,Tablet,Standard
+1080,Spain,42,Female,Tablet,Basic
+1080,Canada,43,Male,Smartphone,Basic
+1080,France,35,Female,Smartphone,Premium
+1080,United States,42,Female,Laptop,Basic
+1080,Italy,45,Male,Tablet,Basic
+1080,Canada,34,Male,Tablet,Standard
+1080,Canada,36,Male,Smartphone,Basic
+1079,Italy,43,Male,Tablet,Basic
+1079,Brazil,49,Female,Laptop,Basic
+1079,Canada,36,Male,Smart TV,Basic
+1079,Spain,45,Male,Tablet,Basic
+1079,Canada,47,Female,Laptop,Basic
+1079,United States,28,Male,Tablet,Standard
+1079,Australia,34,Male,Smartphone,Basic
+1079,Brazil,47,Female,Smartphone,Basic
+1079,Mexico,33,Female,Laptop,Standard
+1079,United States,50,Female,Laptop,Premium
+1079,Italy,27,Female,Smart TV,Basic
+1079,Italy,27,Male,Laptop,Basic
+1079,Spain,43,Female,Laptop,Premium
+1079,Australia,43,Male,Laptop,Basic
+1079,Germany,51,Male,Laptop,Standard
+1079,United States,50,Female,Smartphone,Basic
+1079,Brazil,42,Female,Tablet,Premium
+1079,United States,37,Female,Smart TV,Basic
+1079,Germany,30,Male,Tablet,Basic
+1079,Canada,36,Male,Smartphone,Standard
+1078,Canada,31,Male,Laptop,Basic
+1053,France,45,Female,Smart TV,Premium
+1053,Spain,33,Male,Smartphone,Basic
+1053,Canada,47,Female,Tablet,Basic
+1053,United Kingdom,37,Male,Smartphone,Standard
+1053,Spain,47,Male,Smart TV,Premium
+1053,Germany,38,Male,Smartphone,Basic
+1052,Germany,47,Male,Smart TV,Basic
+1052,Australia,49,Female,Tablet,Premium
+1052,Canada,48,Female,Tablet,Standard
+1052,United States,44,Male,Tablet,Basic
+1052,Canada,35,Male,Laptop,Standard
+1052,Canada,31,Male,Smart TV,Basic
+1052,Italy,43,Female,Smart TV,Basic
+1052,Canada,28,Male,Smartphone,Premium
+1052,Canada,41,Male,Tablet,Basic
+1052,United Kingdom,32,Male,Smart TV,Standard
+1052,Australia,36,Female,Laptop,Premium
+1052,Italy,31,Male,Smart TV,Basic
+1052,Spain,41,Female,Smart TV,Premium
+1052,Spain,30,Female,Smartphone,Basic
+1052,France,35,Male,Smartphone,Premium
+1051,Italy,28,Male,Laptop,Basic
+1051,Australia,51,Male,Smartphone,Premium
+1051,France,34,Female,Smart TV,Premium
+1051,Spain,31,Male,Smartphone,Standard
+1051,Canada,41,Female,Laptop,Basic
+1051,United States,46,Female,Tablet,Basic
+1051,Germany,30,Female,Laptop,Basic
+1051,Canada,37,Female,Smart TV,Standard
+1051,Italy,46,Male,Smart TV,Basic
+1051,Australia,51,Female,Smartphone,Basic
+1051,Canada,32,Female,Tablet,Standard
+1051,United States,39,Male,Smart TV,Standard
+1051,Australia,38,Male,Laptop,Premium
+1051,France,35,Female,Laptop,Premium
+1051,United States,38,Male,Laptop,Standard
+1050,Germany,31,Female,Smart TV,Standard
+1050,United States,34,Female,Smart TV,Basic
+1050,Mexico,41,Female,Tablet,Standard
+1050,Spain,48,Female,Laptop,Basic
+1050,United States,44,Male,Laptop,Premium
+1050,Spain,32,Male,Smart TV,Premium
+1050,France,48,Female,Laptop,Premium
+1050,Brazil,29,Male,Smart TV,Basic
+1050,United States,43,Male,Smart TV,Premium
+1049,United Kingdom,42,Male,Smartphone,Standard
+1049,Italy,29,Male,Smart TV,Basic
+1049,Spain,28,Female,Smart TV,Premium
+1049,Australia,41,Male,Smartphone,Premium
+1049,United States,35,Male,Smart TV,Standard
+1049,Brazil,47,Female,Smart TV,Basic
+1049,United States,35,Female,Tablet,Standard
+1049,Spain,44,Male,Tablet,Basic
+1049,Brazil,41,Female,Smartphone,Basic
+1049,United States,35,Female,Laptop,Premium
+1049,Germany,42,Female,Tablet,Standard
+1049,Canada,33,Female,Tablet,Standard
+1049,Mexico,47,Male,Smartphone,Standard
+1049,United Kingdom,37,Male,Tablet,Standard
+1049,United Kingdom,34,Female,Smartphone,Standard
+1049,United States,43,Male,Laptop,Standard
+1048,Brazil,44,Male,Smartphone,Basic
+1048,United States,47,Male,Laptop,Premium
+1048,Italy,34,Female,Tablet,Basic
+1048,Spain,27,Female,Smart TV,Premium
+1048,Germany,35,Male,Smartphone,Standard
+1048,United States,30,Female,Tablet,Basic
+1048,Spain,34,Female,Laptop,Premium
+1048,Spain,48,Male,Tablet,Basic
+1048,United States,37,Female,Tablet,Standard
+1048,France,34,Female,Smartphone,Premium
+1048,Brazil,35,Female,Smartphone,Basic
+1048,Canada,44,Male,Tablet,Standard
+1048,United States,47,Male,Laptop,Basic
+1048,Canada,39,Female,Smart TV,Premium
+1048,Mexico,28,Female,Tablet,Standard
+1048,Spain,45,Female,Tablet,Standard
+1048,United States,49,Female,Smart TV,Basic
+1048,Canada,30,Male,Tablet,Basic
+1048,Spain,29,Female,Tablet,Premium
+1048,United States,38,Female,Tablet,Basic
+1047,United Kingdom,39,Female,Laptop,Standard
+1023,Canada,28,Male,Smart TV,Basic
+1023,France,30,Female,Smartphone,Premium
+1023,Canada,45,Male,Smartphone,Premium
+1023,Italy,46,Female,Tablet,Basic
+1023,Australia,37,Female,Laptop,Premium
+1023,Spain,51,Male,Smartphone,Basic
+1023,United States,31,Female,Laptop,Standard
+1023,France,36,Male,Laptop,Premium
+1022,Australia,51,Female,Laptop,Standard
+1022,Brazil,49,Female,Laptop,Basic
+1022,Brazil,48,Female,Tablet,Premium
+1022,United States,39,Male,Smart TV,Premium
+1022,Spain,30,Male,Smartphone,Premium
+1022,Spain,32,Male,Smart TV,Premium
+1022,Brazil,47,Male,Smart TV,Basic
+1022,Mexico,47,Female,Smart TV,Standard
+1022,United States,41,Male,Tablet,Standard
+1022,United Kingdom,47,Female,Laptop,Standard
+1022,Brazil,49,Female,Laptop,Basic
+1021,Brazil,49,Male,Laptop,Basic
+1021,Canada,36,Female,Smartphone,Basic
+1021,United Kingdom,34,Female,Smartphone,Standard
+1021,Spain,41,Male,Laptop,Standard
+1021,United States,35,Male,Laptop,Standard
+1021,Canada,31,Male,Tablet,Premium
+1021,Germany,46,Male,Laptop,Basic
+1021,Spain,35,Male,Laptop,Premium
+1021,United States,49,Female,Laptop,Basic
+1021,Brazil,32,Male,Smartphone,Basic
+1021,Mexico,31,Female,Smartphone,Standard
+1021,United Kingdom,28,Female,Tablet,Standard
+1021,Canada,31,Male,Tablet,Premium
+1021,United Kingdom,38,Female,Tablet,Standard
+1021,Australia,30,Female,Smartphone,Premium
+1020,Mexico,40,Female,Laptop,Standard
+1020,Brazil,28,Male,Tablet,Premium
+1020,Canada,37,Female,Laptop,Basic
+1020,Spain,35,Female,Tablet,Basic
+1020,France,51,Male,Smart TV,Premium
+1020,Canada,50,Male,Smartphone,Premium
+1020,Spain,45,Female,Laptop,Standard
+1020,United Kingdom,45,Female,Smart TV,Standard
+1020,Germany,50,Female,Tablet,Basic
+1019,Italy,47,Male,Tablet,Basic
+1019,United Kingdom,32,Male,Laptop,Standard
+1019,Spain,42,Female,Smart TV,Standard
+1019,Germany,30,Female,Smart TV,Basic
+1019,France,46,Male,Laptop,Basic
+1019,Spain,46,Male,Smart TV,Premium
+1019,Canada,48,Male,Smartphone,Premium
+1019,United States,51,Female,Smartphone,Basic
+1019,Mexico,44,Male,Tablet,Standard
+1019,United Kingdom,42,Female,Tablet,Standard
+1019,Mexico,43,Male,Smart TV,Standard
+1019,Spain,28,Male,Smart TV,Premium
+1019,United States,32,Female,Tablet,Premium
+1019,Spain,43,Male,Laptop,Standard
+1019,United States,34,Male,Smart TV,Standard
+1019,Mexico,48,Male,Smart TV,Standard
+1019,United Kingdom,28,Female,Laptop,Standard
+1018,Spain,28,Female,Laptop,Premium
+1018,United States,30,Male,Tablet,Standard
+1018,Italy,48,Female,Smart TV,Basic
+1018,Canada,34,Female,Laptop,Premium
+1018,United States,44,Female,Smartphone,Premium
+1018,Spain,40,Male,Smart TV,Standard
+1018,Italy,31,Female,Smart TV,Basic
+1018,Spain,27,Male,Laptop,Premium
+1018,United Kingdom,47,Female,Tablet,Standard
+1018,Germany,33,Male,Tablet,Basic
+1018,France,51,Female,Laptop,Basic
+1018,Spain,49,Female,Smart TV,Basic
+1018,United States,50,Male,Smart TV,Basic
+1018,France,41,Female,Smartphone,Premium
+1017,Spain,41,Male,Laptop,Premium
+995,Australia,42,Female,Tablet,Basic
+993,United States,42,Male,Smartphone,Premium
+992,United Kingdom,45,Male,Tablet,Standard
+992,Australia,33,Female,Smartphone,Standard
+992,France,30,Male,Smartphone,Premium
+992,United States,49,Male,Laptop,Basic
+992,Germany,39,Female,Tablet,Basic
+992,Canada,34,Female,Tablet,Premium
+992,Brazil,33,Male,Laptop,Basic
+992,Mexico,50,Male,Smartphone,Standard
+992,United States,31,Male,Smart TV,Basic
+992,United States,31,Female,Smartphone,Premium
+991,France,48,Male,Tablet,Basic
+991,United States,29,Female,Smartphone,Basic
+991,United States,38,Male,Smartphone,Standard
+991,Mexico,40,Male,Laptop,Standard
+991,Germany,38,Female,Tablet,Basic
+991,Brazil,40,Female,Laptop,Premium
+991,Canada,39,Male,Laptop,Basic
+991,United States,34,Female,Tablet,Basic
+991,France,34,Male,Smart TV,Premium
+991,Australia,35,Male,Smart TV,Standard
+991,Germany,35,Female,Smartphone,Basic
+990,Germany,47,Female,Tablet,Basic
+990,Brazil,36,Female,Laptop,Basic
+990,Canada,49,Male,Smartphone,Standard
+990,Brazil,45,Male,Smartphone,Basic
+990,Canada,45,Male,Smart TV,Basic
+990,Brazil,37,Male,Smart TV,Basic
+990,Mexico,35,Male,Laptop,Standard
+990,United Kingdom,46,Male,Smart TV,Standard
+990,Australia,42,Male,Smart TV,Premium
+990,Italy,36,Female,Smart TV,Basic
+990,Canada,48,Male,Smart TV,Premium
+990,Germany,41,Male,Smartphone,Basic
+989,Australia,33,Male,Smartphone,Basic
+989,United States,40,Female,Laptop,Premium
+989,Spain,42,Female,Laptop,Premium
+989,Australia,31,Female,Laptop,Premium
+989,United Kingdom,46,Male,Laptop,Standard
+989,Australia,47,Female,Smart TV,Standard
+989,United States,34,Female,Smart TV,Basic
+989,Brazil,50,Male,Tablet,Basic
+989,Spain,31,Male,Laptop,Basic
+988,Canada,31,Female,Smartphone,Basic
+988,Germany,48,Female,Smartphone,Basic
+988,Brazil,36,Male,Laptop,Basic
+988,United States,45,Male,Tablet,Premium
+988,Spain,33,Male,Smartphone,Standard
+988,Australia,41,Female,Laptop,Premium
+988,Canada,29,Male,Laptop,Standard
+988,United Kingdom,51,Male,Laptop,Standard
+988,United States,44,Female,Smart TV,Standard
+988,Canada,30,Male,Tablet,Basic
+988,United States,38,Male,Smart TV,Basic
+988,Italy,34,Male,Smartphone,Basic
+988,Australia,46,Female,Laptop,Premium
+988,Australia,40,Male,Tablet,Premium
+987,Mexico,34,Female,Smart TV,Standard
+987,Spain,40,Male,Smartphone,Premium
+987,Australia,35,Male,Smartphone,Premium
+987,Brazil,31,Female,Tablet,Premium
+987,United States,34,Male,Smart TV,Standard
+987,Canada,37,Male,Smart TV,Premium
+987,United States,38,Male,Smart TV,Basic
+987,Brazil,39,Female,Smartphone,Basic
+987,Spain,36,Female,Smart TV,Standard
+987,Italy,33,Female,Smartphone,Basic
+987,Spain,46,Male,Tablet,Basic
+987,United States,39,Male,Smartphone,Premium
+986,Mexico,29,Male,Tablet,Standard
+967,France,29,Male,Smartphone,Premium
+964,France,37,Female,Smart TV,Premium
+963,Germany,47,Female,Tablet,Basic
+962,Australia,39,Female,Laptop,Premium
+962,Spain,31,Male,Smart TV,Standard
+962,United States,28,Female,Laptop,Basic
+962,Spain,38,Male,Smartphone,Standard
+962,Canada,46,Female,Smart TV,Basic
+961,Mexico,35,Male,Laptop,Standard
+961,Brazil,42,Male,Laptop,Basic
+961,United States,28,Female,Smartphone,Standard
+961,Canada,46,Male,Tablet,Premium
+961,United Kingdom,39,Male,Smartphone,Standard
+961,Mexico,39,Male,Tablet,Standard
+961,Spain,51,Male,Smart TV,Standard
+961,Mexico,40,Male,Smart TV,Standard
+961,Spain,48,Male,Laptop,Standard
+961,France,36,Male,Smart TV,Basic
+961,France,50,Male,Laptop,Premium
+961,Italy,31,Female,Laptop,Basic
+961,Germany,36,Female,Tablet,Basic
+961,Germany,39,Male,Tablet,Basic
+961,Canada,48,Female,Laptop,Standard
+961,United States,48,Female,Laptop,Premium
+961,Canada,44,Female,Laptop,Basic
+961,Mexico,50,Female,Tablet,Standard
+961,United States,39,Male,Smartphone,Standard
+961,Canada,34,Female,Smartphone,Premium
+960,Spain,46,Female,Smart TV,Standard
+960,Mexico,48,Male,Tablet,Standard
+960,Spain,47,Male,Smartphone,Basic
+960,Spain,45,Male,Smart TV,Standard
+960,United States,34,Female,Laptop,Premium
+960,Canada,38,Female,Tablet,Basic
+960,Australia,40,Female,Tablet,Premium
+960,Spain,29,Male,Tablet,Standard
+960,United States,37,Female,Laptop,Standard
+960,Germany,42,Male,Tablet,Basic
+960,France,45,Male,Smartphone,Premium
+960,Canada,32,Female,Tablet,Basic
+960,Canada,46,Male,Smartphone,Basic
+960,United States,29,Female,Smart TV,Standard
+960,Spain,31,Male,Laptop,Standard
+960,Canada,48,Female,Tablet,Standard
+959,Brazil,37,Female,Tablet,Basic
+959,United Kingdom,41,Male,Smartphone,Standard
+959,Spain,34,Female,Tablet,Standard
+959,Italy,45,Male,Smart TV,Basic
+959,Germany,39,Female,Smart TV,Basic
+959,France,41,Male,Laptop,Premium
+959,Canada,40,Male,Smart TV,Standard
+959,United States,35,Female,Tablet,Premium
+959,Canada,34,Female,Smartphone,Basic
+959,Canada,39,Male,Smartphone,Basic
+959,Spain,36,Female,Smart TV,Premium
+958,Germany,32,Female,Tablet,Basic
+958,Australia,48,Male,Smart TV,Standard
+958,Australia,39,Male,Tablet,Premium
+958,United States,28,Male,Laptop,Standard
+958,United States,44,Female,Smart TV,Basic
+958,Italy,32,Male,Laptop,Basic
+958,Spain,31,Female,Smart TV,Premium
+958,Canada,34,Male,Laptop,Premium
+958,Mexico,32,Female,Smart TV,Standard
+958,Spain,30,Female,Laptop,Basic
+958,France,51,Female,Laptop,Premium
+958,Spain,30,Female,Tablet,Premium
+958,Canada,31,Male,Smartphone,Basic
+958,Germany,46,Male,Laptop,Basic
+958,Canada,40,Female,Smart TV,Premium
+958,Spain,32,Female,Smartphone,Standard
+958,Canada,32,Female,Laptop,Standard
+957,Spain,50,Female,Laptop,Standard
+957,Germany,43,Female,Laptop,Basic
+957,Canada,30,Female,Smart TV,Standard
+957,Canada,37,Female,Smart TV,Basic
+957,Mexico,30,Male,Tablet,Standard
+957,Spain,35,Female,Tablet,Premium
+957,Canada,48,Male,Tablet,Basic
+957,United Kingdom,30,Female,Smart TV,Standard
+957,Australia,30,Male,Smart TV,Premium
+957,Germany,35,Female,Smart TV,Basic
+957,Mexico,50,Male,Smart TV,Standard
+956,United States,30,Female,Laptop,Basic
+956,Canada,48,Female,Smartphone,Basic
+956,Canada,43,Female,Laptop,Basic
+932,Germany,33,Male,Smartphone,Basic
+902,Mexico,39,Female,Laptop,Basic
+900,Italy,45,Male,Smartphone,Basic
+876,United States,28,Female,Smart TV,Premium
+876,Italy,49,Female,Smartphone,Standard
+816,Mexico,36,Female,Tablet,Standard
+782,Germany,37,Female,Laptop,Premium
+755,Italy,44,Female,Smart TV,Premium
+755,Italy,43,Female,Tablet,Basic
+753,Italy,48,Male,Tablet,Basic
+724,United Kingdom,34,Female,Smartphone,Standard
+723,United States,28,Female,Laptop,Premium
+723,Spain,35,Female,Tablet,Standard
+720,Italy,41,Male,Smartphone,Basic
+689,Germany,38,Female,Smart TV,Standard
+658,United States,26,Female,Laptop,Premium
+632,United States,37,Male,Tablet,Premium
+630,Australia,27,Male,Laptop,Standard
+629,Germany,39,Female,Smart TV,Basic
+602,Italy,32,Male,Laptop,Basic
+1289,United Kingdom,41,Female,Laptop,Standard
+924,Spain,29,Female,Tablet,Standard
+834,Australia,32,Male,Smartphone,Standard
+1138,Spain,50,Male,Tablet,Premium
+1138,Mexico,36,Male,Tablet,Standard
+1138,France,31,Male,Smartphone,Basic
+1138,Italy,29,Male,Smartphone,Basic
+1138,United Kingdom,28,Female,Tablet,Standard
+1138,Australia,50,Male,Tablet,Premium
+1108,Canada,28,Female,Tablet,Basic
+1108,Italy,49,Male,Laptop,Basic
+1108,Canada,32,Female,Tablet,Basic
+1108,Brazil,32,Male,Tablet,Basic
+1108,Mexico,42,Female,Smartphone,Standard
+1108,France,31,Male,Smart TV,Premium
+1108,United States,35,Female,Laptop,Basic
+1108,Australia,30,Female,Tablet,Standard
+1108,Spain,36,Female,Tablet,Basic
+1108,Australia,36,Male,Smart TV,Premium
+1108,Germany,50,Female,Tablet,Basic
+1108,United States,31,Female,Smartphone,Premium
+1108,Spain,42,Male,Laptop,Premium
+1108,United States,35,Female,Laptop,Basic
+1108,Spain,44,Male,Smartphone,Premium
+1108,United States,51,Male,Tablet,Basic
+1108,United States,47,Female,Tablet,Premium
+1108,Canada,46,Male,Smartphone,Basic
+1108,Brazil,39,Female,Laptop,Basic
+1108,Mexico,44,Male,Laptop,Standard
+1108,Spain,48,Female,Tablet,Standard
+1108,Italy,27,Male,Smartphone,Basic
+1108,Spain,27,Male,Laptop,Premium
+1108,Germany,38,Female,Smart TV,Basic
+1077,Mexico,47,Female,Laptop,Standard
+1077,Germany,31,Female,Smart TV,Basic
+1077,France,33,Male,Laptop,Premium
+1077,Spain,38,Female,Tablet,Basic
+1077,United States,31,Male,Smart TV,Standard
+1077,Canada,46,Female,Smartphone,Standard
+1077,Mexico,29,Female,Tablet,Standard
+1077,Mexico,51,Female,Tablet,Standard
+1077,United Kingdom,36,Male,Smartphone,Standard
+1077,Spain,32,Female,Laptop,Basic
+1077,Spain,37,Male,Tablet,Premium
+1077,United States,29,Male,Tablet,Basic
+1077,United States,40,Male,Tablet,Premium
+1077,Spain,43,Female,Tablet,Standard
+1077,United States,35,Female,Smartphone,Premium
+1077,Spain,28,Male,Smartphone,Basic
+1077,Canada,49,Male,Tablet,Standard
+1077,Germany,44,Female,Tablet,Basic
+1077,United States,35,Female,Smart TV,Basic
+1046,France,41,Female,Smart TV,Premium
+1046,Italy,44,Female,Smartphone,Basic
+1046,France,37,Female,Laptop,Premium
+1046,Germany,37,Female,Smartphone,Basic
+1046,United States,45,Female,Tablet,Standard
+1046,Brazil,31,Female,Tablet,Basic
+1046,United States,51,Female,Laptop,Basic
+1046,Canada,45,Female,Smart TV,Standard
+1046,United States,39,Male,Smart TV,Basic
+1046,Italy,28,Female,Smart TV,Basic
+1046,United Kingdom,33,Female,Smartphone,Standard
+1046,Brazil,50,Female,Smartphone,Premium
+1046,United States,42,Male,Smartphone,Basic
+1046,Australia,31,Male,Tablet,Premium
+1046,Canada,43,Male,Smart TV,Basic
+1046,Brazil,30,Female,Laptop,Basic
+1016,Italy,45,Female,Tablet,Basic
+1016,Germany,36,Male,Laptop,Basic
+1016,Spain,27,Female,Smartphone,Premium
+1016,Germany,31,Male,Laptop,Basic
+1016,United States,47,Female,Smart TV,Basic
+1016,Australia,46,Female,Smart TV,Standard
+1016,Brazil,43,Female,Smartphone,Basic
+1016,Canada,49,Male,Smart TV,Premium
+1016,Spain,33,Female,Smartphone,Standard
+1016,France,39,Male,Smart TV,Basic
+1016,United States,38,Male,Smart TV,Basic
+985,Brazil,44,Male,Smart TV,Basic
+985,Italy,34,Female,Laptop,Basic
+985,France,30,Female,Smartphone,Premium
+985,United States,51,Female,Smart TV,Basic
+985,France,41,Male,Laptop,Premium
+985,Brazil,40,Female,Smart TV,Basic
+864,Germany,40,Female,Laptop,Basic
+1137,Italy,49,Female,Smartphone,Premium
+1137,United States,28,Male,Smart TV,Basic
+1137,Spain,27,Female,Smart TV,Standard
+772,Italy,42,Male,Tablet,Basic
+1107,United States,40,Male,Tablet,Premium
+1107,United States,43,Female,Laptop,Premium
+1107,Brazil,31,Female,Smartphone,Basic
+1107,Spain,44,Female,Smartphone,Standard
+1107,Australia,48,Female,Smart TV,Premium
+1107,Canada,29,Male,Tablet,Premium
+1107,United States,50,Male,Smartphone,Basic
+1107,United Kingdom,44,Female,Smartphone,Standard
+1107,France,43,Female,Laptop,Premium
+1107,Italy,37,Female,Smart TV,Basic
+1107,United Kingdom,46,Female,Smartphone,Standard
+1107,Spain,41,Male,Smart TV,Basic
+1107,Canada,37,Male,Smart TV,Basic
+1107,United Kingdom,38,Female,Tablet,Standard
+1107,Australia,40,Male,Smart TV,Premium
+1107,France,46,Female,Tablet,Premium
+1107,Canada,47,Female,Tablet,Standard
+1107,United States,27,Female,Laptop,Basic
+1076,Australia,51,Male,Smartphone,Basic
+1076,Spain,50,Female,Smart TV,Premium
+1076,Italy,46,Male,Laptop,Basic
+1076,Germany,43,Male,Smartphone,Basic
+1076,Spain,39,Male,Tablet,Premium
+1076,United Kingdom,43,Female,Smartphone,Standard
+1076,Canada,38,Male,Tablet,Premium
+1076,Australia,27,Female,Smartphone,Premium
+1076,United States,38,Male,Smart TV,Standard
+1076,Brazil,34,Male,Tablet,Basic
+1076,Canada,39,Male,Smartphone,Premium
+1076,Spain,33,Male,Smartphone,Standard
+1076,Italy,45,Male,Tablet,Basic
+1076,France,46,Male,Tablet,Basic
+1076,Italy,35,Male,Tablet,Basic
+1076,United States,46,Female,Laptop,Basic
+1076,Spain,34,Female,Smart TV,Premium
+1076,Italy,30,Male,Tablet,Basic
+1045,Brazil,45,Female,Laptop,Basic
+1045,Canada,44,Male,Tablet,Premium
+1045,Spain,28,Female,Tablet,Premium
+1045,Germany,39,Male,Laptop,Basic
+1045,United Kingdom,34,Male,Laptop,Standard
+1045,Italy,31,Male,Smartphone,Basic
+1045,Germany,44,Male,Smartphone,Basic
+1045,Spain,48,Male,Tablet,Premium
+1045,Mexico,39,Female,Tablet,Standard
+1045,United States,46,Male,Tablet,Standard
+1045,Canada,46,Female,Tablet,Premium
+1045,Mexico,37,Male,Tablet,Standard
+1045,Spain,38,Male,Laptop,Basic
+1045,Canada,40,Male,Laptop,Standard
+1045,United Kingdom,46,Male,Smartphone,Standard
+1015,France,50,Female,Laptop,Premium
+1015,France,38,Male,Smart TV,Premium
+1015,Italy,45,Male,Laptop,Basic
+1015,Spain,47,Female,Smart TV,Premium
+1015,United Kingdom,49,Male,Smartphone,Standard
+1015,United States,36,Female,Smartphone,Basic
+1015,Brazil,31,Male,Tablet,Premium
+1015,Canada,37,Female,Smartphone,Basic
+1015,Spain,37,Male,Laptop,Basic
+1015,France,37,Female,Smart TV,Premium
+1015,Canada,30,Male,Smart TV,Basic
+1015,United States,29,Female,Smartphone,Premium
+1015,United Kingdom,48,Female,Smart TV,Standard
+1015,United States,48,Male,Smartphone,Standard
+1015,Mexico,45,Female,Smart TV,Standard
+1015,Spain,48,Male,Laptop,Premium
+1015,Italy,38,Male,Laptop,Basic
+1015,United States,45,Female,Laptop,Basic
+1015,Mexico,47,Male,Tablet,Standard
+1015,Australia,45,Female,Smartphone,Standard
+984,Spain,51,Female,Tablet,Basic
+954,Australia,41,Female,Smartphone,Premium
+1287,United States,28,Male,Smartphone,Basic
+891,Spain,32,Female,Smart TV,Premium
+1228,France,36,Male,Tablet,Premium
+1136,Canada,40,Male,Smartphone,Basic
+1136,Spain,30,Female,Laptop,Premium
+1136,Brazil,49,Male,Tablet,Basic
+1136,United States,32,Male,Smartphone,Basic
+1106,Mexico,51,Female,Tablet,Standard
+1106,United States,46,Male,Smart TV,Standard
+1106,Germany,46,Female,Tablet,Basic
+1106,Mexico,34,Female,Smartphone,Standard
+1106,Australia,48,Male,Smartphone,Standard
+1106,Brazil,40,Male,Tablet,Premium
+1106,Brazil,28,Female,Smart TV,Basic
+1106,Spain,43,Male,Tablet,Basic
+1106,United States,50,Male,Tablet,Basic
+1106,United States,33,Male,Smartphone,Basic
+1106,Spain,31,Male,Tablet,Basic
+1106,France,36,Male,Laptop,Premium
+1106,Italy,47,Female,Tablet,Basic
+1106,Australia,47,Female,Smartphone,Standard
+1106,United States,44,Female,Tablet,Standard
+1106,Brazil,40,Female,Smartphone,Basic
+1106,United States,40,Female,Smartphone,Premium
+1075,Germany,43,Male,Smart TV,Standard
+1075,Spain,31,Male,Tablet,Premium
+1075,Spain,39,Female,Smartphone,Basic
+1075,United States,31,Male,Smartphone,Premium
+1075,United States,30,Male,Smartphone,Basic
+1075,Mexico,43,Male,Smart TV,Standard
+1075,Spain,45,Female,Tablet,Standard
+1075,Mexico,28,Male,Smartphone,Standard
+1075,Germany,33,Male,Tablet,Basic
+1075,Brazil,30,Male,Smartphone,Premium
+1075,United States,43,Female,Smart TV,Basic
+1075,France,28,Female,Tablet,Premium
+1075,Brazil,36,Female,Smartphone,Basic
+1075,United States,41,Male,Smartphone,Basic
+1075,France,29,Female,Smart TV,Premium
+1409,Mexico,32,Male,Tablet,Standard
+1044,Mexico,34,Male,Smartphone,Standard
+1044,Spain,37,Male,Smartphone,Standard
+1044,Canada,29,Female,Tablet,Basic
+1044,United Kingdom,35,Male,Laptop,Standard
+1044,Spain,40,Female,Tablet,Standard
+1044,Spain,51,Male,Laptop,Basic
+1044,France,50,Female,Tablet,Premium
+1044,United States,36,Female,Tablet,Premium
+1044,United States,39,Male,Tablet,Basic
+1044,Australia,41,Female,Laptop,Standard
+1044,United States,43,Male,Laptop,Basic
+1044,Canada,36,Female,Smart TV,Premium
+1044,United States,40,Male,Laptop,Basic
+1044,Spain,41,Male,Laptop,Basic
+1044,Brazil,44,Female,Smartphone,Basic
+1044,Spain,44,Male,Smartphone,Standard
+1014,Spain,29,Female,Laptop,Standard
+1014,Australia,50,Male,Laptop,Premium
+1014,Mexico,33,Male,Tablet,Standard
+1014,Australia,32,Female,Laptop,Premium
+1014,Mexico,49,Male,Smartphone,Standard
+1014,United Kingdom,35,Female,Laptop,Standard
+1014,United States,36,Male,Smartphone,Premium
+1014,Italy,40,Male,Laptop,Basic
+1014,Germany,27,Female,Tablet,Basic
+1014,France,31,Male,Smartphone,Premium
+1014,Spain,41,Female,Smart TV,Standard
+1014,Spain,28,Female,Smartphone,Basic
+1014,United Kingdom,50,Male,Laptop,Standard
+1014,United States,42,Female,Tablet,Basic
+1014,Germany,38,Male,Laptop,Basic
+1014,Canada,31,Female,Tablet,Standard
+1014,Spain,30,Female,Smart TV,Standard
+983,United States,40,Male,Tablet,Premium
+983,Mexico,27,Male,Tablet,Standard
+983,Spain,27,Female,Laptop,Premium
+953,Italy,47,Female,Laptop,Basic
+1196,France,42,Male,Laptop,Premium
+1166,United States,31,Female,Smartphone,Basic
+1166,Canada,30,Female,Laptop,Basic
+1135,United States,33,Male,Smartphone,Premium
+1135,Canada,42,Female,Laptop,Premium
+1135,United States,37,Male,Smart TV,Basic
+1135,Germany,36,Female,Smart TV,Basic
+1135,Italy,30,Male,Tablet,Basic
+1135,Spain,49,Female,Tablet,Basic
+1135,United States,34,Female,Laptop,Standard
+1105,Mexico,44,Female,Smart TV,Standard
+1105,Mexico,41,Female,Smartphone,Standard
+1105,Canada,43,Female,Laptop,Basic
+1105,Germany,41,Male,Laptop,Basic
+1105,Spain,33,Male,Laptop,Premium
+1105,United Kingdom,34,Female,Tablet,Standard
+1105,Canada,27,Male,Laptop,Premium
+1105,France,39,Female,Smart TV,Basic
+1105,Spain,41,Male,Tablet,Premium
+1105,United States,42,Female,Tablet,Standard
+1105,France,34,Male,Smartphone,Premium
+1105,Mexico,31,Female,Tablet,Standard
+1105,Spain,36,Female,Tablet,Standard
+1105,Australia,36,Male,Tablet,Premium
+1105,United States,43,Male,Laptop,Standard
+1105,Canada,46,Female,Laptop,Standard
+1105,Brazil,32,Male,Smart TV,Basic
+1105,United States,41,Female,Laptop,Premium
+1105,Spain,46,Female,Laptop,Premium
+1105,Spain,34,Female,Tablet,Basic
+1105,Germany,40,Female,Smart TV,Basic
+1105,Canada,29,Female,Tablet,Premium
+1105,Mexico,34,Male,Smart TV,Standard
+1105,Spain,49,Female,Smart TV,Basic
+1105,United States,48,Female,Smart TV,Standard
+1105,Canada,43,Female,Smart TV,Basic
+1105,Mexico,28,Female,Laptop,Standard
+1105,Spain,50,Male,Smart TV,Premium
+1105,Italy,39,Male,Laptop,Basic
+1105,Spain,34,Female,Smart TV,Premium
+1074,Australia,40,Female,Laptop,Standard
+1074,Italy,28,Female,Smart TV,Basic
+1074,France,37,Female,Tablet,Premium
+1074,Italy,32,Male,Tablet,Basic
+1074,Spain,42,Female,Laptop,Premium
+1074,United Kingdom,27,Male,Smart TV,Standard
+1074,Australia,42,Male,Tablet,Standard
+1074,Spain,49,Female,Tablet,Premium
+1074,France,32,Female,Smart TV,Premium
+1074,United Kingdom,38,Female,Smartphone,Standard
+1074,Canada,28,Male,Laptop,Standard
+1074,United States,27,Female,Tablet,Basic
+1074,Germany,32,Female,Smartphone,Basic
+1074,Canada,49,Female,Smartphone,Basic
+1074,Spain,29,Female,Smart TV,Premium
+1074,Italy,40,Female,Smart TV,Basic
+1074,Spain,39,Male,Smartphone,Premium
+1074,France,47,Female,Smart TV,Premium
+1074,France,43,Male,Tablet,Premium
+1074,Mexico,48,Male,Smart TV,Standard
+1074,Spain,34,Female,Smartphone,Premium
+1074,Mexico,47,Male,Tablet,Standard
+1074,Spain,51,Female,Laptop,Standard
+1043,Brazil,45,Female,Smartphone,Basic
+1043,Spain,42,Female,Smartphone,Standard
+1043,Brazil,40,Male,Smartphone,Basic
+1043,Brazil,40,Male,Smartphone,Basic
+1043,Spain,33,Male,Smart TV,Standard
+1043,Australia,30,Male,Tablet,Premium
+1043,Italy,34,Male,Tablet,Basic
+1043,Australia,35,Female,Smartphone,Basic
+1043,Spain,29,Male,Smart TV,Standard
+1043,United Kingdom,39,Female,Laptop,Standard
+1043,France,37,Female,Smartphone,Premium
+1043,United States,41,Female,Laptop,Standard
+1043,Mexico,42,Female,Tablet,Standard
+1043,United States,51,Male,Tablet,Standard
+1043,Canada,39,Female,Smartphone,Standard
+1043,Spain,44,Female,Smart TV,Premium
+1013,Mexico,34,Female,Smart TV,Standard
+1013,Brazil,43,Male,Smartphone,Basic
+1013,United States,33,Male,Tablet,Premium
+1013,Canada,35,Female,Tablet,Standard
+1013,Canada,39,Male,Smart TV,Standard
+1013,United States,34,Male,Tablet,Standard
+1013,Brazil,46,Male,Smart TV,Basic
+1013,United States,39,Female,Smart TV,Basic
+1013,United States,42,Male,Laptop,Basic
+1013,Spain,51,Male,Smart TV,Premium
+1013,Spain,42,Female,Smartphone,Basic
+1013,Australia,48,Male,Tablet,Premium
+1013,Canada,37,Female,Laptop,Standard
+1013,Spain,50,Male,Smartphone,Premium
+1013,France,47,Male,Smart TV,Premium
+1013,United States,45,Male,Smartphone,Basic
+1013,Spain,32,Male,Smart TV,Premium
+1013,Spain,30,Male,Tablet,Premium
+1013,France,35,Female,Laptop,Basic
+1013,Germany,31,Female,Smartphone,Basic
+982,Spain,46,Female,Smartphone,Premium
+982,United Kingdom,27,Female,Laptop,Standard
+982,United States,38,Male,Tablet,Standard
+1165,Germany,50,Male,Laptop,Premium
+800,Italy,42,Male,Smartphone,Basic
+1134,Brazil,46,Male,Laptop,Basic
+1134,Germany,44,Female,Laptop,Basic
+1134,Canada,32,Female,Tablet,Basic
+1134,Canada,38,Male,Smartphone,Premium
+1134,Brazil,36,Male,Smart TV,Premium
+1134,Canada,38,Male,Smartphone,Standard
+1104,Mexico,48,Male,Smartphone,Standard
+1104,Italy,27,Female,Smartphone,Basic
+1104,United States,47,Female,Laptop,Premium
+1104,United Kingdom,38,Female,Tablet,Standard
+1104,Canada,36,Male,Smart TV,Premium
+1104,Canada,30,Female,Smartphone,Standard
+1104,Canada,49,Female,Tablet,Basic
+1104,Spain,38,Male,Smartphone,Basic
+1104,Brazil,35,Male,Smart TV,Basic
+1104,United Kingdom,27,Male,Laptop,Standard
+1104,United States,37,Male,Laptop,Basic
+1104,Spain,37,Female,Tablet,Standard
+1104,United Kingdom,46,Female,Smart TV,Standard
+1104,Canada,43,Male,Tablet,Premium
+1104,United States,44,Male,Tablet,Basic
+1104,United States,35,Male,Tablet,Basic
+1104,Germany,30,Male,Smart TV,Basic
+1104,Brazil,35,Male,Smartphone,Basic
+1104,United Kingdom,42,Female,Smartphone,Standard
+1104,Canada,39,Male,Smart TV,Basic
+1104,Mexico,48,Male,Smartphone,Standard
+1104,Spain,42,Female,Laptop,Premium
+1104,Australia,28,Male,Laptop,Standard
+1104,Canada,39,Female,Smart TV,Basic
+1104,Spain,29,Female,Tablet,Premium
+1104,Brazil,29,Male,Smart TV,Basic
+1104,Spain,40,Male,Smart TV,Basic
+1104,Australia,48,Female,Smartphone,Basic
+1104,Germany,35,Male,Smart TV,Standard
+1073,Australia,33,Male,Smart TV,Premium
+1073,France,44,Male,Tablet,Premium
+1073,Italy,29,Male,Smart TV,Basic
+1073,United States,33,Male,Laptop,Basic
+1073,Spain,33,Male,Smart TV,Standard
+1073,United Kingdom,43,Male,Smart TV,Standard
+1073,United States,31,Female,Tablet,Basic
+1073,Spain,33,Female,Smart TV,Basic
+1073,Spain,37,Male,Smartphone,Basic
+1042,Canada,51,Male,Tablet,Basic
+1042,Spain,46,Male,Smart TV,Premium
+1042,United States,29,Male,Smartphone,Basic
+1042,United Kingdom,36,Male,Smartphone,Standard
+1042,Canada,28,Female,Smartphone,Basic
+1042,Spain,32,Male,Smart TV,Premium
+1042,United Kingdom,35,Male,Smartphone,Standard
+1042,United States,48,Female,Laptop,Standard
+1042,Spain,31,Female,Laptop,Premium
+1042,United Kingdom,35,Male,Tablet,Standard
+1042,Canada,40,Female,Tablet,Standard
+1042,Spain,27,Female,Smart TV,Standard
+1042,Italy,35,Male,Smartphone,Basic
+1042,Spain,36,Female,Smart TV,Premium
+1042,Australia,39,Female,Smart TV,Premium
+1042,Germany,42,Female,Laptop,Basic
+1042,Australia,40,Female,Tablet,Premium
+1042,Mexico,32,Male,Laptop,Standard
+1042,Canada,51,Male,Tablet,Basic
+1042,Mexico,41,Male,Laptop,Standard
+1042,Spain,48,Female,Tablet,Standard
+1012,United States,46,Female,Tablet,Premium
+1012,France,41,Male,Smart TV,Premium
+1012,Germany,39,Female,Smart TV,Basic
+1012,Mexico,38,Female,Smartphone,Standard
+1012,Spain,39,Female,Tablet,Standard
+1012,Australia,32,Male,Laptop,Premium
+1012,Canada,40,Female,Smartphone,Basic
+1012,Spain,35,Female,Smart TV,Premium
+1012,Italy,32,Female,Smart TV,Basic
+1012,United States,33,Male,Smartphone,Premium
+1012,Italy,36,Female,Smart TV,Basic
+1012,France,44,Male,Laptop,Premium
+1012,Brazil,42,Female,Smart TV,Premium
+1012,Canada,47,Male,Tablet,Basic
+1012,Germany,30,Male,Laptop,Basic
+1012,United States,46,Male,Smartphone,Basic
+981,Spain,46,Female,Smart TV,Premium
+981,Mexico,45,Male,Smartphone,Standard
+981,Mexico,41,Female,Smartphone,Standard
+981,Australia,31,Female,Laptop,Standard
+981,Canada,37,Female,Laptop,Premium
+1225,France,29,Female,Smart TV,Premium
+1225,France,49,Female,Tablet,Premium
+1133,United Kingdom,44,Female,Tablet,Standard
+1133,United States,33,Female,Smart TV,Basic
+1133,United States,29,Female,Smart TV,Basic
+1133,Italy,38,Male,Smartphone,Basic
+1133,United Kingdom,51,Female,Laptop,Standard
+1133,Spain,47,Female,Smart TV,Premium
+1133,Canada,42,Female,Tablet,Standard
+1133,Germany,34,Male,Tablet,Basic
+1133,Spain,39,Female,Smartphone,Premium
+1133,Brazil,48,Male,Laptop,Basic
+1133,Mexico,51,Female,Laptop,Standard
+1103,Germany,47,Female,Smart TV,Basic
+1103,United States,31,Female,Laptop,Basic
+1103,France,45,Female,Laptop,Basic
+1103,Spain,50,Female,Smart TV,Premium
+1103,Spain,29,Male,Tablet,Premium
+1103,United States,33,Female,Laptop,Standard
+1103,Canada,28,Male,Tablet,Premium
+1103,Brazil,28,Male,Tablet,Basic
+1103,Mexico,45,Female,Smartphone,Standard
+1103,France,41,Female,Tablet,Premium
+1103,France,31,Male,Smart TV,Premium
+1103,United States,42,Female,Smartphone,Basic
+1103,Spain,39,Female,Smartphone,Standard
+1103,United Kingdom,30,Female,Laptop,Standard
+1103,United Kingdom,29,Female,Smartphone,Standard
+1103,France,41,Female,Smartphone,Premium
+1072,France,31,Female,Laptop,Premium
+1072,United States,37,Male,Tablet,Basic
+1072,France,37,Male,Smart TV,Basic
+1072,Germany,47,Male,Laptop,Basic
+1072,Spain,44,Female,Laptop,Premium
+1072,Germany,29,Female,Smartphone,Basic
+1072,Mexico,48,Male,Smart TV,Standard
+1072,United Kingdom,50,Male,Smartphone,Standard
+1072,Brazil,48,Male,Smart TV,Basic
+1072,United States,30,Male,Smart TV,Premium
+1072,United States,31,Female,Laptop,Premium
+1041,Brazil,47,Female,Smart TV,Basic
+1041,Italy,37,Female,Tablet,Basic
+1041,Australia,28,Female,Tablet,Premium
+1041,United Kingdom,35,Female,Smartphone,Standard
+1041,Australia,28,Male,Smart TV,Basic
+1041,Mexico,29,Male,Tablet,Standard
+1041,Germany,37,Female,Laptop,Standard
+1041,Italy,29,Male,Smart TV,Basic
+1041,Canada,32,Female,Laptop,Premium
+1041,Mexico,32,Male,Tablet,Standard
+1041,Spain,49,Male,Smart TV,Basic
+1376,Mexico,43,Male,Smartphone,Standard
+1011,Italy,30,Female,Smart TV,Basic
+1011,Mexico,49,Female,Laptop,Standard
+1011,Brazil,39,Male,Smartphone,Basic
+1011,Italy,36,Female,Smart TV,Basic
+1011,Mexico,37,Female,Smart TV,Standard
+1011,Canada,39,Female,Tablet,Basic
+1011,Spain,51,Male,Tablet,Basic
+1011,Mexico,30,Female,Tablet,Standard
+1011,Spain,31,Male,Smart TV,Premium
+1011,Germany,32,Male,Laptop,Basic
+1011,United States,37,Female,Tablet,Basic
+1011,United Kingdom,29,Female,Tablet,Standard
+1011,Spain,33,Female,Laptop,Basic
+1011,United Kingdom,34,Female,Laptop,Standard
+1011,Brazil,29,Male,Smart TV,Basic
+1011,United States,33,Male,Smart TV,Premium
+1011,Italy,42,Male,Laptop,Basic
+1011,France,46,Male,Tablet,Premium
+980,Mexico,49,Male,Tablet,Standard
+980,Australia,48,Male,Smartphone,Premium
+980,Germany,28,Male,Tablet,Basic
+980,Spain,51,Male,Laptop,Standard
+980,Spain,28,Female,Laptop,Premium
+980,Mexico,37,Female,Smart TV,Standard
+1224,Australia,44,Male,Smartphone,Premium
+1193,Canada,31,Male,Laptop,Premium
+1163,France,45,Female,Smart TV,Premium
+1163,Australia,35,Female,Smartphone,Standard
+1132,United Kingdom,40,Female,Tablet,Standard
+1132,Spain,35,Female,Smart TV,Premium
+1132,Canada,27,Female,Tablet,Premium
+1132,United States,30,Male,Tablet,Premium
+1132,Canada,47,Male,Tablet,Basic
+1132,Australia,40,Male,Tablet,Premium
+1132,United States,43,Male,Smart TV,Standard
+1102,Brazil,39,Female,Tablet,Premium
+1102,Spain,46,Female,Tablet,Standard
+1102,Italy,37,Male,Laptop,Basic
+1102,Mexico,45,Male,Smart TV,Standard
+1102,United States,41,Female,Smart TV,Standard
+1102,Italy,42,Male,Smart TV,Basic
+1102,Canada,51,Male,Laptop,Basic
+1102,United Kingdom,29,Female,Tablet,Standard
+1102,Spain,39,Female,Laptop,Basic
+1102,Italy,31,Female,Smartphone,Basic
+1102,Italy,47,Male,Smartphone,Basic
+1102,Australia,43,Female,Smart TV,Premium
+1102,France,44,Male,Tablet,Premium
+1102,United States,30,Male,Laptop,Standard
+1102,Brazil,29,Female,Laptop,Basic
+1071,France,47,Male,Smartphone,Premium
+1071,Australia,37,Male,Laptop,Standard
+1071,France,32,Female,Smartphone,Premium
+1071,Canada,35,Male,Tablet,Standard
+1071,Brazil,28,Female,Tablet,Basic
+1040,Spain,37,Male,Laptop,Basic
+1040,United Kingdom,44,Female,Tablet,Standard
+1040,United States,39,Male,Smartphone,Premium
+1040,Spain,39,Female,Smartphone,Premium
+1040,United States,27,Male,Laptop,Premium
+1040,Mexico,41,Male,Smartphone,Standard
+1040,United Kingdom,37,Female,Laptop,Standard
+1040,Spain,29,Male,Tablet,Standard
+1040,United Kingdom,50,Male,Tablet,Standard
+1040,United States,49,Male,Tablet,Basic
+1040,United Kingdom,50,Male,Laptop,Standard
+1010,Mexico,47,Female,Smartphone,Basic
+1010,Mexico,49,Female,Laptop,Standard
+1010,France,41,Female,Smartphone,Premium
+1010,Spain,51,Female,Tablet,Standard
+1010,Italy,49,Male,Smartphone,Basic
+1010,Australia,44,Female,Smart TV,Basic
+1010,Germany,46,Female,Tablet,Basic
+1010,Canada,40,Male,Smart TV,Premium
+1010,France,51,Female,Smartphone,Premium
+1010,Spain,49,Male,Laptop,Premium
+1010,Spain,48,Female,Tablet,Premium
+1010,United States,29,Male,Tablet,Basic
+1010,United States,37,Female,Tablet,Premium
+1010,Mexico,41,Female,Smartphone,Standard
+1010,Canada,41,Male,Smartphone,Basic
+1010,Spain,49,Male,Smart TV,Premium
+979,Canada,46,Female,Smart TV,Basic
+979,Canada,27,Male,Laptop,Basic
+949,Spain,36,Female,Laptop,Premium
+917,United States,31,Female,Laptop,Premium
+917,Spain,49,Male,Tablet,Premium
+1192,Germany,47,Male,Smart TV,Basic
+827,Germany,39,Female,Smart TV,Basic
+1162,Australia,48,Female,Smart TV,Premium
+1162,Germany,46,Female,Smart TV,Basic
+1131,Australia,29,Male,Tablet,Standard
+1131,France,39,Female,Smartphone,Basic
+1131,France,49,Male,Laptop,Basic
+1131,Italy,31,Male,Tablet,Basic
+1131,United States,36,Female,Laptop,Basic
+1131,Spain,40,Female,Smartphone,Premium
+1131,United States,46,Female,Smartphone,Premium
+1131,United Kingdom,36,Male,Smartphone,Standard
+1131,Italy,43,Female,Smart TV,Basic
+1101,United States,50,Female,Smart TV,Premium
+1101,Germany,33,Male,Smart TV,Basic
+1101,United States,30,Female,Laptop,Basic
+1101,France,48,Female,Laptop,Basic
+1101,Spain,49,Female,Tablet,Basic
+1101,United States,45,Female,Tablet,Basic
+1101,United States,36,Male,Smartphone,Premium
+1101,Spain,43,Female,Smartphone,Premium
+1101,Canada,41,Female,Laptop,Standard
+1101,Mexico,33,Male,Smart TV,Standard
+1070,United States,41,Male,Laptop,Premium
+1070,Spain,31,Male,Smart TV,Premium
+1070,Spain,38,Female,Smartphone,Premium
+1070,Brazil,34,Male,Smartphone,Premium
+1070,United States,47,Female,Smartphone,Basic
+1070,United States,49,Female,Smartphone,Basic
+1070,United States,42,Male,Smartphone,Basic
+1070,Italy,43,Male,Smartphone,Basic
+1070,Canada,39,Male,Smartphone,Standard
+1070,Australia,38,Female,Laptop,Basic
+1070,France,36,Male,Tablet,Premium
+1070,Canada,41,Female,Smart TV,Basic
+1070,Canada,41,Male,Smartphone,Premium
+1039,Spain,44,Female,Smartphone,Standard
+1039,Canada,38,Male,Laptop,Basic
+1039,United States,33,Male,Tablet,Basic
+1039,United States,35,Male,Tablet,Standard
+1039,Mexico,44,Male,Laptop,Standard
+1039,France,31,Male,Smartphone,Premium
+1039,Italy,31,Female,Tablet,Basic
+1009,Spain,37,Male,Smartphone,Standard
+1009,United Kingdom,46,Female,Smartphone,Basic
+1009,Spain,39,Male,Smartphone,Basic
+1009,Mexico,51,Male,Smart TV,Standard
+1009,United States,29,Male,Tablet,Basic
+1009,Germany,41,Male,Laptop,Standard
+1009,Canada,42,Male,Laptop,Basic
+1009,Brazil,32,Female,Tablet,Basic
+1009,Italy,48,Female,Smart TV,Basic
+1009,Australia,37,Female,Laptop,Basic
+1009,Australia,29,Male,Laptop,Premium
+1009,United States,27,Male,Smart TV,Standard
+1009,Spain,28,Female,Laptop,Standard
+1009,Spain,50,Female,Tablet,Basic
+1009,United States,50,Female,Tablet,Basic
+978,Spain,34,Female,Smart TV,Standard
+978,Spain,41,Male,Smartphone,Premium
+978,Germany,41,Female,Laptop,Basic
+978,United States,50,Female,Laptop,Basic
+1281,United Kingdom,41,Female,Laptop,Standard
+1191,Australia,28,Male,Laptop,Basic
+1161,United Kingdom,45,Female,Tablet,Standard
+1130,Spain,27,Male,Smartphone,Standard
+1130,Brazil,42,Female,Laptop,Basic
+1130,Germany,38,Male,Tablet,Basic
+1130,Canada,41,Male,Smart TV,Basic
+1130,Spain,41,Male,Smartphone,Premium
+1130,Spain,51,Male,Smart TV,Basic
+1100,Mexico,38,Male,Laptop,Standard
+1100,Canada,42,Male,Smartphone,Basic
+1100,Spain,33,Female,Tablet,Premium
+1100,United States,45,Female,Smart TV,Premium
+1100,Italy,39,Male,Smartphone,Basic
+1100,United States,39,Male,Tablet,Basic
+1100,Spain,36,Male,Smart TV,Premium
+1069,Germany,42,Male,Smartphone,Basic
+1069,Australia,47,Female,Laptop,Premium
+1069,Canada,32,Female,Laptop,Basic
+1069,United States,39,Male,Tablet,Basic
+1069,Brazil,47,Female,Laptop,Basic
+1069,Canada,40,Female,Tablet,Premium
+1069,Brazil,42,Male,Laptop,Premium
+1069,Spain,40,Female,Laptop,Standard
+1069,Brazil,49,Female,Smartphone,Basic
+1069,United States,43,Male,Smartphone,Basic
+1038,France,45,Male,Laptop,Premium
+1038,Mexico,28,Male,Laptop,Standard
+1038,Brazil,29,Male,Smartphone,Basic
+1038,Brazil,31,Male,Smart TV,Basic
+1038,France,31,Male,Smartphone,Premium
+1038,Italy,28,Male,Laptop,Basic
+1038,Spain,41,Female,Smartphone,Basic
+1038,France,30,Female,Tablet,Premium
+1038,Germany,40,Female,Laptop,Basic
+1008,Mexico,47,Female,Smart TV,Standard
+1008,Canada,32,Female,Laptop,Standard
+1008,United States,35,Male,Smartphone,Basic
+1008,Australia,40,Male,Smartphone,Premium
+1008,United States,44,Male,Laptop,Premium
+1008,Spain,35,Male,Laptop,Premium
+1008,United States,36,Male,Smart TV,Premium
+1008,Mexico,34,Female,Tablet,Standard
+1008,United Kingdom,45,Female,Smartphone,Standard
+1008,United Kingdom,51,Male,Tablet,Standard
+1008,Spain,39,Female,Laptop,Basic
+1008,Brazil,28,Female,Laptop,Basic
+1008,Canada,35,Male,Smart TV,Basic
+1008,United States,28,Female,Smartphone,Basic
+1008,Germany,33,Female,Laptop,Standard
+1008,Canada,35,Female,Smartphone,Standard
+1008,Spain,28,Male,Smart TV,Standard
+1008,Mexico,49,Female,Smartphone,Standard
+1008,Brazil,27,Male,Tablet,Basic
+977,Italy,43,Female,Tablet,Basic
+977,Spain,38,Male,Smartphone,Basic
+977,France,37,Male,Smart TV,Premium
+977,Brazil,49,Female,Tablet,Basic
+977,United States,33,Male,Tablet,Premium
+947,Spain,51,Female,Smart TV,Standard
+915,Italy,35,Male,Laptop,Basic
+1190,Germany,47,Female,Laptop,Basic
+1160,Australia,32,Male,Tablet,Standard
+1160,Germany,44,Male,Smartphone,Premium
+1129,United States,33,Female,Smartphone,Premium
+1129,Brazil,47,Female,Laptop,Basic
+1129,Italy,49,Female,Smart TV,Basic
+1129,United States,48,Female,Smart TV,Basic
+1129,Spain,46,Male,Smartphone,Premium
+1129,Spain,33,Female,Smartphone,Basic
+1129,Canada,47,Female,Smartphone,Standard
+1129,Australia,28,Male,Smartphone,Premium
+1129,Mexico,42,Female,Smart TV,Standard
+1129,Canada,43,Male,Laptop,Basic
+1129,France,33,Male,Smart TV,Premium
+1129,Australia,45,Female,Tablet,Standard
+1129,United States,47,Female,Smart TV,Standard
+1129,Brazil,42,Female,Smartphone,Basic
+1099,Canada,34,Male,Smartphone,Basic
+1099,Spain,35,Female,Smart TV,Premium
+1099,Canada,31,Male,Tablet,Basic
+1099,Canada,38,Female,Laptop,Basic
+1099,Australia,46,Female,Smartphone,Premium
+1099,Spain,47,Male,Laptop,Standard
+1099,United States,35,Female,Laptop,Premium
+1099,United States,35,Female,Smartphone,Standard
+1099,Canada,37,Female,Tablet,Premium
+1099,Mexico,38,Male,Laptop,Standard
+1099,Spain,43,Male,Smart TV,Standard
+1099,Spain,41,Male,Laptop,Premium
+1099,Germany,49,Male,Laptop,Basic
+1099,Australia,46,Male,Smart TV,Basic
+1099,Germany,37,Male,Smart TV,Standard
+1068,Spain,32,Female,Smartphone,Premium
+1068,France,27,Female,Smartphone,Premium
+1068,France,48,Female,Smart TV,Premium
+1068,Spain,43,Male,Tablet,Standard
+1068,Mexico,29,Male,Laptop,Standard
+1068,United States,44,Female,Smart TV,Standard
+1068,Mexico,48,Male,Tablet,Standard
+1037,Canada,29,Male,Tablet,Standard
+1037,Canada,46,Male,Smartphone,Premium
+1037,Canada,46,Female,Smart TV,Basic
+1037,Canada,39,Female,Smart TV,Basic
+1037,Canada,43,Female,Smartphone,Standard
+1037,Spain,41,Male,Smartphone,Premium
+1007,Italy,46,Female,Smartphone,Basic
+1007,France,47,Male,Laptop,Premium
+1007,Spain,30,Female,Smart TV,Standard
+1007,Spain,30,Female,Smartphone,Basic
+1007,France,27,Male,Smart TV,Premium
+1007,Spain,30,Male,Smartphone,Premium
+1007,Italy,41,Female,Tablet,Basic
+1007,Spain,29,Female,Smart TV,Premium
+1007,Germany,44,Female,Smart TV,Basic
+1007,Canada,47,Male,Tablet,Premium
+1007,Spain,40,Male,Smart TV,Standard
+1007,United Kingdom,37,Male,Smart TV,Standard
+1007,Italy,32,Female,Smartphone,Basic
+1007,United States,51,Male,Smart TV,Standard
+976,Italy,49,Female,Laptop,Basic
+976,Italy,46,Female,Smart TV,Basic
+976,Italy,38,Male,Laptop,Basic
+976,Spain,43,Male,Smartphone,Premium
+1248,France,34,Male,Smartphone,Premium
+1248,United Kingdom,41,Female,Smart TV,Standard
+855,Canada,45,Male,Tablet,Premium
+1189,Australia,39,Female,Tablet,Standard
+1159,Brazil,27,Female,Smartphone,Basic
+1128,United States,42,Male,Laptop,Premium
+1128,Spain,31,Male,Smart TV,Premium
+1128,France,45,Female,Smart TV,Premium
+1128,United Kingdom,42,Female,Smart TV,Standard
+1128,Italy,28,Male,Smartphone,Basic
+1128,Canada,39,Male,Smart TV,Premium
+1128,Mexico,41,Female,Smartphone,Standard
+1128,United States,51,Male,Smart TV,Premium
+1128,Canada,40,Male,Smart TV,Basic
+1128,Italy,42,Female,Tablet,Basic
+1098,United Kingdom,28,Male,Smartphone,Standard
+1098,Spain,42,Male,Tablet,Standard
+1098,France,48,Male,Laptop,Premium
+1098,Canada,29,Male,Smartphone,Basic
+1098,Italy,44,Male,Laptop,Basic
+1098,Spain,49,Male,Smartphone,Standard
+1098,Brazil,40,Male,Smartphone,Premium
+1098,United States,34,Male,Laptop,Standard
+1098,Brazil,30,Female,Smartphone,Basic
+1098,Germany,27,Male,Smart TV,Basic
+1098,United States,50,Male,Smart TV,Basic
+1098,United States,51,Male,Smartphone,Premium
+1098,Italy,43,Female,Laptop,Basic
+1067,Germany,39,Female,Smartphone,Basic
+1067,Germany,32,Female,Tablet,Basic
+1067,Spain,44,Female,Smartphone,Premium
+1067,Italy,41,Male,Laptop,Basic
+1067,United States,29,Female,Laptop,Basic
+1067,Germany,49,Male,Smart TV,Basic
+1067,Canada,29,Male,Tablet,Basic
+1067,Spain,42,Male,Laptop,Basic
+1067,United Kingdom,28,Male,Tablet,Standard
+1036,United States,30,Male,Laptop,Premium
+1036,Brazil,39,Male,Smartphone,Basic
+1036,United States,42,Female,Smart TV,Standard
+1036,Spain,30,Male,Tablet,Basic
+1036,United States,47,Male,Smart TV,Basic
+1036,Spain,28,Male,Tablet,Premium
+1036,France,40,Male,Tablet,Basic
+1036,United States,37,Male,Tablet,Basic
+1036,Spain,48,Female,Smart TV,Basic
+1036,United States,37,Female,Tablet,Standard
+1036,Germany,45,Female,Smartphone,Basic
+1036,Brazil,50,Female,Smart TV,Basic
+1036,Canada,40,Female,Smartphone,Premium
+1036,United States,49,Female,Smart TV,Standard
+1006,United States,45,Male,Tablet,Basic
+1006,Brazil,32,Male,Laptop,Basic
+1006,Brazil,47,Male,Smart TV,Basic
+1006,Spain,37,Female,Smart TV,Standard
+1006,United States,27,Male,Smart TV,Premium
+1006,United Kingdom,42,Female,Tablet,Standard
+1006,Spain,31,Male,Laptop,Basic
+1006,United States,29,Female,Laptop,Standard
+1006,United States,33,Female,Laptop,Premium
+1006,Italy,47,Male,Smartphone,Basic
+1006,United States,36,Male,Laptop,Premium
+1006,Canada,51,Male,Smart TV,Premium
+1006,United States,45,Female,Smart TV,Basic
+1006,Spain,32,Male,Smart TV,Premium
+1006,Spain,33,Male,Smart TV,Standard
+1006,Australia,37,Male,Smart TV,Premium
+1006,United States,48,Male,Laptop,Standard
+1006,Mexico,33,Male,Smartphone,Standard
+1006,United Kingdom,34,Female,Laptop,Standard
+1006,United States,40,Female,Smartphone,Standard
+1006,Brazil,48,Female,Laptop,Basic
+1006,United States,43,Female,Tablet,Premium
+1006,France,33,Female,Tablet,Premium
+1006,United States,41,Female,Laptop,Premium
+1006,Italy,43,Male,Tablet,Basic
+1006,Mexico,34,Male,Smart TV,Standard
+1006,Australia,40,Female,Smartphone,Premium
+1006,Australia,35,Male,Tablet,Premium
+1340,Brazil,36,Male,Smartphone,Basic
+975,Canada,33,Female,Tablet,Premium
+945,Spain,36,Female,Laptop,Premium
+945,Spain,38,Male,Smart TV,Basic
+1278,Brazil,30,Female,Laptop,Basic
+854,Spain,40,Male,Smartphone,Standard
+1158,Mexico,27,Female,Smart TV,Standard
+1158,Germany,47,Male,Smart TV,Basic
+1127,Canada,48,Female,Smart TV,Basic
+1127,United Kingdom,47,Male,Smart TV,Standard
+1127,Germany,41,Male,Tablet,Basic
+1127,Germany,40,Male,Laptop,Basic
+1127,France,45,Male,Tablet,Premium
+1127,Australia,50,Male,Tablet,Standard
+1127,United States,42,Female,Smart TV,Premium
+1127,Australia,27,Female,Tablet,Standard
+1127,Canada,46,Female,Tablet,Premium
+1127,Germany,36,Male,Smartphone,Basic
+1127,Australia,49,Male,Smartphone,Premium
+1127,France,51,Male,Tablet,Premium
+1127,United States,37,Male,Laptop,Basic
+1127,Spain,34,Female,Laptop,Premium
+1127,Australia,47,Female,Laptop,Basic
+1127,Germany,48,Female,Smart TV,Standard
+1127,United States,49,Male,Laptop,Basic
+1097,United Kingdom,43,Female,Smart TV,Standard
+1097,Mexico,27,Male,Tablet,Basic
+1097,Brazil,28,Female,Smartphone,Premium
+1097,Canada,36,Male,Laptop,Basic
+1097,Italy,30,Male,Tablet,Basic
+1097,Spain,51,Male,Smartphone,Premium
+1097,Germany,37,Male,Smartphone,Basic
+1097,Canada,38,Female,Laptop,Standard
+1097,United States,32,Female,Laptop,Basic
+1097,United States,43,Male,Smart TV,Basic
+1097,France,34,Female,Laptop,Premium
+1097,Brazil,27,Male,Smart TV,Basic
+1097,Canada,39,Female,Tablet,Basic
+1066,United States,44,Female,Laptop,Premium
+1066,United Kingdom,41,Female,Smartphone,Standard
+1066,Brazil,50,Male,Laptop,Basic
+1066,United States,50,Female,Tablet,Basic
+1066,Spain,33,Male,Tablet,Premium
+1066,Australia,40,Female,Smartphone,Standard
+1035,France,34,Male,Smartphone,Premium
+1035,United States,34,Male,Tablet,Standard
+1035,United States,45,Male,Smart TV,Premium
+1035,United States,34,Male,Smartphone,Basic
+1035,United Kingdom,30,Female,Smartphone,Standard
+1035,United States,36,Female,Smartphone,Standard
+1035,Australia,40,Female,Smartphone,Standard
+1005,Mexico,28,Male,Smartphone,Standard
+1005,Mexico,35,Male,Smart TV,Standard
+1005,Canada,49,Female,Tablet,Basic
+1005,France,46,Female,Smartphone,Premium
+1005,Spain,32,Male,Smart TV,Premium
+1005,United States,46,Male,Smartphone,Basic
+1005,United States,29,Female,Tablet,Basic
+1005,Italy,34,Female,Tablet,Basic
+1005,Germany,36,Male,Tablet,Basic
+1005,Canada,42,Female,Tablet,Standard
+1005,Germany,28,Female,Smartphone,Basic
+1005,Spain,29,Female,Tablet,Basic
+1005,United States,34,Female,Smartphone,Basic
+1005,United States,41,Male,Tablet,Standard
+1005,Mexico,43,Male,Tablet,Standard
+1005,United States,47,Female,Smartphone,Standard
+1005,Canada,36,Male,Laptop,Premium
+1157,Australia,29,Male,Smartphone,Standard
+1157,United Kingdom,49,Female,Smartphone,Standard
+1157,Germany,49,Male,Tablet,Standard
+1157,United Kingdom,33,Male,Laptop,Standard
+1126,United States,30,Male,Laptop,Premium
+1126,Australia,50,Female,Smartphone,Premium
+1126,Canada,41,Male,Smart TV,Basic
+1126,United Kingdom,39,Male,Smart TV,Standard
+1126,United States,31,Male,Smart TV,Basic
+1126,Mexico,35,Female,Smart TV,Standard
+1126,Spain,41,Male,Laptop,Standard
+1126,Germany,40,Female,Smart TV,Basic
+1126,Spain,48,Female,Smartphone,Standard
+1126,United Kingdom,38,Male,Laptop,Standard
+1126,Spain,47,Female,Laptop,Premium
+1126,Spain,40,Female,Laptop,Basic
+1126,France,51,Female,Tablet,Premium
+1126,Canada,50,Male,Smartphone,Standard
+1126,United States,33,Male,Smart TV,Premium
+1096,United Kingdom,46,Male,Smartphone,Standard
+1096,United Kingdom,43,Male,Tablet,Standard
+1096,United Kingdom,35,Male,Smartphone,Standard
+1096,Spain,48,Female,Laptop,Premium
+1096,Mexico,31,Female,Tablet,Standard
+1096,United States,29,Male,Laptop,Premium
+1096,Canada,35,Female,Tablet,Basic
+1096,Australia,39,Male,Smart TV,Premium
+1096,France,47,Male,Smartphone,Premium
+1096,United States,47,Female,Tablet,Premium
+1096,United States,40,Female,Smartphone,Basic
+1096,Canada,35,Male,Smart TV,Premium
+1096,Spain,28,Female,Smart TV,Premium
+1065,Brazil,44,Female,Tablet,Basic
+1065,United Kingdom,28,Male,Smart TV,Standard
+1065,Australia,40,Male,Smartphone,Standard
+1065,United States,29,Male,Smartphone,Premium
+1065,Italy,28,Female,Laptop,Basic
+1065,Spain,41,Female,Laptop,Premium
+1065,Mexico,42,Male,Laptop,Standard
+1065,Italy,51,Female,Tablet,Basic
+1065,Australia,45,Male,Smart TV,Premium
+1065,Germany,37,Male,Smartphone,Standard
+1065,Australia,50,Male,Smartphone,Premium
+1065,United States,49,Male,Smart TV,Standard
+1065,United States,45,Female,Smartphone,Basic
+1034,Canada,36,Male,Smartphone,Basic
+1034,Mexico,42,Male,Laptop,Standard
+1034,United States,41,Female,Laptop,Standard
+1034,Canada,41,Female,Tablet,Basic
+1034,Mexico,51,Female,Smart TV,Standard
+1034,United States,50,Female,Laptop,Basic
+1034,Spain,39,Male,Laptop,Premium
+1034,United States,40,Female,Tablet,Basic
+1004,Spain,46,Female,Smartphone,Premium
+1004,Italy,38,Female,Smart TV,Basic
+1004,Brazil,32,Male,Smart TV,Basic
+1004,United States,27,Female,Laptop,Basic
+1004,United States,49,Male,Laptop,Basic
+1004,Spain,46,Male,Tablet,Premium
+1004,France,39,Female,Laptop,Basic
+1004,Canada,35,Male,Smart TV,Basic
+1004,Spain,47,Female,Laptop,Premium
+1004,Germany,40,Female,Smartphone,Basic
+1004,Australia,47,Male,Tablet,Standard
+1004,Canada,36,Male,Laptop,Basic
+1004,Brazil,46,Male,Smartphone,Basic
+1004,Spain,45,Female,Smart TV,Premium
+1004,France,31,Male,Tablet,Basic
+1004,United States,35,Female,Smart TV,Basic
+1004,Italy,51,Female,Laptop,Basic
+1004,Spain,33,Male,Smart TV,Standard
+1004,Canada,47,Male,Smartphone,Standard
+1004,United Kingdom,41,Male,Smart TV,Standard
+973,Italy,48,Male,Smartphone,Basic
+973,United States,36,Female,Laptop,Premium
+943,Brazil,45,Female,Smartphone,Premium
+943,United Kingdom,47,Male,Smartphone,Standard
+1276,United States,27,Male,Smartphone,Basic
+911,Italy,37,Female,Laptop,Basic
+1186,Australia,29,Male,Tablet,Standard
+1186,Australia,28,Female,Laptop,Standard
+1186,Australia,28,Male,Smartphone,Premium
+1156,United Kingdom,36,Female,Tablet,Standard
+1156,Australia,44,Female,Laptop,Standard
+1125,Canada,50,Female,Smartphone,Basic
+1125,Canada,31,Female,Tablet,Basic
+1125,Spain,34,Female,Tablet,Premium
+1125,Mexico,44,Female,Smartphone,Standard
+1125,Italy,36,Male,Smartphone,Basic
+1125,Italy,28,Male,Smart TV,Basic
+1125,Brazil,38,Female,Laptop,Basic
+1125,United States,48,Female,Smart TV,Basic
+1125,United States,36,Male,Smart TV,Premium
+1125,Germany,39,Male,Laptop,Basic
+1125,Mexico,51,Male,Laptop,Standard
+1125,Spain,40,Male,Tablet,Premium
+1125,Spain,29,Female,Smartphone,Basic
+1125,Canada,29,Male,Smartphone,Basic
+1125,United Kingdom,35,Female,Tablet,Standard
+1125,Spain,46,Female,Laptop,Premium
+1125,Spain,51,Female,Tablet,Premium
+1125,Spain,51,Male,Tablet,Basic
+1125,United States,50,Female,Smartphone,Standard
+1125,France,51,Female,Laptop,Premium
+1125,United Kingdom,38,Female,Tablet,Standard
+1125,United States,27,Male,Laptop,Standard
+1125,Brazil,28,Female,Smartphone,Basic
+1125,United States,42,Female,Laptop,Standard
+1125,Brazil,29,Male,Smart TV,Basic
+1125,United States,50,Male,Smart TV,Basic
+1125,Italy,51,Female,Smart TV,Basic
+1095,France,32,Male,Laptop,Premium
+1095,Mexico,45,Female,Tablet,Standard
+1095,France,44,Female,Smart TV,Premium
+1095,Brazil,41,Male,Smartphone,Basic
+1095,United States,42,Male,Tablet,Basic
+1095,Spain,38,Male,Smartphone,Basic
+1095,Canada,35,Male,Smartphone,Standard
+1095,Australia,42,Female,Smartphone,Premium
+1095,Mexico,35,Male,Smartphone,Standard
+1095,United Kingdom,51,Male,Smartphone,Standard
+1095,United Kingdom,45,Male,Laptop,Standard
+1095,United Kingdom,44,Male,Smartphone,Standard
+1095,Spain,37,Female,Laptop,Premium
+1095,Spain,49,Male,Smart TV,Basic
+1095,Canada,45,Female,Tablet,Standard
+1095,Brazil,33,Male,Smartphone,Basic
+1064,Germany,50,Female,Smartphone,Basic
+1064,Brazil,37,Female,Tablet,Basic
+1064,Canada,30,Female,Tablet,Premium
+1064,Italy,50,Male,Smart TV,Basic
+1064,Spain,42,Female,Smartphone,Basic
+1064,Canada,50,Female,Tablet,Standard
+1064,Canada,28,Female,Smart TV,Premium
+1033,Italy,36,Male,Laptop,Basic
+1033,Canada,34,Female,Smart TV,Standard
+1033,Canada,46,Male,Tablet,Premium
+1033,Brazil,44,Female,Tablet,Basic
+1033,Canada,46,Male,Smart TV,Basic
+1033,Canada,50,Male,Smartphone,Premium
+1033,United States,33,Female,Laptop,Basic
+1003,Spain,49,Male,Tablet,Premium
+1003,Spain,36,Female,Smartphone,Premium
+1003,Spain,49,Female,Tablet,Premium
+1003,United States,43,Male,Laptop,Premium
+1003,France,50,Female,Smartphone,Premium
+1003,Brazil,33,Female,Tablet,Premium
+1003,France,31,Female,Laptop,Basic
+1003,Spain,31,Female,Laptop,Premium
+1003,Italy,51,Female,Smart TV,Basic
+1003,Mexico,33,Male,Laptop,Standard
+1003,United Kingdom,47,Male,Laptop,Standard
+1003,Canada,28,Female,Tablet,Premium
+1003,United States,41,Male,Tablet,Basic
+1003,Mexico,40,Female,Laptop,Standard
+1003,Spain,40,Female,Smartphone,Basic
+972,Italy,29,Male,Tablet,Basic
+972,United States,47,Male,Smartphone,Basic
+879,United States,30,Female,Smart TV,Premium
+1185,Canada,39,Female,Smartphone,Basic
+1155,Canada,50,Male,Laptop,Premium
+1155,United Kingdom,36,Female,Laptop,Standard
+1155,France,50,Female,Laptop,Premium
+790,Italy,41,Male,Tablet,Basic
+1124,Italy,38,Male,Smartphone,Standard
+1124,Canada,50,Male,Laptop,Basic
+1124,Germany,28,Male,Smart TV,Basic
+1124,France,49,Female,Laptop,Premium
+1124,Mexico,42,Female,Smart TV,Standard
+1124,United States,49,Female,Smartphone,Basic
+1124,United States,39,Female,Laptop,Basic
+1124,Spain,44,Male,Tablet,Premium
+1124,Canada,50,Male,Tablet,Basic
+1124,United States,42,Female,Smart TV,Standard
+1124,France,40,Female,Smartphone,Premium
+1124,Brazil,32,Male,Smart TV,Basic
+1124,United States,51,Male,Smartphone,Basic
+1124,Canada,36,Female,Tablet,Basic
+1124,Canada,35,Male,Smart TV,Standard
+1124,Mexico,31,Female,Laptop,Standard
+1124,Canada,33,Male,Smart TV,Standard
+1124,United States,47,Female,Smart TV,Basic
+1124,Mexico,43,Female,Laptop,Standard
+1124,Canada,28,Female,Smart TV,Premium
+1124,Spain,40,Female,Smart TV,Standard
+1124,Spain,30,Female,Smart TV,Premium
+1124,Australia,30,Male,Tablet,Premium
+1094,Australia,37,Male,Smartphone,Standard
+1094,United Kingdom,46,Female,Smartphone,Standard
+1094,Mexico,37,Male,Smartphone,Standard
+1094,United Kingdom,51,Male,Laptop,Standard
+1094,Mexico,43,Female,Smartphone,Standard
+1094,Spain,32,Female,Smartphone,Basic
+1094,Spain,40,Female,Tablet,Basic
+1094,France,47,Female,Smartphone,Premium
+1094,Spain,31,Male,Tablet,Premium
+1094,Italy,30,Female,Smart TV,Basic
+1094,United States,47,Female,Smartphone,Standard
+1094,Spain,47,Female,Tablet,Basic
+1094,Spain,44,Female,Tablet,Premium
+1063,Brazil,37,Male,Laptop,Premium
+1063,Canada,30,Male,Smart TV,Basic
+1063,United Kingdom,39,Male,Smart TV,Standard
+1063,Spain,37,Male,Smart TV,Premium
+1063,France,35,Female,Smartphone,Premium
+1063,Germany,39,Female,Smartphone,Basic
+1063,France,34,Female,Laptop,Basic
+1063,Canada,49,Male,Laptop,Basic
+1063,France,31,Male,Laptop,Premium
+1063,Spain,36,Male,Laptop,Premium
+1063,United States,27,Male,Smartphone,Premium
+1063,Mexico,40,Female,Smart TV,Standard
+1063,United Kingdom,42,Male,Tablet,Standard
+1063,United States,45,Male,Tablet,Standard
+1397,Mexico,33,Male,Tablet,Standard
+1032,United Kingdom,28,Female,Laptop,Standard
+1032,Mexico,47,Male,Tablet,Standard
+1032,Brazil,30,Male,Laptop,Standard
+1032,Brazil,45,Male,Tablet,Basic
+1032,France,35,Male,Smartphone,Basic
+1032,Mexico,34,Female,Laptop,Standard
+1032,United States,36,Female,Laptop,Basic
+1032,Mexico,37,Female,Tablet,Standard
+1032,Australia,31,Male,Smart TV,Standard
+1032,United Kingdom,35,Male,Laptop,Standard
+1032,United States,31,Male,Laptop,Premium
+1032,Spain,37,Male,Tablet,Standard
+1032,United States,48,Male,Laptop,Standard
+1032,Mexico,44,Male,Laptop,Standard
+1032,Spain,46,Male,Smartphone,Standard
+1032,Brazil,31,Male,Smartphone,Premium
+1032,France,48,Female,Smartphone,Premium
+1002,Italy,39,Male,Smartphone,Premium
+1002,Mexico,31,Male,Smart TV,Basic
+1002,Australia,47,Female,Laptop,Standard
+1002,Germany,41,Male,Laptop,Basic
+1002,France,49,Female,Laptop,Premium
+1002,Spain,36,Female,Tablet,Premium
+1002,Italy,40,Female,Laptop,Basic
+1002,Australia,29,Female,Smart TV,Premium
+1002,United States,46,Male,Smart TV,Basic
+1002,United States,48,Female,Smart TV,Basic
+1002,Italy,47,Male,Laptop,Basic
+1002,Australia,41,Male,Smart TV,Premium
+1002,Germany,37,Male,Laptop,Basic
+1002,Germany,43,Female,Laptop,Basic
+1002,Canada,46,Female,Tablet,Premium
+1002,Spain,28,Male,Smartphone,Standard
+1002,Australia,49,Male,Laptop,Standard
+1002,Canada,37,Female,Tablet,Premium
+1002,Mexico,28,Male,Smartphone,Standard
+1002,United Kingdom,31,Male,Smart TV,Standard
+1002,Spain,45,Male,Smart TV,Standard
+1002,Brazil,48,Female,Smartphone,Premium
+1002,Brazil,27,Male,Laptop,Basic
+1002,United States,38,Male,Smart TV,Basic
+1002,United States,36,Female,Smartphone,Basic
+1002,Spain,51,Female,Smart TV,Premium
+971,Mexico,39,Female,Smartphone,Standard
+971,Australia,40,Female,Smartphone,Premium
+909,Germany,43,Female,Laptop,Basic
+1243,Germany,34,Male,Laptop,Basic
+878,United Kingdom,42,Male,Smart TV,Standard
+1184,Germany,47,Female,Smart TV,Standard
+1154,Germany,28,Female,Laptop,Basic
+1154,Australia,51,Female,Tablet,Standard
+1123,France,46,Female,Smartphone,Basic
+1123,Mexico,32,Male,Smart TV,Standard
+1123,Canada,46,Male,Tablet,Basic
+1123,Spain,30,Male,Smart TV,Basic
+1123,United States,33,Male,Smartphone,Standard
+1123,France,43,Female,Laptop,Premium
+1123,Canada,35,Female,Smartphone,Premium
+1123,United States,32,Female,Laptop,Basic
+1123,Brazil,27,Male,Tablet,Basic
+1123,Mexico,28,Female,Laptop,Standard
+1123,Australia,48,Female,Laptop,Premium
+1123,Canada,41,Male,Laptop,Premium
+1123,United Kingdom,45,Female,Smartphone,Standard
+1123,Spain,50,Male,Smart TV,Standard
+1123,Germany,32,Male,Tablet,Basic
+1123,France,38,Male,Smart TV,Basic
+1123,United States,44,Female,Tablet,Basic
+1093,Australia,34,Male,Smart TV,Standard
+1093,France,28,Female,Tablet,Premium
+1093,United States,47,Female,Laptop,Premium
+1093,Germany,47,Male,Laptop,Basic
+1093,Australia,27,Female,Tablet,Basic
+1093,Brazil,51,Female,Laptop,Basic
+1093,Mexico,40,Female,Tablet,Standard
+1093,Canada,39,Female,Smartphone,Basic
+1093,Canada,43,Female,Smartphone,Standard
+1093,Italy,30,Male,Smartphone,Basic
+1093,Spain,46,Male,Tablet,Basic
+1093,Canada,31,Female,Smart TV,Standard
+1093,France,35,Male,Laptop,Premium
+1093,United States,42,Male,Laptop,Basic
+1062,United States,48,Female,Tablet,Premium
+1062,Spain,43,Female,Smart TV,Premium
+1062,United States,48,Female,Smart TV,Basic
+1062,United States,51,Male,Tablet,Premium
+1062,France,28,Male,Laptop,Premium
+1062,Canada,27,Male,Tablet,Premium
+1062,Spain,27,Male,Smart TV,Premium
+1062,Spain,42,Female,Smart TV,Standard
+1031,Canada,35,Male,Smartphone,Premium
+1031,Mexico,41,Female,Smartphone,Standard
+1031,Germany,35,Female,Smart TV,Standard
+1031,Australia,31,Male,Smartphone,Premium
+1031,Australia,38,Female,Laptop,Premium
+1031,Mexico,29,Male,Smartphone,Standard
+1031,Spain,43,Female,Tablet,Basic
+1031,Brazil,45,Female,Smartphone,Basic
+1031,Australia,51,Female,Smartphone,Premium
+1031,United States,48,Male,Smartphone,Premium
+1031,Italy,39,Female,Smart TV,Basic
+1031,Italy,42,Female,Tablet,Basic
+1031,Canada,36,Female,Laptop,Premium
+1031,United Kingdom,39,Female,Laptop,Standard
+1001,Canada,36,Male,Smart TV,Basic
+1001,Spain,33,Female,Smart TV,Premium
+1001,United Kingdom,50,Female,Smartphone,Standard
+1001,Brazil,36,Male,Smart TV,Basic
+1001,United States,43,Female,Laptop,Basic
+1001,Canada,31,Male,Smartphone,Basic
+1001,Italy,35,Female,Laptop,Basic
+1001,Spain,36,Female,Smart TV,Basic
+1001,Italy,42,Female,Tablet,Basic
+1001,France,45,Male,Tablet,Premium
+1001,United States,30,Female,Smart TV,Basic
+1001,United States,28,Male,Tablet,Standard
+1001,France,28,Male,Tablet,Premium
+1001,Canada,44,Male,Tablet,Premium
+1305,Brazil,45,Male,Smart TV,Premium
+940,Spain,27,Female,Smart TV,Premium
+1214,Canada,31,Male,Tablet,Basic
+849,Germany,40,Female,Laptop,Basic
+1183,United States,35,Female,Tablet,Premium
+1153,Germany,32,Male,Tablet,Basic
+1122,Brazil,40,Male,Smart TV,Standard
+1122,Spain,41,Female,Tablet,Premium
+1122,Spain,31,Female,Tablet,Basic
+1122,Mexico,42,Female,Laptop,Standard
+1122,Brazil,50,Female,Tablet,Basic
+1122,United States,43,Female,Tablet,Premium
+1122,Spain,30,Male,Smartphone,Standard
+1122,Italy,33,Female,Smartphone,Basic
+1122,Canada,29,Male,Smartphone,Basic
+1122,United Kingdom,32,Female,Laptop,Standard
+1122,United States,38,Male,Smartphone,Premium
+1122,Italy,39,Female,Tablet,Basic
+1122,Italy,40,Female,Smartphone,Basic
+1122,Spain,51,Female,Smartphone,Basic
+1122,France,45,Male,Laptop,Premium
+1122,Spain,49,Female,Tablet,Premium
+1122,Spain,47,Male,Smartphone,Premium
+1122,United Kingdom,41,Male,Smartphone,Standard
+1122,Brazil,38,Male,Tablet,Premium
+1122,United States,30,Male,Tablet,Standard
+1122,Canada,46,Male,Laptop,Premium
+1122,United States,34,Male,Tablet,Basic
+1092,Italy,47,Male,Laptop,Basic
+1092,United States,28,Female,Smartphone,Standard
+1092,United Kingdom,30,Male,Smartphone,Standard
+1092,Spain,38,Male,Tablet,Basic
+1092,Brazil,43,Female,Laptop,Basic
+1092,Brazil,51,Female,Smart TV,Basic
+1092,Spain,35,Male,Tablet,Premium
+1092,Canada,35,Male,Smart TV,Basic
+1092,Italy,27,Female,Smartphone,Basic
+1092,United States,47,Male,Laptop,Premium
+1092,United States,42,Female,Tablet,Standard
+1092,Spain,33,Female,Smartphone,Premium
+1092,United Kingdom,41,Female,Tablet,Standard
+1092,Canada,50,Female,Smart TV,Standard
+1061,Brazil,47,Female,Smart TV,Basic
+1061,Canada,37,Male,Tablet,Basic
+1061,Canada,48,Female,Tablet,Basic
+1061,Australia,37,Male,Smartphone,Premium
+1061,Spain,35,Male,Smartphone,Basic
+1061,Australia,44,Male,Smart TV,Premium
+1061,Brazil,37,Female,Tablet,Basic
+1061,United States,37,Male,Smart TV,Premium
+1061,Spain,42,Male,Smart TV,Basic
+1061,Brazil,27,Male,Smartphone,Basic
+1061,Germany,51,Male,Smart TV,Basic
+1061,United States,39,Female,Smart TV,Basic
+1061,Spain,39,Male,Smart TV,Standard
+1061,Canada,30,Male,Smart TV,Standard
+1061,Spain,31,Female,Smartphone,Standard
+1030,United States,29,Male,Laptop,Basic
+1030,Canada,43,Female,Smart TV,Basic
+1030,Spain,51,Female,Smart TV,Standard
+1030,Spain,31,Male,Tablet,Premium
+1030,United States,37,Male,Tablet,Standard
+1030,Brazil,27,Male,Laptop,Basic
+1030,Germany,47,Male,Tablet,Standard
+1030,France,30,Male,Smartphone,Premium
+1030,Germany,31,Female,Laptop,Basic
+1030,United States,50,Female,Laptop,Basic
+1030,Canada,27,Female,Tablet,Basic
+1000,United States,43,Male,Smartphone,Premium
+1000,Brazil,33,Female,Tablet,Basic
+1000,Spain,42,Female,Tablet,Standard
+1000,Germany,33,Male,Smart TV,Standard
+1000,Spain,41,Male,Tablet,Basic
+1000,Canada,32,Female,Smartphone,Premium
+1000,France,43,Male,Smart TV,Premium
+1000,Australia,42,Male,Smart TV,Premium
+1000,Canada,39,Female,Smart TV,Basic
+1000,Spain,51,Female,Tablet,Premium
+1000,Spain,41,Male,Laptop,Premium
+1000,Germany,36,Male,Tablet,Basic
+1000,Brazil,47,Female,Tablet,Premium
+1000,Canada,27,Male,Smartphone,Basic
+1000,Italy,47,Female,Smartphone,Basic
+1304,France,51,Female,Laptop,Basic
+1272,France,29,Male,Smartphone,Premium
+1152,Canada,38,Female,Smartphone,Basic
+1152,France,34,Male,Tablet,Premium
+1152,Australia,41,Female,Tablet,Premium
+1152,United Kingdom,45,Female,Tablet,Standard
+1121,Australia,29,Male,Smartphone,Standard
+1121,Australia,43,Female,Laptop,Standard
+1121,United Kingdom,46,Male,Smartphone,Standard
+1121,Italy,30,Female,Smart TV,Premium
+1121,Spain,51,Female,Smartphone,Basic
+1121,France,49,Male,Smartphone,Premium
+1121,United Kingdom,40,Male,Smart TV,Standard
+1121,United States,40,Male,Tablet,Standard
+1121,France,28,Male,Smartphone,Premium
+1121,United States,43,Male,Laptop,Premium
+1121,Australia,32,Female,Laptop,Premium
+1121,Germany,49,Female,Laptop,Basic
+1121,Spain,33,Female,Tablet,Basic
+1121,United States,33,Male,Smartphone,Standard
+1121,Canada,47,Female,Smartphone,Standard
+1121,United States,50,Female,Smart TV,Basic
+1121,France,32,Female,Laptop,Premium
+1121,Brazil,30,Female,Smart TV,Basic
+1121,Spain,51,Female,Smartphone,Premium
+1121,Spain,28,Male,Smart TV,Premium
+1121,Germany,28,Female,Smartphone,Standard
+1121,United States,30,Male,Laptop,Basic
+1121,United States,30,Male,Smartphone,Premium
+1121,Spain,32,Male,Smart TV,Standard
+1121,Italy,30,Male,Laptop,Basic
+1121,Spain,28,Female,Tablet,Standard
+1121,Mexico,44,Female,Laptop,Standard
+1121,United States,39,Male,Tablet,Basic
+1121,United Kingdom,41,Female,Smartphone,Standard
+1121,Spain,47,Female,Tablet,Standard
+1121,Italy,31,Male,Smart TV,Basic
+1091,Germany,30,Male,Smart TV,Basic
+1091,Australia,38,Male,Smartphone,Standard
+1091,United States,42,Female,Smart TV,Standard
+1091,United Kingdom,38,Male,Tablet,Standard
+1091,Spain,41,Male,Laptop,Standard
+1091,United States,30,Male,Smart TV,Basic
+1091,United States,35,Male,Laptop,Premium
+1091,Canada,39,Male,Smartphone,Basic
+1091,Spain,42,Male,Smart TV,Premium
+1091,United States,40,Male,Laptop,Basic
+1091,Germany,38,Male,Laptop,Standard
+1091,Brazil,38,Female,Smart TV,Basic
+1091,Mexico,34,Female,Laptop,Standard
+1060,Canada,28,Male,Smartphone,Standard
+1060,United States,29,Female,Smart TV,Standard
+1060,United States,37,Female,Smartphone,Basic
+1060,Mexico,33,Female,Smart TV,Standard
+1060,United Kingdom,31,Female,Tablet,Standard
+1060,Germany,43,Male,Tablet,Standard
+1060,Germany,34,Female,Smart TV,Basic
+1060,Spain,35,Female,Smart TV,Premium
+1060,Brazil,40,Male,Laptop,Premium
+1029,Brazil,51,Female,Smartphone,Premium
+1029,United States,47,Male,Tablet,Basic
+1029,Germany,39,Male,Smartphone,Basic
+1029,Spain,29,Female,Laptop,Premium
+1029,Australia,27,Female,Tablet,Premium
+1029,United Kingdom,27,Male,Tablet,Standard
+1029,France,43,Male,Smartphone,Premium
+1029,Canada,49,Female,Tablet,Standard
+1029,Brazil,30,Male,Smartphone,Premium
+1029,Mexico,37,Male,Tablet,Standard
+1029,Australia,32,Female,Smartphone,Premium
+1029,Mexico,48,Male,Tablet,Standard
+1029,United Kingdom,31,Female,Smartphone,Standard
+1364,Brazil,40,Female,Tablet,Basic
+999,Italy,51,Male,Laptop,Basic
+999,Canada,33,Male,Smart TV,Basic
+999,Spain,27,Male,Smartphone,Premium
+999,Italy,36,Male,Laptop,Basic
+999,Spain,27,Female,Laptop,Standard
+999,France,51,Female,Laptop,Premium
+999,Canada,29,Male,Tablet,Premium
+999,Canada,32,Female,Tablet,Premium
+999,Spain,42,Male,Laptop,Standard
+999,United States,33,Female,Smart TV,Premium
+999,Canada,30,Female,Laptop,Standard
+999,Canada,46,Female,Laptop,Standard
+999,Spain,33,Male,Tablet,Premium
+999,Spain,41,Male,Smartphone,Premium
+999,Spain,42,Female,Laptop,Basic
+999,Spain,50,Female,Smart TV,Basic
+999,France,28,Male,Smart TV,Premium
+999,United States,30,Female,Laptop,Premium
+999,Spain,34,Male,Laptop,Premium
+1333,United Kingdom,48,Female,Laptop,Standard
+1151,United States,47,Male,Laptop,Premium
+1151,United Kingdom,40,Male,Smartphone,Standard
+1151,Germany,31,Female,Smart TV,Basic
+1090,United Kingdom,42,Female,Smart TV,Standard
+1090,Spain,42,Female,Smart TV,Premium
+1090,United States,33,Female,Laptop,Premium
+1090,Australia,47,Female,Smartphone,Premium
+1090,France,51,Female,Smart TV,Premium
+1090,Canada,49,Female,Tablet,Basic
+1090,United States,42,Female,Smartphone,Basic
+1090,United States,46,Male,Tablet,Basic
+1090,Australia,41,Male,Laptop,Premium
+1090,Australia,34,Female,Smartphone,Basic
+1090,France,48,Male,Tablet,Premium
+1090,United Kingdom,44,Female,Tablet,Standard
+1059,United Kingdom,30,Female,Tablet,Standard
+1059,France,37,Male,Tablet,Premium
+1059,Brazil,36,Male,Tablet,Basic
+1059,United States,48,Female,Smart TV,Basic
+1059,United States,50,Male,Tablet,Standard
+1059,Canada,36,Female,Smart TV,Basic
+1059,United States,27,Female,Smartphone,Basic
+1059,Brazil,36,Male,Laptop,Basic
+1059,United Kingdom,35,Male,Tablet,Standard
+1059,France,28,Male,Tablet,Basic
+998,Spain,39,Female,Tablet,Premium
+998,Spain,27,Male,Laptop,Standard
+998,Mexico,34,Female,Smart TV,Standard
+998,United Kingdom,40,Female,Smartphone,Standard
+998,Spain,45,Male,Tablet,Premium
+998,Australia,29,Male,Tablet,Basic
+998,United Kingdom,38,Male,Tablet,Standard
+998,Brazil,31,Female,Tablet,Basic
+998,Canada,45,Female,Smart TV,Basic
+998,Spain,45,Female,Tablet,Premium
+998,United States,43,Female,Smartphone,Basic
+998,Spain,35,Male,Smartphone,Premium
+998,Italy,46,Male,Laptop,Basic
+998,Germany,50,Male,Laptop,Basic
+998,Germany,36,Female,Tablet,Basic
+998,United States,48,Male,Smartphone,Basic
+998,United Kingdom,46,Female,Smartphone,Standard
+998,Italy,41,Female,Laptop,Basic
+998,United States,45,Male,Smartphone,Basic
+998,Spain,48,Female,Tablet,Premium

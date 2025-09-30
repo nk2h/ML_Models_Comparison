@@ -1,0 +1,2501 @@
+User_ID,Monthly_Revenue,Join_Date,Last_Payment_Date,Country,Age,Gender,Device,Plan_Duration,Subscription_Type
+819,14,1/7/2022,1/7/2023,Canada,50,Male,Laptop,1 Month,Premium
+963,13,1/8/2022,1/7/2023,Mexico,51,Female,Tablet,1 Month,Standard
+889,10,2/7/2022,1/7/2023,Spain,45,Female,Smartphone,1 Month,Standard
+958,10,2/7/2022,1/7/2023,United Kingdom,42,Female,Laptop,1 Month,Standard
+1027,12,2/7/2022,1/7/2023,Spain,28,Female,Tablet,1 Month,Basic
+1221,15,2/7/2022,1/7/2023,Spain,40,Male,Smart TV,1 Month,Premium
+1103,14,2/8/2022,1/7/2023,United States,49,Female,Tablet,1 Month,Standard
+772,12,2/10/2022,1/7/2023,Spain,48,Male,Laptop,1 Month,Basic
+708,13,2/11/2022,1/7/2023,Mexico,39,Male,Laptop,1 Month,Standard
+782,13,2/11/2022,1/7/2023,Brazil,44,Female,Laptop,1 Month,Basic
+855,12,2/11/2022,1/7/2023,Germany,33,Male,Laptop,1 Month,Basic
+795,11,3/8/2022,1/7/2023,Germany,47,Male,Smartphone,1 Month,Basic
+894,13,3/8/2022,1/7/2023,Canada,50,Male,Smart TV,1 Month,Premium
+1173,11,3/8/2022,1/7/2023,Mexico,27,Male,Smartphone,1 Month,Standard
+1039,13,3/9/2022,1/7/2023,Spain,50,Male,Laptop,1 Month,Standard
+770,11,3/10/2022,1/7/2023,Italy,42,Female,Laptop,1 Month,Basic
+1115,14,3/10/2022,1/7/2023,Italy,33,Male,Laptop,1 Month,Basic
+778,13,3/11/2022,1/7/2023,United Kingdom,33,Male,Tablet,1 Month,Standard
+1028,12,4/7/2022,1/7/2023,United States,47,Male,Tablet,1 Month,Standard
+796,12,4/8/2022,1/7/2023,France,27,Male,Smart TV,1 Month,Premium
+865,15,4/8/2022,1/7/2023,United States,36,Male,Smartphone,1 Month,Basic
+760,13,4/9/2022,1/7/2023,United States,40,Female,Smartphone,1 Month,Premium
+1109,13,4/9/2022,1/7/2023,Australia,51,Female,Smartphone,1 Month,Premium
+836,15,4/10/2022,1/7/2023,United States,28,Male,Laptop,1 Month,Basic
+843,13,4/10/2022,1/7/2023,Mexico,39,Female,Smartphone,1 Month,Standard
+1045,13,4/10/2022,1/7/2023,United States,27,Male,Tablet,1 Month,Basic
+866,10,5/8/2022,1/7/2023,United States,41,Female,Smart TV,1 Month,Premium
+971,10,5/9/2022,1/7/2023,United States,36,Male,Tablet,1 Month,Basic
+1257,14,5/10/2022,1/7/2023,Canada,32,Male,Smart TV,1 Month,Basic
+924,14,5/11/2022,1/7/2023,Canada,37,Female,Smart TV,1 Month,Standard
+934,11,6/8/2022,1/7/2023,Spain,34,Female,Smartphone,1 Month,Standard
+1041,13,6/9/2022,1/7/2023,Spain,37,Female,Laptop,1 Month,Premium
+1047,13,7/10/2022,1/7/2023,Canada,39,Female,Laptop,1 Month,Basic
+922,13,7/11/2022,1/7/2023,Spain,34,Male,Tablet,1 Month,Basic
+991,11,7/11/2022,1/7/2023,France,44,Female,Smart TV,1 Month,Premium
+909,14,8/10/2022,1/7/2023,Canada,30,Male,Tablet,1 Month,Standard
+979,15,8/10/2022,1/7/2023,Spain,45,Male,Smartphone,1 Month,Standard
+1117,15,8/10/2022,1/7/2023,Spain,42,Female,Tablet,1 Month,Basic
+712,13,8/11/2022,1/7/2023,Spain,45,Male,Tablet,1 Month,Basic
+852,12,8/11/2022,1/7/2023,Canada,47,Female,Laptop,1 Month,Basic
+989,12,8/11/2022,1/7/2023,Australia,34,Male,Smartphone,1 Month,Basic
+628,10,9/10/2022,1/7/2023,United Kingdom,42,Male,Smartphone,1 Month,Standard
+1049,14,9/10/2022,1/7/2023,Australia,41,Male,Smartphone,1 Month,Premium
+1187,14,9/10/2022,1/7/2023,Brazil,47,Female,Smart TV,1 Month,Basic
+920,14,9/11/2022,1/7/2023,Italy,34,Female,Tablet,1 Month,Basic
+921,14,9/11/2022,1/7/2023,Spain,27,Female,Smart TV,1 Month,Premium
+990,15,9/11/2022,1/7/2023,Germany,35,Male,Smartphone,1 Month,Standard
+1061,15,9/11/2022,1/7/2023,United States,30,Female,Tablet,1 Month,Basic
+864,11,10/8/2022,1/7/2023,Canada,31,Male,Tablet,1 Month,Premium
+1111,13,10/9/2022,1/7/2023,France,51,Male,Smart TV,1 Month,Premium
+913,15,10/10/2022,1/7/2023,United Kingdom,32,Male,Laptop,1 Month,Standard
+812,15,11/6/2022,1/7/2023,Brazil,33,Male,Laptop,1 Month,Basic
+881,11,11/6/2022,1/7/2023,United States,31,Female,Smartphone,1 Month,Premium
+933,10,11/8/2022,1/7/2023,Mexico,35,Male,Laptop,1 Month,Standard
+1003,13,11/8/2022,1/7/2023,United Kingdom,46,Male,Smart TV,1 Month,Standard
+1181,15,11/9/2022,1/7/2023,United States,40,Female,Laptop,1 Month,Premium
+566,11,11/10/2022,1/7/2023,United States,45,Male,Tablet,1 Month,Premium
+882,13,12/6/2022,1/7/2023,Canada,46,Female,Smart TV,1 Month,Basic
+1217,12,12/7/2022,1/7/2023,Brazil,42,Male,Laptop,1 Month,Basic
+862,14,12/8/2022,1/7/2023,Spain,47,Male,Smartphone,1 Month,Basic
+1121,15,12/10/2022,1/7/2023,United States,44,Female,Smart TV,1 Month,Basic
+869,15,7/13/2022,1/7/2023,Australia,30,Female,Tablet,1 Month,Standard
+1073,11,8/13/2022,1/7/2023,United States,31,Male,Smart TV,1 Month,Standard
+1191,12,10/13/2022,1/7/2023,Spain,27,Female,Smartphone,1 Month,Premium
+1030,13,7/14/2022,1/7/2023,United States,50,Male,Smartphone,1 Month,Basic
+861,14,8/14/2022,1/7/2023,Spain,50,Female,Smart TV,1 Month,Premium
+1035,14,8/14/2022,1/7/2023,Germany,43,Male,Smartphone,1 Month,Basic
+928,11,10/14/2022,1/7/2023,United Kingdom,49,Male,Smartphone,1 Month,Standard
+983,11,10/14/2022,1/7/2023,United States,36,Female,Smartphone,1 Month,Basic
+1143,13,8/15/2022,1/7/2023,Mexico,43,Male,Smart TV,1 Month,Standard
+1053,13,10/15/2022,1/7/2023,Mexico,49,Male,Smartphone,1 Month,Standard
+952,10,6/16/2022,1/7/2023,Spain,49,Female,Tablet,1 Month,Basic
+868,12,7/16/2022,1/7/2023,United Kingdom,34,Female,Tablet,1 Month,Standard
+638,11,11/16/2022,1/7/2023,United States,38,Male,Tablet,1 Month,Standard
+694,14,9/17/2022,1/7/2023,Spain,46,Male,Smart TV,1 Month,Premium
+973,12,9/17/2022,1/7/2023,United Kingdom,36,Male,Smartphone,1 Month,Standard
+826,11,8/18/2022,1/7/2023,France,37,Male,Smart TV,1 Month,Basic
+930,10,8/18/2022,1/7/2023,Germany,47,Male,Laptop,1 Month,Basic
+803,14,6/19/2022,1/7/2023,United States,43,Male,Smart TV,1 Month,Standard
+1100,10,7/19/2022,1/7/2023,Italy,37,Male,Laptop,1 Month,Basic
+642,11,11/19/2022,1/7/2023,Canada,27,Male,Laptop,1 Month,Basic
+1024,10,6/20/2022,1/7/2023,Spain,40,Female,Smartphone,1 Month,Premium
+1031,13,7/20/2022,1/7/2023,United States,50,Female,Smart TV,1 Month,Premium
+896,10,8/20/2022,1/7/2023,United States,47,Female,Smartphone,1 Month,Basic
+1043,12,9/20/2022,1/7/2023,United States,35,Male,Tablet,1 Month,Standard
+1113,13,9/20/2022,1/7/2023,Mexico,44,Male,Laptop,1 Month,Standard
+872,14,6/21/2022,1/7/2023,Brazil,42,Female,Laptop,1 Month,Basic
+1020,13,6/21/2022,1/7/2023,Germany,38,Male,Tablet,1 Month,Basic
+1101,11,7/21/2022,1/7/2023,Spain,33,Female,Tablet,1 Month,Premium
+1105,15,8/21/2022,1/7/2023,United States,39,Male,Tablet,1 Month,Basic
+776,11,10/21/2022,1/7/2023,United States,44,Male,Laptop,1 Month,Premium
+846,12,10/21/2022,1/7/2023,Spain,35,Male,Laptop,1 Month,Premium
+873,10,6/22/2022,1/7/2023,Mexico,42,Female,Smart TV,1 Month,Standard
+942,12,6/22/2022,1/7/2023,Canada,43,Male,Laptop,1 Month,Basic
+943,15,6/23/2022,1/7/2023,United Kingdom,42,Female,Smart TV,1 Month,Standard
+961,15,7/23/2022,1/7/2023,France,48,Male,Laptop,1 Month,Premium
+632,13,9/23/2022,1/7/2023,Brazil,39,Male,Smartphone,1 Month,Basic
+1055,11,10/23/2022,1/7/2023,Italy,47,Male,Smartphone,1 Month,Basic
+956,10,6/24/2022,1/7/2023,United States,42,Female,Smart TV,1 Month,Premium
+1229,12,6/24/2022,1/7/2023,Australia,49,Male,Smartphone,1 Month,Premium
+706,12,10/24/2022,1/7/2023,France,46,Female,Smartphone,1 Month,Premium
+808,13,6/25/2022,1/7/2023,United Kingdom,39,Male,Smart TV,1 Month,Standard
+1159,15,6/25/2022,1/7/2023,Spain,41,Male,Laptop,1 Month,Standard
+702,14,9/25/2022,1/7/2023,Canada,36,Male,Smartphone,1 Month,Basic
+925,10,10/25/2022,1/7/2023,United States,27,Female,Laptop,1 Month,Basic
+986,15,10/25/2022,1/7/2023,United States,49,Male,Laptop,1 Month,Basic
+738,14,6/26/2022,1/7/2023,Mexico,44,Female,Smartphone,1 Month,Standard
+1012,15,6/26/2022,1/7/2023,Spain,29,Female,Smartphone,1 Month,Basic
+1026,10,6/26/2022,1/7/2023,Spain,46,Female,Laptop,1 Month,Premium
+1086,15,6/26/2022,1/7/2023,Spain,51,Female,Tablet,1 Month,Premium
+860,13,8/26/2022,1/7/2023,Italy,50,Male,Smart TV,1 Month,Basic
+999,10,8/26/2022,1/7/2023,Canada,50,Female,Tablet,1 Month,Standard
+916,12,10/26/2022,1/7/2023,France,50,Female,Smartphone,1 Month,Premium
+957,14,6/27/2022,1/7/2023,Canada,50,Male,Tablet,1 Month,Basic
+1299,14,6/27/2022,1/7/2023,Canada,35,Male,Smart TV,1 Month,Standard
+1147,11,7/27/2022,1/7/2023,Spain,40,Female,Tablet,1 Month,Basic
+877,13,6/28/2022,1/7/2023,Spain,30,Male,Smart TV,1 Month,Basic
+946,14,6/28/2022,1/7/2023,France,43,Female,Laptop,1 Month,Premium
+636,10,10/28/2022,1/7/2023,Spain,33,Female,Smart TV,1 Month,Premium
+995,14,10/28/2022,1/7/2023,Italy,42,Female,Tablet,1 Month,Basic
+1016,10,6/29/2022,1/7/2023,United States,43,Female,Tablet,1 Month,Premium
+962,12,7/29/2022,1/7/2023,Brazil,43,Female,Laptop,1 Month,Basic
+696,15,9/29/2022,1/7/2023,Spain,31,Male,Tablet,1 Month,Premium
+1151,12,6/30/2022,1/7/2023,United States,43,Male,Laptop,1 Month,Premium
+1225,13,6/30/2022,1/7/2023,United States,50,Female,Smart TV,1 Month,Basic
+893,13,7/30/2022,1/7/2023,United States,42,Female,Smart TV,1 Month,Standard
+1033,15,7/30/2022,1/7/2023,United Kingdom,38,Male,Tablet,1 Month,Standard
+704,13,9/30/2022,1/7/2023,Australia,27,Female,Tablet,1 Month,Premium
+766,13,9/30/2022,1/7/2023,France,43,Male,Smartphone,1 Month,Premium
+987,11,10/30/2022,1/7/2023,Canada,32,Female,Tablet,1 Month,Premium
+1107,15,8/31/2022,1/7/2023,Canada,36,Female,Smart TV,1 Month,Basic
+1236,15,1/7/2022,2/7/2023,Spain,35,Female,Tablet,1 Month,Premium
+762,10,1/9/2022,2/7/2023,Canada,48,Male,Laptop,1 Month,Premium
+1177,15,1/9/2022,2/7/2023,Spain,48,Male,Tablet,1 Month,Basic
+1247,13,1/9/2022,2/7/2023,Brazil,41,Female,Smartphone,1 Month,Basic
+848,11,1/11/2022,2/7/2023,United States,40,Male,Tablet,1 Month,Standard
+1166,13,2/7/2022,2/7/2023,United States,39,Female,Tablet,1 Month,Premium
+1361,12,2/7/2022,2/7/2023,United States,41,Female,Laptop,1 Month,Basic
+870,13,3/7/2022,2/7/2023,Germany,38,Male,Laptop,1 Month,Basic
+1097,13,3/7/2022,2/7/2023,Brazil,45,Female,Smartphone,1 Month,Basic
+1167,12,3/7/2022,2/7/2023,Canada,45,Male,Tablet,1 Month,Basic
+774,15,3/10/2022,2/7/2023,Canada,49,Male,Smartphone,1 Month,Standard
+959,14,4/7/2022,2/7/2023,Australia,35,Female,Laptop,1 Month,Premium
+1098,10,4/7/2022,2/7/2023,Mexico,39,Female,Smartphone,1 Month,Standard
+1009,14,5/7/2022,2/7/2023,Spain,31,Female,Laptop,1 Month,Standard
+1168,13,5/7/2022,2/7/2023,United Kingdom,42,Male,Laptop,1 Month,Standard
+1237,11,5/7/2022,2/7/2023,Spain,32,Female,Tablet,1 Month,Basic
+1431,10,5/7/2022,2/7/2023,Spain,46,Male,Laptop,1 Month,Premium
+1179,14,5/9/2022,2/7/2023,Canada,44,Female,Smartphone,1 Month,Standard
+1058,15,5/11/2022,2/7/2023,United States,28,Female,Smart TV,1 Month,Basic
+842,14,6/10/2022,2/7/2023,Brazil,37,Female,Laptop,1 Month,Basic
+906,13,6/10/2022,2/7/2023,Spain,32,Male,Smart TV,1 Month,Premium
+1185,14,6/10/2022,2/7/2023,Germany,49,Male,Smart TV,1 Month,Basic
+1029,10,7/7/2022,2/7/2023,Canada,47,Male,Smartphone,1 Month,Standard
+935,10,7/8/2022,2/7/2023,Italy,44,Male,Smartphone,1 Month,Basic
+838,11,7/10/2022,2/7/2023,United Kingdom,38,Male,Smartphone,1 Month,Standard
+1327,12,7/10/2022,2/7/2023,Spain,48,Male,Laptop,1 Month,Basic
+1059,15,7/11/2022,2/7/2023,Canada,43,Male,Tablet,1 Month,Standard
+1099,13,8/7/2022,2/7/2023,Spain,51,Female,Laptop,1 Month,Premium
+768,10,8/10/2022,2/7/2023,Mexico,38,Female,Laptop,1 Month,Standard
+912,15,8/10/2022,2/7/2023,Canada,41,Male,Tablet,1 Month,Premium
+1060,10,8/11/2022,2/7/2023,United States,50,Female,Laptop,1 Month,Premium
+1079,12,9/7/2022,2/7/2023,Australia,49,Female,Tablet,1 Month,Premium
+1313,10,9/8/2022,2/7/2023,United States,39,Male,Smart TV,1 Month,Standard
+1131,14,9/11/2022,2/7/2023,Spain,34,Female,Laptop,1 Month,Premium
+1005,12,10/8/2022,2/7/2023,Germany,46,Male,Laptop,1 Month,Basic
+902,12,10/9/2022,2/7/2023,Brazil,28,Male,Tablet,1 Month,Premium
+972,14,10/9/2022,2/7/2023,Canada,37,Female,Laptop,1 Month,Basic
+1042,14,10/9/2022,2/7/2023,Spain,35,Female,Tablet,1 Month,Basic
+982,12,10/10/2022,2/7/2023,Spain,42,Female,Smart TV,1 Month,Standard
+1069,13,10/10/2022,2/7/2023,Spain,46,Male,Smart TV,1 Month,Premium
+1119,12,10/10/2022,2/7/2023,Canada,48,Male,Smartphone,1 Month,Premium
+1148,12,11/7/2022,2/7/2023,United States,38,Male,Smartphone,1 Month,Standard
+932,11,11/8/2022,2/7/2023,Brazil,37,Male,Smart TV,1 Month,Basic
+1004,14,11/8/2022,2/7/2023,Australia,42,Male,Smart TV,1 Month,Premium
+1139,14,11/9/2022,2/7/2023,Australia,33,Male,Smartphone,1 Month,Basic
+1287,11,12/7/2022,2/7/2023,Canada,46,Male,Tablet,1 Month,Premium
+1357,11,12/7/2022,2/7/2023,Spain,51,Male,Smart TV,1 Month,Standard
+698,10,12/10/2022,2/7/2023,United States,28,Male,Laptop,1 Month,Standard
+931,13,8/13/2022,2/7/2023,France,33,Male,Laptop,1 Month,Premium
+1074,12,8/13/2022,2/7/2023,Canada,46,Female,Smartphone,1 Month,Standard
+1353,13,8/13/2022,2/7/2023,Mexico,29,Female,Tablet,1 Month,Standard
+939,10,7/14/2022,2/7/2023,Canada,29,Male,Tablet,1 Month,Premium
+1243,14,8/14/2022,2/7/2023,United Kingdom,43,Female,Smartphone,1 Month,Standard
+844,10,10/14/2022,2/7/2023,Spain,47,Female,Smart TV,1 Month,Premium
+1052,14,10/14/2022,2/7/2023,Brazil,31,Male,Tablet,1 Month,Premium
+1122,11,10/14/2022,2/7/2023,Canada,37,Female,Smartphone,1 Month,Basic
+1261,11,10/14/2022,2/7/2023,France,37,Female,Smart TV,1 Month,Premium
+938,14,7/15/2022,2/7/2023,United States,46,Male,Smart TV,1 Month,Standard
+1008,10,7/15/2022,2/7/2023,Mexico,34,Female,Smartphone,1 Month,Standard
+1169,13,7/15/2022,2/7/2023,Australia,48,Male,Smartphone,1 Month,Standard
+832,14,9/15/2022,2/7/2023,Spain,40,Female,Tablet,1 Month,Standard
+1123,15,10/15/2022,2/7/2023,United Kingdom,35,Female,Laptop,1 Month,Standard
+1331,12,10/15/2022,2/7/2023,United States,36,Male,Smartphone,1 Month,Premium
+1239,11,7/16/2022,2/7/2023,Canada,27,Male,Laptop,1 Month,Premium
+1213,10,8/16/2022,2/7/2023,United Kingdom,27,Male,Smart TV,1 Month,Standard
+1078,14,7/17/2022,2/7/2023,United Kingdom,27,Male,Laptop,1 Month,Standard
+1309,13,7/17/2022,2/7/2023,Spain,37,Female,Tablet,1 Month,Standard
+1283,10,8/17/2022,2/7/2023,United States,33,Male,Laptop,1 Month,Basic
+885,11,6/18/2022,2/7/2023,Germany,34,Male,Tablet,1 Month,Basic
+1022,11,6/18/2022,2/7/2023,Brazil,48,Male,Laptop,1 Month,Basic
+1023,10,6/18/2022,2/7/2023,Mexico,51,Female,Laptop,1 Month,Standard
+936,15,7/18/2022,2/7/2023,Spain,29,Male,Tablet,1 Month,Premium
+997,14,10/18/2022,2/7/2023,Spain,51,Male,Tablet,1 Month,Basic
+1183,15,9/19/2022,2/7/2023,United Kingdom,44,Female,Tablet,1 Month,Standard
+914,12,10/19/2022,2/7/2023,Australia,44,Female,Smart TV,1 Month,Basic
+1125,15,10/19/2022,2/7/2023,Germany,46,Female,Tablet,1 Month,Basic
+955,15,6/20/2022,2/7/2023,United States,36,Female,Laptop,1 Month,Basic
+1093,12,6/20/2022,2/7/2023,United Kingdom,36,Male,Smartphone,1 Month,Standard
+1170,11,7/20/2022,2/7/2023,Germany,33,Male,Smart TV,1 Month,Basic
+1000,10,8/20/2022,2/7/2023,United States,49,Female,Smartphone,1 Month,Basic
+927,11,10/20/2022,2/7/2023,Canada,42,Male,Laptop,1 Month,Basic
+1067,14,10/20/2022,2/7/2023,Brazil,32,Female,Tablet,1 Month,Basic
+1092,15,6/21/2022,2/7/2023,Canada,41,Male,Smart TV,1 Month,Basic
+1162,10,6/21/2022,2/7/2023,Spain,51,Male,Smart TV,1 Month,Basic
+804,14,6/22/2022,2/7/2023,Canada,47,Female,Smartphone,1 Month,Standard
+1094,10,6/22/2022,2/7/2023,Australia,45,Female,Tablet,1 Month,Standard
+1209,11,9/22/2022,2/7/2023,Canada,29,Male,Tablet,1 Month,Standard
+874,10,6/23/2022,2/7/2023,Spain,31,Male,Smart TV,1 Month,Premium
+1164,15,6/23/2022,2/7/2023,Canada,39,Male,Smart TV,1 Month,Premium
+1032,15,7/23/2022,2/7/2023,Canada,29,Male,Smartphone,1 Month,Basic
+1175,12,8/23/2022,2/7/2023,Italy,41,Male,Laptop,1 Month,Basic
+926,13,10/23/2022,2/7/2023,United States,33,Female,Laptop,1 Month,Premium
+1135,13,10/23/2022,2/7/2023,United States,36,Male,Laptop,1 Month,Premium
+1195,12,10/23/2022,2/7/2023,United States,45,Female,Smart TV,1 Month,Basic
+944,10,6/24/2022,2/7/2023,Australia,50,Male,Tablet,1 Month,Standard
+1090,14,6/25/2022,2/7/2023,United States,31,Male,Smart TV,1 Month,Basic
+1158,12,6/25/2022,2/7/2023,Mexico,35,Female,Smart TV,1 Month,Standard
+998,15,9/25/2022,2/7/2023,United States,41,Female,Laptop,1 Month,Standard
+996,15,10/25/2022,2/7/2023,Spain,46,Male,Tablet,1 Month,Premium
+1126,14,10/25/2022,2/7/2023,France,39,Female,Laptop,1 Month,Basic
+948,12,6/26/2022,2/7/2023,Mexico,51,Male,Laptop,1 Month,Standard
+1017,10,6/26/2022,2/7/2023,Canada,29,Male,Smartphone,1 Month,Basic
+1018,13,6/26/2022,2/7/2023,United Kingdom,35,Female,Tablet,1 Month,Standard
+1088,10,6/26/2022,2/7/2023,United States,50,Female,Smartphone,1 Month,Standard
+1156,14,6/26/2022,2/7/2023,France,51,Female,Laptop,1 Month,Premium
+1127,11,10/26/2022,2/7/2023,Brazil,33,Female,Tablet,1 Month,Premium
+1013,12,6/27/2022,2/7/2023,United States,42,Female,Smart TV,1 Month,Standard
+1171,14,7/27/2022,2/7/2023,France,47,Female,Smartphone,1 Month,Premium
+1253,11,9/27/2022,2/7/2023,United States,48,Male,Laptop,1 Month,Standard
+1056,15,10/27/2022,2/7/2023,Spain,36,Female,Tablet,1 Month,Premium
+878,13,6/28/2022,2/7/2023,United States,33,Male,Smartphone,1 Month,Standard
+1014,10,6/28/2022,2/7/2023,Canada,35,Female,Smartphone,1 Month,Premium
+1082,13,6/28/2022,2/7/2023,Brazil,27,Male,Tablet,1 Month,Basic
+1083,12,6/28/2022,2/7/2023,Mexico,28,Female,Laptop,1 Month,Standard
+1241,14,7/28/2022,2/7/2023,United States,47,Female,Laptop,1 Month,Premium
+1323,10,9/28/2022,2/7/2023,Mexico,29,Male,Smartphone,1 Month,Standard
+947,10,6/29/2022,2/7/2023,Brazil,50,Female,Tablet,1 Month,Basic
+1152,11,6/29/2022,2/7/2023,Canada,29,Male,Smartphone,1 Month,Basic
+1295,10,6/29/2022,2/7/2023,Italy,40,Female,Smartphone,1 Month,Basic
+1057,14,10/29/2022,2/7/2023,Spain,42,Female,Tablet,1 Month,Standard
+1065,15,10/29/2022,2/7/2023,Germany,33,Male,Smart TV,1 Month,Standard
+1096,15,6/30/2022,2/7/2023,France,28,Male,Smartphone,1 Month,Premium
+1291,10,6/30/2022,2/7/2023,France,32,Female,Laptop,1 Month,Premium
+1365,10,6/30/2022,2/7/2023,Germany,28,Female,Smartphone,1 Month,Standard
+898,11,8/30/2022,2/7/2023,United Kingdom,31,Female,Tablet,1 Month,Standard
+918,10,10/31/2022,2/7/2023,Mexico,34,Female,Smart TV,1 Month,Standard
+988,12,10/31/2022,2/7/2023,United Kingdom,40,Female,Smartphone,1 Month,Standard
+994,11,10/31/2022,2/7/2023,Spain,45,Male,Tablet,1 Month,Premium
+1064,11,10/31/2022,2/7/2023,Australia,29,Male,Tablet,1 Month,Basic
+1010,12,1/7/2022,3/7/2023,Italy,36,Female,Tablet,1 Month,Basic
+1150,15,1/7/2022,3/7/2023,United States,38,Male,Tablet,1 Month,Basic
+1220,13,1/7/2022,3/7/2023,Italy,28,Male,Smart TV,1 Month,Basic
+1305,11,1/7/2022,3/7/2023,Germany,49,Male,Smartphone,1 Month,Basic
+1114,15,1/10/2022,3/7/2023,Spain,50,Male,Smart TV,1 Month,Standard
+1393,10,1/10/2022,3/7/2023,United Kingdom,37,Male,Smart TV,1 Month,Standard
+1290,13,2/7/2022,3/7/2023,Germany,43,Male,Laptop,1 Month,Standard
+1445,11,2/7/2022,3/7/2023,Italy,37,Male,Smartphone,1 Month,Basic
+830,13,2/9/2022,3/7/2023,Italy,30,Female,Smartphone,1 Month,Basic
+900,14,2/9/2022,3/7/2023,Germany,32,Female,Smartphone,1 Month,Basic
+1038,12,2/9/2022,3/7/2023,Mexico,30,Male,Smartphone,1 Month,Standard
+1108,10,2/9/2022,3/7/2023,United Kingdom,34,Male,Laptop,1 Month,Standard
+1317,11,2/9/2022,3/7/2023,Canada,31,Male,Tablet,1 Month,Basic
+1463,11,2/10/2022,3/7/2023,United States,37,Male,Smart TV,1 Month,Standard
+1063,13,2/11/2022,3/7/2023,United Kingdom,35,Female,Laptop,1 Month,Standard
+970,15,3/9/2022,3/7/2023,United States,44,Female,Tablet,1 Month,Basic
+1349,14,3/9/2022,3/7/2023,Australia,28,Male,Laptop,1 Month,Premium
+1080,11,4/7/2022,3/7/2023,Germany,33,Male,Smartphone,1 Month,Basic
+1215,13,4/8/2022,3/7/2023,Germany,41,Female,Laptop,1 Month,Standard
+1133,12,4/11/2022,3/7/2023,United States,42,Male,Laptop,1 Month,Basic
+976,15,5/10/2022,3/7/2023,France,39,Female,Laptop,1 Month,Basic
+1128,10,5/11/2022,3/7/2023,Mexico,42,Male,Tablet,1 Month,Standard
+1271,13,5/11/2022,3/7/2023,United States,51,Male,Smartphone,1 Month,Basic
+1307,10,6/7/2022,3/7/2023,Brazil,34,Female,Tablet,1 Month,Basic
+1075,11,6/8/2022,3/7/2023,United States,43,Male,Smart TV,1 Month,Basic
+1076,15,6/8/2022,3/7/2023,United States,38,Female,Laptop,1 Month,Premium
+1070,15,6/9/2022,3/7/2023,Italy,31,Male,Tablet,1 Month,Basic
+1071,12,6/9/2022,3/7/2023,Spain,40,Female,Tablet,1 Month,Premium
+1210,14,6/9/2022,3/7/2023,United States,50,Male,Smart TV,1 Month,Premium
+1319,14,6/9/2022,3/7/2023,Australia,35,Male,Smartphone,1 Month,Standard
+1046,13,6/10/2022,3/7/2023,United States,27,Male,Laptop,1 Month,Basic
+1132,13,6/11/2022,3/7/2023,Spain,51,Male,Laptop,1 Month,Standard
+1201,10,6/11/2022,3/7/2023,France,41,Male,Smart TV,1 Month,Basic
+1202,15,6/11/2022,3/7/2023,Brazil,27,Male,Smart TV,1 Month,Premium
+1249,14,7/9/2022,3/7/2023,Spain,28,Female,Smart TV,1 Month,Premium
+840,15,7/10/2022,3/7/2023,Germany,49,Male,Smartphone,1 Month,Standard
+1397,14,7/10/2022,3/7/2023,Brazil,29,Female,Laptop,1 Month,Basic
+1129,14,7/11/2022,3/7/2023,Spain,37,Female,Smartphone,1 Month,Standard
+908,13,8/10/2022,3/7/2023,United States,46,Female,Smart TV,1 Month,Basic
+910,10,8/10/2022,3/7/2023,United States,40,Female,Smart TV,1 Month,Premium
+978,13,8/10/2022,3/7/2023,Mexico,29,Male,Smart TV,1 Month,Standard
+1048,15,8/10/2022,3/7/2023,United Kingdom,51,Male,Tablet,1 Month,Standard
+992,13,8/11/2022,3/7/2023,Brazil,47,Female,Smartphone,1 Month,Basic
+993,14,8/11/2022,3/7/2023,Mexico,33,Female,Laptop,1 Month,Standard
+1130,14,8/11/2022,3/7/2023,Italy,27,Female,Smart TV,1 Month,Basic
+1149,13,9/7/2022,3/7/2023,Canada,48,Female,Tablet,1 Month,Standard
+1104,10,9/8/2022,3/7/2023,Canada,37,Female,Smart TV,1 Month,Standard
+1145,11,9/8/2022,3/7/2023,Italy,46,Male,Smart TV,1 Month,Basic
+1214,10,9/8/2022,3/7/2023,Australia,51,Female,Smartphone,1 Month,Basic
+1284,12,9/8/2022,3/7/2023,Canada,32,Female,Tablet,1 Month,Standard
+1140,10,9/9/2022,3/7/2023,Germany,31,Female,Smart TV,1 Month,Standard
+980,11,9/10/2022,3/7/2023,Italy,29,Male,Smart TV,1 Month,Basic
+1118,13,9/10/2022,3/7/2023,United States,35,Male,Smart TV,1 Month,Standard
+1389,13,10/9/2022,3/7/2023,Canada,50,Male,Smartphone,1 Month,Premium
+1050,15,10/10/2022,3/7/2023,Germany,30,Female,Smart TV,1 Month,Basic
+1188,10,10/10/2022,3/7/2023,Mexico,44,Male,Tablet,1 Month,Standard
+1258,15,10/10/2022,3/7/2023,United Kingdom,42,Female,Tablet,1 Month,Standard
+1062,10,10/11/2022,3/7/2023,Canada,34,Female,Laptop,1 Month,Premium
+1218,13,11/7/2022,3/7/2023,Mexico,40,Male,Laptop,1 Month,Standard
+1189,12,11/10/2022,3/7/2023,Spain,33,Male,Smartphone,1 Month,Standard
+1259,13,11/10/2022,3/7/2023,Australia,41,Female,Laptop,1 Month,Premium
+1288,11,12/7/2022,3/7/2023,United Kingdom,39,Male,Smartphone,1 Month,Standard
+1501,12,12/7/2022,3/7/2023,France,36,Male,Smart TV,1 Month,Basic
+964,13,12/8/2022,3/7/2023,Spain,45,Male,Smart TV,1 Month,Standard
+1001,12,12/8/2022,3/7/2023,United States,34,Female,Laptop,1 Month,Premium
+1002,13,12/8/2022,3/7/2023,Canada,38,Female,Tablet,1 Month,Basic
+1034,11,12/8/2022,3/7/2023,Australia,40,Female,Tablet,1 Month,Premium
+1493,13,12/8/2022,3/7/2023,United States,37,Female,Laptop,1 Month,Standard
+1279,14,12/9/2022,3/7/2023,Spain,34,Female,Tablet,1 Month,Standard
+1072,11,8/13/2022,3/7/2023,Spain,38,Female,Tablet,1 Month,Basic
+1112,15,9/13/2022,3/7/2023,Brazil,31,Female,Tablet,1 Month,Basic
+1144,14,8/14/2022,3/7/2023,Spain,39,Male,Tablet,1 Month,Premium
+1251,10,9/14/2022,3/7/2023,Spain,28,Female,Tablet,1 Month,Premium
+1192,11,10/14/2022,3/7/2023,Spain,37,Male,Laptop,1 Month,Basic
+1427,10,7/15/2022,3/7/2023,Brazil,40,Male,Tablet,1 Month,Premium
+1489,12,9/16/2022,3/7/2023,Spain,33,Male,Smart TV,1 Month,Standard
+1559,12,9/16/2022,3/7/2023,Australia,30,Male,Tablet,1 Month,Premium
+984,15,10/16/2022,3/7/2023,Canada,39,Male,Smart TV,1 Month,Standard
+1193,14,10/16/2022,3/7/2023,United States,34,Male,Tablet,1 Month,Standard
+1262,12,10/16/2022,3/7/2023,Brazil,46,Male,Smart TV,1 Month,Basic
+1423,12,8/17/2022,3/7/2023,United Kingdom,43,Male,Smart TV,1 Month,Standard
+1054,12,10/17/2022,3/7/2023,Spain,39,Female,Tablet,1 Month,Standard
+1124,11,10/17/2022,3/7/2023,Australia,32,Male,Laptop,1 Month,Premium
+1415,11,10/17/2022,3/7/2023,Italy,32,Female,Smart TV,1 Month,Basic
+951,12,6/18/2022,3/7/2023,Spain,39,Female,Smartphone,1 Month,Premium
+1245,14,8/18/2022,3/7/2023,Germany,29,Female,Smartphone,1 Month,Basic
+764,15,9/18/2022,3/7/2023,Australia,28,Male,Smart TV,1 Month,Basic
+1263,14,10/18/2022,3/7/2023,Mexico,30,Female,Tablet,1 Month,Standard
+1091,12,6/20/2022,3/7/2023,United States,46,Female,Smartphone,1 Month,Premium
+1160,12,6/20/2022,3/7/2023,Italy,43,Female,Smart TV,1 Month,Basic
+1315,11,8/20/2022,3/7/2023,United States,42,Male,Smartphone,1 Month,Basic
+1161,12,6/21/2022,3/7/2023,Spain,41,Male,Smartphone,1 Month,Premium
+1021,13,6/22/2022,3/7/2023,France,33,Male,Smart TV,1 Month,Premium
+1163,13,6/22/2022,3/7/2023,United States,47,Female,Smart TV,1 Month,Standard
+1232,11,6/22/2022,3/7/2023,Brazil,42,Female,Smartphone,1 Month,Basic
+1379,11,7/22/2022,3/7/2023,Australia,46,Female,Smartphone,1 Month,Premium
+1141,12,8/22/2022,3/7/2023,France,48,Female,Smart TV,1 Month,Premium
+1419,15,9/22/2022,3/7/2023,Canada,46,Male,Smartphone,1 Month,Premium
+1066,12,10/22/2022,3/7/2023,France,47,Male,Laptop,1 Month,Premium
+1025,13,6/23/2022,3/7/2023,Italy,28,Male,Smartphone,1 Month,Basic
+1233,13,6/23/2022,3/7/2023,Mexico,41,Female,Smartphone,1 Month,Standard
+1302,11,6/23/2022,3/7/2023,Canada,40,Male,Smart TV,1 Month,Basic
+1095,10,6/24/2022,3/7/2023,Germany,36,Male,Smartphone,1 Month,Basic
+1231,13,6/24/2022,3/7/2023,France,51,Male,Tablet,1 Month,Premium
+1300,11,6/24/2022,3/7/2023,United States,37,Male,Laptop,1 Month,Basic
+1196,13,10/24/2022,3/7/2023,United States,29,Female,Tablet,1 Month,Basic
+1265,10,10/24/2022,3/7/2023,Italy,34,Female,Tablet,1 Month,Basic
+1230,12,6/25/2022,3/7/2023,Germany,40,Female,Smart TV,1 Month,Basic
+1234,12,6/25/2022,3/7/2023,Spain,48,Female,Smartphone,1 Month,Standard
+1303,14,6/25/2022,3/7/2023,United Kingdom,38,Male,Laptop,1 Month,Standard
+1369,13,6/25/2022,3/7/2023,Spain,47,Female,Laptop,1 Month,Premium
+1563,15,8/25/2022,3/7/2023,Mexico,42,Male,Laptop,1 Month,Standard
+1197,14,10/25/2022,3/7/2023,Canada,35,Male,Smart TV,1 Month,Basic
+1275,11,10/25/2022,3/7/2023,Germany,40,Female,Smartphone,1 Month,Basic
+940,12,6/26/2022,3/7/2023,United States,48,Female,Smart TV,1 Month,Basic
+1087,11,6/26/2022,3/7/2023,Spain,51,Male,Tablet,1 Month,Basic
+1228,15,6/26/2022,3/7/2023,United Kingdom,38,Female,Tablet,1 Month,Standard
+1298,14,6/26/2022,3/7/2023,United States,27,Male,Laptop,1 Month,Standard
+834,14,9/26/2022,3/7/2023,Canada,34,Female,Smart TV,1 Month,Standard
+1044,11,9/26/2022,3/7/2023,Canada,46,Male,Tablet,1 Month,Premium
+1157,14,6/27/2022,3/7/2023,Brazil,32,Male,Smart TV,1 Month,Basic
+1165,15,6/27/2022,3/7/2023,United States,51,Male,Smartphone,1 Month,Basic
+1368,14,6/27/2022,3/7/2023,Mexico,31,Female,Laptop,1 Month,Standard
+1102,15,7/27/2022,3/7/2023,Spain,32,Female,Smartphone,1 Month,Basic
+904,12,9/27/2022,3/7/2023,Spain,37,Male,Tablet,1 Month,Standard
+1205,12,10/27/2022,3/7/2023,Italy,40,Female,Laptop,1 Month,Basic
+1345,10,10/27/2022,3/7/2023,United States,46,Male,Smart TV,1 Month,Basic
+1304,11,6/28/2022,3/7/2023,Australia,48,Female,Laptop,1 Month,Premium
+974,13,9/28/2022,3/7/2023,Australia,31,Male,Smartphone,1 Month,Premium
+1184,13,9/28/2022,3/7/2023,Australia,38,Female,Laptop,1 Month,Premium
+1084,10,6/29/2022,3/7/2023,Spain,30,Male,Smartphone,1 Month,Standard
+1153,15,6/29/2022,3/7/2023,United Kingdom,32,Female,Laptop,1 Month,Standard
+1226,15,6/29/2022,3/7/2023,United States,38,Male,Smartphone,1 Month,Premium
+1235,13,6/29/2022,3/7/2023,Italy,39,Female,Tablet,1 Month,Basic
+1497,15,7/29/2022,3/7/2023,Canada,35,Male,Smart TV,1 Month,Basic
+1267,14,10/29/2022,3/7/2023,Spain,41,Male,Tablet,1 Month,Basic
+1154,10,6/30/2022,3/7/2023,Australia,32,Female,Laptop,1 Month,Premium
+1222,15,6/30/2022,3/7/2023,Spain,33,Female,Tablet,1 Month,Basic
+1223,12,6/30/2022,3/7/2023,United States,33,Male,Smartphone,1 Month,Standard
+1224,15,6/30/2022,3/7/2023,Canada,47,Female,Smartphone,1 Month,Standard
+1296,12,6/30/2022,3/7/2023,Spain,28,Male,Smart TV,1 Month,Premium
+1375,12,6/30/2022,3/7/2023,United States,30,Male,Laptop,1 Month,Basic
+1435,12,6/30/2022,3/7/2023,United States,30,Male,Smartphone,1 Month,Premium
+1533,10,9/30/2022,3/7/2023,Mexico,37,Male,Tablet,1 Month,Standard
+1006,10,7/31/2022,3/7/2023,France,51,Female,Smart TV,1 Month,Premium
+968,13,8/31/2022,3/7/2023,United States,50,Male,Tablet,1 Month,Standard
+1293,11,1/7/2022,4/7/2023,Mexico,40,Female,Tablet,1 Month,Standard
+1364,14,1/7/2022,4/7/2023,Australia,47,Male,Tablet,1 Month,Basic
+1434,13,1/7/2022,4/7/2023,Canada,51,Female,Laptop,1 Month,Standard
+1198,10,1/11/2022,4/7/2023,United Kingdom,38,Female,Laptop,1 Month,Standard
+1411,14,1/11/2022,4/7/2023,France,33,Female,Smart TV,1 Month,Premium
+1289,12,2/7/2022,4/7/2023,Australia,46,Female,Tablet,1 Month,Basic
+1362,13,2/7/2022,4/7/2023,Canada,44,Female,Laptop,1 Month,Premium
+1255,10,2/10/2022,4/7/2023,United States,50,Male,Smart TV,1 Month,Basic
+1324,10,2/10/2022,4/7/2023,Spain,48,Female,Smart TV,1 Month,Premium
+1394,11,2/10/2022,4/7/2023,Australia,30,Female,Tablet,1 Month,Standard
+1199,11,2/11/2022,4/7/2023,Australia,48,Female,Smart TV,1 Month,Premium
+1268,13,2/11/2022,4/7/2023,United States,42,Female,Laptop,1 Month,Standard
+1515,10,3/7/2022,4/7/2023,Germany,32,Male,Smart TV,1 Month,Standard
+1577,10,3/7/2022,4/7/2023,Brazil,45,Male,Tablet,1 Month,Premium
+1178,12,3/9/2022,4/7/2023,United States,30,Male,Smart TV,1 Month,Standard
+1325,15,3/10/2022,4/7/2023,Italy,34,Male,Smartphone,1 Month,Basic
+1338,14,3/11/2022,4/7/2023,Mexico,45,Female,Laptop,1 Month,Standard
+1408,14,3/11/2022,4/7/2023,United Kingdom,40,Female,Smart TV,1 Month,Standard
+1481,14,3/11/2022,4/7/2023,United States,41,Female,Laptop,1 Month,Premium
+1146,12,4/8/2022,4/7/2023,Spain,46,Female,Smartphone,1 Month,Premium
+1381,12,4/8/2022,4/7/2023,France,48,Female,Smart TV,1 Month,Premium
+1040,11,4/9/2022,4/7/2023,Italy,51,Male,Smartphone,1 Month,Basic
+1203,12,4/11/2022,4/7/2023,Mexico,41,Male,Smart TV,1 Month,Standard
+1110,13,5/9/2022,4/7/2023,Germany,41,Female,Tablet,1 Month,Basic
+1395,11,5/10/2022,4/7/2023,Germany,50,Female,Tablet,1 Month,Basic
+1272,13,5/11/2022,4/7/2023,Canada,27,Male,Smartphone,1 Month,Basic
+1551,14,5/11/2022,4/7/2023,Spain,30,Male,Tablet,1 Month,Premium
+1219,12,6/7/2022,4/7/2023,Spain,48,Female,Smartphone,1 Month,Premium
+1285,10,6/8/2022,4/7/2023,United States,39,Male,Smart TV,1 Month,Premium
+1116,11,6/10/2022,4/7/2023,Spain,44,Female,Laptop,1 Month,Premium
+1465,14,6/10/2022,4/7/2023,United States,41,Male,Laptop,1 Month,Basic
+1341,14,6/11/2022,4/7/2023,Spain,44,Female,Smart TV,1 Month,Premium
+1250,10,8/9/2022,4/7/2023,Italy,44,Female,Smartphone,1 Month,Basic
+1467,12,8/10/2022,4/7/2023,Canada,43,Male,Smartphone,1 Month,Basic
+1358,13,9/7/2022,4/7/2023,United States,44,Male,Tablet,1 Month,Basic
+1377,13,9/7/2022,4/7/2023,Canada,31,Male,Smart TV,1 Month,Basic
+1424,14,9/8/2022,4/7/2023,Australia,38,Male,Laptop,1 Month,Premium
+1180,14,9/9/2022,4/7/2023,United States,34,Female,Smart TV,1 Month,Basic
+1328,12,9/10/2022,4/7/2023,United States,35,Female,Tablet,1 Month,Standard
+1360,10,10/7/2022,4/7/2023,United States,39,Male,Smart TV,1 Month,Premium
+1459,10,10/9/2022,4/7/2023,Spain,45,Female,Laptop,1 Month,Standard
+1120,13,10/10/2022,4/7/2023,United States,51,Female,Smartphone,1 Month,Basic
+1398,12,10/10/2022,4/7/2023,Mexico,43,Male,Smart TV,1 Month,Standard
+1529,12,11/9/2022,4/7/2023,Australia,31,Female,Laptop,1 Month,Premium
+1329,11,11/10/2022,4/7/2023,Canada,29,Male,Laptop,1 Month,Standard
+1238,12,12/7/2022,4/7/2023,United States,28,Female,Smartphone,1 Month,Standard
+1354,13,12/8/2022,4/7/2023,Spain,29,Male,Tablet,1 Month,Standard
+1629,14,12/9/2022,4/7/2023,Canada,40,Male,Smart TV,1 Month,Standard
+1190,15,12/10/2022,4/7/2023,Italy,32,Male,Laptop,1 Month,Basic
+1399,12,12/10/2022,4/7/2023,Spain,31,Female,Smart TV,1 Month,Premium
+1383,13,8/13/2022,4/7/2023,Mexico,51,Female,Tablet,1 Month,Standard
+1453,14,8/13/2022,4/7/2023,United Kingdom,36,Male,Smartphone,1 Month,Standard
+1599,13,9/13/2022,4/7/2023,Canada,45,Female,Smart TV,1 Month,Standard
+1260,11,10/13/2022,4/7/2023,Germany,31,Male,Laptop,1 Month,Basic
+1469,12,10/13/2022,4/7/2023,Australia,46,Female,Smart TV,1 Month,Standard
+1490,12,9/14/2022,4/7/2023,Italy,31,Male,Smartphone,1 Month,Basic
+1347,13,10/14/2022,4/7/2023,Canada,30,Male,Smart TV,1 Month,Basic
+1321,13,9/15/2022,4/7/2023,France,50,Female,Tablet,1 Month,Premium
+1391,14,9/15/2022,4/7/2023,United States,36,Female,Tablet,1 Month,Premium
+1426,12,7/16/2022,4/7/2023,France,39,Female,Smart TV,1 Month,Basic
+966,12,8/16/2022,4/7/2023,Spain,42,Female,Laptop,1 Month,Premium
+1244,12,8/16/2022,4/7/2023,Australia,42,Male,Tablet,1 Month,Standard
+1346,12,10/16/2022,4/7/2023,United States,39,Female,Smart TV,1 Month,Basic
+1286,15,7/17/2022,4/7/2023,United States,37,Male,Laptop,1 Month,Basic
+1571,10,7/17/2022,4/7/2023,United States,35,Male,Tablet,1 Month,Basic
+1182,14,9/17/2022,4/7/2023,Canada,28,Female,Smartphone,1 Month,Basic
+1699,10,9/17/2022,4/7/2023,Spain,31,Female,Laptop,1 Month,Premium
+1332,12,10/17/2022,4/7/2023,Canada,40,Female,Smartphone,1 Month,Basic
+1174,11,8/18/2022,4/7/2023,Spain,44,Female,Laptop,1 Month,Premium
+1194,15,10/19/2022,4/7/2023,Canada,40,Male,Smart TV,1 Month,Premium
+1240,11,7/20/2022,4/7/2023,United States,30,Female,Laptop,1 Month,Basic
+1385,15,8/20/2022,4/7/2023,Italy,43,Male,Smartphone,1 Month,Basic
+1142,13,8/21/2022,4/7/2023,Brazil,47,Female,Laptop,1 Month,Basic
+1212,13,8/21/2022,4/7/2023,Canada,40,Female,Tablet,1 Month,Premium
+1068,15,10/21/2022,4/7/2023,Mexico,34,Female,Tablet,1 Month,Standard
+1138,12,10/21/2022,4/7/2023,United Kingdom,45,Female,Smartphone,1 Month,Standard
+1333,14,10/21/2022,4/7/2023,United Kingdom,51,Male,Tablet,1 Month,Standard
+1402,13,10/21/2022,4/7/2023,Spain,39,Female,Laptop,1 Month,Basic
+1036,14,8/22/2022,4/7/2023,France,27,Female,Smartphone,1 Month,Premium
+1301,14,6/23/2022,4/7/2023,United States,51,Male,Smart TV,1 Month,Premium
+1370,13,6/23/2022,4/7/2023,Italy,42,Female,Tablet,1 Month,Basic
+1211,10,8/23/2022,4/7/2023,United States,29,Female,Laptop,1 Month,Basic
+1455,11,8/23/2022,4/7/2023,Germany,49,Male,Smart TV,1 Month,Basic
+1137,13,10/23/2022,4/7/2023,Canada,51,Male,Smart TV,1 Month,Premium
+1206,13,10/23/2022,4/7/2023,Spain,32,Male,Smart TV,1 Month,Premium
+1207,12,10/23/2022,4/7/2023,Spain,33,Male,Smart TV,1 Month,Standard
+1371,14,6/24/2022,4/7/2023,Spain,34,Female,Laptop,1 Month,Premium
+1439,14,6/24/2022,4/7/2023,Australia,47,Female,Laptop,1 Month,Basic
+1355,12,7/24/2022,4/7/2023,Italy,30,Male,Tablet,1 Month,Basic
+1356,11,7/24/2022,4/7/2023,Spain,51,Male,Smartphone,1 Month,Premium
+1449,14,7/24/2022,4/7/2023,Canada,38,Female,Laptop,1 Month,Standard
+1525,14,8/24/2022,4/7/2023,United States,50,Female,Tablet,1 Month,Basic
+1208,11,9/24/2022,4/7/2023,United States,34,Male,Smartphone,1 Month,Basic
+1136,14,10/24/2022,4/7/2023,United States,46,Male,Smartphone,1 Month,Basic
+1695,14,10/24/2022,4/7/2023,Germany,28,Female,Smartphone,1 Month,Basic
+1441,11,6/25/2022,4/7/2023,France,51,Female,Tablet,1 Month,Premium
+1509,12,6/25/2022,4/7/2023,Canada,50,Male,Smartphone,1 Month,Standard
+1280,14,8/25/2022,4/7/2023,Italy,28,Female,Laptop,1 Month,Basic
+1281,13,8/25/2022,4/7/2023,Spain,41,Female,Laptop,1 Month,Premium
+1595,12,8/25/2022,4/7/2023,Italy,51,Female,Tablet,1 Month,Basic
+1266,15,10/25/2022,4/7/2023,Spain,47,Female,Laptop,1 Month,Premium
+1367,11,6/26/2022,4/7/2023,Brazil,28,Female,Smartphone,1 Month,Basic
+1373,13,6/26/2022,4/7/2023,United States,42,Female,Laptop,1 Month,Standard
+1511,13,6/26/2022,4/7/2023,United States,50,Male,Smart TV,1 Month,Basic
+1567,13,7/26/2022,4/7/2023,Spain,38,Male,Smartphone,1 Month,Basic
+1276,12,10/26/2022,4/7/2023,France,31,Female,Laptop,1 Month,Basic
+1625,10,10/26/2022,4/7/2023,Italy,51,Female,Smart TV,1 Month,Basic
+1227,15,6/27/2022,4/7/2023,Canada,36,Female,Tablet,1 Month,Basic
+1436,14,6/27/2022,4/7/2023,United States,47,Female,Smart TV,1 Month,Basic
+1579,11,6/27/2022,4/7/2023,Spain,40,Female,Smart TV,1 Month,Standard
+1350,13,8/27/2022,4/7/2023,Germany,39,Female,Smartphone,1 Month,Basic
+1485,15,10/27/2022,4/7/2023,Germany,37,Male,Laptop,1 Month,Basic
+1437,13,6/28/2022,4/7/2023,Canada,41,Male,Laptop,1 Month,Premium
+1216,15,7/28/2022,4/7/2023,France,28,Female,Tablet,1 Month,Premium
+1336,12,10/28/2022,4/7/2023,France,45,Male,Tablet,1 Month,Premium
+1297,14,6/29/2022,4/7/2023,Spain,51,Female,Smartphone,1 Month,Basic
+1366,15,6/29/2022,4/7/2023,France,45,Male,Laptop,1 Month,Premium
+1172,11,7/29/2022,4/7/2023,Brazil,51,Female,Smart TV,1 Month,Basic
+1311,15,7/29/2022,4/7/2023,Spain,35,Male,Tablet,1 Month,Premium
+1106,14,8/29/2022,4/7/2023,United States,37,Male,Smart TV,1 Month,Premium
+1387,13,8/29/2022,4/7/2023,Spain,42,Male,Smart TV,1 Month,Basic
+1292,12,6/30/2022,4/7/2023,Brazil,30,Female,Smart TV,1 Month,Basic
+1294,11,6/30/2022,4/7/2023,Spain,51,Female,Smartphone,1 Month,Premium
+1507,15,6/30/2022,4/7/2023,Spain,28,Female,Tablet,1 Month,Standard
+1254,14,9/30/2022,4/7/2023,Canada,49,Female,Tablet,1 Month,Standard
+1277,11,9/30/2022,4/7/2023,Brazil,30,Male,Smartphone,1 Month,Premium
+1420,12,8/31/2022,4/7/2023,United States,27,Female,Smartphone,1 Month,Basic
+1273,13,10/31/2022,4/7/2023,United Kingdom,38,Male,Tablet,1 Month,Standard
+1337,11,10/31/2022,4/7/2023,Brazil,31,Female,Tablet,1 Month,Basic
+1407,14,10/31/2022,4/7/2023,Canada,45,Female,Smart TV,1 Month,Basic
+1555,13,10/31/2022,4/7/2023,United States,43,Female,Smartphone,1 Month,Basic
+1363,11,1/7/2022,5/7/2023,United Kingdom,29,Male,Laptop,1 Month,Standard
+1451,15,1/8/2022,5/7/2023,United States,30,Female,Tablet,1 Month,Premium
+1342,12,1/11/2022,5/7/2023,Spain,36,Female,Laptop,1 Month,Basic
+1343,10,1/11/2022,5/7/2023,United States,36,Male,Tablet,1 Month,Standard
+1547,13,1/11/2022,5/7/2023,Brazil,35,Female,Smartphone,1 Month,Basic
+1306,15,2/7/2022,5/7/2023,France,33,Female,Laptop,1 Month,Premium
+1503,10,2/7/2022,5/7/2023,Mexico,29,Male,Laptop,1 Month,Standard
+1412,15,2/11/2022,5/7/2023,Brazil,27,Male,Laptop,1 Month,Basic
+1413,13,2/11/2022,5/7/2023,Mexico,47,Male,Smartphone,1 Month,Standard
+1552,12,2/11/2022,5/7/2023,Spain,31,Female,Tablet,1 Month,Basic
+1376,14,3/7/2022,5/7/2023,United States,29,Male,Tablet,1 Month,Premium
+1433,10,3/7/2022,5/7/2023,United States,30,Female,Tablet,1 Month,Basic
+1248,13,3/9/2022,5/7/2023,Mexico,47,Female,Smart TV,1 Month,Standard
+1388,15,3/9/2022,5/7/2023,United States,30,Male,Smartphone,1 Month,Standard
+1256,13,3/10/2022,5/7/2023,United States,43,Male,Laptop,1 Month,Premium
+1487,13,3/10/2022,5/7/2023,Brazil,29,Male,Smartphone,1 Month,Basic
+1605,11,3/10/2022,5/7/2023,Germany,39,Male,Laptop,1 Month,Basic
+1134,13,3/11/2022,5/7/2023,Canada,46,Female,Smart TV,1 Month,Standard
+1269,12,3/11/2022,5/7/2023,Canada,48,Female,Smartphone,1 Month,Premium
+1477,13,3/11/2022,5/7/2023,Spain,42,Male,Smart TV,1 Month,Basic
+1687,13,3/11/2022,5/7/2023,Spain,49,Male,Smartphone,1 Month,Basic
+1757,13,3/11/2022,5/7/2023,Brazil,43,Male,Laptop,1 Month,Basic
+1318,11,4/9/2022,5/7/2023,United Kingdom,42,Male,Smartphone,1 Month,Standard
+1464,10,4/10/2022,5/7/2023,Canada,27,Male,Laptop,1 Month,Premium
+1339,11,4/11/2022,5/7/2023,Spain,30,Male,Laptop,1 Month,Standard
+1482,13,4/11/2022,5/7/2023,Canada,45,Male,Smartphone,1 Month,Basic
+1617,11,4/11/2022,5/7/2023,Canada,50,Male,Tablet,1 Month,Basic
+1621,10,4/11/2022,5/7/2023,France,39,Male,Laptop,1 Month,Premium
+1432,11,5/7/2022,5/7/2023,Spain,43,Male,Smartphone,1 Month,Standard
+1585,10,5/7/2022,5/7/2023,United States,42,Male,Laptop,1 Month,Premium
+1527,15,5/9/2022,5/7/2023,Canada,32,Female,Smart TV,1 Month,Basic
+1326,10,5/10/2022,5/7/2023,Spain,48,Male,Smartphone,1 Month,Premium
+1622,12,5/11/2022,5/7/2023,Brazil,45,Female,Smart TV,1 Month,Basic
+1691,13,5/11/2022,5/7/2023,United States,27,Female,Smart TV,1 Month,Premium
+1831,14,5/11/2022,5/7/2023,France,43,Male,Laptop,1 Month,Premium
+1647,11,6/7/2022,5/7/2023,Canada,39,Female,Laptop,1 Month,Basic
+1521,11,6/8/2022,5/7/2023,Spain,49,Male,Tablet,1 Month,Premium
+1396,14,6/10/2022,5/7/2023,France,41,Female,Smart TV,1 Month,Premium
+1535,12,6/10/2022,5/7/2023,Italy,31,Female,Smart TV,1 Month,Basic
+1446,13,7/7/2022,5/7/2023,Spain,48,Male,Tablet,1 Month,Premium
+1573,15,7/7/2022,5/7/2023,United Kingdom,43,Male,Smart TV,1 Month,Standard
+1645,12,7/7/2022,5/7/2023,United States,40,Female,Laptop,1 Month,Basic
+1186,13,7/10/2022,5/7/2023,France,32,Female,Smart TV,1 Month,Premium
+1761,10,7/11/2022,5/7/2023,Spain,37,Male,Smart TV,1 Month,Premium
+1575,11,8/7/2022,5/7/2023,Germany,49,Female,Laptop,1 Month,Basic
+1675,12,8/10/2022,5/7/2023,United States,42,Female,Laptop,1 Month,Basic
+1359,13,9/7/2022,5/7/2023,Canada,35,Male,Laptop,1 Month,Standard
+1430,13,9/7/2022,5/7/2023,Italy,43,Female,Smart TV,1 Month,Basic
+1591,14,9/8/2022,5/7/2023,France,35,Female,Laptop,1 Month,Premium
+1492,15,9/9/2022,5/7/2023,Spain,48,Female,Laptop,1 Month,Basic
+1661,13,10/8/2022,5/7/2023,United States,49,Female,Laptop,1 Month,Basic
+1500,14,11/7/2022,5/7/2023,Germany,38,Female,Tablet,1 Month,Basic
+1502,14,11/7/2022,5/7/2023,Brazil,40,Female,Laptop,1 Month,Premium
+1491,11,11/9/2022,5/7/2023,Spain,42,Female,Laptop,1 Month,Premium
+1468,12,11/10/2022,5/7/2023,United Kingdom,51,Male,Laptop,1 Month,Standard
+1538,10,11/10/2022,5/7/2023,United States,44,Female,Smart TV,1 Month,Standard
+1428,12,12/7/2022,5/7/2023,Mexico,40,Male,Smart TV,1 Month,Standard
+1460,14,12/9/2022,5/7/2023,Italy,45,Male,Smart TV,1 Month,Basic
+1539,14,12/10/2022,5/7/2023,Canada,34,Male,Laptop,1 Month,Premium
+1447,11,7/13/2022,5/7/2023,Spain,36,Female,Tablet,1 Month,Basic
+1731,12,8/13/2022,5/7/2023,Spain,37,Male,Tablet,1 Month,Premium
+1390,11,9/13/2022,5/7/2023,United States,51,Female,Laptop,1 Month,Basic
+1330,14,10/13/2022,5/7/2023,United States,47,Female,Smart TV,1 Month,Basic
+1498,15,7/14/2022,5/7/2023,United Kingdom,44,Female,Smartphone,1 Month,Standard
+1314,13,8/14/2022,5/7/2023,Canada,38,Male,Tablet,1 Month,Premium
+1523,13,8/14/2022,5/7/2023,United States,38,Male,Smart TV,1 Month,Standard
+1320,10,9/14/2022,5/7/2023,Germany,39,Male,Laptop,1 Month,Basic
+1348,13,9/14/2022,5/7/2023,United Kingdom,34,Male,Laptop,1 Month,Standard
+1669,10,9/14/2022,5/7/2023,Spain,48,Male,Tablet,1 Month,Premium
+1556,10,10/14/2022,5/7/2023,United States,29,Female,Smartphone,1 Month,Premium
+1517,11,7/15/2022,5/7/2023,Brazil,28,Female,Smart TV,1 Month,Basic
+1593,14,8/15/2022,5/7/2023,Mexico,28,Male,Smartphone,1 Month,Standard
+1252,11,9/15/2022,5/7/2023,Spain,51,Male,Laptop,1 Month,Basic
+1486,14,10/15/2022,5/7/2023,France,31,Male,Smartphone,1 Month,Premium
+1643,11,7/16/2022,5/7/2023,United States,42,Female,Tablet,1 Month,Standard
+1739,10,9/16/2022,5/7/2023,Australia,35,Female,Smartphone,1 Month,Basic
+1384,13,8/17/2022,5/7/2023,Spain,33,Male,Smart TV,1 Month,Standard
+1461,11,9/17/2022,5/7/2023,Spain,32,Male,Smart TV,1 Month,Premium
+1401,12,10/17/2022,5/7/2023,Spain,35,Female,Smart TV,1 Month,Premium
+1416,11,10/18/2022,5/7/2023,Spain,31,Male,Smart TV,1 Month,Premium
+1765,11,10/18/2022,5/7/2023,United States,37,Female,Tablet,1 Month,Basic
+1601,14,9/19/2022,5/7/2023,United States,39,Male,Smartphone,1 Month,Premium
+1352,13,8/21/2022,5/7/2023,Brazil,42,Male,Laptop,1 Month,Premium
+1531,12,9/21/2022,5/7/2023,France,30,Female,Tablet,1 Month,Premium
+1282,12,8/22/2022,5/7/2023,Spain,43,Male,Tablet,1 Month,Standard
+1264,11,10/22/2022,5/7/2023,Spain,30,Female,Smart TV,1 Month,Standard
+1310,15,7/23/2022,5/7/2023,Italy,44,Male,Laptop,1 Month,Basic
+1418,15,9/23/2022,5/7/2023,United States,42,Female,Smart TV,1 Month,Standard
+1334,12,10/23/2022,5/7/2023,Australia,37,Male,Smart TV,1 Month,Premium
+1403,14,10/23/2022,5/7/2023,United States,48,Male,Laptop,1 Month,Standard
+1473,14,10/23/2022,5/7/2023,Mexico,33,Male,Smartphone,1 Month,Standard
+1440,11,6/24/2022,5/7/2023,Germany,48,Female,Smart TV,1 Month,Standard
+1508,11,6/24/2022,5/7/2023,United States,49,Male,Laptop,1 Month,Basic
+1425,13,7/24/2022,5/7/2023,Germany,37,Male,Smartphone,1 Month,Basic
+1404,14,10/24/2022,5/7/2023,Canada,42,Female,Tablet,1 Month,Standard
+1372,12,6/25/2022,5/7/2023,Spain,40,Female,Laptop,1 Month,Basic
+1665,11,8/25/2022,5/7/2023,Germany,37,Male,Smartphone,1 Month,Standard
+1488,10,9/25/2022,5/7/2023,Mexico,51,Female,Smart TV,1 Month,Standard
+1544,14,10/25/2022,5/7/2023,Australia,47,Male,Tablet,1 Month,Standard
+1557,14,9/26/2022,5/7/2023,Canada,46,Male,Smart TV,1 Month,Basic
+1474,12,10/26/2022,5/7/2023,Spain,31,Female,Laptop,1 Month,Premium
+1443,13,6/27/2022,5/7/2023,Mexico,43,Female,Laptop,1 Month,Standard
+1581,15,6/27/2022,5/7/2023,Spain,30,Female,Smart TV,1 Month,Premium
+1649,15,6/27/2022,5/7/2023,Australia,30,Male,Tablet,1 Month,Premium
+1519,14,7/27/2022,5/7/2023,Spain,31,Male,Tablet,1 Month,Premium
+1176,11,8/27/2022,5/7/2023,Spain,37,Male,Smart TV,1 Month,Premium
+1246,15,8/27/2022,5/7/2023,France,35,Female,Smartphone,1 Month,Premium
+1351,12,8/27/2022,5/7/2023,France,34,Female,Laptop,1 Month,Basic
+1422,15,8/27/2022,5/7/2023,Canada,49,Male,Laptop,1 Month,Basic
+1278,13,9/27/2022,5/7/2023,Mexico,44,Male,Laptop,1 Month,Standard
+1274,12,10/27/2022,5/7/2023,Australia,29,Female,Smart TV,1 Month,Premium
+1438,10,6/28/2022,5/7/2023,United Kingdom,45,Female,Smartphone,1 Month,Standard
+1380,11,7/28/2022,5/7/2023,Germany,47,Male,Laptop,1 Month,Basic
+1637,11,7/28/2022,5/7/2023,Brazil,51,Female,Laptop,1 Month,Basic
+1316,12,8/28/2022,5/7/2023,United States,48,Female,Tablet,1 Month,Premium
+1421,15,8/28/2022,5/7/2023,United States,48,Female,Smart TV,1 Month,Basic
+1417,13,9/28/2022,5/7/2023,Spain,43,Female,Tablet,1 Month,Basic
+1506,10,6/29/2022,5/7/2023,Spain,47,Male,Smartphone,1 Month,Premium
+1562,12,8/29/2022,5/7/2023,Brazil,27,Male,Smartphone,1 Month,Basic
+1344,11,10/29/2022,5/7/2023,Canada,32,Female,Smartphone,1 Month,Premium
+1505,12,6/30/2022,5/7/2023,Italy,30,Male,Laptop,1 Month,Basic
+1204,13,10/30/2022,5/7/2023,Spain,42,Male,Laptop,1 Month,Standard
+1242,14,7/31/2022,5/7/2023,Canada,49,Female,Tablet,1 Month,Basic
+1496,13,7/31/2022,5/7/2023,United States,46,Male,Tablet,1 Month,Basic
+1457,10,8/31/2022,5/7/2023,Brazil,36,Male,Laptop,1 Month,Basic
+1633,11,8/31/2022,5/7/2023,United Kingdom,35,Male,Tablet,1 Month,Standard
+1653,13,1/7/2022,6/7/2023,Mexico,32,Male,Smartphone,1 Month,Standard
+1791,14,1/7/2022,6/7/2023,Spain,45,Male,Laptop,1 Month,Premium
+1703,13,1/9/2022,6/7/2023,United States,48,Male,Smart TV,1 Month,Standard
+1414,15,1/11/2022,6/7/2023,Spain,41,Male,Tablet,1 Month,Standard
+1723,13,2/7/2022,6/7/2023,United Kingdom,34,Male,Smart TV,1 Month,Standard
+1534,14,2/10/2022,6/7/2023,Spain,30,Female,Tablet,1 Month,Standard
+1674,10,2/10/2022,6/7/2023,Canada,38,Male,Smart TV,1 Month,Standard
+1483,14,2/11/2022,6/7/2023,United Kingdom,49,Male,Smart TV,1 Month,Standard
+1793,14,3/7/2022,6/7/2023,United States,42,Female,Smart TV,1 Month,Standard
+1632,14,3/9/2022,6/7/2023,Canada,27,Female,Laptop,1 Month,Basic
+1553,12,3/11/2022,6/7/2023,United States,39,Male,Tablet,1 Month,Standard
+1623,12,3/11/2022,6/7/2023,Mexico,29,Male,Laptop,1 Month,Standard
+1655,15,4/7/2022,6/7/2023,Italy,50,Female,Tablet,1 Month,Basic
+1494,13,4/8/2022,6/7/2023,Canada,51,Female,Smartphone,1 Month,Premium
+1495,12,4/8/2022,6/7/2023,United States,29,Female,Tablet,1 Month,Basic
+1805,10,4/9/2022,6/7/2023,Italy,50,Female,Smart TV,1 Month,Basic
+1200,12,4/11/2022,6/7/2023,Germany,36,Male,Smartphone,1 Month,Basic
+1270,11,4/11/2022,6/7/2023,United States,30,Female,Smart TV,1 Month,Basic
+1548,13,4/11/2022,6/7/2023,Mexico,39,Male,Tablet,1 Month,Standard
+1549,10,4/11/2022,6/7/2023,Spain,39,Male,Tablet,1 Month,Premium
+1688,14,4/11/2022,6/7/2023,United States,41,Female,Tablet,1 Month,Standard
+1762,10,4/11/2022,6/7/2023,Spain,28,Female,Smartphone,1 Month,Basic
+1827,13,4/11/2022,6/7/2023,Canada,44,Female,Laptop,1 Month,Basic
+1897,11,4/11/2022,6/7/2023,Spain,49,Female,Smartphone,1 Month,Basic
+1863,11,5/7/2022,6/7/2023,Mexico,35,Female,Smartphone,1 Month,Standard
+1667,11,5/9/2022,6/7/2023,Brazil,49,Male,Tablet,1 Month,Basic
+1737,12,5/9/2022,6/7/2023,Canada,28,Female,Laptop,1 Month,Premium
+1340,14,5/11/2022,6/7/2023,Italy,40,Female,Smartphone,1 Month,Basic
+1409,15,5/11/2022,6/7/2023,Australia,38,Male,Tablet,1 Month,Premium
+1478,15,5/11/2022,6/7/2023,United States,47,Female,Smart TV,1 Month,Standard
+1618,11,5/11/2022,6/7/2023,United Kingdom,27,Male,Smart TV,1 Month,Standard
+1692,12,5/11/2022,6/7/2023,Canada,41,Female,Tablet,1 Month,Basic
+1967,13,5/11/2022,6/7/2023,Brazil,29,Male,Laptop,1 Month,Basic
+1312,11,6/8/2022,6/7/2023,Spain,31,Female,Laptop,1 Month,Basic
+1777,12,6/8/2022,6/7/2023,Spain,31,Female,Tablet,1 Month,Basic
+1597,13,6/9/2022,6/7/2023,Spain,37,Male,Smart TV,1 Month,Basic
+1410,14,6/11/2022,6/7/2023,Germany,31,Female,Tablet,1 Month,Basic
+1479,12,6/11/2022,6/7/2023,Canada,29,Female,Smart TV,1 Month,Standard
+1574,10,7/7/2022,6/7/2023,Australia,36,Male,Smart TV,1 Month,Premium
+1773,12,7/9/2022,6/7/2023,Mexico,37,Male,Tablet,1 Month,Standard
+1466,13,7/10/2022,6/7/2023,United States,30,Female,Smart TV,1 Month,Premium
+1536,15,7/10/2022,6/7/2023,Spain,31,Female,Laptop,1 Month,Premium
+1901,15,7/11/2022,6/7/2023,United States,38,Male,Tablet,1 Month,Premium
+1382,13,8/8/2022,6/7/2023,Brazil,32,Female,Smart TV,1 Month,Basic
+1452,10,8/8/2022,6/7/2023,Canada,39,Male,Smart TV,1 Month,Basic
+1971,13,8/11/2022,6/7/2023,Spain,43,Female,Laptop,1 Month,Premium
+1644,14,9/7/2022,6/7/2023,Canada,28,Male,Smartphone,1 Month,Premium
+1458,14,9/9/2022,6/7/2023,Mexico,41,Female,Tablet,1 Month,Standard
+1537,15,9/10/2022,6/7/2023,Spain,44,Male,Tablet,1 Month,Basic
+1566,12,10/8/2022,6/7/2023,Spain,35,Male,Laptop,1 Month,Premium
+1572,13,11/7/2022,6/7/2023,Canada,39,Male,Laptop,1 Month,Basic
+1308,15,12/7/2022,6/7/2023,Mexico,39,Male,Tablet,1 Month,Standard
+1429,12,12/7/2022,6/7/2023,Spain,48,Male,Laptop,1 Month,Standard
+1715,14,12/7/2022,6/7/2023,Italy,31,Female,Laptop,1 Month,Basic
+1561,14,12/9/2022,6/7/2023,France,41,Male,Laptop,1 Month,Premium
+1499,12,7/13/2022,6/7/2023,Australia,36,Male,Smart TV,1 Month,Premium
+1522,10,8/13/2022,6/7/2023,Spain,32,Female,Laptop,1 Month,Basic
+1454,11,8/14/2022,6/7/2023,Australia,27,Female,Smartphone,1 Month,Premium
+1592,10,8/14/2022,6/7/2023,Brazil,34,Male,Tablet,1 Month,Basic
+1662,13,8/14/2022,6/7/2023,Canada,39,Male,Smartphone,1 Month,Premium
+1801,12,8/14/2022,6/7/2023,France,46,Male,Tablet,1 Month,Basic
+1530,12,9/14/2022,6/7/2023,Germany,44,Male,Smartphone,1 Month,Basic
+1867,11,7/15/2022,6/7/2023,Spain,31,Male,Tablet,1 Month,Basic
+1564,11,8/15/2022,6/7/2023,Spain,45,Female,Tablet,1 Month,Standard
+1871,10,8/15/2022,6/7/2023,United States,43,Female,Smart TV,1 Month,Basic
+1600,11,9/15/2022,6/7/2023,United States,39,Male,Tablet,1 Month,Basic
+1769,14,9/15/2022,6/7/2023,Australia,41,Female,Laptop,1 Month,Standard
+1839,15,9/15/2022,6/7/2023,Canada,36,Female,Smart TV,1 Month,Premium
+1400,14,10/15/2022,6/7/2023,Italy,40,Male,Laptop,1 Month,Basic
+1470,10,10/15/2022,6/7/2023,Germany,27,Female,Tablet,1 Month,Basic
+1609,14,10/15/2022,6/7/2023,Spain,41,Female,Smart TV,1 Month,Standard
+1641,10,7/16/2022,6/7/2023,Spain,41,Male,Tablet,1 Month,Premium
+1711,14,7/16/2022,6/7/2023,France,34,Male,Smartphone,1 Month,Premium
+1713,12,7/16/2022,6/7/2023,Mexico,31,Female,Tablet,1 Month,Standard
+1663,12,8/16/2022,6/7/2023,United Kingdom,38,Female,Smartphone,1 Month,Standard
+1733,15,8/16/2022,6/7/2023,United States,27,Female,Tablet,1 Month,Basic
+1322,11,9/16/2022,6/7/2023,Brazil,40,Male,Smartphone,1 Month,Basic
+1670,13,9/16/2022,6/7/2023,Italy,34,Male,Tablet,1 Month,Basic
+1540,12,10/16/2022,6/7/2023,United States,42,Male,Laptop,1 Month,Basic
+1626,11,10/16/2022,6/7/2023,Spain,51,Male,Smart TV,1 Month,Premium
+1679,14,10/16/2022,6/7/2023,Australia,48,Male,Tablet,1 Month,Premium
+1378,14,7/17/2022,6/7/2023,United Kingdom,46,Female,Smart TV,1 Month,Standard
+1569,10,7/17/2022,6/7/2023,Canada,43,Male,Tablet,1 Month,Premium
+1570,13,7/17/2022,6/7/2023,United States,44,Male,Tablet,1 Month,Basic
+1797,14,7/17/2022,6/7/2023,Canada,39,Male,Smart TV,1 Month,Basic
+1558,15,9/17/2022,6/7/2023,United Kingdom,35,Male,Smartphone,1 Month,Standard
+1628,13,9/17/2022,6/7/2023,United States,48,Female,Laptop,1 Month,Standard
+1809,15,9/17/2022,6/7/2023,Canada,40,Female,Tablet,1 Month,Standard
+1879,10,9/17/2022,6/7/2023,Spain,27,Female,Smart TV,1 Month,Standard
+1610,14,10/17/2022,6/7/2023,Italy,36,Female,Smart TV,1 Month,Basic
+1587,12,7/18/2022,6/7/2023,Canada,28,Male,Tablet,1 Month,Premium
+1698,12,9/18/2022,6/7/2023,Mexico,29,Male,Tablet,1 Month,Standard
+1740,15,9/18/2022,6/7/2023,Germany,37,Female,Laptop,1 Month,Standard
+1568,14,7/19/2022,6/7/2023,United States,41,Female,Smart TV,1 Month,Standard
+1640,13,7/19/2022,6/7/2023,Italy,42,Male,Smart TV,1 Month,Basic
+1671,13,9/19/2022,6/7/2023,Spain,39,Female,Smartphone,1 Month,Premium
+1471,10,10/19/2022,6/7/2023,France,51,Female,Smartphone,1 Month,Premium
+1741,12,9/20/2022,6/7/2023,France,31,Male,Smartphone,1 Month,Premium
+1462,13,9/21/2022,6/7/2023,Spain,41,Female,Smartphone,1 Month,Basic
+1472,14,10/21/2022,6/7/2023,Brazil,28,Female,Laptop,1 Month,Basic
+1639,15,7/22/2022,6/7/2023,Spain,47,Male,Laptop,1 Month,Standard
+1781,15,7/22/2022,6/7/2023,United States,35,Female,Laptop,1 Month,Premium
+1835,11,10/22/2022,6/7/2023,Italy,41,Female,Tablet,1 Month,Basic
+1657,11,7/23/2022,6/7/2023,Spain,49,Male,Smartphone,1 Month,Standard
+1727,13,7/23/2022,6/7/2023,Brazil,40,Male,Smartphone,1 Month,Premium
+1811,10,9/23/2022,6/7/2023,United States,47,Male,Smart TV,1 Month,Basic
+1543,15,10/23/2022,6/7/2023,United Kingdom,34,Female,Laptop,1 Month,Standard
+1613,15,10/23/2022,6/7/2023,United States,40,Female,Smartphone,1 Month,Standard
+1603,13,9/24/2022,6/7/2023,United Kingdom,30,Female,Smartphone,1 Month,Standard
+1335,12,10/24/2022,6/7/2023,Germany,36,Male,Tablet,1 Month,Basic
+1392,13,9/25/2022,6/7/2023,Canada,41,Female,Tablet,1 Month,Basic
+1442,10,6/26/2022,6/7/2023,Brazil,29,Male,Smart TV,1 Month,Basic
+1659,14,7/26/2022,6/7/2023,Canada,35,Male,Smartphone,1 Month,Standard
+1709,10,7/26/2022,6/7/2023,Australia,42,Female,Smartphone,1 Month,Premium
+1683,12,10/26/2022,6/7/2023,Mexico,33,Male,Laptop,1 Month,Standard
+1753,15,10/26/2022,6/7/2023,United Kingdom,47,Male,Laptop,1 Month,Standard
+1512,10,6/27/2022,6/7/2023,Canada,28,Female,Smart TV,1 Month,Premium
+1456,14,8/27/2022,6/7/2023,France,31,Male,Laptop,1 Month,Premium
+1596,13,8/27/2022,6/7/2023,Spain,36,Male,Laptop,1 Month,Premium
+1735,10,8/27/2022,6/7/2023,United States,27,Male,Smartphone,1 Month,Premium
+1405,11,10/27/2022,6/7/2023,United States,48,Female,Smart TV,1 Month,Basic
+1475,13,10/27/2022,6/7/2023,Italy,47,Male,Laptop,1 Month,Basic
+1484,13,10/27/2022,6/7/2023,Australia,41,Male,Smart TV,1 Month,Premium
+1545,13,10/27/2022,6/7/2023,Germany,43,Female,Laptop,1 Month,Basic
+1651,14,6/28/2022,6/7/2023,France,38,Male,Smart TV,1 Month,Basic
+1589,11,7/28/2022,6/7/2023,Australia,27,Female,Tablet,1 Month,Basic
+1638,10,7/28/2022,6/7/2023,Mexico,40,Female,Tablet,1 Month,Standard
+1707,13,7/28/2022,6/7/2023,Canada,39,Female,Smartphone,1 Month,Basic
+1779,15,7/28/2022,6/7/2023,Canada,43,Female,Smartphone,1 Month,Standard
+1386,14,8/28/2022,6/7/2023,Spain,43,Female,Smart TV,1 Month,Premium
+1526,10,8/28/2022,6/7/2023,United States,51,Male,Tablet,1 Month,Premium
+1615,11,10/28/2022,6/7/2023,United States,30,Female,Smart TV,1 Month,Basic
+1823,10,10/28/2022,6/7/2023,United States,28,Male,Tablet,1 Month,Standard
+1513,12,6/29/2022,6/7/2023,United Kingdom,41,Male,Smartphone,1 Month,Standard
+1719,12,6/29/2022,6/7/2023,Canada,46,Male,Laptop,1 Month,Premium
+1721,12,6/29/2022,6/7/2023,United States,34,Male,Tablet,1 Month,Basic
+1520,11,7/29/2022,6/7/2023,Italy,27,Female,Smartphone,1 Month,Basic
+1875,14,8/29/2022,6/7/2023,Germany,51,Male,Smart TV,1 Month,Basic
+1504,11,6/30/2022,6/7/2023,Spain,32,Male,Smart TV,1 Month,Standard
+1578,11,6/30/2022,6/7/2023,Mexico,44,Female,Laptop,1 Month,Standard
+1583,12,6/30/2022,6/7/2023,United States,39,Male,Tablet,1 Month,Basic
+1648,15,6/30/2022,6/7/2023,United Kingdom,41,Female,Smartphone,1 Month,Standard
+1604,10,9/30/2022,6/7/2023,Australia,32,Female,Smartphone,1 Month,Premium
+1554,14,10/30/2022,6/7/2023,Canada,30,Female,Laptop,1 Month,Standard
+1450,12,7/31/2022,6/7/2023,United States,42,Female,Smartphone,1 Month,Basic
+1905,15,10/31/2022,6/7/2023,Germany,36,Female,Tablet,1 Month,Basic
+1514,12,1/7/2022,7/7/2023,Australia,30,Female,Smartphone,1 Month,Basic
+2103,14,1/11/2022,7/7/2023,Mexico,32,Female,Laptop,1 Month,Standard
+1584,11,2/7/2022,7/7/2023,Canada,51,Male,Tablet,1 Month,Standard
+1847,10,2/8/2022,7/7/2023,Brazil,31,Female,Smartphone,1 Month,Basic
+1702,12,2/9/2022,7/7/2023,Spain,43,Male,Smartphone,1 Month,Basic
+1763,14,2/11/2022,7/7/2023,United States,32,Female,Smartphone,1 Month,Standard
+1654,14,3/7/2022,7/7/2023,Spain,27,Male,Tablet,1 Month,Standard
+1861,15,3/7/2022,7/7/2023,France,38,Female,Laptop,1 Month,Premium
+1480,13,3/11/2022,7/7/2023,United States,49,Female,Laptop,1 Month,Basic
+1693,13,3/11/2022,7/7/2023,United Kingdom,41,Female,Tablet,1 Month,Standard
+1834,10,3/11/2022,7/7/2023,Spain,44,Male,Smart TV,1 Month,Standard
+1859,15,4/7/2022,7/7/2023,Australia,41,Male,Laptop,1 Month,Premium
+1736,15,4/9/2022,7/7/2023,United States,29,Female,Smartphone,1 Month,Basic
+1767,15,4/10/2022,7/7/2023,Canada,30,Female,Tablet,1 Month,Basic
+1550,11,4/11/2022,7/7/2023,Italy,49,Female,Smart TV,1 Month,Basic
+1619,14,4/11/2022,7/7/2023,Australia,51,Female,Laptop,1 Month,Standard
+1975,11,4/11/2022,7/7/2023,United States,40,Male,Tablet,1 Month,Basic
+1799,14,5/8/2022,7/7/2023,Australia,49,Female,Tablet,1 Month,Premium
+1806,15,5/9/2022,7/7/2023,Spain,49,Female,Laptop,1 Month,Premium
+2015,12,5/9/2022,7/7/2023,Italy,27,Male,Smartphone,1 Month,Basic
+1620,11,5/11/2022,7/7/2023,Germany,38,Male,Smartphone,1 Month,Basic
+1689,13,5/11/2022,7/7/2023,Canada,38,Male,Tablet,1 Month,Premium
+1690,13,5/11/2022,7/7/2023,United States,42,Female,Laptop,1 Month,Basic
+1758,13,5/11/2022,7/7/2023,Mexico,35,Male,Laptop,1 Month,Standard
+1828,14,5/11/2022,7/7/2023,United Kingdom,46,Male,Laptop,1 Month,Standard
+1857,13,6/7/2022,7/7/2023,Canada,44,Female,Smart TV,1 Month,Basic
+1697,11,6/10/2022,7/7/2023,Brazil,47,Female,Tablet,1 Month,Basic
+1759,10,6/11/2022,7/7/2023,Spain,51,Male,Smart TV,1 Month,Standard
+1760,15,6/11/2022,7/7/2023,Italy,35,Male,Tablet,1 Month,Basic
+1898,13,6/11/2022,7/7/2023,United States,41,Female,Tablet,1 Month,Standard
+2037,13,6/11/2022,7/7/2023,Canada,41,Female,Smart TV,1 Month,Premium
+1787,11,7/7/2022,7/7/2023,Brazil,28,Male,Laptop,1 Month,Basic
+1795,14,7/7/2022,7/7/2023,United States,32,Male,Smart TV,1 Month,Basic
+2107,14,7/11/2022,7/7/2023,Spain,32,Female,Smart TV,1 Month,Standard
+1717,10,8/7/2022,7/7/2023,Spain,46,Female,Smartphone,1 Month,Basic
+1725,10,8/7/2022,7/7/2023,Germany,36,Female,Smartphone,1 Month,Basic
+1865,15,8/7/2022,7/7/2023,Italy,39,Male,Smartphone,1 Month,Basic
+1929,12,8/7/2022,7/7/2023,Canada,33,Female,Smartphone,1 Month,Standard
+1931,14,8/7/2022,7/7/2023,United States,27,Male,Tablet,1 Month,Premium
+1598,11,8/9/2022,7/7/2023,United States,48,Male,Laptop,1 Month,Standard
+1807,11,8/9/2022,7/7/2023,Spain,37,Male,Smartphone,1 Month,Standard
+1606,15,8/10/2022,7/7/2023,France,35,Female,Smartphone,1 Month,Premium
+1745,14,8/10/2022,7/7/2023,Italy,45,Male,Tablet,1 Month,Basic
+1933,14,9/7/2022,7/7/2023,United Kingdom,32,Male,Smart TV,1 Month,Standard
+1631,14,9/9/2022,7/7/2023,United States,44,Male,Laptop,1 Month,Premium
+1701,15,9/9/2022,7/7/2023,Spain,32,Male,Smart TV,1 Month,Premium
+1607,15,9/10/2022,7/7/2023,Brazil,41,Female,Smartphone,1 Month,Basic
+1676,15,9/10/2022,7/7/2023,United States,35,Female,Laptop,1 Month,Premium
+1815,13,9/10/2022,7/7/2023,Germany,42,Female,Tablet,1 Month,Standard
+2041,10,9/11/2022,7/7/2023,France,34,Female,Smartphone,1 Month,Premium
+1656,10,10/7/2022,7/7/2023,Spain,30,Male,Smartphone,1 Month,Premium
+1528,12,10/9/2022,7/7/2023,United Kingdom,45,Female,Smart TV,1 Month,Standard
+1746,14,10/10/2022,7/7/2023,Spain,28,Male,Smart TV,1 Month,Premium
+1885,14,10/10/2022,7/7/2023,United States,32,Female,Tablet,1 Month,Premium
+1586,12,11/7/2022,7/7/2023,United States,34,Female,Tablet,1 Month,Basic
+1565,10,11/8/2022,7/7/2023,Italy,36,Female,Smart TV,1 Month,Basic
+1843,10,11/9/2022,7/7/2023,United Kingdom,46,Male,Laptop,1 Month,Standard
+1516,15,12/7/2022,7/7/2023,France,50,Male,Laptop,1 Month,Premium
+1935,12,12/7/2022,7/7/2023,Germany,36,Female,Tablet,1 Month,Basic
+1560,12,12/9/2022,7/7/2023,Germany,39,Female,Smart TV,1 Month,Basic
+1816,14,12/10/2022,7/7/2023,France,51,Female,Laptop,1 Month,Premium
+1785,13,7/13/2022,7/7/2023,Germany,50,Female,Tablet,1 Month,Basic
+1630,13,9/13/2022,7/7/2023,United States,39,Male,Smart TV,1 Month,Basic
+1877,11,9/13/2022,7/7/2023,Brazil,50,Female,Smartphone,1 Month,Premium
+1732,12,8/14/2022,7/7/2023,Spain,33,Male,Smartphone,1 Month,Standard
+1775,15,8/14/2022,7/7/2023,Italy,45,Male,Tablet,1 Month,Basic
+1855,12,7/15/2022,7/7/2023,United States,33,Male,Smartphone,1 Month,Basic
+1635,12,8/15/2022,7/7/2023,Germany,33,Male,Tablet,1 Month,Basic
+1802,12,8/15/2022,7/7/2023,Brazil,30,Male,Smartphone,1 Month,Premium
+2011,10,8/15/2022,7/7/2023,France,28,Female,Tablet,1 Month,Premium
+1714,14,7/16/2022,7/7/2023,Spain,36,Female,Tablet,1 Month,Standard
+1784,13,7/16/2022,7/7/2023,Australia,36,Male,Tablet,1 Month,Premium
+1937,14,7/16/2022,7/7/2023,Brazil,32,Male,Smart TV,1 Month,Basic
+1594,15,8/16/2022,7/7/2023,Spain,49,Female,Tablet,1 Month,Premium
+1636,10,8/16/2022,7/7/2023,France,32,Female,Smart TV,1 Month,Premium
+1704,10,8/16/2022,7/7/2023,Canada,28,Male,Laptop,1 Month,Standard
+1845,12,8/16/2022,7/7/2023,Germany,32,Female,Smartphone,1 Month,Basic
+1941,13,8/16/2022,7/7/2023,Spain,29,Female,Smart TV,1 Month,Premium
+1627,15,10/16/2022,7/7/2023,Spain,42,Female,Smartphone,1 Month,Basic
+1749,10,10/16/2022,7/7/2023,Canada,37,Female,Laptop,1 Month,Standard
+1710,11,7/17/2022,7/7/2023,Germany,30,Male,Smart TV,1 Month,Basic
+1783,13,7/17/2022,7/7/2023,United Kingdom,42,Female,Smartphone,1 Month,Standard
+2007,10,7/17/2022,7/7/2023,Canada,39,Female,Smart TV,1 Month,Basic
+1705,14,8/17/2022,7/7/2023,United States,31,Female,Tablet,1 Month,Basic
+1768,14,9/17/2022,7/7/2023,United Kingdom,35,Male,Tablet,1 Month,Standard
+1541,15,10/17/2022,7/7/2023,United States,33,Male,Smartphone,1 Month,Premium
+1696,13,10/17/2022,7/7/2023,France,44,Male,Laptop,1 Month,Premium
+1448,14,7/18/2022,7/7/2023,United States,33,Female,Laptop,1 Month,Standard
+1803,10,8/18/2022,7/7/2023,Mexico,48,Male,Smart TV,1 Month,Standard
+1680,13,10/18/2022,7/7/2023,Germany,32,Male,Laptop,1 Month,Basic
+1518,13,7/19/2022,7/7/2023,Mexico,45,Male,Smart TV,1 Month,Standard
+1611,15,10/19/2022,7/7/2023,Spain,49,Male,Laptop,1 Month,Premium
+1819,13,10/19/2022,7/7/2023,Spain,48,Female,Tablet,1 Month,Premium
+1524,11,8/20/2022,7/7/2023,Canada,39,Male,Smartphone,1 Month,Standard
+1820,14,10/20/2022,7/7/2023,Italy,48,Female,Smart TV,1 Month,Basic
+1889,13,10/20/2022,7/7/2023,Australia,37,Female,Laptop,1 Month,Basic
+1542,11,10/21/2022,7/7/2023,Canada,35,Male,Smart TV,1 Month,Basic
+1750,15,10/21/2022,7/7/2023,United States,28,Female,Smartphone,1 Month,Basic
+1959,14,10/21/2022,7/7/2023,Canada,35,Female,Smartphone,1 Month,Standard
+2029,10,10/21/2022,7/7/2023,Spain,28,Male,Smart TV,1 Month,Standard
+1602,15,9/22/2022,7/7/2023,Canada,46,Female,Smart TV,1 Month,Basic
+1681,15,10/22/2022,7/7/2023,France,27,Male,Smart TV,1 Month,Premium
+1672,15,9/23/2022,7/7/2023,Spain,30,Male,Tablet,1 Month,Basic
+1881,15,9/23/2022,7/7/2023,Spain,28,Male,Tablet,1 Month,Premium
+1751,14,10/23/2022,7/7/2023,United States,43,Female,Tablet,1 Month,Premium
+1658,11,7/24/2022,7/7/2023,United States,32,Female,Laptop,1 Month,Basic
+1780,13,7/24/2022,7/7/2023,United States,43,Male,Smart TV,1 Month,Basic
+1838,11,9/24/2022,7/7/2023,United States,36,Female,Smartphone,1 Month,Standard
+1510,11,6/25/2022,7/7/2023,United States,33,Male,Smart TV,1 Month,Premium
+1588,15,7/25/2022,7/7/2023,United Kingdom,43,Male,Tablet,1 Month,Standard
+1708,13,7/25/2022,7/7/2023,United Kingdom,35,Male,Smartphone,1 Month,Standard
+1634,14,8/25/2022,7/7/2023,Australia,45,Male,Smart TV,1 Month,Premium
+1728,15,7/26/2022,7/7/2023,Mexico,35,Male,Smartphone,1 Month,Standard
+1532,13,9/26/2022,7/7/2023,Brazil,44,Female,Tablet,1 Month,Basic
+1374,14,6/27/2022,7/7/2023,Canada,33,Male,Smart TV,1 Month,Standard
+1614,13,10/27/2022,7/7/2023,Canada,46,Female,Tablet,1 Month,Premium
+1684,13,10/27/2022,7/7/2023,Spain,28,Male,Smartphone,1 Month,Standard
+1694,11,10/27/2022,7/7/2023,Australia,49,Male,Laptop,1 Month,Standard
+1764,13,10/27/2022,7/7/2023,Canada,37,Female,Tablet,1 Month,Premium
+1893,10,10/27/2022,7/7/2023,Mexico,28,Male,Smartphone,1 Month,Standard
+1963,15,10/27/2022,7/7/2023,United Kingdom,31,Male,Smart TV,1 Month,Standard
+1666,11,8/28/2022,7/7/2023,France,28,Male,Laptop,1 Month,Premium
+1444,13,6/29/2022,7/7/2023,Spain,49,Female,Tablet,1 Month,Premium
+1718,15,6/29/2022,7/7/2023,United States,30,Male,Tablet,1 Month,Standard
+1706,15,7/29/2022,7/7/2023,United States,47,Male,Laptop,1 Month,Premium
+1849,11,7/29/2022,7/7/2023,Spain,33,Female,Smartphone,1 Month,Premium
+1945,14,8/29/2022,7/7/2023,United States,39,Female,Smart TV,1 Month,Basic
+1673,10,9/29/2022,7/7/2023,United States,37,Male,Tablet,1 Month,Standard
+1742,13,9/29/2022,7/7/2023,Brazil,27,Male,Laptop,1 Month,Basic
+1754,10,10/29/2022,7/7/2023,Australia,42,Male,Smart TV,1 Month,Premium
+1789,14,6/30/2022,7/7/2023,Spain,47,Female,Tablet,1 Month,Standard
+1729,11,7/30/2022,7/7/2023,Spain,41,Male,Laptop,1 Month,Standard
+1406,10,10/30/2022,7/7/2023,United States,33,Female,Smart TV,1 Month,Premium
+1476,10,10/31/2022,7/7/2023,Spain,45,Female,Tablet,1 Month,Premium
+1624,13,10/31/2022,7/7/2023,Spain,35,Male,Smartphone,1 Month,Premium
+1685,15,10/31/2022,7/7/2023,Italy,46,Male,Laptop,1 Month,Basic
+1755,15,10/31/2022,7/7/2023,Germany,50,Male,Laptop,1 Month,Basic
+2033,13,10/31/2022,7/7/2023,United States,48,Male,Smartphone,1 Month,Basic
+2173,13,10/31/2022,7/7/2023,United Kingdom,46,Female,Smartphone,1 Month,Standard
+1722,13,1/7/2022,8/7/2023,Canada,31,Male,Tablet,1 Month,Basic
+1868,14,1/8/2022,8/7/2023,United States,38,Male,Tablet,1 Month,Standard
+1616,10,1/11/2022,8/7/2023,United States,48,Male,Laptop,1 Month,Premium
+1686,11,1/11/2022,8/7/2023,Spain,40,Male,Laptop,1 Month,Premium
+1825,13,1/11/2022,8/7/2023,United States,45,Male,Smart TV,1 Month,Basic
+1964,15,1/11/2022,8/7/2023,Australia,29,Male,Smart TV,1 Month,Basic
+1756,13,2/11/2022,8/7/2023,France,41,Male,Tablet,1 Month,Premium
+2045,15,2/11/2022,8/7/2023,Italy,50,Female,Laptop,1 Month,Basic
+1826,12,3/11/2022,8/7/2023,United States,30,Male,Tablet,1 Month,Premium
+1903,12,3/11/2022,8/7/2023,United Kingdom,27,Female,Smart TV,1 Month,Standard
+1904,15,3/11/2022,8/7/2023,Australia,36,Female,Smartphone,1 Month,Premium
+2185,14,3/11/2022,8/7/2023,United States,33,Male,Smart TV,1 Month,Premium
+1724,12,4/7/2022,8/7/2023,Australia,28,Male,Laptop,1 Month,Premium
+1920,11,4/8/2022,8/7/2023,Germany,38,Male,Laptop,1 Month,Basic
+1883,14,4/10/2022,8/7/2023,United States,50,Female,Tablet,1 Month,Basic
+2115,10,4/11/2022,8/7/2023,Germany,31,Female,Laptop,1 Month,Standard
+1590,13,5/8/2022,8/7/2023,Germany,49,Female,Smart TV,1 Month,Standard
+1974,11,5/11/2022,8/7/2023,Canada,42,Male,Smartphone,1 Month,Standard
+1576,12,6/7/2022,8/7/2023,France,29,Female,Smartphone,1 Month,Basic
+1794,12,6/7/2022,8/7/2023,Canada,36,Female,Tablet,1 Month,Premium
+1776,15,6/8/2022,8/7/2023,Spain,27,Female,Smart TV,1 Month,Premium
+1829,13,6/11/2022,8/7/2023,Australia,36,Female,Tablet,1 Month,Premium
+1833,12,6/11/2022,8/7/2023,Mexico,36,Female,Smartphone,1 Month,Standard
+1900,14,6/11/2022,8/7/2023,United States,45,Female,Smartphone,1 Month,Basic
+1864,15,7/7/2022,8/7/2023,Spain,32,Male,Smartphone,1 Month,Standard
+1927,13,7/7/2022,8/7/2023,Spain,43,Female,Smart TV,1 Month,Basic
+1660,12,7/8/2022,8/7/2023,United States,44,Male,Tablet,1 Month,Premium
+1987,12,7/8/2022,8/7/2023,Spain,31,Male,Smart TV,1 Month,Basic
+1766,12,7/10/2022,8/7/2023,United States,34,Female,Smart TV,1 Month,Premium
+1830,12,7/11/2022,8/7/2023,Germany,27,Female,Smartphone,1 Month,Basic
+1999,13,8/7/2022,8/7/2023,Spain,46,Male,Smart TV,1 Month,Premium
+1730,10,8/8/2022,8/7/2023,Italy,28,Female,Smartphone,1 Month,Basic
+1668,13,8/9/2022,8/7/2023,Mexico,33,Female,Tablet,1 Month,Standard
+1774,15,8/9/2022,8/7/2023,Spain,36,Female,Tablet,1 Month,Premium
+2049,14,8/10/2022,8/7/2023,Canada,34,Male,Tablet,1 Month,Standard
+1970,14,8/11/2022,8/7/2023,Italy,27,Male,Laptop,1 Month,Basic
+2040,15,8/11/2022,8/7/2023,Germany,51,Male,Laptop,1 Month,Standard
+1934,12,9/7/2022,8/7/2023,Australia,36,Female,Laptop,1 Month,Premium
+2001,10,9/7/2022,8/7/2023,Spain,41,Female,Smart TV,1 Month,Premium
+2071,11,9/7/2022,8/7/2023,France,35,Male,Smartphone,1 Month,Premium
+1771,11,9/9/2022,8/7/2023,France,48,Female,Laptop,1 Month,Premium
+1772,12,9/9/2022,8/7/2023,Brazil,29,Male,Smart TV,1 Month,Basic
+1997,14,10/7/2022,8/7/2023,Brazil,47,Male,Smart TV,1 Month,Basic
+2003,11,10/7/2022,8/7/2023,United States,41,Male,Tablet,1 Month,Standard
+2057,10,10/8/2022,8/7/2023,Brazil,32,Male,Smartphone,1 Month,Basic
+1770,13,10/9/2022,8/7/2023,Germany,50,Female,Tablet,1 Month,Basic
+2069,12,11/7/2022,8/7/2023,Australia,35,Male,Smart TV,1 Month,Standard
+1869,13,11/8/2022,8/7/2023,Canada,48,Male,Smart TV,1 Month,Premium
+1844,14,11/9/2022,8/7/2023,Australia,47,Female,Smart TV,1 Month,Standard
+1677,14,11/10/2022,8/7/2023,Canada,30,Male,Tablet,1 Month,Basic
+1886,12,11/10/2022,8/7/2023,United States,38,Male,Smart TV,1 Month,Basic
+1955,13,11/10/2022,8/7/2023,Italy,34,Male,Smartphone,1 Month,Basic
+1995,11,12/7/2022,8/7/2023,Germany,39,Male,Tablet,1 Month,Basic
+2004,12,12/7/2022,8/7/2023,Canada,48,Female,Laptop,1 Month,Standard
+2073,11,12/7/2022,8/7/2023,Mexico,50,Female,Tablet,1 Month,Standard
+2139,14,12/7/2022,8/7/2023,Canada,34,Female,Smartphone,1 Month,Premium
+1846,13,12/8/2022,8/7/2023,France,45,Male,Smartphone,1 Month,Premium
+1917,14,12/8/2022,8/7/2023,Canada,32,Female,Tablet,1 Month,Basic
+1841,11,12/9/2022,8/7/2023,United States,35,Female,Tablet,1 Month,Premium
+1947,12,12/9/2022,8/7/2023,Canada,39,Male,Smartphone,1 Month,Basic
+1608,11,12/10/2022,8/7/2023,Mexico,32,Female,Smart TV,1 Month,Standard
+1747,12,12/10/2022,8/7/2023,Spain,30,Female,Laptop,1 Month,Basic
+1956,12,12/10/2022,8/7/2023,Spain,30,Female,Tablet,1 Month,Premium
+2025,13,12/10/2022,8/7/2023,Germany,46,Male,Laptop,1 Month,Basic
+1916,13,8/13/2022,8/7/2023,United States,40,Male,Tablet,1 Month,Premium
+1700,12,9/13/2022,8/7/2023,Italy,28,Female,Smart TV,1 Month,Basic
+1738,12,9/13/2022,8/7/2023,United Kingdom,33,Female,Smartphone,1 Month,Standard
+1915,10,9/13/2022,8/7/2023,United States,42,Male,Smartphone,1 Month,Basic
+1817,12,10/13/2022,8/7/2023,Brazil,43,Female,Smartphone,1 Month,Basic
+2095,10,10/13/2022,8/7/2023,United States,38,Male,Smart TV,1 Month,Basic
+1925,10,7/14/2022,8/7/2023,Italy,37,Female,Smart TV,1 Month,Basic
+2143,12,7/14/2022,8/7/2023,United Kingdom,46,Female,Smartphone,1 Month,Standard
+2151,13,8/14/2022,8/7/2023,Spain,34,Female,Smart TV,1 Month,Premium
+1878,12,9/14/2022,8/7/2023,Mexico,39,Female,Tablet,1 Month,Standard
+1913,11,9/14/2022,8/7/2023,United States,46,Male,Tablet,1 Month,Standard
+1914,11,9/14/2022,8/7/2023,Canada,46,Female,Tablet,1 Month,Premium
+1983,11,9/14/2022,8/7/2023,Mexico,37,Male,Tablet,1 Month,Standard
+2017,10,9/14/2022,8/7/2023,Spain,38,Male,Laptop,1 Month,Basic
+2165,12,10/14/2022,8/7/2023,Italy,38,Male,Laptop,1 Month,Basic
+1808,12,9/15/2022,8/7/2023,United States,43,Male,Laptop,1 Month,Basic
+1840,14,9/15/2022,8/7/2023,United States,40,Male,Laptop,1 Month,Basic
+1853,13,7/16/2022,8/7/2023,United States,43,Male,Laptop,1 Month,Standard
+1854,14,7/16/2022,8/7/2023,Canada,46,Female,Laptop,1 Month,Standard
+1872,13,8/16/2022,8/7/2023,Canada,49,Female,Smartphone,1 Month,Basic
+1909,12,9/16/2022,8/7/2023,Spain,29,Male,Smart TV,1 Month,Standard
+1981,13,9/16/2022,8/7/2023,France,37,Female,Smartphone,1 Month,Premium
+1923,12,7/17/2022,8/7/2023,Mexico,48,Male,Smartphone,1 Month,Standard
+1942,14,8/17/2022,8/7/2023,Spain,33,Female,Smart TV,1 Month,Basic
+1910,15,9/17/2022,8/7/2023,Italy,35,Male,Smartphone,1 Month,Basic
+1911,12,9/17/2022,8/7/2023,Spain,36,Female,Smart TV,1 Month,Premium
+1938,10,7/18/2022,8/7/2023,Mexico,45,Female,Smartphone,1 Month,Standard
+1873,14,8/18/2022,8/7/2023,United Kingdom,50,Male,Smartphone,1 Month,Standard
+2081,15,8/18/2022,8/7/2023,United States,30,Male,Smart TV,1 Month,Premium
+1993,15,7/19/2022,8/7/2023,United Kingdom,29,Female,Tablet,1 Month,Standard
+2077,11,7/19/2022,8/7/2023,Spain,39,Female,Laptop,1 Month,Basic
+1734,14,8/19/2022,8/7/2023,Canada,35,Male,Tablet,1 Month,Standard
+1664,10,8/20/2022,8/7/2023,Australia,38,Female,Laptop,1 Month,Basic
+2099,11,10/20/2022,8/7/2023,Australia,29,Male,Laptop,1 Month,Premium
+1890,15,10/21/2022,8/7/2023,Germany,33,Female,Laptop,1 Month,Standard
+1821,12,10/22/2022,8/7/2023,Spain,30,Male,Smartphone,1 Month,Premium
+2169,12,10/22/2022,8/7/2023,Canada,47,Male,Tablet,1 Month,Premium
+2239,12,10/22/2022,8/7/2023,Spain,40,Male,Smart TV,1 Month,Standard
+1951,15,9/23/2022,8/7/2023,France,40,Male,Tablet,1 Month,Basic
+1960,13,10/23/2022,8/7/2023,United States,41,Female,Laptop,1 Month,Premium
+1921,14,7/24/2022,8/7/2023,France,34,Female,Laptop,1 Month,Premium
+1851,11,7/25/2022,8/7/2023,Spain,48,Female,Laptop,1 Month,Premium
+1943,14,8/25/2022,8/7/2023,United States,49,Male,Smart TV,1 Month,Standard
+2021,12,9/25/2022,8/7/2023,United States,50,Female,Laptop,1 Month,Basic
+1580,15,6/26/2022,8/7/2023,Italy,51,Female,Smart TV,1 Month,Basic
+1798,10,7/26/2022,8/7/2023,United Kingdom,51,Male,Smartphone,1 Month,Standard
+1812,11,9/26/2022,8/7/2023,Canada,50,Male,Smartphone,1 Month,Premium
+2013,10,8/27/2022,8/7/2023,Mexico,40,Female,Smart TV,1 Month,Standard
+1882,11,9/27/2022,8/7/2023,Spain,46,Male,Smartphone,1 Month,Standard
+1952,14,9/27/2022,8/7/2023,Brazil,31,Male,Smartphone,1 Month,Premium
+1582,14,6/28/2022,8/7/2023,Spain,50,Male,Smart TV,1 Month,Standard
+1650,14,6/28/2022,8/7/2023,Germany,32,Male,Tablet,1 Month,Basic
+1720,12,6/28/2022,8/7/2023,United States,44,Female,Tablet,1 Month,Basic
+1850,12,7/28/2022,8/7/2023,Italy,30,Male,Smartphone,1 Month,Basic
+1979,15,9/28/2022,8/7/2023,Australia,51,Female,Smartphone,1 Month,Premium
+1652,11,6/29/2022,8/7/2023,Brazil,38,Male,Tablet,1 Month,Premium
+1546,13,10/29/2022,8/7/2023,France,43,Male,Smart TV,1 Month,Premium
+1991,12,7/30/2022,8/7/2023,United States,35,Male,Laptop,1 Month,Premium
+1743,11,9/30/2022,8/7/2023,Mexico,48,Male,Tablet,1 Month,Standard
+1813,12,9/30/2022,8/7/2023,United Kingdom,31,Female,Smartphone,1 Month,Standard
+1824,12,10/30/2022,8/7/2023,Canada,46,Female,Laptop,1 Month,Standard
+1894,11,10/30/2022,8/7/2023,Spain,33,Male,Tablet,1 Month,Premium
+2061,10,1/8/2022,9/7/2023,Spain,48,Male,Smart TV,1 Month,Premium
+2155,12,1/9/2022,9/7/2023,United States,44,Male,Smartphone,1 Month,Basic
+1895,15,1/11/2022,9/7/2023,Italy,45,Male,Laptop,1 Month,Basic
+1792,15,2/7/2022,9/7/2023,Spain,45,Female,Tablet,1 Month,Basic
+2085,15,2/9/2022,9/7/2023,Germany,33,Male,Laptop,1 Month,Basic
+2231,10,2/10/2022,9/7/2023,United States,47,Female,Smartphone,1 Month,Premium
+1896,14,2/11/2022,9/7/2023,Spain,43,Male,Laptop,1 Month,Premium
+1965,12,2/11/2022,9/7/2023,Germany,44,Female,Tablet,1 Month,Standard
+2034,12,2/11/2022,9/7/2023,Canada,30,Male,Laptop,1 Month,Standard
+1858,10,3/7/2022,9/7/2023,United Kingdom,34,Male,Smart TV,1 Month,Standard
+1860,10,3/7/2022,9/7/2023,Germany,42,Male,Laptop,1 Month,Basic
+1978,11,3/10/2022,9/7/2023,United Kingdom,30,Male,Smart TV,1 Month,Standard
+2301,13,3/10/2022,9/7/2023,Spain,40,Male,Laptop,1 Month,Premium
+1876,11,4/9/2022,9/7/2023,France,29,Male,Tablet,1 Month,Basic
+2050,13,4/10/2022,9/7/2023,United States,35,Female,Smartphone,1 Month,Basic
+2189,15,4/10/2022,9/7/2023,Australia,35,Male,Laptop,1 Month,Basic
+1966,10,4/11/2022,9/7/2023,France,44,Female,Tablet,1 Month,Premium
+2243,10,4/11/2022,9/7/2023,United States,47,Female,Laptop,1 Month,Standard
+2313,11,4/11/2022,9/7/2023,Mexico,36,Female,Tablet,1 Month,Standard
+2129,14,5/8/2022,9/7/2023,Australia,29,Female,Laptop,1 Month,Premium
+2055,14,5/9/2022,9/7/2023,Germany,29,Female,Laptop,1 Month,Basic
+2125,14,5/9/2022,9/7/2023,United States,41,Female,Smartphone,1 Month,Basic
+2091,13,5/10/2022,9/7/2023,Spain,42,Female,Smartphone,1 Month,Premium
+1832,11,5/11/2022,9/7/2023,Brazil,48,Female,Smartphone,1 Month,Basic
+2036,12,5/11/2022,9/7/2023,United States,48,Female,Smartphone,1 Month,Basic
+2043,12,5/11/2022,9/7/2023,Mexico,45,Female,Smart TV,1 Month,Standard
+1788,10,6/7/2022,9/7/2023,Mexico,48,Female,Smart TV,1 Month,Standard
+1989,12,6/8/2022,9/7/2023,Canada,47,Female,Tablet,1 Month,Premium
+2059,14,6/8/2022,9/7/2023,Spain,31,Male,Laptop,1 Month,Standard
+1985,11,6/9/2022,9/7/2023,Italy,40,Male,Tablet,1 Month,Basic
+2022,10,6/10/2022,9/7/2023,Canada,48,Female,Laptop,1 Month,Basic
+1968,12,6/11/2022,9/7/2023,Mexico,32,Female,Tablet,1 Month,Standard
+2106,10,6/11/2022,9/7/2023,Spain,28,Female,Smartphone,1 Month,Premium
+1646,15,7/7/2022,9/7/2023,United States,46,Female,Tablet,1 Month,Basic
+1930,13,7/7/2022,9/7/2023,United States,36,Male,Smart TV,1 Month,Basic
+1919,11,7/8/2022,9/7/2023,Australia,27,Female,Smart TV,1 Month,Standard
+2092,10,7/10/2022,9/7/2023,Spain,44,Female,Laptop,1 Month,Basic
+1899,14,7/11/2022,9/7/2023,Canada,39,Female,Smartphone,1 Month,Standard
+1969,11,7/11/2022,9/7/2023,Spain,31,Male,Smartphone,1 Month,Premium
+2039,11,8/11/2022,9/7/2023,Australia,43,Male,Laptop,1 Month,Basic
+2177,15,8/11/2022,9/7/2023,Brazil,42,Female,Tablet,1 Month,Premium
+2000,12,9/7/2022,9/7/2023,Italy,31,Male,Smart TV,1 Month,Basic
+1953,12,9/10/2022,9/7/2023,Mexico,47,Male,Smartphone,1 Month,Standard
+1973,15,9/11/2022,9/7/2023,United States,37,Female,Tablet,1 Month,Standard
+2111,14,9/11/2022,9/7/2023,United States,47,Male,Laptop,1 Month,Basic
+1716,11,10/7/2022,9/7/2023,Spain,32,Male,Smart TV,1 Month,Premium
+2181,13,10/11/2022,9/7/2023,Spain,27,Male,Laptop,1 Month,Premium
+2251,13,10/11/2022,9/7/2023,France,51,Female,Laptop,1 Month,Basic
+2070,10,11/7/2022,9/7/2023,Germany,35,Female,Smartphone,1 Month,Basic
+2087,13,11/9/2022,9/7/2023,Brazil,50,Male,Tablet,1 Month,Basic
+2321,12,11/11/2022,9/7/2023,United States,38,Male,Smart TV,1 Month,Basic
+2067,10,12/7/2022,9/7/2023,Canada,44,Female,Laptop,1 Month,Basic
+1800,14,12/8/2022,9/7/2023,Germany,42,Male,Tablet,1 Month,Basic
+2127,15,12/8/2022,9/7/2023,Canada,46,Male,Smartphone,1 Month,Basic
+1842,14,12/9/2022,9/7/2023,Canada,34,Female,Smartphone,1 Month,Basic
+1977,12,12/10/2022,9/7/2023,Canada,31,Male,Smartphone,1 Month,Basic
+1856,15,7/13/2022,9/7/2023,United States,31,Female,Smartphone,1 Month,Premium
+2005,10,7/13/2022,9/7/2023,United States,35,Female,Laptop,1 Month,Basic
+2074,14,7/13/2022,9/7/2023,Spain,44,Male,Smartphone,1 Month,Premium
+2141,14,7/13/2022,9/7/2023,United States,47,Female,Tablet,1 Month,Premium
+2209,10,7/13/2022,9/7/2023,Spain,48,Female,Tablet,1 Month,Standard
+2211,13,7/13/2022,9/7/2023,Spain,27,Male,Laptop,1 Month,Premium
+1870,14,8/13/2022,9/7/2023,United States,29,Male,Tablet,1 Month,Basic
+1939,11,8/13/2022,9/7/2023,Spain,43,Female,Tablet,1 Month,Standard
+2126,12,8/13/2022,9/7/2023,United States,35,Female,Smartphone,1 Month,Premium
+2199,14,8/13/2022,9/7/2023,Canada,49,Male,Tablet,1 Month,Standard
+2054,10,9/13/2022,9/7/2023,Australia,31,Male,Tablet,1 Month,Premium
+1887,13,10/13/2022,9/7/2023,Canada,49,Male,Smart TV,1 Month,Premium
+1957,15,10/13/2022,9/7/2023,Spain,33,Female,Smartphone,1 Month,Standard
+2026,15,10/13/2022,9/7/2023,France,39,Male,Smart TV,1 Month,Basic
+1786,15,7/14/2022,9/7/2023,France,43,Female,Laptop,1 Month,Premium
+1678,15,10/14/2022,9/7/2023,United Kingdom,48,Female,Smart TV,1 Month,Standard
+2119,14,10/14/2022,9/7/2023,Spain,48,Male,Laptop,1 Month,Premium
+1642,12,7/15/2022,9/7/2023,Spain,43,Male,Tablet,1 Month,Basic
+1796,10,7/15/2022,9/7/2023,United States,50,Male,Tablet,1 Month,Basic
+2075,14,7/15/2022,9/7/2023,Italy,47,Female,Tablet,1 Month,Basic
+2213,15,7/15/2022,9/7/2023,United States,44,Female,Tablet,1 Month,Standard
+1912,11,9/15/2022,9/7/2023,Spain,41,Male,Laptop,1 Month,Basic
+1982,14,9/15/2022,9/7/2023,Brazil,44,Female,Smartphone,1 Month,Basic
+1984,11,9/15/2022,9/7/2023,Spain,44,Male,Smartphone,1 Month,Standard
+1837,13,10/15/2022,9/7/2023,Spain,28,Female,Smartphone,1 Month,Basic
+2096,15,10/15/2022,9/7/2023,United States,42,Female,Tablet,1 Month,Basic
+2235,15,10/15/2022,9/7/2023,Germany,38,Male,Laptop,1 Month,Basic
+2137,10,7/16/2022,9/7/2023,Spain,34,Female,Tablet,1 Month,Basic
+2145,14,7/16/2022,9/7/2023,Germany,40,Female,Smart TV,1 Month,Basic
+2196,15,8/16/2022,9/7/2023,Spain,39,Male,Smartphone,1 Month,Premium
+2221,14,8/16/2022,9/7/2023,France,47,Female,Smart TV,1 Month,Premium
+2266,15,8/16/2022,9/7/2023,France,43,Male,Tablet,1 Month,Premium
+1948,11,9/16/2022,9/7/2023,United Kingdom,39,Female,Laptop,1 Month,Standard
+2018,10,9/16/2022,9/7/2023,United States,41,Female,Laptop,1 Month,Standard
+2088,10,9/16/2022,9/7/2023,Mexico,42,Female,Tablet,1 Month,Standard
+2305,15,10/16/2022,9/7/2023,United States,45,Male,Smartphone,1 Month,Basic
+1712,11,7/17/2022,9/7/2023,Brazil,35,Male,Smartphone,1 Month,Basic
+1924,13,7/17/2022,9/7/2023,Spain,42,Female,Laptop,1 Month,Premium
+1949,15,9/17/2022,9/7/2023,Australia,39,Female,Smart TV,1 Month,Premium
+1980,15,9/17/2022,9/7/2023,Germany,42,Female,Laptop,1 Month,Basic
+2193,12,9/17/2022,9/7/2023,Mexico,32,Male,Laptop,1 Month,Standard
+2215,13,7/18/2022,9/7/2023,United States,42,Female,Smartphone,1 Month,Basic
+2135,15,7/19/2022,9/7/2023,Italy,31,Female,Smartphone,1 Month,Basic
+1810,14,9/19/2022,9/7/2023,United States,27,Male,Laptop,1 Month,Premium
+1908,15,9/19/2022,9/7/2023,Mexico,41,Male,Smartphone,1 Month,Standard
+2053,14,9/19/2022,9/7/2023,United Kingdom,37,Female,Laptop,1 Month,Standard
+2263,14,9/19/2022,9/7/2023,United Kingdom,50,Male,Tablet,1 Month,Standard
+1976,13,10/19/2022,9/7/2023,United States,37,Female,Tablet,1 Month,Premium
+1726,14,7/20/2022,9/7/2023,France,48,Female,Laptop,1 Month,Basic
+2065,12,7/20/2022,9/7/2023,United States,45,Female,Tablet,1 Month,Basic
+2056,10,8/20/2022,9/7/2023,France,36,Male,Tablet,1 Month,Premium
+1804,12,8/21/2022,9/7/2023,Spain,40,Female,Laptop,1 Month,Standard
+2063,15,7/22/2022,9/7/2023,United States,35,Female,Smartphone,1 Month,Standard
+2133,11,7/22/2022,9/7/2023,Mexico,38,Male,Laptop,1 Month,Standard
+2052,11,9/22/2022,9/7/2023,Canada,39,Female,Smart TV,1 Month,Basic
+1612,11,10/22/2022,9/7/2023,Spain,30,Female,Smartphone,1 Month,Basic
+1836,12,10/22/2022,9/7/2023,Spain,29,Female,Smart TV,1 Month,Premium
+2147,12,7/23/2022,9/7/2023,Brazil,30,Female,Smartphone,1 Month,Basic
+2205,12,7/23/2022,9/7/2023,Germany,27,Male,Smart TV,1 Month,Basic
+2275,11,7/23/2022,9/7/2023,United States,50,Male,Smart TV,1 Month,Basic
+2123,12,9/23/2022,9/7/2023,United States,37,Female,Tablet,1 Month,Standard
+1682,10,10/23/2022,9/7/2023,Brazil,48,Female,Laptop,1 Month,Basic
+1891,11,10/23/2022,9/7/2023,France,33,Female,Tablet,1 Month,Premium
+2030,14,10/23/2022,9/7/2023,Italy,43,Male,Tablet,1 Month,Basic
+2309,12,10/23/2022,9/7/2023,Australia,40,Female,Smartphone,1 Month,Premium
+2217,11,7/24/2022,9/7/2023,Canada,39,Female,Tablet,1 Month,Basic
+1822,15,10/24/2022,9/7/2023,Spain,29,Female,Tablet,1 Month,Basic
+2048,11,10/24/2022,9/7/2023,United States,41,Male,Tablet,1 Month,Standard
+1874,14,8/25/2022,9/7/2023,Australia,50,Male,Smartphone,1 Month,Premium
+2121,14,9/25/2022,9/7/2023,Spain,39,Male,Laptop,1 Month,Premium
+1752,10,10/25/2022,9/7/2023,Canada,36,Male,Laptop,1 Month,Basic
+1892,15,10/25/2022,9/7/2023,Brazil,46,Male,Smartphone,1 Month,Basic
+2379,11,10/25/2022,9/7/2023,Canada,47,Male,Smartphone,1 Month,Standard
+2008,10,7/26/2022,9/7/2023,United Kingdom,45,Male,Laptop,1 Month,Standard
+1962,12,10/26/2022,9/7/2023,Canada,28,Female,Tablet,1 Month,Premium
+2287,12,7/27/2022,9/7/2023,Spain,47,Female,Tablet,1 Month,Basic
+2083,12,8/27/2022,9/7/2023,United Kingdom,42,Male,Tablet,1 Month,Standard
+2153,13,8/27/2022,9/7/2023,United States,45,Male,Tablet,1 Month,Standard
+2161,10,9/27/2022,9/7/2023,France,48,Female,Smartphone,1 Month,Premium
+2032,10,10/27/2022,9/7/2023,Spain,45,Male,Smart TV,1 Month,Standard
+2102,14,10/27/2022,9/7/2023,Brazil,48,Female,Smartphone,1 Month,Premium
+2117,13,10/27/2022,9/7/2023,Brazil,27,Male,Laptop,1 Month,Basic
+2449,10,10/27/2022,9/7/2023,Spain,51,Female,Smart TV,1 Month,Premium
+2079,10,7/28/2022,9/7/2023,Canada,31,Female,Smart TV,1 Month,Standard
+2131,11,7/28/2022,9/7/2023,France,35,Male,Laptop,1 Month,Premium
+1944,15,8/28/2022,9/7/2023,Canada,27,Male,Tablet,1 Month,Premium
+1986,15,8/28/2022,9/7/2023,Spain,27,Male,Smart TV,1 Month,Premium
+1907,10,9/28/2022,9/7/2023,Brazil,45,Female,Smartphone,1 Month,Basic
+2051,10,9/28/2022,9/7/2023,United States,48,Male,Smartphone,1 Month,Premium
+1906,11,10/28/2022,9/7/2023,France,28,Male,Tablet,1 Month,Premium
+1778,11,7/29/2022,9/7/2023,United States,42,Female,Tablet,1 Month,Standard
+1790,12,6/30/2022,9/7/2023,Italy,31,Male,Smart TV,1 Month,Basic
+1990,15,7/30/2022,9/7/2023,United States,30,Male,Smart TV,1 Month,Basic
+2149,14,7/30/2022,9/7/2023,Spain,42,Male,Smart TV,1 Month,Premium
+2046,12,10/30/2022,9/7/2023,Spain,41,Male,Smartphone,1 Month,Premium
+2047,11,10/30/2022,9/7/2023,Spain,42,Female,Laptop,1 Month,Basic
+2009,10,7/31/2022,9/7/2023,Australia,41,Male,Laptop,1 Month,Premium
+2255,15,10/31/2022,9/7/2023,Italy,41,Female,Laptop,1 Month,Basic
+1,10,1/15/2022,10/6/2023,United States,28,Male,Smartphone,1 Month,Basic
+1848,11,1/8/2022,10/7/2023,Mexico,49,Male,Laptop,1 Month,Standard
+2269,15,1/8/2022,10/7/2023,Spain,33,Female,Smartphone,1 Month,Premium
+2084,13,1/9/2022,10/7/2023,Australia,27,Female,Smartphone,1 Month,Premium
+2116,12,1/11/2022,10/7/2023,France,33,Female,Tablet,1 Month,Premium
+2010,13,3/8/2022,10/7/2023,Germany,28,Male,Laptop,1 Month,Basic
+2060,12,3/8/2022,10/7/2023,Italy,29,Male,Smart TV,1 Month,Basic
+2162,10,3/10/2022,10/7/2023,Brazil,43,Female,Tablet,1 Month,Basic
+2371,15,3/10/2022,10/7/2023,France,29,Female,Smartphone,1 Month,Premium
+2114,12,3/11/2022,10/7/2023,Australia,46,Female,Tablet,1 Month,Basic
+1862,13,4/7/2022,10/7/2023,Brazil,31,Female,Tablet,1 Month,Basic
+1744,15,4/10/2022,10/7/2023,Spain,30,Female,Smart TV,1 Month,Premium
+2232,13,4/10/2022,10/7/2023,Canada,40,Female,Laptop,1 Month,Basic
+2035,11,4/11/2022,10/7/2023,United States,51,Female,Smart TV,1 Month,Premium
+2105,11,4/11/2022,10/7/2023,Italy,36,Female,Smartphone,1 Month,Basic
+2302,11,5/10/2022,10/7/2023,Spain,30,Female,Smartphone,1 Month,Basic
+2044,12,5/11/2022,10/7/2023,Spain,31,Male,Smart TV,1 Month,Premium
+2383,10,5/11/2022,10/7/2023,United Kingdom,35,Female,Tablet,1 Month,Standard
+1926,11,6/7/2022,10/7/2023,Spain,28,Female,Tablet,1 Month,Premium
+2219,10,6/8/2022,10/7/2023,Australia,41,Female,Laptop,1 Month,Standard
+2175,11,6/11/2022,10/7/2023,Germany,30,Male,Laptop,1 Month,Basic
+1918,11,7/8/2022,10/7/2023,United Kingdom,34,Female,Smartphone,1 Month,Standard
+1988,15,7/8/2022,10/7/2023,United States,39,Female,Smartphone,1 Month,Standard
+1814,10,7/10/2022,10/7/2023,Australia,33,Male,Smartphone,1 Month,Basic
+2372,15,7/10/2022,10/7/2023,Brazil,38,Female,Tablet,1 Month,Basic
+2441,10,7/10/2022,10/7/2023,United States,49,Female,Smartphone,1 Month,Premium
+1902,15,7/11/2022,10/7/2023,Canada,30,Male,Smart TV,1 Month,Basic
+2038,11,7/11/2022,10/7/2023,United Kingdom,37,Female,Smartphone,1 Month,Standard
+2113,11,7/11/2022,10/7/2023,United Kingdom,44,Female,Tablet,1 Month,Standard
+2176,13,7/11/2022,10/7/2023,France,46,Male,Tablet,1 Month,Basic
+2245,15,7/11/2022,10/7/2023,United States,35,Female,Smart TV,1 Month,Basic
+2315,12,7/11/2022,10/7/2023,Italy,35,Female,Laptop,1 Month,Basic
+2335,15,8/9/2022,10/7/2023,United States,45,Male,Laptop,1 Month,Premium
+2108,15,8/11/2022,10/7/2023,United States,50,Female,Smartphone,1 Month,Basic
+2246,15,8/11/2022,10/7/2023,United States,37,Female,Smart TV,1 Month,Basic
+2023,11,9/10/2022,10/7/2023,United Kingdom,37,Male,Tablet,1 Month,Standard
+1972,14,9/11/2022,10/7/2023,Spain,48,Male,Tablet,1 Month,Basic
+2042,10,9/11/2022,10/7/2023,Brazil,35,Female,Smartphone,1 Month,Basic
+2109,12,9/11/2022,10/7/2023,Canada,44,Male,Tablet,1 Month,Standard
+2112,15,9/11/2022,10/7/2023,Canada,39,Female,Smart TV,1 Month,Premium
+2182,14,9/11/2022,10/7/2023,Spain,45,Female,Tablet,1 Month,Standard
+2183,10,9/11/2022,10/7/2023,United States,49,Female,Smart TV,1 Month,Basic
+2247,15,9/11/2022,10/7/2023,Canada,30,Male,Tablet,1 Month,Basic
+2289,10,10/8/2022,10/7/2023,Canada,31,Male,Tablet,1 Month,Premium
+2110,14,10/11/2022,10/7/2023,United States,44,Female,Smartphone,1 Month,Premium
+2179,10,10/11/2022,10/7/2023,Spain,40,Male,Smart TV,1 Month,Standard
+2180,14,10/11/2022,10/7/2023,Italy,31,Female,Smart TV,1 Month,Basic
+2317,14,10/11/2022,10/7/2023,Spain,49,Female,Smart TV,1 Month,Basic
+1996,10,11/7/2022,10/7/2023,France,34,Male,Smart TV,1 Month,Premium
+1946,10,11/9/2022,10/7/2023,United States,34,Female,Smart TV,1 Month,Basic
+2227,11,11/9/2022,10/7/2023,Spain,31,Male,Laptop,1 Month,Basic
+2249,12,11/11/2022,10/7/2023,Australia,35,Male,Smartphone,1 Month,Premium
+2387,15,11/11/2022,10/7/2023,Brazil,39,Female,Smartphone,1 Month,Basic
+2066,15,12/7/2022,10/7/2023,United States,48,Female,Laptop,1 Month,Premium
+2259,11,12/10/2022,10/7/2023,Canada,32,Female,Laptop,1 Month,Standard
+2391,11,12/11/2022,10/7/2023,Spain,35,Female,Tablet,1 Month,Premium
+2457,11,12/11/2022,10/7/2023,Canada,48,Male,Tablet,1 Month,Basic
+1866,12,7/13/2022,10/7/2023,Spain,42,Male,Laptop,1 Month,Premium
+2140,14,7/13/2022,10/7/2023,United States,51,Male,Tablet,1 Month,Basic
+2207,13,7/13/2022,10/7/2023,Brazil,39,Female,Laptop,1 Month,Basic
+2197,11,8/13/2022,10/7/2023,Spain,28,Male,Smartphone,1 Month,Basic
+2157,10,9/13/2022,10/7/2023,Canada,43,Male,Smart TV,1 Month,Basic
+2297,13,9/13/2022,10/7/2023,Brazil,30,Female,Laptop,1 Month,Basic
+2277,14,7/14/2022,10/7/2023,Canada,37,Male,Smart TV,1 Month,Basic
+2279,10,7/14/2022,10/7/2023,Australia,40,Male,Smart TV,1 Month,Premium
+2281,14,7/14/2022,10/7/2023,France,46,Female,Tablet,1 Month,Premium
+1940,10,8/14/2022,10/7/2023,Italy,35,Male,Tablet,1 Month,Basic
+2158,12,9/14/2022,10/7/2023,United Kingdom,46,Male,Smartphone,1 Month,Standard
+1748,15,10/14/2022,10/7/2023,United States,48,Male,Smartphone,1 Month,Standard
+1818,15,10/14/2022,10/7/2023,Mexico,45,Female,Smart TV,1 Month,Standard
+1936,13,7/15/2022,10/7/2023,France,36,Male,Laptop,1 Month,Premium
+2144,14,7/15/2022,10/7/2023,Australia,47,Female,Smartphone,1 Month,Standard
+2351,14,7/15/2022,10/7/2023,United States,40,Female,Smartphone,1 Month,Premium
+2267,11,8/15/2022,10/7/2023,Brazil,36,Female,Smartphone,1 Month,Basic
+1888,12,10/15/2022,10/7/2023,United Kingdom,50,Male,Laptop,1 Month,Standard
+2332,10,10/15/2022,10/7/2023,Spain,30,Female,Smart TV,1 Month,Standard
+2006,13,7/16/2022,10/7/2023,United States,41,Female,Laptop,1 Month,Premium
+2283,13,7/16/2022,10/7/2023,Mexico,34,Male,Smart TV,1 Month,Standard
+2347,13,7/16/2022,10/7/2023,Spain,49,Female,Smart TV,1 Month,Basic
+2195,14,8/16/2022,10/7/2023,Italy,40,Female,Smart TV,1 Month,Basic
+2228,15,9/16/2022,10/7/2023,United States,51,Male,Tablet,1 Month,Standard
+2166,13,10/16/2022,10/7/2023,Spain,50,Male,Smartphone,1 Month,Premium
+2236,11,10/16/2022,10/7/2023,France,47,Male,Smart TV,1 Month,Premium
+2331,13,10/16/2022,10/7/2023,Spain,32,Male,Smart TV,1 Month,Premium
+2445,14,10/16/2022,10/7/2023,Germany,31,Female,Smartphone,1 Month,Basic
+1994,11,7/17/2022,10/7/2023,Australia,28,Male,Laptop,1 Month,Standard
+2136,13,7/17/2022,10/7/2023,Spain,29,Female,Tablet,1 Month,Premium
+2367,12,9/17/2022,10/7/2023,Canada,51,Male,Tablet,1 Month,Basic
+2027,13,10/17/2022,10/7/2023,Brazil,42,Female,Smart TV,1 Month,Premium
+1922,13,7/18/2022,10/7/2023,Brazil,28,Male,Tablet,1 Month,Basic
+2353,15,7/18/2022,10/7/2023,United Kingdom,30,Female,Laptop,1 Month,Standard
+2012,15,8/18/2022,10/7/2023,Brazil,48,Male,Smart TV,1 Month,Basic
+1880,15,9/18/2022,10/7/2023,Italy,29,Male,Smart TV,1 Month,Basic
+2019,10,9/18/2022,10/7/2023,Canada,32,Female,Laptop,1 Month,Premium
+2298,12,9/18/2022,10/7/2023,Mexico,32,Male,Tablet,1 Month,Standard
+2098,15,10/18/2022,10/7/2023,United Kingdom,29,Female,Tablet,1 Month,Standard
+2188,15,10/18/2022,10/7/2023,United Kingdom,34,Female,Laptop,1 Month,Standard
+2375,13,10/18/2022,10/7/2023,Italy,42,Male,Laptop,1 Month,Basic
+1782,13,7/19/2022,10/7/2023,Canada,51,Male,Laptop,1 Month,Basic
+2285,13,7/19/2022,10/7/2023,Italy,47,Male,Smartphone,1 Month,Basic
+1958,12,10/19/2022,10/7/2023,United States,29,Male,Tablet,1 Month,Basic
+2028,11,10/19/2022,10/7/2023,Mexico,41,Female,Smartphone,1 Month,Standard
+1852,14,7/20/2022,10/7/2023,Spain,49,Female,Tablet,1 Month,Basic
+2337,10,8/20/2022,10/7/2023,Canada,41,Male,Smartphone,1 Month,Premium
+2168,14,10/20/2022,10/7/2023,United States,27,Male,Smart TV,1 Month,Standard
+2257,12,10/20/2022,10/7/2023,Spain,28,Female,Laptop,1 Month,Standard
+2345,11,7/21/2022,10/7/2023,Italy,39,Male,Smartphone,1 Month,Basic
+2425,12,7/21/2022,10/7/2023,United States,39,Male,Tablet,1 Month,Basic
+1950,10,9/21/2022,10/7/2023,Germany,40,Female,Laptop,1 Month,Basic
+2238,14,10/21/2022,10/7/2023,Mexico,49,Female,Smartphone,1 Month,Standard
+2355,13,7/22/2022,10/7/2023,Germany,49,Male,Laptop,1 Month,Basic
+2223,12,8/22/2022,10/7/2023,Mexico,29,Male,Laptop,1 Month,Standard
+2100,14,10/22/2022,10/7/2023,Germany,44,Female,Smart TV,1 Month,Basic
+2078,15,7/23/2022,10/7/2023,United States,34,Male,Laptop,1 Month,Standard
+2122,11,9/23/2022,10/7/2023,Spain,48,Female,Smart TV,1 Month,Basic
+2192,12,9/23/2022,10/7/2023,Brazil,50,Female,Smart TV,1 Month,Basic
+2262,10,9/23/2022,10/7/2023,Canada,40,Female,Smartphone,1 Month,Premium
+2118,10,10/23/2022,10/7/2023,Mexico,34,Male,Smart TV,1 Month,Standard
+2399,14,10/23/2022,10/7/2023,Australia,35,Male,Tablet,1 Month,Premium
+2224,10,8/24/2022,10/7/2023,Spain,33,Male,Tablet,1 Month,Premium
+2294,14,8/24/2022,10/7/2023,Australia,40,Female,Smartphone,1 Month,Standard
+1961,14,10/24/2022,10/7/2023,United States,34,Female,Smartphone,1 Month,Basic
+2201,12,7/25/2022,10/7/2023,United States,29,Male,Laptop,1 Month,Premium
+2261,10,9/25/2022,10/7/2023,United States,40,Female,Tablet,1 Month,Basic
+2031,14,10/25/2022,10/7/2023,Spain,45,Female,Smart TV,1 Month,Premium
+2170,12,10/25/2022,10/7/2023,United States,35,Female,Smart TV,1 Month,Basic
+2329,12,10/25/2022,10/7/2023,Spain,33,Male,Smart TV,1 Month,Standard
+2203,14,7/26/2022,10/7/2023,United Kingdom,44,Male,Smartphone,1 Month,Standard
+2271,14,7/26/2022,10/7/2023,Spain,37,Female,Laptop,1 Month,Premium
+2062,14,7/28/2022,10/7/2023,Spain,46,Male,Tablet,1 Month,Basic
+2120,14,9/28/2022,10/7/2023,Italy,39,Female,Smart TV,1 Month,Basic
+2187,15,10/28/2022,10/7/2023,Canada,44,Male,Tablet,1 Month,Premium
+2014,12,8/29/2022,10/7/2023,Spain,39,Male,Smart TV,1 Month,Standard
+2154,12,8/29/2022,10/7/2023,Canada,30,Male,Smart TV,1 Month,Standard
+2190,10,9/29/2022,10/7/2023,Germany,47,Male,Tablet,1 Month,Standard
+2191,12,9/29/2022,10/7/2023,France,30,Male,Smartphone,1 Month,Premium
+2172,14,10/29/2022,10/7/2023,Canada,39,Female,Smart TV,1 Month,Basic
+1992,14,7/30/2022,10/7/2023,Canada,39,Male,Smartphone,1 Month,Basic
+2265,10,8/30/2022,10/7/2023,Germany,43,Male,Tablet,1 Month,Standard
+2242,12,10/30/2022,10/7/2023,Spain,50,Female,Smart TV,1 Month,Basic
+2341,11,7/31/2022,10/7/2023,France,48,Male,Tablet,1 Month,Premium
+2260,10,1/10/2022,11/7/2023,United States,31,Male,Tablet,1 Month,Premium
+2326,12,1/11/2022,11/7/2023,France,39,Male,Tablet,1 Month,Basic
+2382,12,1/11/2022,11/7/2023,Canada,34,Female,Tablet,1 Month,Basic
+2411,15,2/8/2022,11/7/2023,United States,37,Female,Smartphone,1 Month,Basic
+2104,13,2/11/2022,11/7/2023,Spain,28,Female,Tablet,1 Month,Standard
+2395,13,2/11/2022,11/7/2023,United States,30,Female,Smart TV,1 Month,Basic
+2409,14,3/8/2022,11/7/2023,Canada,38,Female,Laptop,1 Month,Standard
+2312,12,3/11/2022,11/7/2023,Brazil,38,Male,Smartphone,1 Month,Basic
+2325,13,3/11/2022,11/7/2023,Germany,35,Male,Laptop,1 Month,Basic
+2465,15,3/11/2022,11/7/2023,Italy,30,Male,Tablet,1 Month,Basic
+2174,14,4/11/2022,11/7/2023,Australia,33,Female,Smartphone,1 Month,Premium
+2254,11,4/11/2022,11/7/2023,Spain,40,Male,Laptop,1 Month,Standard
+2324,13,4/11/2022,11/7/2023,Australia,30,Male,Smart TV,1 Month,Premium
+2475,12,5/9/2022,11/7/2023,Germany,37,Female,Tablet,1 Month,Basic
+2402,12,5/10/2022,11/7/2023,Brazil,47,Female,Smartphone,1 Month,Premium
+2150,12,6/8/2022,11/7/2023,Italy,46,Female,Tablet,1 Month,Basic
+2016,10,6/9/2022,11/7/2023,Spain,32,Female,Smart TV,1 Month,Premium
+2405,12,6/9/2022,11/7/2023,Italy,32,Female,Smart TV,1 Month,Basic
+2184,12,6/11/2022,11/7/2023,Canada,28,Male,Tablet,1 Month,Standard
+2453,15,6/11/2022,11/7/2023,United States,48,Female,Smartphone,1 Month,Standard
+1928,10,7/7/2022,11/7/2023,United States,44,Female,Smart TV,1 Month,Standard
+2253,10,7/11/2022,11/7/2023,Mexico,48,Female,Laptop,1 Month,Standard
+2323,12,7/11/2022,11/7/2023,United Kingdom,34,Male,Laptop,1 Month,Standard
+2393,12,7/11/2022,11/7/2023,United States,51,Female,Tablet,1 Month,Standard
+2385,14,8/11/2022,11/7/2023,Germany,30,Male,Tablet,1 Month,Basic
+1932,11,9/7/2022,11/7/2023,Canada,41,Male,Tablet,1 Month,Basic
+2002,10,9/7/2022,11/7/2023,Spain,30,Female,Smartphone,1 Month,Basic
+1884,12,9/10/2022,11/7/2023,Canada,33,Female,Tablet,1 Month,Standard
+2178,11,9/11/2022,11/7/2023,Mexico,28,Female,Tablet,1 Month,Standard
+2316,14,9/11/2022,11/7/2023,Spain,29,Female,Tablet,1 Month,Premium
+2455,10,9/11/2022,11/7/2023,United States,38,Female,Tablet,1 Month,Basic
+1998,14,10/7/2022,11/7/2023,Mexico,47,Female,Smart TV,1 Month,Standard
+2068,14,10/7/2022,11/7/2023,United Kingdom,47,Female,Laptop,1 Month,Standard
+2072,15,10/7/2022,11/7/2023,Brazil,49,Female,Laptop,1 Month,Basic
+2058,10,10/8/2022,11/7/2023,Mexico,31,Female,Smartphone,1 Month,Standard
+2128,10,10/8/2022,11/7/2023,United Kingdom,28,Female,Tablet,1 Month,Standard
+2338,10,10/8/2022,11/7/2023,United Kingdom,38,Female,Tablet,1 Month,Standard
+1954,11,10/10/2022,11/7/2023,Spain,43,Male,Laptop,1 Month,Standard
+2093,10,10/10/2022,11/7/2023,United States,34,Male,Smart TV,1 Month,Standard
+2163,13,10/10/2022,11/7/2023,Mexico,48,Male,Smart TV,1 Month,Standard
+2248,15,10/11/2022,11/7/2023,United Kingdom,47,Female,Tablet,1 Month,Standard
+2250,14,10/11/2022,11/7/2023,Germany,33,Male,Tablet,1 Month,Basic
+2320,14,10/11/2022,11/7/2023,United States,50,Male,Smart TV,1 Month,Basic
+2220,15,11/8/2022,11/7/2023,Germany,41,Male,Smartphone,1 Month,Basic
+2024,13,11/10/2022,11/7/2023,Australia,46,Female,Laptop,1 Month,Premium
+2234,15,11/10/2022,11/7/2023,Australia,40,Male,Tablet,1 Month,Premium
+2252,12,11/11/2022,11/7/2023,Brazil,31,Female,Tablet,1 Month,Premium
+2319,13,11/11/2022,11/7/2023,Canada,37,Male,Smart TV,1 Month,Premium
+2198,12,12/8/2022,11/7/2023,United States,29,Female,Smart TV,1 Month,Standard
+2359,13,12/8/2022,11/7/2023,Spain,31,Male,Laptop,1 Month,Standard
+2094,13,12/10/2022,11/7/2023,Canada,40,Female,Smart TV,1 Month,Premium
+2164,10,12/10/2022,11/7/2023,Spain,32,Female,Smartphone,1 Month,Standard
+2322,15,12/11/2022,11/7/2023,Canada,37,Female,Smart TV,1 Month,Basic
+2463,10,12/11/2022,11/7/2023,Mexico,50,Male,Smart TV,1 Month,Standard
+2142,12,7/13/2022,11/7/2023,Canada,46,Male,Smartphone,1 Month,Basic
+2210,11,7/13/2022,11/7/2023,Italy,27,Male,Smartphone,1 Month,Basic
+2430,10,8/13/2022,11/7/2023,Germany,44,Female,Tablet,1 Month,Basic
+2212,14,7/14/2022,11/7/2023,Spain,41,Male,Smart TV,1 Month,Basic
+2349,11,7/14/2022,11/7/2023,Canada,47,Female,Tablet,1 Month,Standard
+2080,10,8/14/2022,11/7/2023,United States,46,Female,Laptop,1 Month,Basic
+2360,13,8/14/2022,11/7/2023,Italy,30,Male,Tablet,1 Month,Basic
+2124,14,9/14/2022,11/7/2023,Canada,40,Male,Laptop,1 Month,Standard
+2258,13,10/14/2022,11/7/2023,United States,45,Female,Laptop,1 Month,Basic
+2282,10,7/15/2022,11/7/2023,Brazil,40,Female,Smartphone,1 Month,Basic
+2290,13,8/15/2022,11/7/2023,United States,41,Male,Smartphone,1 Month,Basic
+2304,14,10/15/2022,11/7/2023,Canada,31,Female,Tablet,1 Month,Standard
+2076,15,7/16/2022,11/7/2023,Spain,46,Female,Laptop,1 Month,Premium
+2419,14,7/16/2022,11/7/2023,Spain,50,Male,Smart TV,1 Month,Premium
+2421,10,7/16/2022,11/7/2023,Spain,34,Female,Smart TV,1 Month,Premium
+2268,15,8/16/2022,11/7/2023,Mexico,48,Male,Smart TV,1 Month,Standard
+2479,11,8/16/2022,11/7/2023,Spain,51,Female,Laptop,1 Month,Standard
+2401,11,10/16/2022,11/7/2023,France,35,Female,Laptop,1 Month,Basic
+2417,15,7/17/2022,11/7/2023,Brazil,29,Male,Smart TV,1 Month,Basic
+2403,15,9/17/2022,11/7/2023,Mexico,41,Male,Laptop,1 Month,Standard
+2097,10,10/17/2022,11/7/2023,Canada,47,Male,Tablet,1 Month,Basic
+2471,10,10/17/2022,11/7/2023,United States,46,Male,Smartphone,1 Month,Basic
+2146,12,7/18/2022,11/7/2023,France,41,Female,Tablet,1 Month,Premium
+2206,11,7/18/2022,11/7/2023,France,31,Male,Smart TV,1 Month,Premium
+2491,13,7/18/2022,11/7/2023,France,41,Female,Smartphone,1 Month,Premium
+2291,11,8/18/2022,11/7/2023,United States,31,Female,Laptop,1 Month,Premium
+2437,11,9/18/2022,11/7/2023,Spain,49,Male,Smart TV,1 Month,Basic
+2167,11,10/18/2022,11/7/2023,Spain,33,Female,Laptop,1 Month,Basic
+2237,13,10/18/2022,11/7/2023,Brazil,29,Male,Smart TV,1 Month,Basic
+2306,10,10/18/2022,11/7/2023,United States,33,Male,Smart TV,1 Month,Premium
+2423,12,7/19/2022,11/7/2023,United States,30,Male,Laptop,1 Month,Standard
+2089,10,9/19/2022,11/7/2023,Spain,29,Male,Tablet,1 Month,Standard
+2333,12,9/19/2022,11/7/2023,United States,49,Male,Tablet,1 Month,Basic
+2368,14,9/19/2022,11/7/2023,United Kingdom,50,Male,Laptop,1 Month,Standard
+2276,12,7/20/2022,11/7/2023,United States,36,Male,Smartphone,1 Month,Premium
+2493,11,7/20/2022,11/7/2023,Mexico,33,Male,Smart TV,1 Month,Standard
+2216,15,7/21/2022,11/7/2023,United States,45,Female,Smart TV,1 Month,Premium
+2064,11,7/22/2022,11/7/2023,Canada,37,Female,Tablet,1 Month,Premium
+2415,14,7/22/2022,11/7/2023,Germany,37,Male,Smart TV,1 Month,Standard
+2363,11,8/22/2022,11/7/2023,United States,44,Female,Smart TV,1 Month,Standard
+2433,10,8/22/2022,11/7/2023,Mexico,48,Male,Tablet,1 Month,Standard
+2308,11,10/22/2022,11/7/2023,United Kingdom,37,Male,Smart TV,1 Month,Standard
+2378,11,10/22/2022,11/7/2023,United States,51,Male,Smart TV,1 Month,Standard
+2293,12,8/23/2022,11/7/2023,United Kingdom,28,Male,Tablet,1 Month,Standard
+2020,12,9/23/2022,11/7/2023,United States,37,Male,Tablet,1 Month,Basic
+2438,12,9/23/2022,11/7/2023,United States,49,Female,Smart TV,1 Month,Standard
+2132,12,7/24/2022,11/7/2023,Brazil,27,Male,Smart TV,1 Month,Basic
+2469,12,10/24/2022,11/7/2023,Canada,36,Male,Laptop,1 Month,Premium
+2148,12,7/25/2022,11/7/2023,Mexico,31,Female,Tablet,1 Month,Standard
+2202,14,7/25/2022,11/7/2023,Canada,35,Female,Tablet,1 Month,Basic
+2101,12,10/25/2022,11/7/2023,France,31,Male,Tablet,1 Month,Basic
+2240,12,10/25/2022,11/7/2023,Italy,51,Female,Laptop,1 Month,Basic
+2398,10,10/25/2022,11/7/2023,United Kingdom,41,Male,Smart TV,1 Month,Standard
+2272,13,7/26/2022,11/7/2023,Spain,49,Male,Smart TV,1 Month,Basic
+2357,13,7/26/2022,11/7/2023,Brazil,33,Male,Smartphone,1 Month,Basic
+2364,13,8/26/2022,11/7/2023,Canada,28,Female,Smart TV,1 Month,Premium
+2171,12,10/26/2022,11/7/2023,United States,41,Male,Tablet,1 Month,Basic
+2328,13,10/26/2022,11/7/2023,Mexico,40,Female,Laptop,1 Month,Standard
+2467,15,10/26/2022,11/7/2023,Spain,40,Female,Smartphone,1 Month,Basic
+2273,15,7/27/2022,11/7/2023,United States,47,Female,Smartphone,1 Month,Standard
+2186,15,10/27/2022,11/7/2023,United States,38,Male,Smart TV,1 Month,Basic
+2483,15,7/28/2022,11/7/2023,United States,42,Male,Laptop,1 Month,Basic
+2434,11,8/28/2022,11/7/2023,Spain,42,Female,Smart TV,1 Month,Standard
+2473,12,9/28/2022,11/7/2023,United Kingdom,39,Female,Laptop,1 Month,Standard
+2407,11,8/29/2022,11/7/2023,Spain,31,Female,Smartphone,1 Month,Standard
+2241,11,10/29/2022,11/7/2023,Spain,51,Female,Tablet,1 Month,Premium
+2256,15,10/29/2022,11/7/2023,Spain,41,Male,Laptop,1 Month,Premium
+2327,10,10/29/2022,11/7/2023,Brazil,47,Female,Tablet,1 Month,Premium
+2397,15,10/29/2022,11/7/2023,Canada,27,Male,Smartphone,1 Month,Basic
+2343,10,7/30/2022,11/7/2023,Mexico,34,Female,Laptop,1 Month,Standard
+2311,14,10/30/2022,11/7/2023,France,28,Male,Smart TV,1 Month,Premium
+2381,12,10/30/2022,11/7/2023,United States,30,Female,Laptop,1 Month,Premium
+2339,13,7/31/2022,11/7/2023,Australia,34,Female,Smartphone,1 Month,Basic
+2413,13,7/31/2022,11/7/2023,United Kingdom,44,Female,Tablet,1 Month,Standard
+2225,13,2/9/2022,12/7/2023,Italy,45,Female,Smart TV,1 Month,Basic
+2264,12,2/9/2022,12/7/2023,Australia,41,Male,Smartphone,1 Month,Basic
+2130,10,4/8/2022,12/7/2023,Germany,46,Female,Tablet,1 Month,Basic
+2086,13,4/9/2022,12/7/2023,France,45,Female,Smart TV,1 Month,Premium
+2481,10,5/8/2022,12/7/2023,Spain,33,Female,Laptop,1 Month,Premium
+2244,10,5/11/2022,12/7/2023,Canada,40,Male,Smart TV,1 Month,Premium
+2314,12,5/11/2022,12/7/2023,Spain,47,Female,Smart TV,1 Month,Standard
+2394,13,5/11/2022,12/7/2023,Canada,42,Female,Smartphone,1 Month,Premium
+2464,12,5/11/2022,12/7/2023,Spain,42,Female,Smartphone,1 Month,Standard
+2474,10,6/9/2022,12/7/2023,Australia,49,Male,Smart TV,1 Month,Premium
+2384,14,7/11/2022,12/7/2023,Australia,30,Male,Smart TV,1 Month,Premium
+2442,11,8/10/2022,12/7/2023,Canada,36,Male,Smartphone,1 Month,Basic
+2233,14,9/10/2022,12/7/2023,United Kingdom,34,Female,Smartphone,1 Month,Standard
+2303,14,9/10/2022,12/7/2023,United States,43,Male,Laptop,1 Month,Standard
+2429,11,10/8/2022,12/7/2023,Australia,30,Female,Smartphone,1 Month,Premium
+2386,11,10/11/2022,12/7/2023,France,41,Female,Smartphone,1 Month,Premium
+2318,11,11/11/2022,12/7/2023,United States,34,Male,Smart TV,1 Month,Standard
+2389,12,11/11/2022,12/7/2023,Spain,36,Female,Smart TV,1 Month,Standard
+2390,11,11/11/2022,12/7/2023,Italy,33,Female,Smartphone,1 Month,Basic
+2392,14,11/11/2022,12/7/2023,Spain,46,Male,Tablet,1 Month,Basic
+2138,11,12/7/2022,12/7/2023,United States,39,Male,Smartphone,1 Month,Standard
+2499,13,12/8/2022,12/7/2023,Canada,48,Female,Tablet,1 Month,Standard
+2194,14,12/9/2022,12/7/2023,Spain,36,Female,Smart TV,1 Month,Premium
+2388,14,12/11/2022,12/7/2023,Mexico,30,Male,Tablet,1 Month,Standard
+2458,12,12/11/2022,12/7/2023,United Kingdom,30,Female,Smart TV,1 Month,Standard
+2459,12,12/11/2022,12/7/2023,Australia,30,Male,Smart TV,1 Month,Premium
+2208,13,7/13/2022,12/7/2023,Mexico,44,Male,Laptop,1 Month,Standard
+2280,13,7/13/2022,12/7/2023,Germany,38,Female,Smart TV,1 Month,Basic
+2500,15,8/13/2022,12/7/2023,United States,35,Female,Smart TV,1 Month,Basic
+2461,13,11/13/2022,12/7/2023,France,41,Male,Laptop,1 Month,Premium
+2278,15,7/14/2022,12/7/2023,United Kingdom,38,Female,Tablet,1 Month,Standard
+2444,15,10/14/2022,12/7/2023,Australia,45,Female,Smartphone,1 Month,Standard
+2214,12,7/16/2022,12/7/2023,Canada,29,Female,Tablet,1 Month,Premium
+2348,10,7/16/2022,12/7/2023,United States,48,Female,Smart TV,1 Month,Standard
+2352,11,7/16/2022,12/7/2023,Canada,43,Female,Smart TV,1 Month,Basic
+2334,13,9/16/2022,12/7/2023,Canada,39,Female,Smartphone,1 Month,Standard
+2374,15,10/16/2022,12/7/2023,Spain,30,Male,Tablet,1 Month,Premium
+2422,14,7/17/2022,12/7/2023,Spain,40,Male,Smart TV,1 Month,Basic
+2489,11,7/17/2022,12/7/2023,Australia,48,Female,Smartphone,1 Month,Basic
+2159,11,9/17/2022,12/7/2023,Australia,40,Female,Tablet,1 Month,Premium
+2404,12,9/17/2022,12/7/2023,Spain,48,Female,Tablet,1 Month,Standard
+2284,12,7/18/2022,12/7/2023,Spain,39,Female,Smartphone,1 Month,Standard
+2446,11,10/18/2022,12/7/2023,France,46,Male,Tablet,1 Month,Premium
+2492,14,7/19/2022,12/7/2023,Brazil,29,Female,Laptop,1 Month,Basic
+2307,14,10/19/2022,12/7/2023,Canada,41,Male,Smartphone,1 Month,Basic
+2376,12,10/19/2022,12/7/2023,Spain,49,Male,Smart TV,1 Month,Premium
+2346,10,7/20/2022,12/7/2023,Spain,43,Female,Smartphone,1 Month,Premium
+2090,12,9/20/2022,12/7/2023,Italy,31,Female,Tablet,1 Month,Basic
+2377,14,10/20/2022,12/7/2023,Spain,50,Female,Tablet,1 Month,Basic
+2336,14,8/21/2022,12/7/2023,United States,43,Male,Smartphone,1 Month,Basic
+2447,14,10/21/2022,12/7/2023,Brazil,27,Male,Tablet,1 Month,Basic
+2134,13,7/22/2022,12/7/2023,Spain,43,Male,Smart TV,1 Month,Standard
+2286,15,7/22/2022,12/7/2023,Spain,41,Male,Laptop,1 Month,Premium
+2229,11,9/22/2022,12/7/2023,Canada,43,Female,Smartphone,1 Month,Standard
+2299,14,9/22/2022,12/7/2023,Spain,41,Male,Smartphone,1 Month,Premium
+2426,15,7/23/2022,12/7/2023,United States,51,Male,Smartphone,1 Month,Premium
+2495,15,7/23/2022,12/7/2023,Italy,43,Female,Laptop,1 Month,Basic
+2082,12,8/23/2022,12/7/2023,Canada,29,Male,Tablet,1 Month,Basic
+2152,14,8/23/2022,12/7/2023,Spain,42,Male,Laptop,1 Month,Basic
+2160,11,9/23/2022,12/7/2023,Germany,45,Female,Smartphone,1 Month,Basic
+2448,13,10/24/2022,12/7/2023,Mexico,43,Male,Tablet,1 Month,Standard
+2468,14,10/24/2022,12/7/2023,United States,47,Female,Smartphone,1 Month,Standard
+2356,13,7/25/2022,12/7/2023,France,47,Male,Smartphone,1 Month,Premium
+2485,14,7/25/2022,12/7/2023,United States,47,Female,Tablet,1 Month,Premium
+2487,11,7/25/2022,12/7/2023,Canada,35,Male,Smart TV,1 Month,Premium
+2496,14,7/25/2022,12/7/2023,Spain,28,Female,Smart TV,1 Month,Premium
+2230,12,9/26/2022,12/7/2023,United States,33,Female,Laptop,1 Month,Basic
+2380,13,10/27/2022,12/7/2023,United States,36,Female,Smartphone,1 Month,Basic
+2300,13,9/28/2022,12/7/2023,Italy,42,Female,Tablet,1 Month,Basic
+2218,15,7/29/2022,12/7/2023,United Kingdom,41,Female,Tablet,1 Month,Standard
+2370,11,9/29/2022,12/7/2023,Germany,31,Female,Laptop,1 Month,Basic
+2440,14,9/29/2022,12/7/2023,United States,50,Female,Laptop,1 Month,Basic
+2310,10,10/29/2022,12/7/2023,Germany,36,Male,Tablet,1 Month,Basic
+2200,14,7/30/2022,12/7/2023,United States,40,Male,Laptop,1 Month,Basic
+2342,11,7/30/2022,12/7/2023,Brazil,38,Female,Smart TV,1 Month,Basic
+2477,12,8/30/2022,12/7/2023,Brazil,40,Male,Laptop,1 Month,Premium
+2451,15,10/31/2022,12/7/2023,Spain,48,Female,Tablet,1 Month,Premium
+2412,12,1/8/2022,7/13/2023,Canada,27,Female,Smart TV,1 Month,Premium
+2288,13,2/8/2022,7/13/2023,United States,50,Male,Smartphone,1 Month,Standard
+2452,14,4/11/2022,7/13/2023,Spain,31,Female,Tablet,1 Month,Basic
+2226,13,6/9/2022,7/13/2023,Spain,41,Female,Laptop,1 Month,Premium
+2296,10,6/9/2022,7/13/2023,France,37,Male,Smartphone,1 Month,Premium
+2365,11,6/9/2022,7/13/2023,United States,47,Male,Smartphone,1 Month,Basic
+2435,14,6/9/2022,7/13/2023,Italy,39,Male,Smartphone,1 Month,Basic
+2156,10,7/9/2022,7/13/2023,United States,37,Male,Smart TV,1 Month,Premium
+2454,10,8/11/2022,7/13/2023,Canada,36,Male,Smartphone,1 Month,Standard
+2366,11,9/9/2022,7/13/2023,United States,43,Male,Smart TV,1 Month,Premium
+2443,13,10/10/2022,7/13/2023,United Kingdom,28,Female,Laptop,1 Month,Standard
+2456,13,11/11/2022,7/13/2023,United States,39,Male,Smartphone,1 Month,Premium
+2460,15,12/11/2022,7/13/2023,Germany,35,Female,Smart TV,1 Month,Basic
+2462,11,11/13/2022,7/13/2023,Brazil,40,Female,Smart TV,1 Month,Basic
+2350,12,7/14/2022,7/13/2023,United States,27,Female,Laptop,1 Month,Basic
+2373,14,10/14/2022,7/13/2023,Mexico,47,Male,Tablet,1 Month,Standard
+2418,13,7/16/2022,7/13/2023,Mexico,28,Female,Laptop,1 Month,Standard
+2420,13,7/16/2022,7/13/2023,Italy,39,Male,Laptop,1 Month,Basic
+2361,14,8/16/2022,7/13/2023,Spain,34,Female,Smartphone,1 Month,Premium
+2478,10,8/16/2022,7/13/2023,Mexico,47,Male,Tablet,1 Month,Standard
+2436,14,9/16/2022,7/13/2023,Spain,44,Female,Smart TV,1 Month,Premium
+2400,10,10/17/2022,7/13/2023,Germany,30,Male,Laptop,1 Month,Basic
+2488,11,7/18/2022,7/13/2023,United Kingdom,29,Female,Smartphone,1 Month,Standard
+2354,13,7/19/2022,7/13/2023,Australia,43,Female,Smart TV,1 Month,Premium
+2416,14,7/19/2022,7/13/2023,France,44,Male,Tablet,1 Month,Premium
+2470,13,10/20/2022,7/13/2023,United States,50,Female,Tablet,1 Month,Basic
+2222,10,8/21/2022,7/13/2023,Brazil,49,Female,Smartphone,1 Month,Basic
+2414,10,7/22/2022,7/13/2023,Australia,46,Male,Smart TV,1 Month,Basic
+2330,12,10/22/2022,7/13/2023,Italy,32,Female,Smartphone,1 Month,Basic
+2369,11,9/24/2022,7/13/2023,Australia,40,Female,Smartphone,1 Month,Standard
+2204,11,7/25/2022,7/13/2023,Australia,39,Male,Smart TV,1 Month,Premium
+2408,12,8/25/2022,7/13/2023,United States,45,Female,Smartphone,1 Month,Basic
+2274,10,7/26/2022,7/13/2023,Canada,45,Female,Tablet,1 Month,Standard
+2344,10,7/27/2022,7/13/2023,Spain,44,Female,Tablet,1 Month,Premium
+2439,10,9/28/2022,7/13/2023,Canada,36,Female,Laptop,1 Month,Premium
+2484,11,7/29/2022,7/13/2023,Canada,50,Female,Smart TV,1 Month,Standard
+2450,13,10/29/2022,7/13/2023,Italy,47,Female,Smartphone,1 Month,Basic
+2295,11,8/30/2022,7/13/2023,Germany,34,Female,Smart TV,1 Month,Basic
+2396,10,10/31/2022,7/13/2023,United States,45,Male,Smartphone,1 Month,Basic
+2410,12,2/8/2022,7/14/2023,United States,34,Male,Smartphone,1 Month,Premium
+2427,15,3/8/2022,7/14/2023,Canada,28,Female,Smartphone,1 Month,Basic
+2358,15,4/8/2022,7/14/2023,Mexico,48,Female,Smartphone,1 Month,Standard
+2497,15,4/8/2022,7/14/2023,Spain,33,Female,Smart TV,1 Month,Basic
+2482,13,6/8/2022,7/14/2023,Spain,37,Female,Laptop,1 Month,Standard
+2480,13,7/8/2022,7/14/2023,Italy,47,Male,Laptop,1 Month,Basic
+2431,12,8/15/2022,7/14/2023,France,29,Female,Smart TV,1 Month,Premium
+2362,12,8/17/2022,7/14/2023,Spain,37,Male,Smartphone,1 Month,Basic
+2432,11,8/19/2022,7/14/2023,Brazil,28,Female,Tablet,1 Month,Basic
+2424,14,7/20/2022,7/14/2023,Canada,41,Female,Laptop,1 Month,Standard
+2292,12,8/20/2022,7/14/2023,Canada,41,Female,Smart TV,1 Month,Basic
+2486,10,7/25/2022,7/14/2023,United States,40,Female,Smartphone,1 Month,Basic
+2270,14,7/27/2022,7/14/2023,Italy,30,Female,Smart TV,1 Month,Basic
+2472,14,9/29/2022,7/14/2023,Canada,27,Female,Tablet,1 Month,Basic
+2340,15,7/30/2022,7/14/2023,Germany,38,Male,Laptop,1 Month,Standard
+2466,12,10/30/2022,7/14/2023,Spain,34,Male,Laptop,1 Month,Premium
+2428,12,6/8/2022,7/15/2023,United Kingdom,30,Female,Tablet,1 Month,Standard
+2498,12,9/8/2022,7/15/2023,United States,38,Male,Laptop,1 Month,Standard
+2490,10,7/17/2022,7/15/2023,Germany,35,Male,Smart TV,1 Month,Standard
+2494,12,7/21/2022,7/15/2023,Spain,36,Male,Smart TV,1 Month,Premium
+2406,13,8/30/2022,7/15/2023,Spain,35,Female,Smart TV,1 Month,Premium
+2476,13,8/31/2022,7/15/2023,France,28,Male,Tablet,1 Month,Basic
+71,10,1/26/2022,6/20/2023,United States,27,Male,Smartphone,1 Month,Basic
+2,15,5/9/2021,6/22/2023,Canada,35,Female,Tablet,1 Month,Premium
+80,12,8/11/2022,6/22/2023,Italy,43,Male,Tablet,1 Month,Basic
+142,14,10/6/2022,6/22/2023,Canada,28,Male,Smart TV,1 Month,Basic
+137,12,10/8/2022,6/22/2023,Brazil,49,Male,Laptop,1 Month,Basic
+72,10,11/10/2022,6/22/2023,Canada,31,Female,Smartphone,1 Month,Basic
+50,10,2/6/2023,6/22/2023,Italy,45,Male,Smartphone,1 Month,Basic
+31,15,3/2/2023,6/22/2023,United States,28,Female,Smart TV,1 Month,Premium
+10,15,7/1/2023,6/22/2023,Italy,44,Female,Smart TV,1 Month,Premium
+40,10,7/3/2023,6/22/2023,Italy,48,Male,Tablet,1 Month,Basic
+61,15,8/2/2023,6/22/2023,United States,28,Female,Laptop,1 Month,Premium
+70,10,8/5/2023,6/22/2023,Italy,41,Male,Smartphone,1 Month,Basic
+21,15,10/6/2023,6/22/2023,United States,26,Female,Laptop,1 Month,Premium
+60,10,6/14/2023,6/22/2023,Italy,42,Male,Tablet,1 Month,Basic
+11,10,5/16/2022,6/22/2023,United States,31,Female,Smartphone,1 Month,Basic
+30,10,5/17/2023,6/22/2023,Italy,42,Male,Smartphone,1 Month,Basic
+41,15,1/20/2023,6/22/2023,United States,31,Female,Laptop,1 Month,Premium
+51,15,2/27/2023,6/22/2023,United States,30,Female,Smart TV,1 Month,Premium
+20,10,5/27/2023,6/22/2023,Italy,41,Male,Tablet,1 Month,Basic
+140,12,2/5/2022,6/23/2023,Italy,43,Female,Smartphone,1 Month,Basic
+91,11,3/10/2022,6/23/2023,United States,39,Male,Tablet,1 Month,Premium
+59,15,3/12/2022,6/23/2023,Spain,27,Female,Smart TV,1 Month,Premium
+129,13,5/11/2022,6/23/2023,Spain,38,Male,Smart TV,1 Month,Standard
+131,15,6/10/2022,6/23/2023,United States,47,Male,Laptop,1 Month,Premium
+49,15,10/11/2022,6/23/2023,Spain,28,Female,Laptop,1 Month,Premium
+90,13,3/2/2023,6/23/2023,Italy,49,Female,Smartphone,1 Month,Standard
+208,15,5/1/2023,6/23/2023,Mexico,36,Female,Tablet,1 Month,Standard
+130,14,7/1/2023,6/23/2023,Italy,43,Female,Tablet,1 Month,Basic
+19,15,2/15/2023,6/23/2023,Spain,32,Female,Smart TV,1 Month,Premium
+150,10,12/15/2022,6/23/2023,Italy,47,Female,Laptop,1 Month,Basic
+116,14,5/19/2022,6/23/2023,France,45,Female,Smart TV,1 Month,Premium
+29,15,12/19/2022,6/23/2023,Spain,36,Female,Laptop,1 Month,Premium
+9,12,10/20/2022,6/23/2023,Spain,37,Male,Smartphone,1 Month,Standard
+126,13,9/21/2022,6/23/2023,France,45,Male,Laptop,1 Month,Premium
+138,15,9/21/2022,6/23/2023,Mexico,28,Male,Laptop,1 Month,Standard
+127,10,11/23/2021,6/23/2023,Brazil,36,Male,Smartphone,1 Month,Basic
+69,15,12/23/2022,6/23/2023,Spain,36,Female,Laptop,1 Month,Premium
+139,13,3/24/2023,6/23/2023,Spain,40,Male,Smartphone,1 Month,Standard
+77,15,12/25/2022,6/23/2023,Brazil,45,Female,Smartphone,1 Month,Premium
+197,14,9/27/2022,6/23/2023,Brazil,45,Male,Tablet,1 Month,Basic
+87,15,12/28/2021,6/23/2023,Brazil,45,Male,Smart TV,1 Month,Premium
+39,15,12/28/2022,6/23/2023,Spain,27,Female,Smart TV,1 Month,Premium
+117,15,10/30/2021,6/23/2023,Brazil,40,Female,Tablet,1 Month,Basic
+38,12,5/11/2021,6/24/2023,Mexico,32,Male,Smartphone,1 Month,Standard
+58,12,8/10/2021,6/24/2023,Mexico,34,Male,Smartphone,1 Month,Standard
+68,12,9/11/2021,6/24/2023,Mexico,33,Male,Tablet,1 Month,Standard
+274,10,1/8/2022,6/24/2023,Australia,27,Female,Tablet,1 Month,Premium
+297,13,2/11/2022,6/24/2023,Brazil,40,Male,Smartphone,1 Month,Basic
+121,15,3/10/2022,6/24/2023,United States,27,Male,Smart TV,1 Month,Premium
+97,10,5/3/2022,6/24/2023,Brazil,29,Female,Tablet,1 Month,Basic
+107,14,7/3/2022,6/24/2023,Brazil,29,Female,Smart TV,1 Month,Basic
+167,13,7/4/2022,6/24/2023,Brazil,29,Male,Smartphone,1 Month,Basic
+213,12,8/9/2022,6/24/2023,United Kingdom,49,Female,Smart TV,1 Month,Standard
+216,14,8/10/2022,6/24/2023,France,51,Female,Smart TV,1 Month,Premium
+147,12,8/11/2022,6/24/2023,Brazil,49,Female,Laptop,1 Month,Basic
+196,13,9/6/2022,6/24/2023,France,45,Female,Smart TV,1 Month,Premium
+187,13,10/7/2022,6/24/2023,Brazil,49,Female,Laptop,1 Month,Basic
+209,11,10/12/2022,6/24/2023,Spain,41,Male,Laptop,1 Month,Premium
+279,15,12/11/2022,6/24/2023,Spain,50,Female,Laptop,1 Month,Standard
+8,10,2/4/2023,6/24/2023,Mexico,39,Female,Laptop,1 Month,Basic
+81,10,11/1/2023,6/24/2023,United States,37,Male,Tablet,1 Month,Premium
+99,12,1/13/2023,6/24/2023,Spain,29,Female,Tablet,1 Month,Standard
+48,12,9/15/2021,6/24/2023,Mexico,32,Male,Tablet,1 Month,Standard
+207,15,9/16/2022,6/24/2023,Brazil,45,Female,Smartphone,1 Month,Basic
+101,11,10/17/2022,6/24/2023,United States,46,Female,Tablet,1 Month,Premium
+106,10,3/18/2022,6/24/2023,France,49,Female,Tablet,1 Month,Premium
+18,12,10/18/2021,6/24/2023,Mexico,43,Male,Smartphone,1 Month,Standard
+125,12,8/21/2022,6/24/2023,Germany,42,Male,Smartphone,1 Month,Basic
+161,10,10/23/2022,6/24/2023,United States,45,Male,Tablet,1 Month,Basic
+263,15,7/25/2022,6/24/2023,United Kingdom,46,Male,Smartphone,1 Month,Standard
+153,11,12/25/2022,6/24/2023,United Kingdom,47,Male,Smartphone,1 Month,Standard
+110,13,1/26/2023,6/24/2023,Italy,37,Female,Laptop,1 Month,Basic
+96,14,7/26/2022,6/24/2023,France,32,Male,Laptop,1 Month,Premium
+195,11,8/26/2022,6/24/2023,Germany,50,Female,Smartphone,1 Month,Basic
+204,12,7/27/2022,6/24/2023,Australia,37,Male,Smartphone,1 Month,Standard
+28,12,9/27/2021,6/24/2023,Mexico,33,Male,Tablet,1 Month,Standard
+157,14,9/27/2022,6/24/2023,Brazil,30,Male,Laptop,1 Month,Standard
+301,10,9/27/2022,6/24/2023,United States,36,Female,Laptop,1 Month,Basic
+171,11,4/29/2022,6/24/2023,United States,35,Female,Tablet,1 Month,Premium
+231,11,10/29/2022,6/24/2023,United States,43,Male,Smartphone,1 Month,Premium
+227,12,9/30/2022,6/24/2023,Brazil,51,Female,Smartphone,1 Month,Premium
+203,13,7/31/2022,6/24/2023,United Kingdom,42,Female,Smart TV,1 Month,Standard
+143,14,8/31/2022,6/24/2023,United Kingdom,30,Female,Tablet,1 Month,Standard
+7,12,9/12/2021,6/25/2023,Brazil,46,Male,Tablet,1 Month,Standard
+186,12,1/3/2022,6/25/2023,France,33,Female,Smart TV,1 Month,Premium
+57,10,1/10/2022,6/25/2023,Brazil,46,Female,Laptop,1 Month,Basic
+363,12,1/11/2022,6/25/2023,United Kingdom,47,Female,Smart TV,1 Month,Standard
+273,12,2/8/2022,6/25/2023,United Kingdom,28,Female,Laptop,1 Month,Standard
+410,15,2/9/2022,6/25/2023,Italy,37,Male,Smart TV,1 Month,Basic
+246,11,3/5/2022,6/25/2023,France,38,Female,Smartphone,1 Month,Premium
+173,15,3/6/2022,6/25/2023,United Kingdom,40,Male,Smartphone,1 Month,Standard
+79,15,3/12/2022,6/25/2023,Spain,43,Female,Laptop,1 Month,Standard
+86,11,4/3/2022,6/25/2023,France,29,Female,Smartphone,1 Month,Basic
+261,13,4/7/2022,6/25/2023,United States,27,Female,Smart TV,1 Month,Premium
+270,12,4/9/2022,6/25/2023,Italy,47,Male,Smart TV,1 Month,Basic
+115,11,5/4/2022,6/25/2023,Germany,50,Female,Laptop,1 Month,Basic
+193,11,5/8/2022,6/25/2023,United Kingdom,50,Male,Laptop,1 Month,Standard
+265,11,5/8/2022,6/25/2023,Germany,32,Female,Smart TV,1 Month,Basic
+47,10,5/10/2022,6/25/2023,Brazil,39,Female,Smart TV,1 Month,Basic
+339,13,5/10/2022,6/25/2023,Spain,30,Female,Laptop,1 Month,Premium
+124,15,5/11/2022,6/25/2023,Australia,43,Male,Laptop,1 Month,Premium
+134,15,5/11/2022,6/25/2023,Australia,32,Male,Tablet,1 Month,Premium
+206,11,6/8/2022,6/25/2023,France,40,Male,Smartphone,1 Month,Premium
+275,15,6/8/2022,6/25/2023,Germany,34,Female,Laptop,1 Month,Basic
+343,13,6/8/2022,6/25/2023,United Kingdom,46,Male,Smart TV,1 Month,Standard
+146,10,6/10/2022,6/25/2023,France,38,Male,Tablet,1 Month,Basic
+433,11,6/11/2022,6/25/2023,United Kingdom,46,Female,Smartphone,1 Month,Standard
+237,13,7/7/2022,6/25/2023,Brazil,46,Female,Tablet,1 Month,Premium
+104,10,8/6/2022,6/25/2023,Australia,38,Male,Laptop,1 Month,Premium
+191,10,8/7/2022,6/25/2023,United States,46,Male,Laptop,1 Month,Premium
+345,10,8/8/2022,6/25/2023,Germany,48,Female,Smart TV,1 Month,Basic
+276,14,9/8/2022,6/25/2023,France,34,Female,Smart TV,1 Month,Premium
+293,14,9/12/2022,6/25/2023,United Kingdom,39,Female,Laptop,1 Month,Standard
+335,10,11/8/2022,6/25/2023,Germany,47,Female,Tablet,1 Month,Basic
+176,13,12/4/2022,6/25/2023,France,37,Female,Smart TV,1 Month,Premium
+185,11,12/5/2022,6/25/2023,Germany,47,Female,Tablet,1 Month,Basic
+151,15,12/12/2022,6/25/2023,United States,30,Female,Laptop,1 Month,Basic
+223,12,8/1/2023,6/25/2023,United Kingdom,34,Female,Smartphone,1 Month,Standard
+109,13,8/2/2023,6/25/2023,Spain,35,Female,Tablet,1 Month,Standard
+170,14,12/1/2023,6/25/2023,Italy,32,Male,Laptop,1 Month,Basic
+84,12,4/13/2023,6/25/2023,Australia,32,Male,Smartphone,1 Month,Standard
+340,14,9/13/2022,6/25/2023,Italy,44,Female,Smartphone,1 Month,Basic
+200,11,10/13/2022,6/25/2023,Italy,45,Female,Tablet,1 Month,Basic
+217,15,11/13/2022,6/25/2023,Brazil,44,Male,Smart TV,1 Month,Basic
+399,12,7/14/2022,6/25/2023,Spain,44,Female,Smartphone,1 Month,Standard
+37,10,9/14/2022,6/25/2023,Brazil,45,Female,Laptop,1 Month,Basic
+74,13,12/14/2022,6/25/2023,Australia,41,Female,Smartphone,1 Month,Premium
+409,14,9/15/2022,6/25/2023,Spain,37,Male,Smartphone,1 Month,Standard
+269,13,10/15/2022,6/25/2023,Spain,29,Female,Laptop,1 Month,Standard
+182,13,5/16/2022,6/25/2023,Canada,30,Female,Laptop,1 Month,Basic
+219,12,11/16/2022,6/25/2023,Spain,46,Female,Smartphone,1 Month,Premium
+235,11,5/17/2022,6/25/2023,Germany,50,Male,Laptop,1 Month,Premium
+257,13,6/17/2022,6/25/2023,Brazil,46,Male,Laptop,1 Month,Basic
+67,10,9/18/2022,6/25/2023,Brazil,47,Female,Smart TV,1 Month,Basic
+120,10,10/18/2022,6/25/2023,Italy,30,Female,Smart TV,1 Month,Basic
+114,10,11/18/2022,6/25/2023,Australia,48,Male,Smartphone,1 Month,Premium
+94,12,3/19/2022,6/25/2023,Australia,44,Male,Smartphone,1 Month,Premium
+162,15,4/19/2022,6/25/2023,Canada,31,Male,Laptop,1 Month,Premium
+156,15,8/19/2022,6/25/2023,France,47,Male,Smartphone,1 Month,Premium
+119,11,9/20/2022,6/25/2023,Spain,44,Female,Smartphone,1 Month,Standard
+289,15,11/20/2022,6/25/2023,Spain,34,Female,Smart TV,1 Month,Standard
+253,15,5/21/2022,6/25/2023,United Kingdom,45,Female,Tablet,1 Month,Standard
+100,12,1/22/2023,6/25/2023,Italy,35,Male,Laptop,1 Month,Basic
+329,11,7/22/2022,6/25/2023,Spain,35,Female,Smart TV,1 Month,Premium
+174,14,4/23/2022,6/25/2023,Australia,39,Female,Tablet,1 Month,Standard
+415,13,8/23/2022,6/25/2023,Germany,39,Female,Smartphone,1 Month,Basic
+367,13,10/23/2022,6/25/2023,Brazil,32,Male,Laptop,1 Month,Basic
+437,13,10/23/2022,6/25/2023,Brazil,47,Male,Smart TV,1 Month,Basic
+17,10,1/24/2022,6/25/2023,Brazil,30,Female,Laptop,1 Month,Basic
+108,12,5/24/2022,6/25/2023,Mexico,27,Female,Smart TV,1 Month,Standard
+165,14,5/25/2022,6/25/2023,Germany,49,Male,Tablet,1 Month,Standard
+184,13,4/26/2022,6/25/2023,Australia,28,Female,Laptop,1 Month,Standard
+180,14,9/26/2022,6/25/2023,Italy,36,Male,Laptop,1 Month,Basic
+221,12,11/26/2022,6/25/2023,United States,47,Male,Smartphone,1 Month,Basic
+316,12,5/27/2022,6/25/2023,France,50,Female,Laptop,1 Month,Premium
+160,15,10/27/2022,6/25/2023,Italy,39,Male,Smartphone,1 Month,Premium
+95,11,2/28/2022,6/25/2023,Germany,34,Male,Laptop,1 Month,Basic
+27,10,8/29/2022,6/25/2023,Brazil,47,Female,Smart TV,1 Month,Basic
+205,12,7/30/2022,6/25/2023,Germany,30,Male,Smart TV,1 Month,Basic
+371,11,9/30/2022,6/25/2023,United States,47,Male,Tablet,1 Month,Basic
+282,11,10/30/2022,6/25/2023,Canada,33,Male,Smart TV,1 Month,Basic
+199,14,10/31/2022,6/25/2023,Spain,39,Female,Tablet,1 Month,Premium
+463,11,1/6/2022,6/26/2023,United Kingdom,40,Male,Smart TV,1 Month,Standard
+14,10,1/8/2022,6/26/2023,Australia,27,Male,Smartphone,1 Month,Basic
+242,12,2/6/2022,6/26/2023,Canada,37,Male,Laptop,1 Month,Basic
+389,14,2/8/2022,6/26/2023,Spain,45,Male,Smart TV,1 Month,Basic
+189,13,2/9/2022,6/26/2023,Spain,47,Male,Smart TV,1 Month,Premium
+336,12,2/9/2022,6/26/2023,France,35,Male,Laptop,1 Month,Premium
+416,10,2/9/2022,6/26/2023,France,28,Male,Tablet,1 Month,Premium
+349,14,2/11/2022,6/26/2023,Spain,28,Male,Smartphone,1 Month,Premium
+24,12,3/4/2022,6/26/2023,Australia,31,Male,Tablet,1 Month,Standard
+393,10,3/6/2022,6/26/2023,United Kingdom,40,Male,Tablet,1 Month,Standard
+411,14,3/9/2022,6/26/2023,United States,48,Female,Tablet,1 Month,Premium
+412,12,3/9/2022,6/26/2023,Canada,47,Male,Laptop,1 Month,Basic
+179,10,3/12/2022,6/26/2023,Spain,30,Female,Tablet,1 Month,Premium
+103,13,4/4/2022,6/26/2023,United Kingdom,36,Male,Laptop,1 Month,Standard
+481,12,4/9/2022,6/26/2023,United States,36,Male,Smart TV,1 Month,Premium
+93,12,5/2/2022,6/26/2023,United Kingdom,35,Male,Smartphone,1 Month,Standard
+163,11,5/4/2022,6/26/2023,United Kingdom,29,Male,Laptop,1 Month,Standard
+145,11,5/5/2022,6/26/2023,Germany,35,Female,Laptop,1 Month,Basic
+395,12,5/6/2022,6/26/2023,Germany,45,Female,Laptop,1 Month,Basic
+465,11,5/6/2022,6/26/2023,Germany,34,Male,Laptop,1 Month,Standard
+259,15,5/8/2022,6/26/2023,Spain,28,Male,Smartphone,1 Month,Standard
+348,14,5/10/2022,6/26/2023,Mexico,30,Male,Smart TV,1 Month,Standard
+327,12,6/7/2022,6/26/2023,Brazil,32,Female,Smartphone,1 Month,Basic
+330,10,6/7/2022,6/26/2023,Italy,40,Female,Smart TV,1 Month,Basic
+405,13,6/8/2022,6/26/2023,Germany,49,Female,Tablet,1 Month,Basic
+427,11,6/11/2022,6/26/2023,Brazil,51,Male,Smart TV,1 Month,Basic
+113,15,7/5/2022,6/26/2023,United Kingdom,37,Male,Tablet,1 Month,Standard
+382,10,7/6/2022,6/26/2023,Canada,51,Male,Smart TV,1 Month,Standard
+233,15,7/7/2022,6/26/2023,United Kingdom,50,Female,Smart TV,1 Month,Basic
+344,13,7/8/2022,6/26/2023,Australia,42,Female,Smartphone,1 Month,Standard
+236,11,8/5/2022,6/26/2023,France,39,Female,Smartphone,1 Month,Basic
+331,14,8/7/2022,6/26/2023,United States,29,Female,Tablet,1 Month,Premium
+250,14,9/8/2022,6/26/2023,Italy,28,Male,Laptop,1 Month,Basic
+342,11,9/8/2022,6/26/2023,Canada,41,Female,Laptop,1 Month,Basic
+4,12,10/7/2022,6/26/2023,Australia,51,Female,Laptop,1 Month,Standard
+272,10,10/8/2022,6/26/2023,Canada,36,Female,Smartphone,1 Month,Basic
+353,14,10/8/2022,6/26/2023,United Kingdom,34,Female,Smartphone,1 Month,Standard
+503,14,10/11/2022,6/26/2023,United States,30,Male,Tablet,1 Month,Standard
+164,11,11/3/2022,6/26/2023,Australia,42,Female,Tablet,1 Month,Basic
+303,12,11/6/2022,6/26/2023,United Kingdom,45,Male,Tablet,1 Month,Standard
+386,14,11/7/2022,6/26/2023,France,48,Male,Tablet,1 Month,Basic
+277,13,12/9/2022,6/26/2023,Brazil,37,Female,Tablet,1 Month,Basic
+222,10,12/12/2022,6/26/2023,Canada,48,Female,Smartphone,1 Month,Basic
+262,12,7/13/2022,6/26/2023,Canada,28,Female,Tablet,1 Month,Basic
+475,11,8/13/2022,6/26/2023,Germany,31,Female,Smart TV,1 Month,Basic
+136,12,9/13/2022,6/26/2023,France,41,Female,Smart TV,1 Month,Premium
+486,15,9/13/2022,6/26/2023,France,37,Female,Laptop,1 Month,Premium
+310,15,6/14/2022,6/26/2023,Italy,49,Female,Smartphone,1 Month,Premium
+397,11,7/14/2022,6/26/2023,Brazil,31,Female,Smartphone,1 Month,Basic
+248,13,9/15/2022,6/26/2023,Mexico,34,Male,Smartphone,1 Month,Standard
+166,13,4/16/2022,6/26/2023,France,42,Male,Laptop,1 Month,Premium
+452,12,6/16/2022,6/26/2023,Canada,42,Female,Laptop,1 Month,Premium
+287,10,10/16/2022,6/26/2023,Brazil,43,Male,Smartphone,1 Month,Basic
+260,10,7/17/2022,6/26/2023,Italy,27,Female,Smartphone,1 Month,Basic
+401,12,7/17/2022,6/26/2023,United States,47,Female,Laptop,1 Month,Premium
+144,10,8/17/2022,6/26/2023,Australia,33,Male,Smart TV,1 Month,Premium
+266,10,8/17/2022,6/26/2023,France,44,Male,Tablet,1 Month,Premium
+569,10,11/17/2022,6/26/2023,Australia,31,Female,Laptop,1 Month,Standard
+373,10,6/18/2022,6/26/2023,United Kingdom,44,Female,Tablet,1 Month,Standard
+135,13,7/18/2022,6/26/2023,Germany,47,Female,Smart TV,1 Month,Basic
+476,14,8/18/2022,6/26/2023,France,31,Female,Laptop,1 Month,Premium
+190,11,9/18/2022,6/26/2023,Italy,37,Female,Tablet,1 Month,Basic
+357,15,10/18/2022,6/26/2023,Brazil,39,Male,Smartphone,1 Month,Basic
+429,14,11/18/2022,6/26/2023,Spain,51,Male,Laptop,1 Month,Standard
+499,10,11/18/2022,6/26/2023,Spain,28,Female,Laptop,1 Month,Premium
+406,12,8/19/2022,6/26/2023,France,32,Female,Smartphone,1 Month,Premium
+178,13,10/19/2022,6/26/2023,Mexico,49,Female,Laptop,1 Month,Standard
+169,12,1/20/2023,6/26/2023,Spain,49,Male,Tablet,1 Month,Premium
+245,13,4/20/2022,6/26/2023,Germany,47,Male,Smart TV,1 Month,Basic
+255,13,5/20/2022,6/26/2023,Germany,46,Female,Smart TV,1 Month,Basic
+64,12,6/20/2022,6/26/2023,Australia,29,Male,Tablet,1 Month,Standard
+271,14,8/20/2022,6/26/2023,United States,41,Male,Laptop,1 Month,Premium
+546,10,8/20/2022,6/26/2023,Spain,31,Male,Smart TV,1 Month,Premium
+352,10,9/20/2022,6/26/2023,Canada,38,Male,Laptop,1 Month,Basic
+83,10,10/20/2022,6/26/2023,United Kingdom,46,Female,Smartphone,1 Month,Basic
+89,15,10/20/2022,6/26/2023,Spain,39,Male,Smartphone,1 Month,Basic
+359,11,11/20/2022,6/26/2023,Spain,41,Male,Smartphone,1 Month,Premium
+314,10,4/21/2022,6/26/2023,Australia,28,Male,Laptop,1 Month,Basic
+402,14,7/21/2022,6/26/2023,Canada,42,Male,Smartphone,1 Month,Basic
+159,10,12/21/2022,6/26/2023,Spain,51,Female,Smart TV,1 Month,Standard
+175,10,4/22/2022,6/26/2023,Germany,47,Female,Laptop,1 Month,Basic
+467,10,6/22/2022,6/26/2023,Brazil,47,Female,Laptop,1 Month,Basic
+332,14,7/22/2022,6/26/2023,Canada,31,Male,Tablet,1 Month,Basic
+319,14,8/22/2022,6/26/2023,Spain,32,Female,Smartphone,1 Month,Premium
+210,14,11/22/2022,6/26/2023,Italy,49,Female,Laptop,1 Month,Basic
+177,15,5/23/2022,6/26/2023,Brazil,27,Female,Smartphone,1 Month,Basic
+577,15,10/23/2022,6/26/2023,Spain,31,Male,Laptop,1 Month,Basic
+239,15,12/23/2022,6/26/2023,Spain,38,Male,Smart TV,1 Month,Basic
+305,13,5/24/2022,6/26/2023,Germany,47,Male,Smart TV,1 Month,Basic
+133,13,6/24/2022,6/26/2023,United Kingdom,47,Male,Smart TV,1 Month,Standard
+341,13,8/24/2022,6/26/2023,United States,44,Female,Laptop,1 Month,Premium
+413,13,8/24/2022,6/26/2023,United Kingdom,41,Female,Smartphone,1 Month,Standard
+507,15,10/24/2022,6/26/2023,Canada,49,Female,Tablet,1 Month,Basic
+34,12,5/25/2022,6/26/2023,Australia,29,Male,Smartphone,1 Month,Standard
+123,13,5/25/2022,6/26/2023,United Kingdom,49,Female,Smartphone,1 Month,Standard
+44,12,4/26/2022,6/26/2023,Australia,29,Male,Tablet,1 Month,Standard
+244,15,4/26/2022,6/26/2023,Australia,28,Male,Smartphone,1 Month,Premium
+183,15,5/26/2022,6/26/2023,United Kingdom,36,Female,Tablet,1 Month,Standard
+172,12,4/27/2022,6/26/2023,Canada,39,Female,Smartphone,1 Month,Basic
+312,12,5/27/2022,6/26/2023,Canada,50,Male,Laptop,1 Month,Premium
+240,13,6/27/2022,6/26/2023,Italy,38,Male,Smartphone,1 Month,Standard
+73,12,9/27/2022,6/26/2023,United Kingdom,28,Female,Laptop,1 Month,Standard
+226,10,9/27/2022,6/26/2023,France,35,Male,Smartphone,1 Month,Basic
+278,14,9/27/2022,6/26/2023,Mexico,34,Female,Laptop,1 Month,Standard
+75,13,5/28/2022,6/26/2023,Germany,28,Female,Laptop,1 Month,Basic
+212,11,10/28/2022,6/26/2023,Canada,36,Male,Smart TV,1 Month,Basic
+76,13,12/29/2021,6/26/2023,France,51,Female,Laptop,1 Month,Basic
+252,11,5/30/2022,6/26/2023,Canada,38,Female,Smartphone,1 Month,Basic
+256,12,5/30/2022,6/26/2023,France,34,Male,Tablet,1 Month,Premium
+54,12,6/30/2022,6/26/2023,Australia,29,Male,Smartphone,1 Month,Standard
+283,15,6/30/2022,6/26/2023,United Kingdom,46,Male,Smartphone,1 Month,Standard
+230,12,10/30/2022,6/26/2023,Italy,51,Male,Laptop,1 Month,Basic
+323,14,5/31/2022,6/26/2023,United Kingdom,40,Male,Smartphone,1 Month,Standard
+346,15,8/31/2022,6/26/2023,France,37,Male,Tablet,1 Month,Premium
+23,12,5/12/2021,6/27/2023,United Kingdom,49,Female,Smart TV,1 Month,Standard
+36,15,1/3/2022,6/27/2023,France,35,Male,Tablet,1 Month,Premium
+383,10,1/6/2022,6/27/2023,United Kingdom,49,Male,Smart TV,1 Month,Basic
+442,12,1/7/2022,6/27/2023,Canada,30,Female,Laptop,1 Month,Basic
+443,10,1/7/2022,6/27/2023,United Kingdom,36,Male,Smart TV,1 Month,Standard
+285,10,1/9/2022,6/27/2023,Germany,42,Female,Laptop,1 Month,Basic
+296,12,1/10/2022,6/27/2023,France,48,Female,Tablet,1 Month,Basic
+713,10,1/11/2022,6/27/2023,United States,30,Male,Laptop,1 Month,Standard
+320,15,2/8/2022,6/27/2023,Italy,30,Female,Laptop,1 Month,Basic
+215,13,2/9/2022,6/27/2023,Germany,50,Female,Smartphone,1 Month,Basic
+318,10,2/9/2022,6/27/2023,Mexico,39,Female,Laptop,1 Month,Standard
+616,14,2/9/2022,6/27/2023,France,38,Female,Laptop,1 Month,Premium
+295,14,3/10/2022,6/27/2023,Germany,45,Male,Laptop,1 Month,Basic
+635,13,3/10/2022,6/27/2023,Italy,29,Male,Laptop,1 Month,Basic
+298,14,3/11/2022,6/27/2023,Mexico,41,Male,Tablet,1 Month,Standard
+105,11,4/3/2022,6/27/2023,Germany,46,Female,Laptop,1 Month,Basic
+322,15,4/6/2022,6/27/2023,Canada,44,Male,Smartphone,1 Month,Basic
+456,14,4/6/2022,6/27/2023,France,41,Male,Tablet,1 Month,Premium
+525,14,4/6/2022,6/27/2023,Germany,44,Male,Tablet,1 Month,Basic
+533,14,4/6/2022,6/27/2023,United States,38,Male,Smartphone,1 Month,Basic
+201,11,4/7/2022,6/27/2023,United States,49,Female,Smart TV,1 Month,Premium
+479,13,4/9/2022,6/27/2023,Spain,38,Female,Smartphone,1 Month,Premium
+480,15,4/9/2022,6/27/2023,Italy,37,Female,Laptop,1 Month,Basic
+425,13,4/10/2022,6/27/2023,Germany,38,Male,Tablet,1 Month,Basic
+228,10,4/11/2022,6/27/2023,Mexico,39,Male,Smart TV,1 Month,Standard
+229,13,4/11/2022,6/27/2023,Spain,29,Male,Smartphone,1 Month,Standard
+291,13,4/12/2022,6/27/2023,United States,29,Female,Tablet,1 Month,Premium
+380,15,5/8/2022,6/27/2023,Italy,27,Female,Smart TV,1 Month,Basic
+547,10,5/9/2022,6/27/2023,Spain,39,Male,Tablet,1 Month,Basic
+548,12,5/9/2022,6/27/2023,United States,51,Female,Smartphone,1 Month,Standard
+549,10,5/9/2022,6/27/2023,Canada,38,Female,Smartphone,1 Month,Standard
+620,11,5/9/2022,6/27/2023,Italy,41,Female,Smartphone,1 Month,Basic
+603,15,6/6/2022,6/27/2023,Mexico,46,Female,Tablet,1 Month,Standard
+306,13,6/7/2022,6/27/2023,France,45,Male,Tablet,1 Month,Premium
+599,15,6/7/2022,6/27/2023,Australia,44,Male,Smart TV,1 Month,Premium
+450,14,6/8/2022,6/27/2023,Italy,49,Male,Laptop,1 Month,Basic
+372,11,6/9/2022,6/27/2023,Canada,31,Female,Tablet,1 Month,Basic
+550,11,6/9/2022,6/27/2023,United States,29,Female,Tablet,1 Month,Basic
+128,12,6/10/2022,6/27/2023,Mexico,48,Male,Smartphone,1 Month,Standard
+43,12,7/2/2022,6/27/2023,United Kingdom,36,Female,Smart TV,1 Month,Standard
+16,15,7/4/2022,6/27/2023,France,36,Male,Tablet,1 Month,Premium
+311,15,7/6/2022,6/27/2023,United States,29,Female,Smartphone,1 Month,Basic
+466,10,7/6/2022,6/27/2023,France,33,Male,Laptop,1 Month,Premium
+247,12,7/7/2022,6/27/2023,Brazil,27,Male,Smart TV,1 Month,Basic
+529,11,7/7/2022,6/27/2023,Spain,50,Female,Laptop,1 Month,Standard
+118,12,7/8/2022,6/27/2023,Mexico,33,Male,Smartphone,1 Month,Standard
+518,15,7/8/2022,6/27/2023,United States,37,Female,Tablet,1 Month,Standard
+588,11,7/8/2022,6/27/2023,Mexico,31,Male,Smartphone,1 Month,Standard
+471,15,8/7/2022,6/27/2023,United States,43,Male,Tablet,1 Month,Premium
+267,11,8/9/2022,6/27/2023,Brazil,44,Female,Laptop,1 Month,Basic
+478,10,8/9/2022,6/27/2023,Mexico,32,Male,Laptop,1 Month,Standard
+362,11,8/12/2022,6/27/2023,Canada,31,Male,Laptop,1 Month,Basic
+673,15,9/6/2022,6/27/2023,United Kingdom,37,Male,Smartphone,1 Month,Standard
+264,10,9/8/2022,6/27/2023,Australia,51,Male,Smartphone,1 Month,Premium
+396,14,10/6/2022,6/27/2023,France,30,Female,Smartphone,1 Month,Premium
+141,12,11/5/2022,6/27/2023,United States,42,Male,Smartphone,1 Month,Premium
+326,11,11/6/2022,6/27/2023,France,30,Male,Smartphone,1 Month,Premium
+225,14,11/10/2022,6/27/2023,Germany,48,Female,Smartphone,1 Month,Basic
+337,13,11/10/2022,6/27/2023,Brazil,36,Male,Laptop,1 Month,Basic
+26,15,12/1/2022,6/27/2023,France,29,Male,Smartphone,1 Month,Premium
+448,14,12/8/2022,6/27/2023,Mexico,48,Male,Tablet,1 Month,Standard
+423,15,12/9/2022,6/27/2023,United Kingdom,41,Male,Smartphone,1 Month,Standard
+355,15,12/10/2022,6/27/2023,Germany,32,Female,Tablet,1 Month,Basic
+292,11,12/12/2022,6/27/2023,Canada,43,Female,Laptop,1 Month,Basic
+85,10,6/4/2023,6/27/2023,Germany,37,Female,Laptop,1 Month,Premium
+154,11,11/3/2023,6/27/2023,Australia,27,Male,Laptop,1 Month,Standard
+53,12,1/13/2022,6/27/2023,United Kingdom,41,Female,Laptop,1 Month,Standard
+400,14,7/13/2022,6/27/2023,Italy,49,Male,Laptop,1 Month,Basic
+472,10,7/13/2022,6/27/2023,Canada,32,Female,Tablet,1 Month,Basic
+541,10,7/13/2022,6/27/2023,France,31,Male,Smart TV,1 Month,Premium
+378,14,8/13/2022,6/27/2023,Mexico,47,Female,Laptop,1 Month,Standard
+365,11,10/13/2022,6/27/2023,Germany,36,Male,Laptop,1 Month,Basic
+280,12,11/13/2022,6/27/2023,Italy,34,Female,Laptop,1 Month,Basic
+607,14,6/14/2022,6/27/2023,Spain,27,Female,Smart TV,1 Month,Standard
+111,14,7/14/2022,6/27/2023,United States,40,Male,Tablet,1 Month,Premium
+381,10,7/14/2022,6/27/2023,United States,43,Female,Laptop,1 Month,Premium
+302,11,9/14/2022,6/27/2023,Canada,44,Male,Tablet,1 Month,Premium
+286,14,10/14/2022,6/27/2023,France,50,Female,Laptop,1 Month,Premium
+56,15,3/15/2022,6/27/2023,France,36,Male,Tablet,1 Month,Premium
+531,14,6/15/2022,6/27/2023,Spain,30,Female,Laptop,1 Month,Premium
+398,13,7/15/2022,6/27/2023,Mexico,51,Female,Tablet,1 Month,Standard
+615,13,8/15/2022,6/27/2023,Germany,43,Male,Smart TV,1 Month,Standard
+338,12,10/15/2022,6/27/2023,Mexico,33,Male,Tablet,1 Month,Standard
+211,15,11/15/2022,6/27/2023,United States,40,Male,Tablet,1 Month,Premium
+181,15,6/16/2022,6/27/2023,United States,33,Male,Smartphone,1 Month,Premium
+461,11,6/16/2022,6/27/2023,United States,37,Male,Smart TV,1 Month,Basic
+188,15,7/16/2022,6/27/2023,Mexico,44,Female,Smart TV,1 Month,Standard
+249,14,9/16/2022,6/27/2023,Spain,42,Female,Smartphone,1 Month,Standard
+522,14,6/17/2022,6/27/2023,Canada,32,Female,Tablet,1 Month,Basic
+537,10,6/17/2022,6/27/2023,Canada,38,Male,Smartphone,1 Month,Premium
+612,11,7/17/2022,6/27/2023,Canada,36,Male,Smart TV,1 Month,Premium
+545,14,8/17/2022,6/27/2023,Italy,29,Male,Smart TV,1 Month,Basic
+149,13,11/17/2022,6/27/2023,Spain,46,Female,Smart TV,1 Month,Premium
+6,15,3/18/2022,6/27/2023,France,29,Female,Smart TV,1 Month,Premium
+493,11,9/18/2022,6/27/2023,United Kingdom,35,Female,Smartphone,1 Month,Standard
+198,10,10/18/2022,6/27/2023,Mexico,49,Female,Laptop,1 Month,Standard
+155,14,11/18/2022,6/27/2023,Germany,28,Male,Tablet,1 Month,Basic
+573,12,11/18/2022,6/27/2023,Mexico,37,Female,Smart TV,1 Month,Standard
+459,10,7/19/2022,6/27/2023,Spain,46,Female,Tablet,1 Month,Standard
+194,14,8/19/2022,6/27/2023,Australia,37,Male,Laptop,1 Month,Standard
+254,12,5/20/2022,6/27/2023,Australia,48,Female,Smart TV,1 Month,Premium
+376,12,6/20/2022,6/27/2023,France,39,Female,Smartphone,1 Month,Basic
+33,12,1/21/2022,6/27/2023,United Kingdom,41,Female,Laptop,1 Month,Standard
+414,14,8/21/2022,6/27/2023,Australia,47,Female,Laptop,1 Month,Premium
+418,14,10/21/2022,6/27/2023,Mexico,47,Female,Smart TV,1 Month,Standard
+324,15,5/22/2022,6/27/2023,Australia,32,Male,Tablet,1 Month,Standard
+385,15,5/22/2022,6/27/2023,Germany,44,Male,Smartphone,1 Month,Premium
+321,12,6/22/2022,6/27/2023,United States,33,Female,Smartphone,1 Month,Premium
+46,15,2/23/2022,6/27/2023,France,34,Male,Smartphone,1 Month,Premium
+63,12,2/23/2022,6/27/2023,United Kingdom,41,Female,Smart TV,1 Month,Standard
+391,13,6/23/2022,6/27/2023,United States,42,Male,Laptop,1 Month,Premium
+682,11,7/23/2022,6/27/2023,Spain,42,Male,Tablet,1 Month,Standard
+439,12,10/23/2022,6/27/2023,Spain,37,Female,Smart TV,1 Month,Standard
+152,14,11/23/2022,6/27/2023,Canada,33,Female,Tablet,1 Month,Premium
+333,15,7/24/2022,6/27/2023,United Kingdom,43,Female,Smart TV,1 Month,Standard
+477,10,8/24/2022,6/27/2023,Brazil,50,Male,Laptop,1 Month,Basic
+556,14,9/24/2022,6/27/2023,France,34,Male,Smartphone,1 Month,Premium
+243,11,5/25/2022,6/27/2023,United Kingdom,33,Male,Laptop,1 Month,Standard
+251,15,6/25/2022,6/27/2023,United States,30,Male,Laptop,1 Month,Premium
+483,14,8/25/2022,6/27/2023,United Kingdom,28,Male,Smart TV,1 Month,Standard
+369,12,10/25/2022,6/27/2023,Spain,46,Female,Smartphone,1 Month,Premium
+234,14,5/26/2022,6/27/2023,Australia,44,Female,Laptop,1 Month,Standard
+192,14,6/26/2022,6/27/2023,Canada,50,Female,Smartphone,1 Month,Basic
+202,12,6/26/2022,6/27/2023,Canada,31,Female,Tablet,1 Month,Basic
+328,12,7/26/2022,6/27/2023,Mexico,45,Female,Tablet,1 Month,Standard
+542,14,7/26/2022,6/27/2023,Brazil,41,Male,Smartphone,1 Month,Basic
+407,12,8/26/2022,6/27/2023,Brazil,37,Female,Tablet,1 Month,Basic
+220,12,11/26/2022,6/27/2023,Italy,29,Male,Tablet,1 Month,Basic
+313,13,5/27/2022,6/27/2023,United Kingdom,36,Female,Laptop,1 Month,Standard
+482,11,8/27/2022,6/27/2023,Canada,30,Male,Smart TV,1 Month,Basic
+408,13,9/27/2022,6/27/2023,Mexico,37,Female,Tablet,1 Month,Standard
+308,13,10/27/2022,6/27/2023,Mexico,31,Male,Smart TV,1 Month,Basic
+3,12,2/28/2023,6/27/2023,United Kingdom,42,Male,Smart TV,1 Month,Standard
+315,15,4/28/2022,6/27/2023,Germany,47,Female,Smart TV,1 Month,Standard
+468,11,6/28/2022,6/27/2023,Mexico,32,Male,Smart TV,1 Month,Standard
+643,11,10/28/2022,6/27/2023,United Kingdom,50,Female,Smartphone,1 Month,Standard
+325,13,5/29/2022,6/27/2023,Germany,32,Male,Tablet,1 Month,Basic
+552,13,8/29/2022,6/27/2023,Canada,48,Female,Tablet,1 Month,Basic
+565,12,9/29/2022,6/27/2023,United States,29,Male,Laptop,1 Month,Basic
+66,15,1/30/2022,6/27/2023,France,29,Male,Smartphone,1 Month,Premium
+394,14,5/30/2022,6/27/2023,Australia,41,Female,Tablet,1 Month,Premium
+232,11,8/30/2022,6/27/2023,Canada,28,Male,Smartphone,1 Month,Standard
+495,13,9/30/2022,6/27/2023,Germany,39,Male,Smartphone,1 Month,Basic
+299,10,10/30/2022,6/27/2023,Spain,27,Male,Smartphone,1 Month,Premium
+419,11,10/30/2022,6/27/2023,Spain,27,Female,Laptop,1 Month,Standard
+13,12,11/30/2021,6/27/2023,United Kingdom,48,Female,Laptop,1 Month,Standard
+241,13,5/31/2022,6/27/2023,United States,47,Male,Laptop,1 Month,Premium
+455,11,5/31/2022,6/27/2023,Germany,31,Female,Smart TV,1 Month,Basic
+112,10,1/6/2022,6/28/2023,Canada,33,Female,Laptop,1 Month,Basic
+404,13,1/8/2022,6/28/2023,Australia,28,Male,Smartphone,1 Month,Premium
+485,14,1/9/2022,6/28/2023,Germany,28,Female,Tablet,1 Month,Basic
+281,12,2/11/2022,6/28/2023,United States,33,Female,Smart TV,1 Month,Premium
+350,10,2/11/2022,6/28/2023,Italy,44,Female,Smartphone,1 Month,Basic
+351,11,2/11/2022,6/28/2023,United States,34,Female,Smart TV,1 Month,Premium
+420,10,2/11/2022,6/28/2023,Italy,28,Male,Laptop,1 Month,Basic
+122,11,3/5/2022,6/28/2023,Canada,51,Male,Smart TV,1 Month,Basic
+392,15,3/6/2022,6/28/2023,Canada,28,Male,Smart TV,1 Month,Basic
+464,13,3/6/2022,6/28/2023,Australia,45,Male,Laptop,1 Month,Basic
+532,11,3/6/2022,6/28/2023,Spain,38,Male,Laptop,1 Month,Standard
+390,13,3/7/2022,6/28/2023,Italy,43,Female,Laptop,1 Month,Standard
+470,15,3/7/2022,6/28/2023,Italy,31,Female,Tablet,1 Month,Basic
+62,10,3/8/2022,6/28/2023,Canada,37,Male,Smartphone,1 Month,Basic
+520,13,3/8/2022,6/28/2023,United States,32,Male,Smart TV,1 Month,Basic
+551,13,3/9/2022,6/28/2023,United States,41,Female,Laptop,1 Month,Premium
+688,10,3/9/2022,6/28/2023,United Kingdom,42,Male,Smartphone,1 Month,Standard
+284,14,4/8/2022,6/28/2023,Australia,39,Female,Smartphone,1 Month,Premium
+705,13,4/10/2022,6/28/2023,Germany,32,Male,Laptop,1 Month,Basic
+771,14,4/10/2022,6/28/2023,Spain,27,Male,Tablet,1 Month,Premium
+431,15,4/12/2022,6/28/2023,United States,28,Male,Smart TV,1 Month,Premium
+92,14,5/1/2022,6/28/2023,Canada,39,Male,Smart TV,1 Month,Basic
+534,11,5/6/2022,6/28/2023,Canada,39,Female,Smart TV,1 Month,Standard
+617,11,5/9/2022,6/28/2023,Brazil,45,Female,Smartphone,1 Month,Basic
+441,13,5/10/2022,6/28/2023,United States,48,Female,Laptop,1 Month,Premium
+524,15,6/6/2022,6/28/2023,Australia,31,Male,Tablet,1 Month,Premium
+513,10,6/7/2022,6/28/2023,Mexico,50,Male,Tablet,1 Month,Standard
+517,12,6/8/2022,6/28/2023,Spain,34,Female,Smart TV,1 Month,Basic
+519,10,6/8/2022,6/28/2023,Canada,43,Male,Smartphone,1 Month,Premium
+618,10,6/9/2022,6/28/2023,Mexico,28,Female,Smart TV,1 Month,Standard
+98,13,7/3/2022,6/28/2023,Mexico,31,Female,Tablet,1 Month,Standard
+604,15,7/6/2022,6/28/2023,Spain,33,Male,Smartphone,1 Month,Standard
+32,10,7/7/2022,6/28/2023,Canada,37,Male,Tablet,1 Month,Basic
+514,14,7/7/2022,6/28/2023,Spain,35,Male,Tablet,1 Month,Standard
+449,10,7/8/2022,6/28/2023,Spain,37,Female,Laptop,1 Month,Premium
+587,14,7/8/2022,6/28/2023,Brazil,39,Male,Smart TV,1 Month,Basic
+491,12,7/10/2022,6/28/2023,United States,28,Female,Smartphone,1 Month,Premium
+709,12,7/11/2022,6/28/2023,Spain,48,Female,Smart TV,1 Month,Standard
+779,10,7/11/2022,6/28/2023,Australia,36,Female,Smart TV,1 Month,Premium
+82,12,7/12/2022,6/28/2023,Canada,35,Male,Laptop,1 Month,Standard
+307,11,8/7/2022,6/28/2023,Brazil,29,Female,Smart TV,1 Month,Standard
+544,14,8/8/2022,6/28/2023,Spain,49,Male,Tablet,1 Month,Premium
+488,11,8/10/2022,6/28/2023,Mexico,33,Female,Smart TV,1 Month,Standard
+309,11,9/8/2022,6/28/2023,Spain,31,Male,Smartphone,1 Month,Standard
+462,15,10/6/2022,6/28/2023,Canada,45,Male,Smartphone,1 Month,Premium
+674,13,10/6/2022,6/28/2023,Australia,37,Female,Laptop,1 Month,Premium
+743,15,10/6/2022,6/28/2023,United States,31,Female,Laptop,1 Month,Standard
+527,10,10/7/2022,6/28/2023,Brazil,48,Female,Tablet,1 Month,Premium
+595,10,11/6/2022,6/28/2023,United States,49,Male,Laptop,1 Month,Basic
+813,10,11/6/2022,6/28/2023,Mexico,50,Male,Smartphone,1 Month,Standard
+611,15,11/7/2022,6/28/2023,United States,29,Female,Smartphone,1 Month,Basic
+447,15,11/8/2022,6/28/2023,Brazil,36,Female,Laptop,1 Month,Basic
+358,12,11/11/2022,6/28/2023,Mexico,34,Female,Smart TV,1 Month,Standard
+168,10,11/12/2022,6/28/2023,Mexico,29,Male,Tablet,1 Month,Standard
+374,10,12/6/2022,6/28/2023,Australia,39,Female,Laptop,1 Month,Premium
+379,10,12/8/2022,6/28/2023,Spain,46,Female,Smart TV,1 Month,Standard
+5,10,1/5/2023,6/28/2023,Germany,33,Male,Smartphone,1 Month,Basic
+15,12,9/5/2023,6/28/2023,Germany,38,Female,Smart TV,1 Month,Standard
+35,10,11/4/2023,6/28/2023,Germany,39,Female,Smart TV,1 Month,Basic
+512,15,7/13/2022,6/28/2023,Brazil,32,Male,Tablet,1 Month,Basic
+555,11,9/13/2022,6/28/2023,Germany,37,Female,Smartphone,1 Month,Basic
+25,10,3/14/2023,6/28/2023,Germany,40,Female,Laptop,1 Month,Basic
+584,14,7/14/2022,6/28/2023,Australia,48,Female,Smart TV,1 Month,Premium
+614,15,8/14/2022,6/28/2023,Australia,51,Male,Smartphone,1 Month,Basic
+42,10,6/15/2022,6/28/2023,Canada,40,Male,Smartphone,1 Month,Basic
+218,12,11/15/2022,6/28/2023,Mexico,27,Male,Tablet,1 Month,Standard
+258,11,7/16/2022,6/28/2023,Mexico,41,Female,Smartphone,1 Month,Standard
+582,12,7/16/2022,6/28/2023,Canada,43,Female,Laptop,1 Month,Basic
+681,11,7/16/2022,6/28/2023,Spain,33,Male,Laptop,1 Month,Premium
+354,10,8/16/2022,6/28/2023,Australia,40,Female,Laptop,1 Month,Standard
+268,13,10/16/2022,6/28/2023,Mexico,34,Female,Smart TV,1 Month,Standard
+421,14,10/16/2022,6/28/2023,United States,33,Male,Tablet,1 Month,Premium
+579,12,10/16/2022,6/28/2023,Canada,35,Female,Tablet,1 Month,Standard
+568,11,11/16/2022,6/28/2023,United Kingdom,27,Female,Laptop,1 Month,Standard
+375,14,6/17/2022,6/28/2023,Germany,44,Female,Laptop,1 Month,Basic
+677,13,6/17/2022,6/28/2023,Brazil,36,Male,Smart TV,1 Month,Premium
+238,15,7/17/2022,6/28/2023,Mexico,48,Male,Smartphone,1 Month,Standard
+583,15,7/17/2022,6/28/2023,United Kingdom,38,Female,Tablet,1 Month,Standard
+654,12,7/17/2022,6/28/2023,Canada,30,Female,Smartphone,1 Month,Standard
+435,11,10/17/2022,6/28/2023,Germany,39,Female,Smart TV,1 Month,Basic
+648,10,10/17/2022,6/28/2023,Mexico,38,Female,Smartphone,1 Month,Standard
+428,12,11/17/2022,6/28/2023,Mexico,45,Male,Smartphone,1 Month,Standard
+498,11,11/17/2022,6/28/2023,Mexico,41,Female,Smartphone,1 Month,Standard
+639,10,11/17/2022,6/28/2023,Canada,37,Female,Laptop,1 Month,Premium
+521,15,6/18/2022,6/28/2023,United States,33,Female,Smart TV,1 Month,Basic
+596,14,6/18/2022,6/28/2023,United States,29,Female,Smart TV,1 Month,Basic
+665,10,6/18/2022,6/28/2023,Italy,38,Male,Smartphone,1 Month,Basic
+451,12,7/18/2022,6/28/2023,United States,31,Female,Laptop,1 Month,Basic
+686,14,8/18/2022,6/28/2023,United States,37,Male,Tablet,1 Month,Basic
+78,15,11/18/2022,6/28/2023,Mexico,49,Male,Tablet,1 Month,Standard
+384,10,5/19/2022,6/28/2023,Australia,35,Female,Smartphone,1 Month,Standard
+538,14,6/19/2022,6/28/2023,United Kingdom,40,Female,Tablet,1 Month,Standard
+591,14,6/19/2022,6/28/2023,Spain,35,Female,Smart TV,1 Month,Premium
+669,13,6/19/2022,6/28/2023,Canada,27,Female,Tablet,1 Month,Premium
+387,11,7/19/2022,6/28/2023,Brazil,39,Female,Tablet,1 Month,Premium
+158,13,10/19/2022,6/28/2023,Mexico,47,Female,Smartphone,1 Month,Basic
+559,13,10/19/2022,6/28/2023,Spain,51,Female,Tablet,1 Month,Standard
+55,10,4/20/2023,6/28/2023,Germany,39,Female,Smart TV,1 Month,Basic
+526,11,6/20/2022,6/28/2023,France,49,Male,Laptop,1 Month,Basic
+625,15,9/20/2022,6/28/2023,United States,33,Male,Tablet,1 Month,Basic
+288,14,10/20/2022,6/28/2023,Mexico,51,Male,Smart TV,1 Month,Standard
+775,11,10/20/2022,6/28/2023,United States,29,Male,Tablet,1 Month,Basic
+739,13,6/21/2022,6/28/2023,Spain,27,Male,Smartphone,1 Month,Standard
+388,12,7/21/2022,6/28/2023,Mexico,38,Male,Laptop,1 Month,Standard
+347,14,9/21/2022,6/28/2023,Brazil,29,Male,Smartphone,1 Month,Basic
+631,14,9/21/2022,6/28/2023,France,31,Male,Smartphone,1 Month,Premium
+695,13,9/21/2022,6/28/2023,Italy,28,Male,Laptop,1 Month,Basic
+505,11,10/21/2022,6/28/2023,United States,35,Male,Smartphone,1 Month,Basic
+509,10,10/21/2022,6/28/2023,Australia,40,Male,Smartphone,1 Month,Premium
+530,14,6/22/2022,6/28/2023,Italy,49,Female,Smart TV,1 Month,Basic
+608,12,6/22/2022,6/28/2023,United States,48,Female,Smart TV,1 Month,Basic
+809,10,6/22/2022,6/28/2023,Australia,28,Male,Smartphone,1 Month,Premium
+22,10,7/22/2022,6/28/2023,Canada,34,Male,Smartphone,1 Month,Basic
+501,14,11/22/2022,6/28/2023,Spain,43,Male,Smartphone,1 Month,Premium
+12,15,3/23/2023,6/28/2023,Canada,45,Male,Tablet,1 Month,Premium
+403,13,7/23/2022,6/28/2023,United Kingdom,28,Male,Smartphone,1 Month,Standard
+508,12,10/23/2022,6/28/2023,United Kingdom,42,Female,Tablet,1 Month,Standard
+578,13,10/23/2022,6/28/2023,United States,29,Female,Laptop,1 Month,Standard
+132,15,6/24/2022,6/28/2023,Canada,48,Female,Smart TV,1 Month,Basic
+445,12,6/24/2022,6/28/2023,Germany,41,Male,Tablet,1 Month,Basic
+735,14,6/24/2022,6/28/2023,Germany,40,Male,Laptop,1 Month,Basic
+458,10,7/24/2022,6/28/2023,Mexico,27,Male,Tablet,1 Month,Basic
+752,10,7/24/2022,6/28/2023,Brazil,28,Female,Smartphone,1 Month,Premium
+701,11,9/24/2022,6/28/2023,United States,45,Male,Smart TV,1 Month,Premium
+368,13,10/24/2022,6/28/2023,Mexico,28,Male,Smartphone,1 Month,Standard
+438,12,10/24/2022,6/28/2023,Mexico,35,Male,Smart TV,1 Month,Standard
+444,10,6/25/2022,6/28/2023,Australia,50,Female,Smartphone,1 Month,Premium
+317,15,8/25/2022,6/28/2023,Brazil,44,Female,Tablet,1 Month,Basic
+484,13,8/25/2022,6/28/2023,Australia,40,Male,Smartphone,1 Month,Standard
+575,13,10/25/2022,6/28/2023,Italy,38,Female,Smart TV,1 Month,Basic
+647,15,10/25/2022,6/28/2023,Brazil,32,Male,Smart TV,1 Month,Basic
+361,12,11/25/2022,6/28/2023,United States,36,Female,Laptop,1 Month,Premium
+511,11,7/26/2022,6/28/2023,France,44,Female,Smart TV,1 Month,Premium
+489,11,10/26/2022,6/28/2023,Spain,49,Male,Tablet,1 Month,Premium
+597,13,6/27/2022,6/28/2023,Canada,50,Male,Laptop,1 Month,Basic
+661,14,6/27/2022,6/28/2023,France,49,Female,Laptop,1 Month,Premium
+678,15,6/27/2022,6/28/2023,Mexico,42,Female,Smart TV,1 Month,Standard
+805,15,6/27/2022,6/28/2023,United States,39,Female,Laptop,1 Month,Basic
+473,10,7/27/2022,6/28/2023,United Kingdom,46,Female,Smartphone,1 Month,Standard
+543,11,7/27/2022,6/28/2023,Mexico,37,Male,Smartphone,1 Month,Standard
+613,12,7/27/2022,6/28/2023,United Kingdom,51,Male,Laptop,1 Month,Standard
+377,12,8/27/2022,6/28/2023,Brazil,37,Male,Laptop,1 Month,Premium
+553,14,8/27/2022,6/28/2023,United Kingdom,39,Male,Smart TV,1 Month,Standard
+88,12,9/27/2022,6/28/2023,Mexico,47,Male,Tablet,1 Month,Standard
+148,15,11/27/2022,6/28/2023,Mexico,39,Female,Smartphone,1 Month,Standard
+45,10,1/28/2023,6/28/2023,Germany,43,Female,Laptop,1 Month,Basic
+454,15,5/28/2022,6/28/2023,Australia,51,Female,Tablet,1 Month,Standard
+446,14,6/28/2022,6/28/2023,France,46,Female,Smartphone,1 Month,Basic
+334,11,7/28/2022,6/28/2023,Australia,34,Male,Smart TV,1 Month,Standard
+102,12,3/29/2022,6/28/2023,Canada,31,Male,Tablet,1 Month,Basic
+65,10,3/29/2023,6/28/2023,Germany,40,Female,Laptop,1 Month,Basic
+457,14,6/29/2022,6/28/2023,Brazil,40,Male,Smart TV,1 Month,Standard
+52,10,8/29/2022,6/28/2023,Canada,37,Male,Tablet,1 Month,Basic
+622,12,8/29/2022,6/28/2023,Spain,35,Male,Smartphone,1 Month,Basic
+453,11,5/30/2022,6/28/2023,United Kingdom,45,Female,Tablet,1 Month,Standard
+214,13,6/30/2022,6/28/2023,Australia,43,Female,Laptop,1 Month,Standard
+460,10,6/30/2022,6/28/2023,Italy,30,Female,Smart TV,1 Month,Premium
+748,13,6/30/2022,6/28/2023,United Kingdom,40,Male,Smart TV,1 Month,Standard
+818,13,6/30/2022,6/28/2023,United States,40,Male,Tablet,1 Month,Standard
+474,14,7/30/2022,6/28/2023,Australia,38,Male,Smartphone,1 Month,Standard
+623,13,8/30/2022,6/28/2023,United States,29,Female,Smart TV,1 Month,Standard
+561,14,9/30/2022,6/28/2023,Spain,29,Female,Laptop,1 Month,Premium
+300,11,10/30/2022,6/28/2023,Italy,36,Male,Laptop,1 Month,Basic
+516,14,7/31/2022,6/28/2023,Spain,42,Female,Smart TV,1 Month,Premium
+515,15,1/7/2022,6/29/2023,Italy,44,Female,Laptop,1 Month,Basic
+724,14,1/8/2022,6/29/2023,Spain,44,Male,Laptop,1 Month,Premium
+725,12,1/8/2022,6/29/2023,Italy,29,Female,Tablet,1 Month,Basic
+691,11,1/9/2022,6/29/2023,France,28,Female,Laptop,1 Month,Premium
+693,14,1/9/2022,6/29/2023,Mexico,31,Female,Tablet,1 Month,Standard
+829,10,1/9/2022,6/29/2023,Spain,31,Male,Tablet,1 Month,Standard
+899,15,1/9/2022,6/29/2023,Australia,37,Male,Laptop,1 Month,Premium
+783,13,1/11/2022,6/29/2023,Mexico,37,Female,Laptop,1 Month,Standard
+539,12,2/7/2022,6/29/2023,Australia,30,Female,Tablet,1 Month,Basic
+581,10,2/8/2022,6/29/2023,United States,29,Female,Laptop,1 Month,Premium
+831,10,2/9/2022,6/29/2023,Spain,35,Male,Smartphone,1 Month,Premium
+540,10,3/7/2022,6/29/2023,Germany,40,Male,Smartphone,1 Month,Standard
+609,14,3/7/2022,6/29/2023,Canada,50,Female,Smartphone,1 Month,Standard
+657,14,3/8/2022,6/29/2023,Canada,34,Female,Smart TV,1 Month,Basic
+659,13,3/8/2022,6/29/2023,Australia,41,Male,Laptop,1 Month,Premium
+683,13,3/8/2022,6/29/2023,United States,39,Male,Smartphone,1 Month,Basic
+719,10,3/9/2022,6/29/2023,Australia,33,Female,Tablet,1 Month,Standard
+787,12,3/10/2022,6/29/2023,Spain,49,Female,Laptop,1 Month,Basic
+589,15,4/8/2022,6/29/2023,Spain,28,Male,Laptop,1 Month,Standard
+658,13,4/8/2022,6/29/2023,United Kingdom,49,Female,Smart TV,1 Month,Standard
+727,11,4/8/2022,6/29/2023,Spain,32,Female,Laptop,1 Month,Basic
+728,14,4/8/2022,6/29/2023,United States,39,Male,Laptop,1 Month,Standard
+689,15,4/9/2022,6/29/2023,Australia,37,Female,Smart TV,1 Month,Basic
+758,12,4/9/2022,6/29/2023,United States,47,Male,Laptop,1 Month,Basic
+602,14,5/6/2022,6/29/2023,Brazil,30,Male,Smartphone,1 Month,Premium
+598,12,5/7/2022,6/29/2023,United Kingdom,29,Female,Tablet,1 Month,Standard
+610,13,5/7/2022,6/29/2023,United States,28,Female,Tablet,1 Month,Premium
+679,11,5/7/2022,6/29/2023,Spain,49,Male,Laptop,1 Month,Standard
+759,14,5/9/2022,6/29/2023,Canada,37,Male,Smart TV,1 Month,Standard
+487,15,5/10/2022,6/29/2023,Brazil,30,Male,Smart TV,1 Month,Basic
+557,15,5/10/2022,6/29/2023,Brazil,37,Male,Smartphone,1 Month,Basic
+593,11,6/6/2022,6/29/2023,United States,41,Male,Smartphone,1 Month,Standard
+586,15,6/8/2022,6/29/2023,France,51,Female,Laptop,1 Month,Premium
+619,11,6/9/2022,6/29/2023,Spain,27,Male,Smartphone,1 Month,Premium
+621,14,6/9/2022,6/29/2023,Spain,49,Male,Smart TV,1 Month,Premium
+510,15,6/10/2022,6/29/2023,Germany,43,Female,Tablet,1 Month,Basic
+697,12,6/10/2022,6/29/2023,Spain,43,Male,Smart TV,1 Month,Basic
+837,12,6/10/2022,6/29/2023,Canada,46,Female,Smart TV,1 Month,Premium
+841,13,6/10/2022,6/29/2023,France,42,Male,Smartphone,1 Month,Premium
+523,13,7/6/2022,6/29/2023,United Kingdom,41,Male,Smartphone,1 Month,Standard
+535,15,7/6/2022,6/29/2023,United States,42,Female,Laptop,1 Month,Premium
+680,15,7/7/2022,6/29/2023,Italy,44,Female,Laptop,1 Month,Basic
+767,15,7/10/2022,6/29/2023,Brazil,39,Male,Laptop,1 Month,Basic
+670,10,8/6/2022,6/29/2023,United States,38,Male,Smart TV,1 Month,Basic
+911,13,8/10/2022,6/29/2023,United States,29,Male,Smart TV,1 Month,Basic
+567,14,8/11/2022,6/29/2023,Canada,36,Male,Smart TV,1 Month,Basic
+592,15,9/6/2022,6/29/2023,Spain,33,Male,Smartphone,1 Month,Basic
+810,13,9/6/2022,6/29/2023,Germany,38,Male,Smartphone,1 Month,Basic
+750,13,9/7/2022,6/29/2023,Germany,47,Male,Smart TV,1 Month,Basic
+580,14,9/8/2022,6/29/2023,United States,46,Female,Tablet,1 Month,Basic
+497,11,9/11/2022,6/29/2023,Brazil,44,Male,Smartphone,1 Month,Basic
+605,15,10/6/2022,6/29/2023,Italy,46,Female,Tablet,1 Month,Basic
+754,11,10/8/2022,6/29/2023,Spain,41,Male,Laptop,1 Month,Standard
+440,11,10/10/2022,6/29/2023,Italy,47,Male,Tablet,1 Month,Basic
+304,12,11/6/2022,6/29/2023,Australia,33,Female,Smartphone,1 Month,Standard
+675,11,11/6/2022,6/29/2023,Germany,39,Female,Tablet,1 Month,Basic
+744,13,11/6/2022,6/29/2023,Canada,34,Female,Tablet,1 Month,Premium
+684,10,11/8/2022,6/29/2023,Canada,49,Male,Smartphone,1 Month,Standard
+919,15,11/11/2022,6/29/2023,Spain,40,Male,Smartphone,1 Month,Premium
+814,10,12/6/2022,6/29/2023,Spain,38,Male,Smartphone,1 Month,Standard
+364,14,12/10/2022,6/29/2023,Australia,48,Male,Smart TV,1 Month,Standard
+629,11,12/10/2022,6/29/2023,Australia,39,Male,Tablet,1 Month,Premium
+849,10,12/11/2022,6/29/2023,Canada,30,Female,Smart TV,1 Month,Standard
+606,14,6/13/2022,6/29/2023,Spain,50,Male,Tablet,1 Month,Premium
+663,11,6/13/2022,6/29/2023,Mexico,36,Male,Tablet,1 Month,Standard
+676,11,6/13/2022,6/29/2023,France,31,Male,Smartphone,1 Month,Basic
+883,15,6/13/2022,6/29/2023,United Kingdom,28,Female,Tablet,1 Month,Standard
+884,11,6/13/2022,6/29/2023,Australia,50,Male,Tablet,1 Month,Premium
+528,13,7/13/2022,6/29/2023,Mexico,42,Female,Smartphone,1 Month,Standard
+821,12,7/13/2022,6/29/2023,United States,35,Female,Laptop,1 Month,Basic
+781,14,11/13/2022,6/29/2023,France,30,Female,Smartphone,1 Month,Premium
+536,10,6/14/2022,6/29/2023,United States,28,Male,Smart TV,1 Month,Basic
+560,15,10/14/2022,6/29/2023,Italy,45,Male,Laptop,1 Month,Basic
+637,12,11/14/2022,6/29/2023,Spain,51,Female,Tablet,1 Month,Basic
+662,15,6/15/2022,6/29/2023,Brazil,49,Male,Tablet,1 Month,Basic
+651,13,8/15/2022,6/29/2023,Spain,31,Male,Tablet,1 Month,Premium
+652,14,8/15/2022,6/29/2023,Spain,39,Female,Smartphone,1 Month,Basic
+422,14,9/15/2022,6/29/2023,Canada,29,Female,Tablet,1 Month,Basic
+763,10,9/15/2022,6/29/2023,United Kingdom,35,Male,Laptop,1 Month,Standard
+294,10,10/15/2022,6/29/2023,Australia,50,Male,Laptop,1 Month,Premium
+434,12,10/15/2022,6/29/2023,Australia,32,Female,Laptop,1 Month,Premium
+711,14,11/15/2022,6/29/2023,Spain,27,Female,Laptop,1 Month,Premium
+600,14,6/16/2022,6/29/2023,Germany,36,Female,Smart TV,1 Month,Basic
+740,14,6/16/2022,6/29/2023,Italy,30,Male,Tablet,1 Month,Basic
+585,14,7/16/2022,6/29/2023,Germany,41,Male,Laptop,1 Month,Basic
+650,15,8/16/2022,6/29/2023,Italy,28,Female,Smart TV,1 Month,Basic
+721,10,8/16/2022,6/29/2023,France,37,Female,Tablet,1 Month,Premium
+833,13,9/17/2022,6/29/2023,United States,29,Male,Smartphone,1 Month,Basic
+366,12,10/17/2022,6/29/2023,France,41,Male,Smart TV,1 Month,Premium
+733,10,6/18/2022,6/29/2023,United Kingdom,51,Female,Laptop,1 Month,Standard
+879,12,6/18/2022,6/29/2023,Canada,42,Female,Tablet,1 Month,Standard
+751,14,7/18/2022,6/29/2023,France,45,Female,Laptop,1 Month,Basic
+424,12,9/18/2022,6/29/2023,Australia,28,Female,Tablet,1 Month,Premium
+490,12,10/18/2022,6/29/2023,Italy,36,Female,Smart TV,1 Month,Basic
+717,15,10/18/2022,6/29/2023,Canada,39,Female,Tablet,1 Month,Basic
+731,13,6/19/2022,6/29/2023,United States,30,Male,Tablet,1 Month,Premium
+732,12,6/19/2022,6/29/2023,Canada,47,Male,Tablet,1 Month,Basic
+436,11,10/19/2022,6/29/2023,France,41,Female,Smartphone,1 Month,Premium
+845,12,10/19/2022,6/29/2023,Italy,49,Male,Smartphone,1 Month,Basic
+649,14,8/20/2022,6/29/2023,Spain,38,Female,Smartphone,1 Month,Premium
+915,15,10/20/2022,6/29/2023,Germany,41,Male,Laptop,1 Month,Standard
+417,14,9/21/2022,6/29/2023,Brazil,31,Male,Smart TV,1 Month,Basic
+504,12,10/21/2022,6/29/2023,Canada,32,Female,Laptop,1 Month,Standard
+985,11,10/21/2022,6/29/2023,United States,36,Male,Smart TV,1 Month,Premium
+571,13,11/21/2022,6/29/2023,France,37,Male,Smart TV,1 Month,Premium
+641,12,11/21/2022,6/29/2023,United States,33,Male,Tablet,1 Month,Premium
+801,10,6/22/2022,6/29/2023,Spain,46,Male,Smartphone,1 Month,Premium
+370,11,10/22/2022,6/29/2023,Italy,46,Female,Smartphone,1 Month,Basic
+720,10,8/23/2022,6/29/2023,Germany,32,Female,Tablet,1 Month,Basic
+756,14,8/23/2022,6/29/2023,Spain,44,Female,Smartphone,1 Month,Premium
+506,14,10/23/2022,6/29/2023,United States,27,Male,Smart TV,1 Month,Premium
+871,11,6/24/2022,6/29/2023,France,45,Male,Tablet,1 Month,Premium
+822,11,7/24/2022,6/29/2023,Canada,36,Male,Laptop,1 Month,Basic
+563,10,9/24/2022,6/29/2023,United States,34,Male,Tablet,1 Month,Standard
+747,11,6/25/2022,6/29/2023,Canada,41,Male,Smart TV,1 Month,Basic
+903,11,9/25/2022,6/29/2023,Mexico,42,Male,Laptop,1 Month,Standard
+666,15,6/26/2022,6/29/2023,Spain,34,Female,Tablet,1 Month,Premium
+875,14,6/26/2022,6/29/2023,Italy,28,Male,Smart TV,1 Month,Basic
+941,10,6/26/2022,6/29/2023,United States,36,Male,Smart TV,1 Month,Premium
+945,13,6/26/2022,6/29/2023,Germany,39,Male,Laptop,1 Month,Basic
+655,11,7/26/2022,6/29/2023,United States,42,Male,Tablet,1 Month,Basic
+687,13,8/26/2022,6/29/2023,Canada,30,Female,Tablet,1 Month,Premium
+574,14,10/26/2022,6/29/2023,Spain,36,Female,Smartphone,1 Month,Premium
+660,12,6/27/2022,6/29/2023,Germany,28,Male,Smart TV,1 Month,Basic
+494,14,9/27/2022,6/29/2023,Australia,31,Male,Smart TV,1 Month,Standard
+835,12,9/27/2022,6/29/2023,United States,31,Male,Laptop,1 Month,Premium
+644,15,10/27/2022,6/29/2023,Australia,47,Female,Laptop,1 Month,Standard
+645,13,10/27/2022,6/29/2023,Germany,41,Male,Laptop,1 Month,Basic
+224,15,11/27/2022,6/29/2023,Australia,40,Female,Smartphone,1 Month,Premium
+564,14,9/28/2022,6/29/2023,Canada,35,Male,Smartphone,1 Month,Premium
+633,12,9/28/2022,6/29/2023,Mexico,41,Female,Smartphone,1 Month,Standard
+765,11,9/28/2022,6/29/2023,Germany,35,Female,Smart TV,1 Month,Standard
+715,12,10/28/2022,6/29/2023,United States,43,Female,Laptop,1 Month,Basic
+785,12,10/28/2022,6/29/2023,Italy,35,Female,Laptop,1 Month,Basic
+469,12,6/29/2022,6/29/2023,Spain,41,Female,Tablet,1 Month,Premium
+888,13,6/29/2022,6/29/2023,Mexico,42,Female,Laptop,1 Month,Standard
+590,15,7/29/2022,6/29/2023,Italy,47,Male,Laptop,1 Month,Basic
+653,11,7/29/2022,6/29/2023,United States,28,Female,Smartphone,1 Month,Standard
+554,12,8/29/2022,6/29/2023,Australia,37,Male,Smartphone,1 Month,Premium
+627,11,9/29/2022,6/29/2023,Canada,43,Female,Smart TV,1 Month,Basic
+634,12,9/29/2022,6/29/2023,Spain,51,Female,Smart TV,1 Month,Standard
+714,15,10/30/2022,6/29/2023,Canada,29,Male,Tablet,1 Month,Premium
+656,14,7/31/2022,6/29/2023,United States,33,Female,Laptop,1 Month,Premium
+761,11,8/31/2022,6/29/2023,United States,48,Female,Smart TV,1 Month,Basic
+806,15,1/7/2022,6/30/2023,United States,30,Female,Laptop,1 Month,Premium
+1011,15,1/7/2022,6/30/2023,Spain,28,Male,Smart TV,1 Month,Premium
+723,10,1/8/2022,6/30/2023,Mexico,40,Female,Smartphone,1 Month,Standard
+773,13,1/10/2022,6/30/2023,United States,27,Female,Smart TV,1 Month,Standard
+905,13,1/10/2022,6/30/2023,Italy,38,Female,Laptop,1 Month,Basic
+737,15,2/7/2022,6/30/2023,Brazil,43,Female,Tablet,1 Month,Basic
+799,10,2/7/2022,6/30/2023,Spain,48,Male,Tablet,1 Month,Premium
+726,14,2/8/2022,6/30/2023,Spain,50,Male,Laptop,1 Month,Premium
+794,12,2/8/2022,6/30/2023,Australia,32,Female,Smart TV,1 Month,Standard
+624,10,2/9/2022,6/30/2023,Canada,42,Male,Smartphone,1 Month,Standard
+789,11,2/9/2022,6/30/2023,Canada,33,Female,Smartphone,1 Month,Premium
+969,12,2/9/2022,6/30/2023,Canada,28,Male,Smart TV,1 Month,Premium
+975,12,2/10/2022,6/30/2023,Germany,36,Female,Smart TV,1 Month,Basic
+668,13,3/7/2022,6/30/2023,United States,49,Male,Smart TV,1 Month,Standard
+757,11,3/9/2022,6/30/2023,Spain,32,Male,Laptop,1 Month,Standard
+859,12,4/9/2022,6/30/2023,Spain,51,Female,Tablet,1 Month,Standard
+901,12,4/9/2022,6/30/2023,France,29,Male,Smartphone,1 Month,Basic
+700,12,4/10/2022,6/30/2023,United States,31,Female,Laptop,1 Month,Basic
+601,14,5/6/2022,6/30/2023,France,46,Female,Smart TV,1 Month,Basic
+793,11,5/8/2022,6/30/2023,United Kingdom,42,Female,Smartphone,1 Month,Standard
+797,10,5/8/2022,6/30/2023,Brazil,35,Male,Tablet,1 Month,Basic
+690,15,5/9/2022,6/30/2023,Germany,36,Male,Laptop,1 Month,Standard
+426,15,5/10/2022,6/30/2023,France,35,Male,Laptop,1 Month,Premium
+594,12,6/6/2022,6/30/2023,Canada,38,Female,Smart TV,1 Month,Premium
+749,12,6/7/2022,6/30/2023,Australia,46,Male,Smart TV,1 Month,Premium
+890,10,6/7/2022,6/30/2023,Italy,44,Male,Smart TV,1 Month,Basic
+630,15,6/10/2022,6/30/2023,Germany,32,Female,Smart TV,1 Month,Basic
+839,13,6/10/2022,6/30/2023,Australia,35,Female,Laptop,1 Month,Basic
+856,10,6/10/2022,6/30/2023,France,32,Female,Smart TV,1 Month,Premium
+853,14,6/11/2022,6/30/2023,United Kingdom,39,Male,Tablet,1 Month,Standard
+729,15,7/7/2022,6/30/2023,Canada,43,Female,Smartphone,1 Month,Standard
+820,11,7/7/2022,6/30/2023,United States,43,Female,Tablet,1 Month,Basic
+699,13,7/10/2022,6/30/2023,Canada,32,Female,Smartphone,1 Month,Standard
+907,15,7/10/2022,6/30/2023,Spain,48,Male,Laptop,1 Month,Standard
+977,11,7/10/2022,6/30/2023,Brazil,45,Female,Laptop,1 Month,Premium
+854,10,7/11/2022,6/30/2023,Australia,49,Male,Smart TV,1 Month,Premium
+671,10,8/6/2022,6/30/2023,United States,51,Male,Tablet,1 Month,Basic
+769,14,8/10/2022,6/30/2023,Spain,36,Female,Smart TV,1 Month,Premium
+923,13,8/11/2022,6/30/2023,United States,28,Male,Tablet,1 Month,Standard
+672,14,9/6/2022,6/30/2023,Canada,47,Female,Tablet,1 Month,Basic
+741,14,9/6/2022,6/30/2023,Spain,47,Male,Smart TV,1 Month,Premium
+825,12,9/8/2022,6/30/2023,Germany,30,Female,Laptop,1 Month,Basic
+981,10,9/10/2022,6/30/2023,Spain,28,Female,Smart TV,1 Month,Premium
+851,15,9/11/2022,6/30/2023,United States,47,Male,Laptop,1 Month,Premium
+742,13,10/6/2022,6/30/2023,Spain,51,Male,Smartphone,1 Month,Basic
+811,13,10/6/2022,6/30/2023,France,36,Male,Laptop,1 Month,Premium
+863,12,10/8/2022,6/30/2023,United States,35,Male,Laptop,1 Month,Standard
+858,14,10/9/2022,6/30/2023,Mexico,40,Female,Laptop,1 Month,Standard
+1051,11,10/10/2022,6/30/2023,France,46,Male,Laptop,1 Month,Basic
+710,10,10/11/2022,6/30/2023,Italy,48,Female,Smart TV,1 Month,Basic
+880,11,11/6/2022,6/30/2023,United States,31,Male,Smart TV,1 Month,Basic
+722,13,11/8/2022,6/30/2023,Brazil,45,Male,Smartphone,1 Month,Basic
+792,12,11/8/2022,6/30/2023,Canada,45,Male,Smart TV,1 Month,Basic
+664,11,12/6/2022,6/30/2023,Spain,31,Male,Smart TV,1 Month,Standard
+745,11,12/6/2022,6/30/2023,United States,28,Female,Laptop,1 Month,Basic
+798,15,12/7/2022,6/30/2023,Mexico,35,Male,Laptop,1 Month,Standard
+780,15,12/11/2022,6/30/2023,Germany,43,Female,Laptop,1 Month,Basic
+815,15,6/13/2022,6/30/2023,Italy,29,Male,Smartphone,1 Month,Basic
+788,12,9/13/2022,6/30/2023,United States,45,Female,Tablet,1 Month,Standard
+850,13,11/13/2022,6/30/2023,United States,51,Female,Smart TV,1 Month,Basic
+965,10,8/14/2022,6/30/2023,Italy,46,Male,Laptop,1 Month,Basic
+356,11,10/14/2022,6/30/2023,France,38,Male,Smart TV,1 Month,Premium
+746,15,6/15/2022,6/30/2023,United States,32,Male,Smartphone,1 Month,Basic
+960,15,7/15/2022,6/30/2023,Germany,46,Female,Tablet,1 Month,Basic
+685,12,8/15/2022,6/30/2023,United States,31,Male,Smartphone,1 Month,Premium
+895,10,8/15/2022,6/30/2023,United States,30,Male,Smartphone,1 Month,Basic
+953,10,6/16/2022,6/30/2023,United States,34,Female,Laptop,1 Month,Standard
+755,13,8/16/2022,6/30/2023,Italy,32,Male,Tablet,1 Month,Basic
+857,15,9/16/2022,6/30/2023,Brazil,40,Male,Smartphone,1 Month,Basic
+954,13,6/17/2022,6/30/2023,Canada,38,Male,Smartphone,1 Month,Standard
+867,13,7/17/2022,6/30/2023,Canada,49,Female,Tablet,1 Month,Basic
+937,10,7/17/2022,6/30/2023,Spain,38,Male,Smartphone,1 Month,Basic
+1007,12,7/17/2022,6/30/2023,Brazil,35,Male,Smart TV,1 Month,Basic
+492,10,9/17/2022,6/30/2023,Canada,51,Male,Tablet,1 Month,Basic
+816,15,6/18/2022,6/30/2023,Spain,47,Female,Smart TV,1 Month,Premium
+891,14,7/18/2022,6/30/2023,Spain,50,Female,Smart TV,1 Month,Premium
+558,14,10/18/2022,6/30/2023,Mexico,37,Female,Smart TV,1 Month,Standard
+734,14,6/19/2022,6/30/2023,Australia,40,Male,Tablet,1 Month,Premium
+562,14,9/19/2022,6/30/2023,Spain,37,Male,Laptop,1 Month,Basic
+432,12,11/19/2022,6/30/2023,Canada,46,Female,Smart TV,1 Month,Basic
+950,10,6/20/2022,6/30/2023,Italy,31,Male,Tablet,1 Month,Basic
+827,15,8/20/2022,6/30/2023,Brazil,34,Male,Smartphone,1 Month,Premium
+570,10,11/20/2022,6/30/2023,Germany,41,Female,Laptop,1 Month,Basic
+640,13,11/20/2022,6/30/2023,United States,50,Female,Laptop,1 Month,Basic
+897,14,8/21/2022,6/30/2023,Canada,32,Female,Laptop,1 Month,Basic
+360,15,11/21/2022,6/30/2023,Italy,43,Female,Tablet,1 Month,Basic
+502,13,11/21/2022,6/30/2023,Spain,38,Male,Smartphone,1 Month,Basic
+572,12,11/21/2022,6/30/2023,Brazil,49,Female,Tablet,1 Month,Basic
+802,13,6/22/2022,6/30/2023,Spain,33,Female,Smartphone,1 Month,Basic
+1077,15,7/22/2022,6/30/2023,Canada,38,Female,Laptop,1 Month,Basic
+430,14,11/22/2022,6/30/2023,Italy,46,Female,Smart TV,1 Month,Basic
+500,15,11/22/2022,6/30/2023,Italy,38,Male,Laptop,1 Month,Basic
+886,15,6/23/2022,6/30/2023,France,45,Female,Smart TV,1 Month,Premium
+626,10,9/23/2022,6/30/2023,United States,30,Male,Laptop,1 Month,Premium
+1019,14,6/24/2022,6/30/2023,Australia,27,Female,Tablet,1 Month,Standard
+1089,14,6/24/2022,6/30/2023,Canada,46,Female,Tablet,1 Month,Premium
+786,13,10/24/2022,6/30/2023,Spain,32,Male,Smart TV,1 Month,Premium
+791,15,8/25/2022,6/30/2023,United States,29,Male,Smartphone,1 Month,Premium
+290,12,11/25/2022,6/30/2023,Italy,48,Male,Smartphone,1 Month,Basic
+800,12,6/26/2022,6/30/2023,Italy,36,Male,Smartphone,1 Month,Basic
+887,12,6/26/2022,6/30/2023,Brazil,38,Female,Laptop,1 Month,Basic
+949,14,6/26/2022,6/30/2023,Spain,40,Male,Tablet,1 Month,Premium
+967,10,8/26/2022,6/30/2023,Spain,42,Female,Smartphone,1 Month,Basic
+576,15,10/26/2022,6/30/2023,Spain,49,Female,Tablet,1 Month,Premium
+716,10,10/26/2022,6/30/2023,United States,43,Male,Laptop,1 Month,Premium
+730,12,6/27/2022,6/30/2023,United States,49,Female,Smartphone,1 Month,Basic
+876,11,6/27/2022,6/30/2023,Spain,44,Male,Tablet,1 Month,Premium
+1081,10,6/27/2022,6/30/2023,France,40,Female,Smartphone,1 Month,Premium
+753,12,7/27/2022,6/30/2023,Mexico,43,Female,Smartphone,1 Month,Standard
+703,14,9/27/2022,6/30/2023,United Kingdom,35,Male,Laptop,1 Month,Standard
+646,10,10/27/2022,6/30/2023,France,49,Female,Laptop,1 Month,Premium
+807,11,6/28/2022,6/30/2023,Canada,46,Male,Tablet,1 Month,Basic
+1015,12,6/28/2022,6/30/2023,United States,32,Female,Laptop,1 Month,Basic
+707,12,10/28/2022,6/30/2023,Brazil,36,Male,Smart TV,1 Month,Basic
+777,11,10/28/2022,6/30/2023,Canada,31,Male,Smartphone,1 Month,Basic
+847,11,10/28/2022,6/30/2023,Spain,36,Female,Smart TV,1 Month,Basic
+817,15,6/29/2022,6/30/2023,Spain,31,Female,Tablet,1 Month,Basic
+1085,10,6/29/2022,6/30/2023,Italy,33,Female,Smartphone,1 Month,Basic
+823,15,7/29/2022,6/30/2023,United Kingdom,30,Male,Smartphone,1 Month,Standard
+892,15,7/29/2022,6/30/2023,Spain,38,Male,Tablet,1 Month,Basic
+929,13,8/29/2022,6/30/2023,Australia,44,Male,Smart TV,1 Month,Premium
+1037,10,8/29/2022,6/30/2023,Brazil,37,Female,Tablet,1 Month,Basic
+917,14,10/29/2022,6/30/2023,Brazil,33,Female,Tablet,1 Month,Basic
+667,11,6/30/2022,6/30/2023,Spain,51,Female,Smartphone,1 Month,Basic
+736,11,6/30/2022,6/30/2023,France,49,Male,Smartphone,1 Month,Premium
+1155,10,6/30/2022,6/30/2023,Germany,49,Female,Laptop,1 Month,Basic
+790,14,8/30/2022,6/30/2023,United States,37,Female,Smartphone,1 Month,Basic
+828,15,8/30/2022,6/30/2023,Mexico,33,Female,Smart TV,1 Month,Standard
+718,14,9/30/2022,6/30/2023,United Kingdom,27,Male,Tablet,1 Month,Standard
+496,10,10/30/2022,6/30/2023,France,51,Female,Laptop,1 Month,Premium
+824,13,7/31/2022,6/30/2023,Australia,47,Female,Smartphone,1 Month,Premium
+692,15,8/31/2022,6/30/2023,Brazil,36,Male,Tablet,1 Month,Basic
+784,14,10/31/2022,6/30/2023,Spain,27,Male,Laptop,1 Month,Standard
